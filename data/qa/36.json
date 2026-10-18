@@ -5,28 +5,67 @@
     {
       "name": "1. Ünite — Yaşam Bilimi Biyoloji",
       "questions": [
-        { "q": "Biyolojinin tanımını yapınız ve inceleme alanlarına örnek veriniz.", "a": "Biyoloji, canlıları ve canlılar arasındaki ilişkileri inceleyen bilimdir. Zooloji (hayvanlar), botanik (bitkiler), ekoloji (çevre) gibi alt dalları vardır." },
-        { "q": "Bilimsel bilginin özelliklerinden üç tanesini yazınız.", "a": "Kanıtlanmış gözlem ve deneylere dayanır, tarafsızdır ve yeni bulgularla değişebilir (dinamiktir)." },
-        { "q": "Bilimsel araştırmalarda etik ihlallere iki örnek veriniz ve sonuçlarını yazınız.", "a": "Verileri değiştirmek veya başkasının çalışmasını izinsiz kullanmak (intihal). Bu tür ihlaller bilime güveni sarsar ve yanlış sonuçlara yol açar." },
-        { "q": "Canlıların ortak özelliklerinden beş tanesini yazınız.", "a": "Hücresel yapı, beslenme, solunum, boşaltım, hareket, üreme, büyüme-gelişme ve uyarılara tepki verme." }
+        {
+          "q": "Biyolojinin tanımını yapınız ve inceleme alanlarına örnek veriniz.",
+          "a": "Biyoloji, canlıları ve canlılar arasındaki ilişkileri inceleyen bilimdir. Zooloji (hayvanlar), botanik (bitkiler), ekoloji (çevre) gibi alt dalları vardır.",
+          "image": "data/qa/img/36_sum0.png"
+        },
+        {
+          "q": "Bilimsel bilginin özelliklerinden üç tanesini yazınız.",
+          "a": "Kanıtlanmış gözlem ve deneylere dayanır, tarafsızdır ve yeni bulgularla değişebilir (dinamiktir)."
+        },
+        {
+          "q": "Bilimsel araştırmalarda etik ihlallere iki örnek veriniz ve sonuçlarını yazınız.",
+          "a": "Verileri değiştirmek veya başkasının çalışmasını izinsiz kullanmak (intihal). Bu tür ihlaller bilime güveni sarsar ve yanlış sonuçlara yol açar."
+        },
+        {
+          "q": "Canlıların ortak özelliklerinden beş tanesini yazınız.",
+          "a": "Hücresel yapı, beslenme, solunum, boşaltım, hareket, üreme, büyüme-gelişme ve uyarılara tepki verme."
+        }
       ]
     },
     {
       "name": "2. Ünite — Hücre",
       "questions": [
-        { "q": "Hücreyi tanımlayınız ve canlılar için önemini açıklayınız.", "a": "Hücre canlıların en küçük yapı ve görev birimidir. Canlılar bir (bir hücreli) ya da çok sayıda hücreden oluşur; tüm yaşamsal olaylar hücrede gerçekleşir." },
-        { "q": "Prokaryot ve ökaryot hücre arasındaki temel farkı yazınız.", "a": "Prokaryot hücrede çekirdek ve zarlı organeller yoktur (bakteri); ökaryot hücrede çekirdek ve zarlı organeller bulunur (bitki, hayvan, mantar)." },
-        { "q": "Bitki ve hayvan hücresi arasındaki farklardan üç tanesini yazınız.", "a": "Bitki hücresinde hücre duvarı, kloroplast ve büyük koful bulunur; hayvan hücresinde bunlar yoktur, sentrozom bulunur." },
-        { "q": "Mitokondri ve ribozomun görevlerini yazınız.", "a": "Mitokondri enerji (ATP) üretiminden sorumludur; ribozom protein sentezi yapar." },
-        { "q": "Madde geçişi türlerini yazınız.", "a": "Pasif geçiş: difüzyon ve ozmoz (enerji harcanmaz); aktif taşıma: enerji (ATP) harcanarak gerçekleşir; ayrıca endositoz ve ekzositoz vardır." }
+        {
+          "q": "Hücreyi tanımlayınız ve canlılar için önemini açıklayınız.",
+          "a": "Hücre canlıların en küçük yapı ve görev birimidir. Canlılar bir (bir hücreli) ya da çok sayıda hücreden oluşur; tüm yaşamsal olaylar hücrede gerçekleşir.",
+          "image": "data/qa/img/36_sum1.png"
+        },
+        {
+          "q": "Prokaryot ve ökaryot hücre arasındaki temel farkı yazınız.",
+          "a": "Prokaryot hücrede çekirdek ve zarlı organeller yoktur (bakteri); ökaryot hücrede çekirdek ve zarlı organeller bulunur (bitki, hayvan, mantar)."
+        },
+        {
+          "q": "Bitki ve hayvan hücresi arasındaki farklardan üç tanesini yazınız.",
+          "a": "Bitki hücresinde hücre duvarı, kloroplast ve büyük koful bulunur; hayvan hücresinde bunlar yoktur, sentrozom bulunur."
+        },
+        {
+          "q": "Mitokondri ve ribozomun görevlerini yazınız.",
+          "a": "Mitokondri enerji (ATP) üretiminden sorumludur; ribozom protein sentezi yapar."
+        },
+        {
+          "q": "Madde geçişi türlerini yazınız.",
+          "a": "Pasif geçiş: difüzyon ve ozmoz (enerji harcanmaz); aktif taşıma: enerji (ATP) harcanarak gerçekleşir; ayrıca endositoz ve ekzositoz vardır."
+        }
       ]
     },
     {
       "name": "3. Ünite — Canlılar Dünyası",
       "questions": [
-        { "q": "Canlılar hangi âlemlere ayrılır?", "a": "Bakteriler, arkeler, protistler, mantarlar, bitkiler ve hayvanlar olmak üzere altı âleme ayrılır." },
-        { "q": "Bakterilerin yararlarına ve zararlarına birer örnek veriniz.", "a": "Yarar: sütten yoğurt/peynir oluşumu, azot bağlama. Zarar: bazı bakteriler hastalık yapar ve besinlerin bozulmasına yol açar." },
-        { "q": "Virüsler canlı mıdır? Neden?", "a": "Virüsler hücresel yapıya sahip olmadıkları için genellikle cansız olarak kabul edilir; ancak konak hücreye girdiklerinde çoğalabildikleri için canlı-cansız arası kabul edilirler." }
+        {
+          "q": "Canlılar hangi âlemlere ayrılır?",
+          "a": "Bakteriler, arkeler, protistler, mantarlar, bitkiler ve hayvanlar olmak üzere altı âleme ayrılır.",
+          "image": "data/qa/img/36_sum2.png"
+        },
+        {
+          "q": "Bakterilerin yararlarına ve zararlarına birer örnek veriniz.",
+          "a": "Yarar: sütten yoğurt/peynir oluşumu, azot bağlama. Zarar: bazı bakteriler hastalık yapar ve besinlerin bozulmasına yol açar."
+        },
+        {
+          "q": "Virüsler canlı mıdır? Neden?",
+          "a": "Virüsler hücresel yapıya sahip olmadıkları için genellikle cansız olarak kabul edilir; ancak konak hücreye girdiklerinde çoğalabildikleri için canlı-cansız arası kabul edilirler."
+        }
       ]
     }
   ]

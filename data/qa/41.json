@@ -5,36 +5,85 @@
     {
       "name": "1. Ünite — Mantık",
       "questions": [
-        { "q": "Önerme nedir? Örnek veriniz.", "a": "Doğru ya da yanlış kesin bir hüküm bildiren ifadedir. \"5 asaldır.\" bir önermedir; \"Nasılsın?\" önerme değildir." },
-        { "q": "Bir önermenin değili (olumsuzu) nasıl bulunur?", "a": "Önermenin doğruluk değeri tersine çevrilir. p önermesinin değili p′ ile gösterilir; p doğruysa p′ yanlıştır." },
-        { "q": "\"ve (∧)\", \"veya (∨)\" bağlaçlarının doğruluk tablosu nasıldır?", "a": "\"p ve q\" yalnızca her ikisi de doğruyken doğrudur. \"p veya q\" bağlaçlarından en az biri doğruysa doğrudur." },
-        { "q": "Koşullu önerme (p ⇒ q) hangi durumda yanlıştır?", "a": "Yalnızca p doğru ve q yanlış iken yanlıştır; diğer tüm durumlarda doğrudur." }
+        {
+          "q": "Önerme nedir? Örnek veriniz.",
+          "a": "Doğru ya da yanlış kesin bir hüküm bildiren ifadedir. \"5 asaldır.\" bir önermedir; \"Nasılsın?\" önerme değildir.",
+          "image": "data/qa/img/41_sum0.png"
+        },
+        {
+          "q": "Bir önermenin değili (olumsuzu) nasıl bulunur?",
+          "a": "Önermenin doğruluk değeri tersine çevrilir. p önermesinin değili p′ ile gösterilir; p doğruysa p′ yanlıştır."
+        },
+        {
+          "q": "\"ve (∧)\", \"veya (∨)\" bağlaçlarının doğruluk tablosu nasıldır?",
+          "a": "\"p ve q\" yalnızca her ikisi de doğruyken doğrudur. \"p veya q\" bağlaçlarından en az biri doğruysa doğrudur."
+        },
+        {
+          "q": "Koşullu önerme (p ⇒ q) hangi durumda yanlıştır?",
+          "a": "Yalnızca p doğru ve q yanlış iken yanlıştır; diğer tüm durumlarda doğrudur."
+        }
       ]
     },
     {
       "name": "2. Ünite — Kümeler",
       "questions": [
-        { "q": "Küme, eleman ve kümelerin gösterim yollarını açıklayınız.", "a": "İyi tanımlanmış nesneler topluluğuna küme denir. Kümeler liste, Venn şeması veya ortak özellik yöntemiyle gösterilir." },
-        { "q": "Alt küme nedir? Kapsama ilişkisini açıklayınız.", "a": "Bir kümenin her elemanı başka bir kümede de varsa o küme diğerinin alt kümesidir; A ⊆ B ile gösterilir." },
-        { "q": "İki kümenin kesişim ve birleşim kavramlarını açıklayınız.", "a": "Kesişim (A ∩ B): her iki kümede de bulunan elemanlar; Birleşim (A ∪ B): en az birinde bulunan tüm elemanlar." },
-        { "q": "s(A ∪ B) = s(A) + s(B) − s(A ∩ B) eşitliği neyi ifade eder?", "a": "İki kümenin birleşimindeki eleman sayısını, kesişimi iki kez saymamak için kesişim sayısını çıkararak verir." }
+        {
+          "q": "Küme, eleman ve kümelerin gösterim yollarını açıklayınız.",
+          "a": "İyi tanımlanmış nesneler topluluğuna küme denir. Kümeler liste, Venn şeması veya ortak özellik yöntemiyle gösterilir.",
+          "image": "data/qa/img/41_sum1.png"
+        },
+        {
+          "q": "Alt küme nedir? Kapsama ilişkisini açıklayınız.",
+          "a": "Bir kümenin her elemanı başka bir kümede de varsa o küme diğerinin alt kümesidir; A ⊆ B ile gösterilir."
+        },
+        {
+          "q": "İki kümenin kesişim ve birleşim kavramlarını açıklayınız.",
+          "a": "Kesişim (A ∩ B): her iki kümede de bulunan elemanlar; Birleşim (A ∪ B): en az birinde bulunan tüm elemanlar."
+        },
+        {
+          "q": "s(A ∪ B) = s(A) + s(B) − s(A ∩ B) eşitliği neyi ifade eder?",
+          "a": "İki kümenin birleşimindeki eleman sayısını, kesişimi iki kez saymamak için kesişim sayısını çıkararak verir."
+        }
       ]
     },
     {
       "name": "3. Ünite — Denklemler ve Eşitsizlikler",
       "questions": [
-        { "q": "Birinci dereceden bir bilinmeyenli denklem nedir? Örnek çözünüz.", "a": "ax + b = 0 biçimindeki denklemdir. Örnek: 2x + 6 = 0 ise 2x = −6 ve x = −3'tür." },
-        { "q": "Eşitsizliklerde bir sayıyla çarpma/bölme yaparken nelere dikkat edilir?", "a": "Her iki taraf negatif bir sayıyla çarpılır veya bölünürse eşitsizlik yön değiştirir." },
-        { "q": "Mutlak değer nedir? |x| = 5 denkleminin çözümünü yazınız.", "a": "Mutlak değer, sayının sıfıra olan uzaklığıdır ve daima pozitiftir. |x| = 5 ise x = 5 veya x = −5'tir." }
+        {
+          "q": "Birinci dereceden bir bilinmeyenli denklem nedir? Örnek çözünüz.",
+          "a": "ax + b = 0 biçimindeki denklemdir. Örnek: 2x + 6 = 0 ise 2x = −6 ve x = −3'tür.",
+          "image": "data/qa/img/41_sum2.png"
+        },
+        {
+          "q": "Eşitsizliklerde bir sayıyla çarpma/bölme yaparken nelere dikkat edilir?",
+          "a": "Her iki taraf negatif bir sayıyla çarpılır veya bölünürse eşitsizlik yön değiştirir."
+        },
+        {
+          "q": "Mutlak değer nedir? |x| = 5 denkleminin çözümünü yazınız.",
+          "a": "Mutlak değer, sayının sıfıra olan uzaklığıdır ve daima pozitiftir. |x| = 5 ise x = 5 veya x = −5'tir."
+        }
       ]
     },
     {
       "name": "4. Ünite — Fonksiyonlar",
       "questions": [
-        { "q": "Fonksiyon nedir? Tanım ve görüntü kümesini açıklayınız.", "a": "Tanım kümesinin her elemanını görüntü kümesinde bir ve yalnız bir elemana eşleyen kurala fonksiyon denir." },
-        { "q": "Doğrusal fonksiyonun grafiğinin özellikleri nelerdir?", "a": "f(x) = ax + b biçimindeki fonksiyonun grafiği bir doğrudur; a eğimi, b ise doğrunun y eksenini kestiği noktayı belirtir." },
-        { "q": "Artan ve azalan fonksiyon ne demektir?", "a": "x arttıkça f(x) artıyorsa fonksiyon artan; x arttıkça f(x) azalıyorsa azalan fonksiyondur. Doğrusal fonksiyonda a > 0 artan, a < 0 azalandır." },
-        { "q": "Sabit fonksiyon nedir? Örnek veriniz.", "a": "Her x değeri için aynı değeri veren fonksiyondur: f(x) = 3 gibi; grafiği yatay bir doğrudur." }
+        {
+          "q": "Fonksiyon nedir? Tanım ve görüntü kümesini açıklayınız.",
+          "a": "Tanım kümesinin her elemanını görüntü kümesinde bir ve yalnız bir elemana eşleyen kurala fonksiyon denir.",
+          "image": "data/qa/img/41_sum0.png"
+        },
+        {
+          "q": "Doğrusal fonksiyonun grafiğinin özellikleri nelerdir?",
+          "a": "f(x) = ax + b biçimindeki fonksiyonun grafiği bir doğrudur; a eğimi, b ise doğrunun y eksenini kestiği noktayı belirtir."
+        },
+        {
+          "q": "Artan ve azalan fonksiyon ne demektir?",
+          "a": "x arttıkça f(x) artıyorsa fonksiyon artan; x arttıkça f(x) azalıyorsa azalan fonksiyondur. Doğrusal fonksiyonda a > 0 artan, a < 0 azalandır."
+        },
+        {
+          "q": "Sabit fonksiyon nedir? Örnek veriniz.",
+          "a": "Her x değeri için aynı değeri veren fonksiyondur: f(x) = 3 gibi; grafiği yatay bir doğrudur."
+        }
       ]
     }
   ]

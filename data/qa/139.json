@@ -5,34 +5,77 @@
     {
       "name": "Unit 1 — Hello! (Meeting & Greeting)",
       "questions": [
-        { "q": "Write two ways to greet someone in English.", "a": "Hello! / Hi! / Good morning! — e.g. \"Hello, how are you?\" and \"Good afternoon!\"" },
-        { "q": "How do you introduce yourself? Write a short sentence.", "a": "\"Hello, my name is Ali. I am ten years old. I am from Türkiye.\"" },
-        { "q": "Answer: \"How are you?\"", "a": "\"I'm fine, thank you. And you?\"" },
-        { "q": "Write the numbers 1–10 in English.", "a": "one, two, three, four, five, six, seven, eight, nine, ten." }
+        {
+          "q": "Write two ways to greet someone in English.",
+          "a": "Hello! / Hi! / Good morning! — e.g. \"Hello, how are you?\" and \"Good afternoon!\"",
+          "image": "data/qa/img/139_sum0.png"
+        },
+        {
+          "q": "How do you introduce yourself? Write a short sentence.",
+          "a": "\"Hello, my name is Ali. I am ten years old. I am from Türkiye.\""
+        },
+        {
+          "q": "Answer: \"How are you?\"",
+          "a": "\"I'm fine, thank you. And you?\""
+        },
+        {
+          "q": "Write the numbers 1–10 in English.",
+          "a": "one, two, three, four, five, six, seven, eight, nine, ten."
+        }
       ]
     },
     {
       "name": "Unit 2 — My Town / Places",
       "questions": [
-        { "q": "Name three places in a town.", "a": "school, hospital, supermarket, park, cinema, museum (any three)." },
-        { "q": "Ask for directions politely.", "a": "\"Excuse me, where is the hospital, please?\" / \"How can I get to the bank?\"" },
-        { "q": "\"There is / There are\" — complete: ____ a park near my house.", "a": "\"There is a park near my house.\" (singular → There is; plural → There are)." }
+        {
+          "q": "Name three places in a town.",
+          "a": "school, hospital, supermarket, park, cinema, museum (any three).",
+          "image": "data/qa/img/139_sum1.png"
+        },
+        {
+          "q": "Ask for directions politely.",
+          "a": "\"Excuse me, where is the hospital, please?\" / \"How can I get to the bank?\""
+        },
+        {
+          "q": "\"There is / There are\" — complete: ____ a park near my house.",
+          "a": "\"There is a park near my house.\" (singular → There is; plural → There are)."
+        }
       ]
     },
     {
       "name": "Unit 3 — My Daily Routine",
       "questions": [
-        { "q": "Write three daily activities with the time.", "a": "I get up at 7 o'clock. I have breakfast at 7:30. I go to school at 8 o'clock." },
-        { "q": "Answer: \"What time do you go to bed?\"", "a": "\"I go to bed at 10 p.m.\"" },
-        { "q": "Use the present simple: She (go) ____ to school every day.", "a": "\"She goes to school every day.\" (third person singular takes -s)." }
+        {
+          "q": "Write three daily activities with the time.",
+          "a": "I get up at 7 o'clock. I have breakfast at 7:30. I go to school at 8 o'clock.",
+          "image": "data/qa/img/139_sum2.png"
+        },
+        {
+          "q": "Answer: \"What time do you go to bed?\"",
+          "a": "\"I go to bed at 10 p.m.\""
+        },
+        {
+          "q": "Use the present simple: She (go) ____ to school every day.",
+          "a": "\"She goes to school every day.\" (third person singular takes -s)."
+        }
       ]
     },
     {
       "name": "Unit 4 — My Favourite Things / Likes",
       "questions": [
-        { "q": "Express likes and dislikes about a hobby.", "a": "I like playing football. I love reading books. I don't like swimming." },
-        { "q": "Ask: \"Do you like ...?\" and give a short answer.", "a": "\"Do you like pizza?\" — \"Yes, I do.\" / \"No, I don't.\"" },
-        { "q": "Name three sports and three colours in English.", "a": "Sports: football, basketball, swimming. Colours: red, blue, green." }
+        {
+          "q": "Express likes and dislikes about a hobby.",
+          "a": "I like playing football. I love reading books. I don't like swimming.",
+          "image": "data/qa/img/139_sum0.png"
+        },
+        {
+          "q": "Ask: \"Do you like ...?\" and give a short answer.",
+          "a": "\"Do you like pizza?\" — \"Yes, I do.\" / \"No, I don't.\""
+        },
+        {
+          "q": "Name three sports and three colours in English.",
+          "a": "Sports: football, basketball, swimming. Colours: red, blue, green."
+        }
       ]
     }
   ]

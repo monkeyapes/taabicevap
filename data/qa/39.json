@@ -5,29 +5,71 @@
     {
       "name": "1. Ünite — Kimya ve Sembolik Dili",
       "questions": [
-        { "q": "Kimyanın uğraş alanlarını tanımlayınız.", "a": "Kimya; maddenin yapısını, özelliklerini ve maddeler arası etkileşim/dönüşümleri inceler. Analitik, organik, anorganik, fizikokimya ve polimer kimyası gibi alt dalları vardır." },
-        { "q": "Element ve bileşik arasındaki farkı örnekle açıklayınız.", "a": "Element tek tür atomdan oluşur (örnek: O₂, Fe); bileşik ise farklı element atomlarının belirli oranda kimyasal olarak birleşmesiyle oluşur (örnek: H₂O, NaCl)." },
-        { "q": "Kimyasal sembol ve formül ne demektir? Örnek veriniz.", "a": "Sembol elementleri harflerle gösterir (Na, O); formül bileşikteki atom türü ve sayısını gösterir (H₂O, CO₂)." },
-        { "q": "Karışım çeşitlerine örnek veriniz.", "a": "Homojen karışım (çözelti): tuzlu su, hava; heterojen karışım: kumlu su, zeytinyağı-su karışımı." }
+        {
+          "q": "Kimyanın uğraş alanlarını tanımlayınız.",
+          "a": "Kimya; maddenin yapısını, özelliklerini ve maddeler arası etkileşim/dönüşümleri inceler. Analitik, organik, anorganik, fizikokimya ve polimer kimyası gibi alt dalları vardır.",
+          "image": "data/qa/img/39_sum0.png"
+        },
+        {
+          "q": "Element ve bileşik arasındaki farkı örnekle açıklayınız.",
+          "a": "Element tek tür atomdan oluşur (örnek: O₂, Fe); bileşik ise farklı element atomlarının belirli oranda kimyasal olarak birleşmesiyle oluşur (örnek: H₂O, NaCl)."
+        },
+        {
+          "q": "Kimyasal sembol ve formül ne demektir? Örnek veriniz.",
+          "a": "Sembol elementleri harflerle gösterir (Na, O); formül bileşikteki atom türü ve sayısını gösterir (H₂O, CO₂)."
+        },
+        {
+          "q": "Karışım çeşitlerine örnek veriniz.",
+          "a": "Homojen karışım (çözelti): tuzlu su, hava; heterojen karışım: kumlu su, zeytinyağı-su karışımı."
+        }
       ]
     },
     {
       "name": "2. Ünite — Atom ve Periyodik Sistem",
       "questions": [
-        { "q": "Atomun temel taneciklerini ve yüklerini yazınız.", "a": "Proton (+) çekirdekte bulunur, nötron (yüksüz) çekirdekte bulunur, elektron (−) çekirdeğin çevresindeki katmanlarda yer alır." },
-        { "q": "Atom numarası ve kütle numarası neyi ifade eder?", "a": "Atom numarası (Z) proton sayısına eşittir; kütle numarası (A) proton ve nötron sayılarının toplamıdır." },
-        { "q": "İzotop atomlar nedir? Örnek veriniz.", "a": "Proton sayıları aynı, nötron sayıları farklı atomlardır. Örnek: ¹H, ²H, ³H hidrojen izotopları." },
-        { "q": "Periyodik tabloda elementler nasıl sıralanır?", "a": "Artani atom numaralarına göre sıralanır; periyotlar yatay sıralar, gruplar dikey sütunlardır." }
+        {
+          "q": "Atomun temel taneciklerini ve yüklerini yazınız.",
+          "a": "Proton (+) çekirdekte bulunur, nötron (yüksüz) çekirdekte bulunur, elektron (−) çekirdeğin çevresindeki katmanlarda yer alır.",
+          "image": "data/qa/img/39_sum1.png"
+        },
+        {
+          "q": "Atom numarası ve kütle numarası neyi ifade eder?",
+          "a": "Atom numarası (Z) proton sayısına eşittir; kütle numarası (A) proton ve nötron sayılarının toplamıdır."
+        },
+        {
+          "q": "İzotop atomlar nedir? Örnek veriniz.",
+          "a": "Proton sayıları aynı, nötron sayıları farklı atomlardır. Örnek: ¹H, ²H, ³H hidrojen izotopları."
+        },
+        {
+          "q": "Periyodik tabloda elementler nasıl sıralanır?",
+          "a": "Artani atom numaralarına göre sıralanır; periyotlar yatay sıralar, gruplar dikey sütunlardır."
+        }
       ]
     },
     {
       "name": "3. Ünite — Kimyasal Türler Arası Etkileşimler",
       "questions": [
-        { "q": "Güçlü (birincil) ve zayıf (ikincil) etkileşimler arasındaki fark nedir?", "a": "Güçlü etkileşimler atomlar arası bağlardır (iyonik, kovalent, metalik); zayıf etkileşimler moleküller/tanecikler arasında oluşur (hidrojen bağı, van der Waals)." },
-        { "q": "İyonik bağ nasıl oluşur? Örnek veriniz.", "a": "Metal atomunun elektron verip katyon, ametalin elektron alıp anyon olmasıyla oluşan elektrostatik çekim kuvvetidir. Örnek: Na⁺Cl⁻ (sodyum klorür)." },
-        { "q": "Metalik bağ nedir?", "a": "Metal atomlarının değerlik elektronlarını serbest bırakmasıyla oluşan, katyonlar ile serbest elektron denizi arasındaki etkileşimdir." },
-        { "q": "Lewis (nokta) yapısı nedir, neyi gösterir?", "a": "Atomun değerlik elektronlarının nokta biçiminde element sembolünün çevresine yerleştirilmesiyle gösterildiği yapıdır; bağ ve ortaklanmamış elektronları gösterir." },
-        { "q": "Molekül içi ve moleküller arası etkileşimlere birer örnek veriniz.", "a": "Molekül içi: H₂O'daki kovalent bağ (O–H); moleküller arası: su molekülleri arasındaki hidrojen bağı." }
+        {
+          "q": "Güçlü (birincil) ve zayıf (ikincil) etkileşimler arasındaki fark nedir?",
+          "a": "Güçlü etkileşimler atomlar arası bağlardır (iyonik, kovalent, metalik); zayıf etkileşimler moleküller/tanecikler arasında oluşur (hidrojen bağı, van der Waals).",
+          "image": "data/qa/img/39_sum2.png"
+        },
+        {
+          "q": "İyonik bağ nasıl oluşur? Örnek veriniz.",
+          "a": "Metal atomunun elektron verip katyon, ametalin elektron alıp anyon olmasıyla oluşan elektrostatik çekim kuvvetidir. Örnek: Na⁺Cl⁻ (sodyum klorür)."
+        },
+        {
+          "q": "Metalik bağ nedir?",
+          "a": "Metal atomlarının değerlik elektronlarını serbest bırakmasıyla oluşan, katyonlar ile serbest elektron denizi arasındaki etkileşimdir."
+        },
+        {
+          "q": "Lewis (nokta) yapısı nedir, neyi gösterir?",
+          "a": "Atomun değerlik elektronlarının nokta biçiminde element sembolünün çevresine yerleştirilmesiyle gösterildiği yapıdır; bağ ve ortaklanmamış elektronları gösterir."
+        },
+        {
+          "q": "Molekül içi ve moleküller arası etkileşimlere birer örnek veriniz.",
+          "a": "Molekül içi: H₂O'daki kovalent bağ (O–H); moleküller arası: su molekülleri arasındaki hidrojen bağı."
+        }
       ]
     }
   ]

@@ -5,28 +5,67 @@
     {
       "name": "1. Tema — Söz Varlığı ve Anlam",
       "questions": [
-        { "q": "Gerçek anlam ile mecaz anlam arasındaki farkı örnekle açıklayınız.", "a": "Gerçek anlam, kelimenin ilk ve temel anlamıdır: \"Buz gibi suyu içti.\" Mecaz anlamda kelime benzetme yoluyla başka anlam kazanır: \"Buz gibi bir bakış fırlattı.\"" },
-        { "q": "\"Göz atmak\" deyiminin anlamını yazınız ve cümlede kullanınız.", "a": "Kısaca, aceleyle bakmak anlamına gelir. Örnek: \"Ödevime bir göz atıp yanlışlarımı söyledi.\"" },
-        { "q": "Eş anlamlı (anlamdaş) kelimelere üç örnek yazınız.", "a": "Hediye–armağan, yıl–sene, kırmızı–al, cevap–yanıt gibi." },
-        { "q": "Aşağıdaki atasözünü açıklayınız: \"Damlaya damlaya göl olur.\"", "a": "Küçük birikimlerin zamanla büyük değerlere dönüşeceğini; tutumlu ve sabırlı olmanın önemini anlatır." }
+        {
+          "q": "Gerçek anlam ile mecaz anlam arasındaki farkı örnekle açıklayınız.",
+          "a": "Gerçek anlam, kelimenin ilk ve temel anlamıdır: \"Buz gibi suyu içti.\" Mecaz anlamda kelime benzetme yoluyla başka anlam kazanır: \"Buz gibi bir bakış fırlattı.\"",
+          "image": "data/qa/img/33_sum0.png"
+        },
+        {
+          "q": "\"Göz atmak\" deyiminin anlamını yazınız ve cümlede kullanınız.",
+          "a": "Kısaca, aceleyle bakmak anlamına gelir. Örnek: \"Ödevime bir göz atıp yanlışlarımı söyledi.\""
+        },
+        {
+          "q": "Eş anlamlı (anlamdaş) kelimelere üç örnek yazınız.",
+          "a": "Hediye–armağan, yıl–sene, kırmızı–al, cevap–yanıt gibi."
+        },
+        {
+          "q": "Aşağıdaki atasözünü açıklayınız: \"Damlaya damlaya göl olur.\"",
+          "a": "Küçük birikimlerin zamanla büyük değerlere dönüşeceğini; tutumlu ve sabırlı olmanın önemini anlatır."
+        }
       ]
     },
     {
       "name": "2. Tema — Metin Türleri ve Okuma",
       "questions": [
-        { "q": "Merak ettiğiniz bir konuyu okuma öncesinde nasıl araştırırsınız?", "a": "Konuyla ilgili ön bilgilerimi gözden geçirir, başlık ve görsellerden tahmin yürütür, sözlük ve güvenilir kaynaklardan bilgi toplarım." },
-        { "q": "Öyküleyici metin ile bilgilendirici metin arasındaki fark nedir?", "a": "Öyküleyici metin olay, kişi, yer ve zamanı anlatarak okuru duygulandırır; bilgilendirici metin ise bir konuda bilgi verir, gerçeklere dayanır." },
-        { "q": "Metnin konusu ile ana fikri arasındaki farkı yazınız.", "a": "Konu, metinde üzerinde durulan şeydir (ne anlatılıyor?); ana fikir ise yazarın okura vermek istediği temel iletidir." },
-        { "q": "Bir metni okurken anahtar kelimeleri belirlemek neden önemlidir?", "a": "Anahtar kelimeler metnin önemli noktalarını bulmamızı ve konusunu daha kolay anlamamızı sağlar." }
+        {
+          "q": "Merak ettiğiniz bir konuyu okuma öncesinde nasıl araştırırsınız?",
+          "a": "Konuyla ilgili ön bilgilerimi gözden geçirir, başlık ve görsellerden tahmin yürütür, sözlük ve güvenilir kaynaklardan bilgi toplarım.",
+          "image": "data/qa/img/33_sum1.png"
+        },
+        {
+          "q": "Öyküleyici metin ile bilgilendirici metin arasındaki fark nedir?",
+          "a": "Öyküleyici metin olay, kişi, yer ve zamanı anlatarak okuru duygulandırır; bilgilendirici metin ise bir konuda bilgi verir, gerçeklere dayanır."
+        },
+        {
+          "q": "Metnin konusu ile ana fikri arasındaki farkı yazınız.",
+          "a": "Konu, metinde üzerinde durulan şeydir (ne anlatılıyor?); ana fikir ise yazarın okura vermek istediği temel iletidir."
+        },
+        {
+          "q": "Bir metni okurken anahtar kelimeleri belirlemek neden önemlidir?",
+          "a": "Anahtar kelimeler metnin önemli noktalarını bulmamızı ve konusunu daha kolay anlamamızı sağlar."
+        }
       ]
     },
     {
       "name": "3. Tema — Dil Bilgisi",
       "questions": [
-        { "q": "Kök ve ek arasındaki ilişkiyi açıklayınız.", "a": "Sözcüğün anlamlı en küçük parçasına kök denir; köke eklenerek yeni anlam ya da görev kazandıran parçalara ek denir." },
-        { "q": "Yapım eki ile çekim eki arasındaki farkı örnekle yazınız.", "a": "Yapım eki yeni sözcük türetir (göz→gözlük); çekim eki sözcüğü cümlede kullanıma hazırlar, anlamını türetmez (ev→evde)." },
-        { "q": "Özel isimlere üç örnek veriniz ve özelliklerini yazınız.", "a": "Örnek: Ankara, Ayşe, Anadolu. Özel isimler tek bir varlığı belirtir ve büyük harfle başlar." },
-        { "q": "Bir cümlede yazım yanlışı bulmak için nelere dikkat edersiniz?", "a": "Büyük harf kullanımına, \"de/da\" ve \"ki\" eklerinin yazımına, sayıların ve kısaltmaların yazımına dikkat ederim." }
+        {
+          "q": "Kök ve ek arasındaki ilişkiyi açıklayınız.",
+          "a": "Sözcüğün anlamlı en küçük parçasına kök denir; köke eklenerek yeni anlam ya da görev kazandıran parçalara ek denir.",
+          "image": "data/qa/img/33_sum2.png"
+        },
+        {
+          "q": "Yapım eki ile çekim eki arasındaki farkı örnekle yazınız.",
+          "a": "Yapım eki yeni sözcük türetir (göz→gözlük); çekim eki sözcüğü cümlede kullanıma hazırlar, anlamını türetmez (ev→evde)."
+        },
+        {
+          "q": "Özel isimlere üç örnek veriniz ve özelliklerini yazınız.",
+          "a": "Örnek: Ankara, Ayşe, Anadolu. Özel isimler tek bir varlığı belirtir ve büyük harfle başlar."
+        },
+        {
+          "q": "Bir cümlede yazım yanlışı bulmak için nelere dikkat edersiniz?",
+          "a": "Büyük harf kullanımına, \"de/da\" ve \"ki\" eklerinin yazımına, sayıların ve kısaltmaların yazımına dikkat ederim."
+        }
       ]
     }
   ]

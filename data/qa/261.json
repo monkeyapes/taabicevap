@@ -8,7 +8,8 @@
         {
           "q": "Afet nedir?",
           "a": "Can ve mal kayıplarına neden olma, sosyoekonomik düzen ve etkinliklere zarar verme potansiyeli olan her olaya afet denir.",
-          "page": 27
+          "page": 27,
+          "image": "data/qa/img/261_sum0.png"
         },
         {
           "q": "Doğa olayı ile afet arasında nasıl bir ilişki vardır?",
@@ -54,7 +55,8 @@
         {
           "q": "İnsan kaynaklı afet nedir? Örnek veriniz.",
           "a": "İnsan eliyle oluşan ve hayatın akışını bozacak sonuçlar doğuran afetlerdir. Örnek: endüstriyel kazalar, yangın, ulaşım kazaları, nükleer kazalar, çevre kirliliği.",
-          "page": 30
+          "page": 30,
+          "image": "data/qa/img/261_sum1.png"
         },
         {
           "q": "Endüstriyel kaza nedir?",
@@ -84,7 +86,8 @@
         {
           "q": "Doğa kaynaklı afetlere örnek veriniz.",
           "a": "Deprem, sel/taşkın, heyelan, çığ, orman yangını, volkanik patlama, hortum, fırtına ve kuraklık.",
-          "page": 82
+          "page": 82,
+          "image": "data/qa/img/261_sum2.png"
         },
         {
           "q": "AFAD tarafından hazırlanan Türkiye'nin afet risk haritasına göre hangi bölgeler risklidir?",
@@ -115,7 +118,8 @@
         {
           "q": "Küresel iklim değişikliği nedir?",
           "a": "Sera gazlarının artması sonucunda dünyanın ortalama sıcaklığının ve uzun vadeli iklim düzeninin değişmesidir.",
-          "page": 102
+          "page": 102,
+          "image": "data/qa/img/261_sum0.png"
         },
         {
           "q": "Aşağıdaki grafikte 1965-2025 arası dünya ortalama sıcaklık artışı verilmiştir. Grafiği yorumlayınız.",

@@ -5,37 +5,89 @@
     {
       "name": "1. Ünite — Birey ve Toplum",
       "questions": [
-        { "q": "Sosyal bilgiler dersi bize hangi bilgi ve becerileri kazandırır?", "a": "Toplumu ve çevreyi tanımayı, hak ve sorumluluklarımızı bilmeyi, araştırma ve problem çözme becerilerini kazandırır." },
-        { "q": "Grup ve kurum kavramlarını birer örnekle açıklayınız.", "a": "Grup: birlikte hareket eden insan topluluğu (aile, sınıf, spor takımı). Kurum: belirli bir amaç için oluşturulmuş yapı (okul, hastane, belediye)." },
-        { "q": "Çocuk olarak sahip olduğumuz haklardan üç tanesini yazınız.", "a": "Eğitim hakkı, sağlık hakkı, oyun ve dinlenme hakkı ile yaşama ve korunma hakkı." },
-        { "q": "Sorumluluk bilinci neden önemlidir?", "a": "Sorumluluklarını bilen birey görevlerini zamanında yapar, başkalarının haklarına saygı gösterir ve toplumda düzen sağlanır." }
+        {
+          "q": "Sosyal bilgiler dersi bize hangi bilgi ve becerileri kazandırır?",
+          "a": "Toplumu ve çevreyi tanımayı, hak ve sorumluluklarımızı bilmeyi, araştırma ve problem çözme becerilerini kazandırır.",
+          "image": "data/qa/img/46_sum0.png"
+        },
+        {
+          "q": "Grup ve kurum kavramlarını birer örnekle açıklayınız.",
+          "a": "Grup: birlikte hareket eden insan topluluğu (aile, sınıf, spor takımı). Kurum: belirli bir amaç için oluşturulmuş yapı (okul, hastane, belediye)."
+        },
+        {
+          "q": "Çocuk olarak sahip olduğumuz haklardan üç tanesini yazınız.",
+          "a": "Eğitim hakkı, sağlık hakkı, oyun ve dinlenme hakkı ile yaşama ve korunma hakkı."
+        },
+        {
+          "q": "Sorumluluk bilinci neden önemlidir?",
+          "a": "Sorumluluklarını bilen birey görevlerini zamanında yapar, başkalarının haklarına saygı gösterir ve toplumda düzen sağlanır."
+        }
       ]
     },
     {
       "name": "2. Ünite — Kültür ve Miras",
       "questions": [
-        { "q": "Kültür nedir? Kültürel ögelerimize örnekler veriniz.", "a": "Bir toplumun kuşaktan kuşağa aktardığı maddi ve manevi değerlerin tümüdür. Örnek: dil, din, gelenek-görenek, yemekler, halk oyunları, mimari eserler." },
-        { "q": "Anadolu'da kurulan ilk uygarlıklardan üç tanesini yazınız.", "a": "Hititler, Frigler, Lidyalılar, Urartular ve İyonyalılar gibi uygarlıklar." },
-        { "q": "Somut olmayan kültürel miras nedir, örnek veriniz.", "a": "Maddi varlığı olmayan, yaşatılan kültürel değerlerdir. Örnek: Karagöz, meddahlık, Mevlevi seması, aşıklık geleneği." },
-        { "q": "Tarihî eserlerimizi korumak için neler yapmalıyız?", "a": "Onlara zarar vermemeli, çevrelerini temiz tutmalı, restorasyon ve bakımlarına katkı sağlamalı ve bu eserleri tanıtmalıyız." }
+        {
+          "q": "Kültür nedir? Kültürel ögelerimize örnekler veriniz.",
+          "a": "Bir toplumun kuşaktan kuşağa aktardığı maddi ve manevi değerlerin tümüdür. Örnek: dil, din, gelenek-görenek, yemekler, halk oyunları, mimari eserler.",
+          "image": "data/qa/img/46_sum1.png"
+        },
+        {
+          "q": "Anadolu'da kurulan ilk uygarlıklardan üç tanesini yazınız.",
+          "a": "Hititler, Frigler, Lidyalılar, Urartular ve İyonyalılar gibi uygarlıklar."
+        },
+        {
+          "q": "Somut olmayan kültürel miras nedir, örnek veriniz.",
+          "a": "Maddi varlığı olmayan, yaşatılan kültürel değerlerdir. Örnek: Karagöz, meddahlık, Mevlevi seması, aşıklık geleneği."
+        },
+        {
+          "q": "Tarihî eserlerimizi korumak için neler yapmalıyız?",
+          "a": "Onlara zarar vermemeli, çevrelerini temiz tutmalı, restorasyon ve bakımlarına katkı sağlamalı ve bu eserleri tanıtmalıyız."
+        }
       ]
     },
     {
       "name": "3. Ünite — İnsanlar, Yerler ve Çevreler",
       "questions": [
-        { "q": "Harita ve kroki arasındaki farkı yazınız.", "a": "Harita belirli bir ölçekle geniş alanları gösterir; kroki ise ölçeksiz olarak bir yerin kuş bakışı görünümünü gösterir." },
-        { "q": "İklimin insan yaşamı üzerindeki etkilerine iki örnek veriniz.", "a": "İklim; giyim tarzımızı, tarım ürünlerini, evlerin yapısını ve ulaşımı etkiler." },
-        { "q": "Türkiye'nin iklim çeşitliliğinin nedenlerinden ikisini yazınız.", "a": "Ülkenin üç tarafının denizlerle çevrili olması ve yer şekillerinin (dağlar, yükselti) çeşitliliği iklim çeşitliliğine yol açar." },
-        { "q": "Doğal afetlere karşı alınması gereken önlemlere üç örnek veriniz.", "a": "Deprem için binayı sağlam yapmak ve eşyaları sabitlemek, sel için dere yataklarına yapı yapmamak, yangına karşı tedbirli olmak." }
+        {
+          "q": "Harita ve kroki arasındaki farkı yazınız.",
+          "a": "Harita belirli bir ölçekle geniş alanları gösterir; kroki ise ölçeksiz olarak bir yerin kuş bakışı görünümünü gösterir.",
+          "image": "data/qa/img/46_sum2.png"
+        },
+        {
+          "q": "İklimin insan yaşamı üzerindeki etkilerine iki örnek veriniz.",
+          "a": "İklim; giyim tarzımızı, tarım ürünlerini, evlerin yapısını ve ulaşımı etkiler."
+        },
+        {
+          "q": "Türkiye'nin iklim çeşitliliğinin nedenlerinden ikisini yazınız.",
+          "a": "Ülkenin üç tarafının denizlerle çevrili olması ve yer şekillerinin (dağlar, yükselti) çeşitliliği iklim çeşitliliğine yol açar."
+        },
+        {
+          "q": "Doğal afetlere karşı alınması gereken önlemlere üç örnek veriniz.",
+          "a": "Deprem için binayı sağlam yapmak ve eşyaları sabitlemek, sel için dere yataklarına yapı yapmamak, yangına karşı tedbirli olmak."
+        }
       ]
     },
     {
       "name": "4. Ünite — Bilim, Teknoloji ve Toplum",
       "questions": [
-        { "q": "Buluş ve icat arasındaki fark nedir?", "a": "Buluş (keşif), var olan bir şeyin ilk kez fark edilmesidir; icat ise yeni bir ürün ya da yöntemin ilk kez ortaya konulmasıdır." },
-        { "q": "Teknolojinin hayatımıza sağladığı kolaylıklara üç örnek veriniz.", "a": "İletişim (telefon, internet), ulaşım (uçak, hızlı tren) ve sağlık (tıbbi cihazlar) alanlarındaki kolaylıklar." },
-        { "q": "Bilimsel araştırmanın basamaklarından dördünü yazınız.", "a": "Problemi belirleme, hipotez kurma, veri toplama (deney-gözlem) ve sonucu değerlendirme." },
-        { "q": "Teknolojiyi doğru kullanmak için nelere dikkat etmeliyiz?", "a": "Teknolojiyi amacına uygun ve dengeli kullanmalı, sanal ortamda kişisel bilgilerimizi korumalı ve dijital güvenlik kurallarına uymalıyız." }
+        {
+          "q": "Buluş ve icat arasındaki fark nedir?",
+          "a": "Buluş (keşif), var olan bir şeyin ilk kez fark edilmesidir; icat ise yeni bir ürün ya da yöntemin ilk kez ortaya konulmasıdır.",
+          "image": "data/qa/img/46_sum0.png"
+        },
+        {
+          "q": "Teknolojinin hayatımıza sağladığı kolaylıklara üç örnek veriniz.",
+          "a": "İletişim (telefon, internet), ulaşım (uçak, hızlı tren) ve sağlık (tıbbi cihazlar) alanlarındaki kolaylıklar."
+        },
+        {
+          "q": "Bilimsel araştırmanın basamaklarından dördünü yazınız.",
+          "a": "Problemi belirleme, hipotez kurma, veri toplama (deney-gözlem) ve sonucu değerlendirme."
+        },
+        {
+          "q": "Teknolojiyi doğru kullanmak için nelere dikkat etmeliyiz?",
+          "a": "Teknolojiyi amacına uygun ve dengeli kullanmalı, sanal ortamda kişisel bilgilerimizi korumalı ve dijital güvenlik kurallarına uymalıyız."
+        }
       ]
     }
   ]

@@ -5,44 +5,103 @@
     {
       "name": "1. Ünite — Fizik Bilimine Giriş",
       "questions": [
-        { "q": "Fiziğin alt dallarını ve birer inceleme alanını yazınız.", "a": "Mekanik (hareket-kuvvet), termodinamik (ısı-sıcaklık), elektromanyetizma (elektrik-manyetizma), optik (ışık) ve atom-nükleer fizik (atom çekirdeği)." },
-        { "q": "Fizikte büyüklükler kaça ayrılır? Örnek veriniz.", "a": "Temel büyüklükler (kütle, uzunluk, zaman, akım, sıcaklık, madde miktarı, ışık şiddeti) ve türetilmiş büyüklükler (hız, kuvvet, basınç)." },
-        { "q": "Bilim araştırma merkezlerinden ikisini ve işlevini yazınız.", "a": "TÜBİTAK (bilimsel araştırma ve destek), CERN (parçacık fiziği araştırmaları), NASA (uzay araştırmaları) gibi merkezler." }
+        {
+          "q": "Fiziğin alt dallarını ve birer inceleme alanını yazınız.",
+          "a": "Mekanik (hareket-kuvvet), termodinamik (ısı-sıcaklık), elektromanyetizma (elektrik-manyetizma), optik (ışık) ve atom-nükleer fizik (atom çekirdeği).",
+          "image": "data/qa/img/38_sum0.png"
+        },
+        {
+          "q": "Fizikte büyüklükler kaça ayrılır? Örnek veriniz.",
+          "a": "Temel büyüklükler (kütle, uzunluk, zaman, akım, sıcaklık, madde miktarı, ışık şiddeti) ve türetilmiş büyüklükler (hız, kuvvet, basınç)."
+        },
+        {
+          "q": "Bilim araştırma merkezlerinden ikisini ve işlevini yazınız.",
+          "a": "TÜBİTAK (bilimsel araştırma ve destek), CERN (parçacık fiziği araştırmaları), NASA (uzay araştırmaları) gibi merkezler."
+        }
       ]
     },
     {
       "name": "2. Ünite — Madde ve Özellikleri",
       "questions": [
-        { "q": "Hacim ve kütle büyüklüklerini tanımlayıp birimlerini yazınız.", "a": "Kütle, madde miktarının bir ölçüsüdür, birimi kilogram (kg); hacim maddenin uzayda kapladığı yerdir, birimi metreküp (m³) ya da litre (L)." },
-        { "q": "Özkütle (yoğunluk) nedir, nasıl hesaplanır?", "a": "Bir maddenin birim hacminin kütlesidir: d = m / V. Birimi kg/m³ veya g/cm³'tür." },
-        { "q": "Yüzey gerilimi ve kılcallık nedir? Birer örnek veriniz.", "a": "Yüzey gerilimi, sıvı yüzeyinin esnek zar gibi davranmasıdır (su üzerinde yürüyen böcek); kılcallık, sıvının ince boruda yükselmesidir (bitkilerde suyun yükselmesi)." },
-        { "q": "Suyun özel özelliklerinden üç tanesini yazınız.", "a": "Özkütlesinin 4 °C'de en büyük olması, donduğunda hacminin artması ve iyi bir çözücü olmasıdır." }
+        {
+          "q": "Hacim ve kütle büyüklüklerini tanımlayıp birimlerini yazınız.",
+          "a": "Kütle, madde miktarının bir ölçüsüdür, birimi kilogram (kg); hacim maddenin uzayda kapladığı yerdir, birimi metreküp (m³) ya da litre (L).",
+          "image": "data/qa/img/38_sum1.png"
+        },
+        {
+          "q": "Özkütle (yoğunluk) nedir, nasıl hesaplanır?",
+          "a": "Bir maddenin birim hacminin kütlesidir: d = m / V. Birimi kg/m³ veya g/cm³'tür."
+        },
+        {
+          "q": "Yüzey gerilimi ve kılcallık nedir? Birer örnek veriniz.",
+          "a": "Yüzey gerilimi, sıvı yüzeyinin esnek zar gibi davranmasıdır (su üzerinde yürüyen böcek); kılcallık, sıvının ince boruda yükselmesidir (bitkilerde suyun yükselmesi)."
+        },
+        {
+          "q": "Suyun özel özelliklerinden üç tanesini yazınız.",
+          "a": "Özkütlesinin 4 °C'de en büyük olması, donduğunda hacminin artması ve iyi bir çözücü olmasıdır."
+        }
       ]
     },
     {
       "name": "3. Ünite — Hareket ve Kuvvet",
       "questions": [
-        { "q": "Konum, alınan yol, yer değiştirme ve sürat kavramlarını açıklayınız.", "a": "Konum seçilen referansa göre yerdir; alınan yol izlenen gerçek uzunluktur (skaler); yer değiştirme ilk ve son konum arası vektörel büyüklüktür; sürat birim zamanda alınan yoldur." },
-        { "q": "Newton'un birinci hareket yasasını açıklayınız.", "a": "Eylemsizlik yasasıdır: Bir cisme net kuvvet etki etmiyorsa duran cisim durur, hareket eden cisim sabit hızla hareketini sürdürür." },
-        { "q": "Newton'un ikinci hareket yasası (F = m · a) neyi ifade eder?", "a": "Bir cisme etki eden net kuvvet, cismin kütlesi ile kazandığı ivmenin çarpımına eşittir." },
-        { "q": "Sürtünme kuvvetinin günlük yaşamdaki etkilerine iki örnek veriniz.", "a": "Yürümemizin ve araç tekerlerinin tutunmasının sağlanması (olumlu); makine parçalarının aşınıp enerji kaybına yol açması (olumsuz)." }
+        {
+          "q": "Konum, alınan yol, yer değiştirme ve sürat kavramlarını açıklayınız.",
+          "a": "Konum seçilen referansa göre yerdir; alınan yol izlenen gerçek uzunluktur (skaler); yer değiştirme ilk ve son konum arası vektörel büyüklüktür; sürat birim zamanda alınan yoldur.",
+          "image": "data/qa/img/38_sum2.png"
+        },
+        {
+          "q": "Newton'un birinci hareket yasasını açıklayınız.",
+          "a": "Eylemsizlik yasasıdır: Bir cisme net kuvvet etki etmiyorsa duran cisim durur, hareket eden cisim sabit hızla hareketini sürdürür."
+        },
+        {
+          "q": "Newton'un ikinci hareket yasası (F = m · a) neyi ifade eder?",
+          "a": "Bir cisme etki eden net kuvvet, cismin kütlesi ile kazandığı ivmenin çarpımına eşittir."
+        },
+        {
+          "q": "Sürtünme kuvvetinin günlük yaşamdaki etkilerine iki örnek veriniz.",
+          "a": "Yürümemizin ve araç tekerlerinin tutunmasının sağlanması (olumlu); makine parçalarının aşınıp enerji kaybına yol açması (olumsuz)."
+        }
       ]
     },
     {
       "name": "4. Ünite — Enerji",
       "questions": [
-        { "q": "İş, güç ve enerji arasındaki ilişkiyi açıklayınız.", "a": "İş, kuvvetin etkisiyle bir cismin yer değiştirmesidir (W = F · x); enerji iş yapabilme yeteneğidir; güç ise birim zamanda yapılan iştir (P = W / t)." },
-        { "q": "Kinetik ve potansiyel enerji formüllerini yazınız.", "a": "Kinetik enerji: Ek = ½ · m · v² ; yerçekimi potansiyel enerjisi: Ep = m · g · h." },
-        { "q": "Enerjinin korunumu yasasını açıklayınız.", "a": "Enerji yoktan var olmaz, vardan yok olmaz; bir türden başka bir türe dönüşür, toplam enerji korunur." },
-        { "q": "Yenilenebilir enerji kaynaklarına üç örnek veriniz.", "a": "Güneş, rüzgâr, jeotermal, hidroelektrik ve biyokütle enerjisi." }
+        {
+          "q": "İş, güç ve enerji arasındaki ilişkiyi açıklayınız.",
+          "a": "İş, kuvvetin etkisiyle bir cismin yer değiştirmesidir (W = F · x); enerji iş yapabilme yeteneğidir; güç ise birim zamanda yapılan iştir (P = W / t).",
+          "image": "data/qa/img/38_sum0.png"
+        },
+        {
+          "q": "Kinetik ve potansiyel enerji formüllerini yazınız.",
+          "a": "Kinetik enerji: Ek = ½ · m · v² ; yerçekimi potansiyel enerjisi: Ep = m · g · h."
+        },
+        {
+          "q": "Enerjinin korunumu yasasını açıklayınız.",
+          "a": "Enerji yoktan var olmaz, vardan yok olmaz; bir türden başka bir türe dönüşür, toplam enerji korunur."
+        },
+        {
+          "q": "Yenilenebilir enerji kaynaklarına üç örnek veriniz.",
+          "a": "Güneş, rüzgâr, jeotermal, hidroelektrik ve biyokütle enerjisi."
+        }
       ]
     },
     {
       "name": "5. Ünite — Isı ve Sıcaklık",
       "questions": [
-        { "q": "Isı ve sıcaklık kavramlarını karşılaştırınız.", "a": "Isı, sıcaklık farkı nedeniyle aktarılan enerjidir (birimi joule/kalori); sıcaklık, moleküllerin ortalama kinetik enerjisinin göstergesidir (birimi °C veya K)." },
-        { "q": "Isı alışverişi hangi koşulda gerçekleşir?", "a": "Sıcaklıkları farklı maddeler bir araya geldiğinde, sıcaklıklar eşitlenene kadar sıcak olandan soğuk olana ısı aktarılır." },
-        { "q": "Hâl değişimi sırasında sıcaklık neden değişmez?", "a": "Alınan ya da verilen ısı, maddenin tanecikleri arasındaki bağları koparmak/oluşturmak için kullanılır; bu nedenle hâl değişimi sırasında sıcaklık sabit kalır." }
+        {
+          "q": "Isı ve sıcaklık kavramlarını karşılaştırınız.",
+          "a": "Isı, sıcaklık farkı nedeniyle aktarılan enerjidir (birimi joule/kalori); sıcaklık, moleküllerin ortalama kinetik enerjisinin göstergesidir (birimi °C veya K).",
+          "image": "data/qa/img/38_sum1.png"
+        },
+        {
+          "q": "Isı alışverişi hangi koşulda gerçekleşir?",
+          "a": "Sıcaklıkları farklı maddeler bir araya geldiğinde, sıcaklıklar eşitlenene kadar sıcak olandan soğuk olana ısı aktarılır."
+        },
+        {
+          "q": "Hâl değişimi sırasında sıcaklık neden değişmez?",
+          "a": "Alınan ya da verilen ısı, maddenin tanecikleri arasındaki bağları koparmak/oluşturmak için kullanılır; bu nedenle hâl değişimi sırasında sıcaklık sabit kalır."
+        }
       ]
     }
   ]

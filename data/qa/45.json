@@ -5,34 +5,77 @@
     {
       "name": "1. Tema — Sözün İnceliği",
       "questions": [
-        { "q": "Edebiyat nedir? Edebiyatın bilim dallarıyla ilişkisini örnekle açıklayınız.", "a": "Edebiyat; duygu, düşünce ve hayallerin dil aracılığıyla estetik biçimde anlatılmasıdır. Tarih, sosyoloji, psikoloji gibi bilimlerden yararlanır." },
-        { "q": "Metin türlerini (edebî ve öğretici) örneklerle açıklayınız.", "a": "Sanatsal (edebî) metinler duygu ve hayal gücüne seslenir (şiir, hikâye, roman); öğretici metinler bilgi vermeyi amaçlar (makale, deneme, eleştiri)." },
-        { "q": "Şiirde ölçü, uyak (kafiye) ve redif kavramlarını açıklayınız.", "a": "Ölçü, dizelerdeki hece ya da söz kalıbıdır; uyak dize sonlarındaki ses benzerliğidir; redif ise dize sonlarında tekrarlanan aynı görev/anlamdaki ek veya sözcüklerdir." },
-        { "q": "\"Söz sanatları\" hangileridir? Üç tanesini yazınız.", "a": "Benzetme (teşbih), kişileştirme (teşhis), abartma (mübalağa), karşıtlık (tezat), konuşturma (intak) gibi sanatlar vardır." }
+        {
+          "q": "Edebiyat nedir? Edebiyatın bilim dallarıyla ilişkisini örnekle açıklayınız.",
+          "a": "Edebiyat; duygu, düşünce ve hayallerin dil aracılığıyla estetik biçimde anlatılmasıdır. Tarih, sosyoloji, psikoloji gibi bilimlerden yararlanır.",
+          "image": "data/qa/img/45_sum0.png"
+        },
+        {
+          "q": "Metin türlerini (edebî ve öğretici) örneklerle açıklayınız.",
+          "a": "Sanatsal (edebî) metinler duygu ve hayal gücüne seslenir (şiir, hikâye, roman); öğretici metinler bilgi vermeyi amaçlar (makale, deneme, eleştiri)."
+        },
+        {
+          "q": "Şiirde ölçü, uyak (kafiye) ve redif kavramlarını açıklayınız.",
+          "a": "Ölçü, dizelerdeki hece ya da söz kalıbıdır; uyak dize sonlarındaki ses benzerliğidir; redif ise dize sonlarında tekrarlanan aynı görev/anlamdaki ek veya sözcüklerdir."
+        },
+        {
+          "q": "\"Söz sanatları\" hangileridir? Üç tanesini yazınız.",
+          "a": "Benzetme (teşbih), kişileştirme (teşhis), abartma (mübalağa), karşıtlık (tezat), konuşturma (intak) gibi sanatlar vardır."
+        }
       ]
     },
     {
       "name": "2. Tema — Anlam Arayışı",
       "questions": [
-        { "q": "Hikâye (öykü) türünün temel ögelerini yazınız.", "a": "Olay, kişi (kahramanlar), mekân (yer) ve zaman; ayrıca anlatıcı ve bakış açısı." },
-        { "q": "Anı (hatıra) türünün özellikleri nelerdir?", "a": "Yazarın yaşadığı ya da tanık olduğu olayları, üzerinden zaman geçtikten sonra kendi bakış açısıyla anlattığı yazı türüdür." },
-        { "q": "Metnin konusu ve ana düşüncesi arasındaki farkı yazınız.", "a": "Konu, metinde anlatılan şeydir; ana düşünce ise yazarın okura vermek istediği temel iletidir." }
+        {
+          "q": "Hikâye (öykü) türünün temel ögelerini yazınız.",
+          "a": "Olay, kişi (kahramanlar), mekân (yer) ve zaman; ayrıca anlatıcı ve bakış açısı.",
+          "image": "data/qa/img/45_sum1.png"
+        },
+        {
+          "q": "Anı (hatıra) türünün özellikleri nelerdir?",
+          "a": "Yazarın yaşadığı ya da tanık olduğu olayları, üzerinden zaman geçtikten sonra kendi bakış açısıyla anlattığı yazı türüdür."
+        },
+        {
+          "q": "Metnin konusu ve ana düşüncesi arasındaki farkı yazınız.",
+          "a": "Konu, metinde anlatılan şeydir; ana düşünce ise yazarın okura vermek istediği temel iletidir."
+        }
       ]
     },
     {
       "name": "3. Tema — Anlamın Yapı Taşları",
       "questions": [
-        { "q": "Türkçenin yapı özelliklerine göre hangi dil grubunda yer alır?", "a": "Türkçe, eklemeli (sondan eklemeli) diller grubundadır; sözcükler kök ve eklere ayrılarak türetilir." },
-        { "q": "Sözcükte yapı bakımından basit, türemiş ve birleşik sözcükleri örnekleyiniz.", "a": "Basit: kitap; Türemiş: kitaplık (yapım eki ile); Birleşik: hanımeli, ilkbahar." },
-        { "q": "Deyim ve atasözünü karşılaştırınız.", "a": "Deyim kalıplaşmış söz öbeğidir ve genellikle bir durumu anlatır; atasözü ise kalıplaşmış, tam bir yargı/öğüt bildiren cümledir." }
+        {
+          "q": "Türkçenin yapı özelliklerine göre hangi dil grubunda yer alır?",
+          "a": "Türkçe, eklemeli (sondan eklemeli) diller grubundadır; sözcükler kök ve eklere ayrılarak türetilir.",
+          "image": "data/qa/img/45_sum2.png"
+        },
+        {
+          "q": "Sözcükte yapı bakımından basit, türemiş ve birleşik sözcükleri örnekleyiniz.",
+          "a": "Basit: kitap; Türemiş: kitaplık (yapım eki ile); Birleşik: hanımeli, ilkbahar."
+        },
+        {
+          "q": "Deyim ve atasözünü karşılaştırınız.",
+          "a": "Deyim kalıplaşmış söz öbeğidir ve genellikle bir durumu anlatır; atasözü ise kalıplaşmış, tam bir yargı/öğüt bildiren cümledir."
+        }
       ]
     },
     {
       "name": "4. Tema — Dilin Zenginliği",
       "questions": [
-        { "q": "Roman ve hikâye arasındaki farkları yazınız.", "a": "Roman daha uzun, olay örgüsü geniş, kişi ve ayrıntı bakımından zengindir; hikâye daha kısa, tek olay etrafında yoğunlaşır." },
-        { "q": "Dilin kültürle ilişkisini açıklayınız.", "a": "Dil, kültürün taşıyıcısıdır; kültürel değerler dil aracılığıyla kuşaktan kuşağa aktarılır ve dil bu sayede gelişir." },
-        { "q": "Türkçeyi doğru ve etkili kullanmak için nelere dikkat edilmelidir?", "a": "Yazım ve noktalama kurallarına uymaya, yabancı sözcükler yerine Türkçe karşılıkları kullanmaya ve bol bol okumaya dikkat edilmelidir." }
+        {
+          "q": "Roman ve hikâye arasındaki farkları yazınız.",
+          "a": "Roman daha uzun, olay örgüsü geniş, kişi ve ayrıntı bakımından zengindir; hikâye daha kısa, tek olay etrafında yoğunlaşır.",
+          "image": "data/qa/img/45_sum0.png"
+        },
+        {
+          "q": "Dilin kültürle ilişkisini açıklayınız.",
+          "a": "Dil, kültürün taşıyıcısıdır; kültürel değerler dil aracılığıyla kuşaktan kuşağa aktarılır ve dil bu sayede gelişir."
+        },
+        {
+          "q": "Türkçeyi doğru ve etkili kullanmak için nelere dikkat edilmelidir?",
+          "a": "Yazım ve noktalama kurallarına uymaya, yabancı sözcükler yerine Türkçe karşılıkları kullanmaya ve bol bol okumaya dikkat edilmelidir."
+        }
       ]
     }
   ]

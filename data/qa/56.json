@@ -5,33 +5,73 @@
     {
       "name": "1. Ünite — Biz ve Değerlerimiz",
       "questions": [
-        { "q": "Toplumda birlikte yaşamayı kolaylaştıran değerlere üç örnek veriniz.", "a": "Sevgi, saygı, yardımlaşma, adalet ve hoşgörü gibi değerler birlikte yaşamayı kolaylaştırır." },
-        { "q": "Kültürel farklılıklara saygı duymak neden önemlidir?", "a": "Farklılıklara saygı, toplumsal barışı ve birlik beraberliği güçlendirir; herkesin kendini ifade etmesini sağlar." },
-        { "q": "Birey olarak rollerimiz ve sorumluluklarımız nelerdir?", "a": "Öğrenci, evlat, kardeş gibi rollerimiz vardır. Bu rollerin gerektirdiği görevleri yerine getirmek (ders çalışmak, aileye yardım etmek) sorumluluğumuzdur." }
+        {
+          "q": "Toplumda birlikte yaşamayı kolaylaştıran değerlere üç örnek veriniz.",
+          "a": "Sevgi, saygı, yardımlaşma, adalet ve hoşgörü gibi değerler birlikte yaşamayı kolaylaştırır.",
+          "image": "data/qa/img/56_sum0.png"
+        },
+        {
+          "q": "Kültürel farklılıklara saygı duymak neden önemlidir?",
+          "a": "Farklılıklara saygı, toplumsal barışı ve birlik beraberliği güçlendirir; herkesin kendini ifade etmesini sağlar."
+        },
+        {
+          "q": "Birey olarak rollerimiz ve sorumluluklarımız nelerdir?",
+          "a": "Öğrenci, evlat, kardeş gibi rollerimiz vardır. Bu rollerin gerektirdiği görevleri yerine getirmek (ders çalışmak, aileye yardım etmek) sorumluluğumuzdur."
+        }
       ]
     },
     {
       "name": "2. Ünite — Kültür ve Miras",
       "questions": [
-        { "q": "İslamiyet öncesi Türk devletlerinden üç tanesini yazınız.", "a": "Asya Hun Devleti, Göktürk Devleti ve Uygur Devleti." },
-        { "q": "Orhun Yazıtları'nın önemi nedir?", "a": "Türklerin ilk yazılı belgeleridir; Göktürk Devleti döneminde yazılmıştır ve Türk adının geçtiği ilk metinlerdir." },
-        { "q": "Türklerin İslamiyet'i kabul etmesinin sonuçlarından ikisini yazınız.", "a": "Türk-İslam eserleri ortaya çıktı ve Karahanlılar gibi ilk Müslüman Türk devletleri kuruldu." }
+        {
+          "q": "İslamiyet öncesi Türk devletlerinden üç tanesini yazınız.",
+          "a": "Asya Hun Devleti, Göktürk Devleti ve Uygur Devleti.",
+          "image": "data/qa/img/56_sum1.png"
+        },
+        {
+          "q": "Orhun Yazıtları'nın önemi nedir?",
+          "a": "Türklerin ilk yazılı belgeleridir; Göktürk Devleti döneminde yazılmıştır ve Türk adının geçtiği ilk metinlerdir."
+        },
+        {
+          "q": "Türklerin İslamiyet'i kabul etmesinin sonuçlarından ikisini yazınız.",
+          "a": "Türk-İslam eserleri ortaya çıktı ve Karahanlılar gibi ilk Müslüman Türk devletleri kuruldu."
+        }
       ]
     },
     {
       "name": "3. Ünite — İnsanlar, Yerler ve Çevreler",
       "questions": [
-        { "q": "Türkiye'nin yer şekillerinin özelliklerini yazınız.", "a": "Yüksek ve engebeli bir ülkedir; ortalama yükseltisi fazladır. Dağlar, ovalar, platolar ve akarsular yer alır." },
-        { "q": "Nüfusun dağılışını etkileyen doğal faktörlere üç örnek veriniz.", "a": "İklim, yer şekilleri (yükselti-eğim) ve su kaynakları nüfusun dağılışını etkiler." },
-        { "q": "Doğal kaynakların bilinçsiz tüketiminin sonuçları nelerdir?", "a": "Kaynaklar tükenir, çevre kirlenir ve gelecek nesillere yeterli kaynak kalmaz." }
+        {
+          "q": "Türkiye'nin yer şekillerinin özelliklerini yazınız.",
+          "a": "Yüksek ve engebeli bir ülkedir; ortalama yükseltisi fazladır. Dağlar, ovalar, platolar ve akarsular yer alır.",
+          "image": "data/qa/img/56_sum2.png"
+        },
+        {
+          "q": "Nüfusun dağılışını etkileyen doğal faktörlere üç örnek veriniz.",
+          "a": "İklim, yer şekilleri (yükselti-eğim) ve su kaynakları nüfusun dağılışını etkiler."
+        },
+        {
+          "q": "Doğal kaynakların bilinçsiz tüketiminin sonuçları nelerdir?",
+          "a": "Kaynaklar tükenir, çevre kirlenir ve gelecek nesillere yeterli kaynak kalmaz."
+        }
       ]
     },
     {
       "name": "4. Ünite — Bilim, Teknoloji ve Toplum",
       "questions": [
-        { "q": "Bilim insanının taşıması gereken özelliklerden üç tanesini yazınız.", "a": "Meraklı, araştırmacı, tarafsız (objektif), sabırlı ve dürüst olmalıdır." },
-        { "q": "Teknolojik gelişmelerin toplum hayatına etkilerine iki örnek veriniz.", "a": "İletişimi kolaylaştırması ve iş gücünü azaltarak üretimi artırması." },
-        { "q": "İnterneti güvenli ve bilinçli kullanmak için üç kural yazınız.", "a": "Kişisel bilgileri paylaşmamak, güvenilir siteleri kullanmak ve sanal ortamda saygılı davranmak." }
+        {
+          "q": "Bilim insanının taşıması gereken özelliklerden üç tanesini yazınız.",
+          "a": "Meraklı, araştırmacı, tarafsız (objektif), sabırlı ve dürüst olmalıdır.",
+          "image": "data/qa/img/56_sum0.png"
+        },
+        {
+          "q": "Teknolojik gelişmelerin toplum hayatına etkilerine iki örnek veriniz.",
+          "a": "İletişimi kolaylaştırması ve iş gücünü azaltarak üretimi artırması."
+        },
+        {
+          "q": "İnterneti güvenli ve bilinçli kullanmak için üç kural yazınız.",
+          "a": "Kişisel bilgileri paylaşmamak, güvenilir siteleri kullanmak ve sanal ortamda saygılı davranmak."
+        }
       ]
     }
   ]

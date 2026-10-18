@@ -5,31 +5,80 @@
     {
       "name": "1. Ünite — Güneş Sistemi ve Tutulmalar",
       "questions": [
-        { "q": "Güneş sistemindeki gezegenleri Güneş'e olan uzaklıklarına göre sıralayınız.", "a": "Merkür, Venüs, Dünya, Mars, Jüpiter, Satürn, Uranüs, Neptün.", "page": 41, "image": "data/qa/img/48_p41.png" },
-        { "q": "İç gezegenler (karasal) ile dış gezegenler arasındaki farkı yazınız.", "a": "İç gezegenler (Merkür, Venüs, Dünya, Mars) küçük, kayalık ve yoğunluğu yüksektir; dış gezegenler büyük, gaz yapılı ve yoğunluğu düşüktür." },
-        { "q": "Halkası ve uydusu olmayan gezegenlerden Güneş'e en uzak olan hangisidir?", "a": "Mars'tır. Halkası ve uydusu olmayan gezegenler Merkür ile Mars'tır; Güneş'e daha uzak olan Mars'tır." },
-        { "q": "Uydusu olan gezegenlerin isimlerini yazınız.", "a": "Dünya, Mars, Jüpiter, Satürn, Uranüs ve Neptün'ün uydusu vardır." },
-        { "q": "Güneş tutulması ile Ay tutulması arasındaki farklardan birini yazınız.", "a": "Güneş tutulması Ay'ın Dünya ile Güneş arasına girmesiyle, Ay tutulması ise Dünya'nın Güneş ile Ay arasına girmesiyle oluşur. Güneş tutulması Ay'ın gölgesinin Dünya'ya düşmesiyle gerçekleşir." },
-        { "q": "Ay tutulması sırasında Ay'ın gölgesi nereye düşer?", "a": "Ay tutulmasında Dünya'nın gölgesi Ay'ın üzerine düşer; bu nedenle Ay tutulması gece ve dolunay zamanı gözlenir." }
+        {
+          "q": "Güneş sistemindeki gezegenleri Güneş'e olan uzaklıklarına göre sıralayınız.",
+          "a": "Merkür, Venüs, Dünya, Mars, Jüpiter, Satürn, Uranüs, Neptün.",
+          "page": 41,
+          "image": "data/qa/img/48_sum0.png"
+        },
+        {
+          "q": "İç gezegenler (karasal) ile dış gezegenler arasındaki farkı yazınız.",
+          "a": "İç gezegenler (Merkür, Venüs, Dünya, Mars) küçük, kayalık ve yoğunluğu yüksektir; dış gezegenler büyük, gaz yapılı ve yoğunluğu düşüktür."
+        },
+        {
+          "q": "Halkası ve uydusu olmayan gezegenlerden Güneş'e en uzak olan hangisidir?",
+          "a": "Mars'tır. Halkası ve uydusu olmayan gezegenler Merkür ile Mars'tır; Güneş'e daha uzak olan Mars'tır."
+        },
+        {
+          "q": "Uydusu olan gezegenlerin isimlerini yazınız.",
+          "a": "Dünya, Mars, Jüpiter, Satürn, Uranüs ve Neptün'ün uydusu vardır."
+        },
+        {
+          "q": "Güneş tutulması ile Ay tutulması arasındaki farklardan birini yazınız.",
+          "a": "Güneş tutulması Ay'ın Dünya ile Güneş arasına girmesiyle, Ay tutulması ise Dünya'nın Güneş ile Ay arasına girmesiyle oluşur. Güneş tutulması Ay'ın gölgesinin Dünya'ya düşmesiyle gerçekleşir."
+        },
+        {
+          "q": "Ay tutulması sırasında Ay'ın gölgesi nereye düşer?",
+          "a": "Ay tutulmasında Dünya'nın gölgesi Ay'ın üzerine düşer; bu nedenle Ay tutulması gece ve dolunay zamanı gözlenir."
+        }
       ]
     },
     {
       "name": "2. Ünite — Kuvvetin Etkisinde Hareket",
       "questions": [
-        { "q": "Bileşke kuvvet nedir?", "a": "Bir cisme etki eden birden fazla kuvvetin yaptığı etkiyi tek başına yapan kuvvettir." },
-        { "q": "Aynı yönlü ve zıt yönlü kuvvetlerin bileşkesi nasıl bulunur?", "a": "Aynı yönlü kuvvetler toplanır; zıt yönlü kuvvetler çıkarılır ve büyük kuvvetin yönünde bileşke elde edilir." },
-        { "q": "Dengelenmiş ve dengelenmemiş kuvvetleri örnekle açıklayınız.", "a": "Dengelenmiş kuvvetlerde bileşke sıfırdır (cisim durur ya da sabit hızla gider); dengelenmemiş kuvvetlerde cisim hızlanır, yavaşlar ya da yön değiştirir." },
-        { "q": "Sürat ile hız arasındaki fark nedir?", "a": "Sürat yalnızca büyüklüğü olan bir niceliktir; hız ise büyüklüğü ve yönü olan vektörel bir niceliktir." },
-        { "q": "Sabit süratle yol alan bir aracın sürati nasıl hesaplanır?", "a": "Sürat = alınan yol ÷ zaman (v = x / t) formülüyle hesaplanır." }
+        {
+          "q": "Bileşke kuvvet nedir?",
+          "a": "Bir cisme etki eden birden fazla kuvvetin yaptığı etkiyi tek başına yapan kuvvettir.",
+          "image": "data/qa/img/48_sum1.png"
+        },
+        {
+          "q": "Aynı yönlü ve zıt yönlü kuvvetlerin bileşkesi nasıl bulunur?",
+          "a": "Aynı yönlü kuvvetler toplanır; zıt yönlü kuvvetler çıkarılır ve büyük kuvvetin yönünde bileşke elde edilir."
+        },
+        {
+          "q": "Dengelenmiş ve dengelenmemiş kuvvetleri örnekle açıklayınız.",
+          "a": "Dengelenmiş kuvvetlerde bileşke sıfırdır (cisim durur ya da sabit hızla gider); dengelenmemiş kuvvetlerde cisim hızlanır, yavaşlar ya da yön değiştirir."
+        },
+        {
+          "q": "Sürat ile hız arasındaki fark nedir?",
+          "a": "Sürat yalnızca büyüklüğü olan bir niceliktir; hız ise büyüklüğü ve yönü olan vektörel bir niceliktir."
+        },
+        {
+          "q": "Sabit süratle yol alan bir aracın sürati nasıl hesaplanır?",
+          "a": "Sürat = alınan yol ÷ zaman (v = x / t) formülüyle hesaplanır."
+        }
       ]
     },
     {
       "name": "3. Ünite — Canlılarda Üreme, Büyüme ve Gelişme",
       "questions": [
-        { "q": "Eşeyli ve eşeysiz üreme arasındaki farkı yazınız.", "a": "Eşeyli üremede dişi ve erkek üreme hücreleri birleşir (örnek: kurbağa); eşeysiz üremede tek bir canlıdan yeni birey oluşur (örnek: maya mantarının tomurcuklanması)." },
-        { "q": "Bitkilerde üreme çeşitlerine iki örnek veriniz.", "a": "Tohumla üreme (çiçekli bitkiler) ve vejetatif üreme (çelik, soğan, yumru ile üreme)." },
-        { "q": "Tohumun çimlenmesi için gerekli koşullar nelerdir?", "a": "Uygun sıcaklık, su (nem) ve oksijen gereklidir; bazı tohumlarda ışık da etkilidir." },
-        { "q": "İnsanda büyüme ve gelişmeyi etkileyen faktörlerden üç tanesini yazınız.", "a": "Beslenme, kalıtım (genler) ve çevre koşulları (sağlık, spor, uyku)." }
+        {
+          "q": "Eşeyli ve eşeysiz üreme arasındaki farkı yazınız.",
+          "a": "Eşeyli üremede dişi ve erkek üreme hücreleri birleşir (örnek: kurbağa); eşeysiz üremede tek bir canlıdan yeni birey oluşur (örnek: maya mantarının tomurcuklanması).",
+          "image": "data/qa/img/48_sum2.png"
+        },
+        {
+          "q": "Bitkilerde üreme çeşitlerine iki örnek veriniz.",
+          "a": "Tohumla üreme (çiçekli bitkiler) ve vejetatif üreme (çelik, soğan, yumru ile üreme)."
+        },
+        {
+          "q": "Tohumun çimlenmesi için gerekli koşullar nelerdir?",
+          "a": "Uygun sıcaklık, su (nem) ve oksijen gereklidir; bazı tohumlarda ışık da etkilidir."
+        },
+        {
+          "q": "İnsanda büyüme ve gelişmeyi etkileyen faktörlerden üç tanesini yazınız.",
+          "a": "Beslenme, kalıtım (genler) ve çevre koşulları (sağlık, spor, uyku)."
+        }
       ]
     }
   ]

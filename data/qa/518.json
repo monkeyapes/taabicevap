@@ -5,34 +5,77 @@
     {
       "name": "1. Ünite — Allah-İnsan İlişkisi",
       "questions": [
-        { "q": "Kur'an-ı Kerim'e göre insanın yaratılış özellikleri nelerdir?", "a": "İnsan, Allah tarafından en güzel şekilde (ahsen-i takvim) yaratılmıştır; akıl ve irade verilmiş, yeryüzünde halife kılınmıştır." },
-        { "q": "İnsanın doğru bilgiye ulaşma kaynakları nelerdir?", "a": "Vahiy (Kur'an), akıl ve duyular (gözlem-deney) doğru bilgiye ulaşmanın temel kaynaklarıdır." },
-        { "q": "Vahyin ve peygamberin gönderiliş amacı nedir?", "a": "İnsanları Allah'a kulluğa yönlendirmek, doğru yolu göstermek, iyi ve kötüyü öğreterek ahlakı güzelleştirmektir." },
-        { "q": "İbadet ve duanın insana katkıları nelerdir?", "a": "İnsanı Allah'a yaklaştırır, iç huzur verir, sorumluluk bilinci kazandırır ve kötülüklerden uzaklaştırır." }
+        {
+          "q": "Kur'an-ı Kerim'e göre insanın yaratılış özellikleri nelerdir?",
+          "a": "İnsan, Allah tarafından en güzel şekilde (ahsen-i takvim) yaratılmıştır; akıl ve irade verilmiş, yeryüzünde halife kılınmıştır.",
+          "image": "data/qa/img/518_sum0.png"
+        },
+        {
+          "q": "İnsanın doğru bilgiye ulaşma kaynakları nelerdir?",
+          "a": "Vahiy (Kur'an), akıl ve duyular (gözlem-deney) doğru bilgiye ulaşmanın temel kaynaklarıdır."
+        },
+        {
+          "q": "Vahyin ve peygamberin gönderiliş amacı nedir?",
+          "a": "İnsanları Allah'a kulluğa yönlendirmek, doğru yolu göstermek, iyi ve kötüyü öğreterek ahlakı güzelleştirmektir."
+        },
+        {
+          "q": "İbadet ve duanın insana katkıları nelerdir?",
+          "a": "İnsanı Allah'a yaklaştırır, iç huzur verir, sorumluluk bilinci kazandırır ve kötülüklerden uzaklaştırır."
+        }
       ]
     },
     {
       "name": "2. Ünite — İslam'da İman Esasları",
       "questions": [
-        { "q": "İslam'ın iman esaslarını sıralayınız.", "a": "Allah'a, meleklere, kitaplara, peygamberlere, ahirete ve kadere (kazâ ve kadere) iman." },
-        { "q": "İman esaslarından birine iman edip diğerine etmeyen kişi iman etmiş sayılır mı? Açıklayınız.", "a": "Hayır. İman esasları bir bütündür; birine iman edip diğerini inkâr eden kişi tam iman etmiş sayılmaz." },
-        { "q": "Tasdik ve ikrar kavramlarını açıklayınız.", "a": "Tasdik, imanı kalp ile doğrulamak; ikrar ise inancı dil ile söyleyerek ifade etmektir." }
+        {
+          "q": "İslam'ın iman esaslarını sıralayınız.",
+          "a": "Allah'a, meleklere, kitaplara, peygamberlere, ahirete ve kadere (kazâ ve kadere) iman.",
+          "image": "data/qa/img/518_sum1.png"
+        },
+        {
+          "q": "İman esaslarından birine iman edip diğerine etmeyen kişi iman etmiş sayılır mı? Açıklayınız.",
+          "a": "Hayır. İman esasları bir bütündür; birine iman edip diğerini inkâr eden kişi tam iman etmiş sayılmaz."
+        },
+        {
+          "q": "Tasdik ve ikrar kavramlarını açıklayınız.",
+          "a": "Tasdik, imanı kalp ile doğrulamak; ikrar ise inancı dil ile söyleyerek ifade etmektir."
+        }
       ]
     },
     {
       "name": "3. Ünite — İslam ve İbadet",
       "questions": [
-        { "q": "İnsanın Yüce Allah'a karşı vazifeleri nelerdir?", "a": "Allah'a iman etmek, O'na kulluk ve ibadet etmek, verdiği nimetlere şükretmek ve emirlerine uymaktır." },
-        { "q": "İnsanın anne ve babasına karşı sorumlulukları nelerdir?", "a": "Onlara iyi davranmak, saygı ve hürmette kusur etmemek, yaşlılıklarında bakım ve gereksinimlerini karşılamaktır." },
-        { "q": "İslam'ın harcamalar konusunda belirlediği ölçüler nelerdir?", "a": "İsraf etmeden ve cimrilik yapmadan, dengeyi (iktisat) gözeterek harcamak; ihtiyaç sahipleriyle paylaşmaktır." }
+        {
+          "q": "İnsanın Yüce Allah'a karşı vazifeleri nelerdir?",
+          "a": "Allah'a iman etmek, O'na kulluk ve ibadet etmek, verdiği nimetlere şükretmek ve emirlerine uymaktır.",
+          "image": "data/qa/img/518_sum2.png"
+        },
+        {
+          "q": "İnsanın anne ve babasına karşı sorumlulukları nelerdir?",
+          "a": "Onlara iyi davranmak, saygı ve hürmette kusur etmemek, yaşlılıklarında bakım ve gereksinimlerini karşılamaktır."
+        },
+        {
+          "q": "İslam'ın harcamalar konusunda belirlediği ölçüler nelerdir?",
+          "a": "İsraf etmeden ve cimrilik yapmadan, dengeyi (iktisat) gözeterek harcamak; ihtiyaç sahipleriyle paylaşmaktır."
+        }
       ]
     },
     {
       "name": "4. Ünite — İslam'da Ahlak",
       "questions": [
-        { "q": "Adalet, şecaat, iffet ve hikmet erdemlerinin önemini kısaca açıklayınız.", "a": "Adalet hakkı yerine getirmek, şecaat cesaret, iffet namus ve ölçülülük, hikmet ise hikmetli/bilinçli davranmaktır; bu erdemler bireyi ve toplumu olgunlaştırır." },
-        { "q": "Hz. Muhammed'in (sav) beşerî ve peygamberlik yönü ne demektir?", "a": "Beşerî yönü: Onun da bir insan olarak yiyip içmesi, duyguları olması. Peygamberlik yönü: Allah'tan vahiy alıp insanlara iletmesi." },
-        { "q": "Kültürümüzde Hz. Muhammed ve Ehlibeyt sevgisi hangi sembollerle ifade edilir?", "a": "Mevlid, ilahi, salavat, hüsnühat ve cami mimarisindeki yazılar gibi sembol ve geleneklerle ifade edilir." }
+        {
+          "q": "Adalet, şecaat, iffet ve hikmet erdemlerinin önemini kısaca açıklayınız.",
+          "a": "Adalet hakkı yerine getirmek, şecaat cesaret, iffet namus ve ölçülülük, hikmet ise hikmetli/bilinçli davranmaktır; bu erdemler bireyi ve toplumu olgunlaştırır.",
+          "image": "data/qa/img/518_sum0.png"
+        },
+        {
+          "q": "Hz. Muhammed'in (sav) beşerî ve peygamberlik yönü ne demektir?",
+          "a": "Beşerî yönü: Onun da bir insan olarak yiyip içmesi, duyguları olması. Peygamberlik yönü: Allah'tan vahiy alıp insanlara iletmesi."
+        },
+        {
+          "q": "Kültürümüzde Hz. Muhammed ve Ehlibeyt sevgisi hangi sembollerle ifade edilir?",
+          "a": "Mevlid, ilahi, salavat, hüsnühat ve cami mimarisindeki yazılar gibi sembol ve geleneklerle ifade edilir."
+        }
       ]
     }
   ]

@@ -5,28 +5,68 @@
     {
       "name": "1. Ünite — Geçmişin İnşa Sürecinde Tarih",
       "questions": [
-        { "q": "Tarih biliminin tanımını yapınız ve konusunu yazınız.", "a": "Tarih; geçmişte meydana gelen olayları, nedenleri ve sonuçlarıyla inceleyen bilimdir. Konusu insan topluluklarının geçmişteki faaliyetleridir.", "page": 61, "image": "data/qa/img/43_p61.png" },
-        { "q": "Tarihsel bilgi hangi özelliklere sahiptir?", "a": "Tarihî bilgi kanıtlara (kaynaklara) dayanır, objektif olmaya çalışır ancak yorum içerebilir; zamanla yeni kaynaklarla değişebilir." },
-        { "q": "Tarih araştırmalarında yararlanılan bilim dallarına üç örnek veriniz.", "a": "Arkeoloji (kazı ve kalıntılar), coğrafya (yer-çevre), kronoloji (zamanlama), paleografya (eski yazılar) ve nümizmatik (paralar)." },
-        { "q": "Birinci elden kaynak ile ikinci elden kaynak arasındaki farkı örnekle açıklayınız.", "a": "Birinci elden kaynak olayın geçtiği döneme ait kaynaktır (kitabe, sikke); ikinci elden kaynak ise başka kaynaklara dayanılarak sonradan yazılmış eserdir (tarih kitabı)." },
-        { "q": "Tarih öğrenmenin faydalarını yazınız.", "a": "Geçmişten ders çıkarmayı, millî bilinç kazanmayı, sorgulama ve eleştirel düşünmeyi sağlar; bugünü anlamamıza yardım eder." }
+        {
+          "q": "Tarih biliminin tanımını yapınız ve konusunu yazınız.",
+          "a": "Tarih; geçmişte meydana gelen olayları, nedenleri ve sonuçlarıyla inceleyen bilimdir. Konusu insan topluluklarının geçmişteki faaliyetleridir.",
+          "page": 61,
+          "image": "data/qa/img/43_sum0.png"
+        },
+        {
+          "q": "Tarihsel bilgi hangi özelliklere sahiptir?",
+          "a": "Tarihî bilgi kanıtlara (kaynaklara) dayanır, objektif olmaya çalışır ancak yorum içerebilir; zamanla yeni kaynaklarla değişebilir."
+        },
+        {
+          "q": "Tarih araştırmalarında yararlanılan bilim dallarına üç örnek veriniz.",
+          "a": "Arkeoloji (kazı ve kalıntılar), coğrafya (yer-çevre), kronoloji (zamanlama), paleografya (eski yazılar) ve nümizmatik (paralar)."
+        },
+        {
+          "q": "Birinci elden kaynak ile ikinci elden kaynak arasındaki farkı örnekle açıklayınız.",
+          "a": "Birinci elden kaynak olayın geçtiği döneme ait kaynaktır (kitabe, sikke); ikinci elden kaynak ise başka kaynaklara dayanılarak sonradan yazılmış eserdir (tarih kitabı)."
+        },
+        {
+          "q": "Tarih öğrenmenin faydalarını yazınız.",
+          "a": "Geçmişten ders çıkarmayı, millî bilinç kazanmayı, sorgulama ve eleştirel düşünmeyi sağlar; bugünü anlamamıza yardım eder."
+        }
       ]
     },
     {
       "name": "2. Ünite — İlk Uygarlıklar",
       "questions": [
-        { "q": "Sümerlerin yazıyı bulmasının önemi nedir?", "a": "Yazının bulunmasıyla yazılı tarih devirleri başlamış; bilgi kaydedilerek kuşaktan kuşağa aktarılmıştır." },
-        { "q": "Mezopotamya'da kurulan uygarlıklara örnek veriniz.", "a": "Sümerler, Akadlar, Babiller ve Asurlar Mezopotamya'da kurulan uygarlıklardır." },
-        { "q": "Mısır uygarlığının gelişmesinde Nil Nehri'nin rolü nedir?", "a": "Nil Nehri taşkınları verimli tarım alanları oluşturmuş, sulama kanalları yapılmış ve bu durum Mısır uygarlığının gelişmesini sağlamıştır." },
-        { "q": "Anadolu'da kurulan uygarlıklardan üç tanesini yazınız.", "a": "Hititler, Frigler, Lidyalılar, Urartular ve İyonyalılar." }
+        {
+          "q": "Sümerlerin yazıyı bulmasının önemi nedir?",
+          "a": "Yazının bulunmasıyla yazılı tarih devirleri başlamış; bilgi kaydedilerek kuşaktan kuşağa aktarılmıştır.",
+          "image": "data/qa/img/43_sum1.png"
+        },
+        {
+          "q": "Mezopotamya'da kurulan uygarlıklara örnek veriniz.",
+          "a": "Sümerler, Akadlar, Babiller ve Asurlar Mezopotamya'da kurulan uygarlıklardır."
+        },
+        {
+          "q": "Mısır uygarlığının gelişmesinde Nil Nehri'nin rolü nedir?",
+          "a": "Nil Nehri taşkınları verimli tarım alanları oluşturmuş, sulama kanalları yapılmış ve bu durum Mısır uygarlığının gelişmesini sağlamıştır."
+        },
+        {
+          "q": "Anadolu'da kurulan uygarlıklardan üç tanesini yazınız.",
+          "a": "Hititler, Frigler, Lidyalılar, Urartular ve İyonyalılar."
+        }
       ]
     },
     {
       "name": "3. Ünite — İslamiyet'in Doğuşu ve İlk Türk-İslam Devletleri",
       "questions": [
-        { "q": "İslamiyet'in doğuşu sırasında Arap Yarımadası'nın dinî ve sosyal durumu nasıldı?", "a": "Cahiliye Dönemi denir; putperestlik yaygındı, kabile savaşları vardı ve toplumsal adaletsizlikler görülüyordu." },
-        { "q": "Türklerin İslamiyet'i kabulünde etkili olan faktörlerden ikisini yazınız.", "a": "İslam'ın tevhit inancının Türklerin inancına yakın olması ve İslam'ın adalet ile eşitlik ilkelerinin benimsenmesi." },
-        { "q": "Karahanlıların Türk-İslam tarihindeki önemini yazınız.", "a": "İlk Müslüman Türk devletidir; Türkçeyi resmî dil olarak kullanmış ve Türk-İslam eserlerinin ilk örneklerini vermiştir." }
+        {
+          "q": "İslamiyet'in doğuşu sırasında Arap Yarımadası'nın dinî ve sosyal durumu nasıldı?",
+          "a": "Cahiliye Dönemi denir; putperestlik yaygındı, kabile savaşları vardı ve toplumsal adaletsizlikler görülüyordu.",
+          "image": "data/qa/img/43_sum2.png"
+        },
+        {
+          "q": "Türklerin İslamiyet'i kabulünde etkili olan faktörlerden ikisini yazınız.",
+          "a": "İslam'ın tevhit inancının Türklerin inancına yakın olması ve İslam'ın adalet ile eşitlik ilkelerinin benimsenmesi."
+        },
+        {
+          "q": "Karahanlıların Türk-İslam tarihindeki önemini yazınız.",
+          "a": "İlk Müslüman Türk devletidir; Türkçeyi resmî dil olarak kullanmış ve Türk-İslam eserlerinin ilk örneklerini vermiştir."
+        }
       ]
     }
   ]
