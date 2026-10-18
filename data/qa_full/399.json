@@ -1,0 +1,198 @@
+{
+ "bookId": 399,
+ "done": false,
+ "pages": {
+  "3": [
+   {
+    "q": "(Sayfada soru/etkinlik var mı?)",
+    "a": "Hayır — sayfa sadece Mehmet Âkif Ersoy'un İstiklâl Marşı metnini içeriyor, herhangi bir soru veya etkinlik bulunmuyor."
+   }
+  ],
+  "14": [
+   {
+    "q": "Dikkat Çekme — Okunan metin hakkında öğrencilerin fikirleri nasıl alınır?",
+    "a": "Metin okunur, öğrencilerden fiziksel aktivitenin sağlığa yararları hakkındaki düşünceleri sözlü olarak alınır."
+   },
+   {
+    "q": "Dersten Önce — Ne yapılmalıdır?",
+    "a": "Derste kullanılacak materyaller hazırlanıp ders alanına (sınıf, spor salonu, okul bahçesi vb.) getirilmelidir."
+   },
+   {
+    "q": "1. Fiziksel etkinliğin beden ve ruh sağlığına etkilerine yönelik ne gibi örnekler verilebilir?",
+    "a": "Kalp ve akciğer işlevlerinin güçlenmesi, yağ oranının azalması, kan basıncı kontrolü, kemik sağlığının gelişmesi, depresyon belirtilerinin azalması, kendini iyi ve rahat hissetme."
+   },
+   {
+    "q": "2. Düzenli fiziksel etkinlik yapmanın kilo kontrolüne ne gibi etkileri olabilir?",
+    "a": "Harcanan enerji artar, yağ yüzdesi azalır; kilo alımı önlenir ve sağlıklı kilo korunur."
+   },
+   {
+    "q": "3. Fiziksel etkinlik sonrası bir rahatlama hissediyor musunuz?",
+    "a": "Evet; etkinlik sonrası mutluluk ve rahatlama hissedilir, stres azalır."
+   },
+   {
+    "q": "4. Düzenli yapılan fiziksel etkinliklerin yaşam kalitesine etkisine yönelik düşünceleriniz nelerdir?",
+    "a": "Yaşam kalitesini artırır; sağlığı korur, hastalık riskini azaltır ve kişiyi ruhen ve bedenen daha iyi hissettirir."
+   },
+   {
+    "q": "Bağlantı Noktası — Fiziksel etkinliklerin günlük hayatımıza etkileri hakkında düşünceleriniz nelerdir?",
+    "a": "Günlük hayatta sağlığı korur, enerji ve mutluluk verir, ders ve iş başarısını olumlu etkiler, sosyal ilişkileri güçlendirir."
+   },
+   {
+    "q": "Ders Süreci — Fiziksel etkinlik kavramı hakkındaki fikirleriniz nelerdir?",
+    "a": "Fiziksel etkinlik; günlük yaşamda enerji harcayan her türlü hareket ve bedensel çabadır (yürüme, koşma, oyun, spor vb.)."
+   },
+   {
+    "q": "Ders Süreci — Günlük yaşamda fiziksel etkinlik yapmanın bireye sağladığı katkılar nelerdir?",
+    "a": "Sağlığı korur, hastalıkları önler, kilo kontrolü sağlar, ruhsal iyilik ve özgüven kazandırır, sosyalleşmeyi ve düzenli yaşamı destekler."
+   }
+  ],
+  "19": [
+   {
+    "q": "Fiziksel aktivitenin beden ve ruh sağlığına etkisini verilen kaynaklardan (kısa film, karikatür, slayt vb.) nasıl incelersiniz?",
+    "a": "Kaynakları izleyip/okuyup fiziksel aktivitenin beden ve ruh sağlığına etkilerini not ederim."
+   },
+   {
+    "q": "Düzenli yapılan fiziksel aktivitenin beden ve ruh sağlığı üzerindeki olumlu etkileri nelerdir?",
+    "a": "Kalp-damar sistemini güçlendirir, kas ve kemikleri geliştirir; depresyon, anksiyete ve dikkat eksikliğini azaltır, ruh halini iyileştirir."
+   },
+   {
+    "q": "Gruplara nasıl ayrılırsınız?",
+    "a": "Sınıfı belirlenen gruplara ayırırız."
+   },
+   {
+    "q": "Belirlediğiniz bir fiziksel etkinliğin yararlarını gösteren afişi nasıl hazırlarsınız?",
+    "a": "Yürüyüş, koşu, yüzme gibi bir etkinlik seçip beden ve ruh sağlığına yararlarını gösteren afiş hazırlarız."
+   },
+   {
+    "q": "Hazırladığınız afişleri nerede sergilersiniz?",
+    "a": "Sınıf ya da okul panosunda sergileriz."
+   },
+   {
+    "q": "Fiziksel etkinliklerin beden ve ruh sağlığına etkisine yönelik metin kaç kelime olmalıdır?",
+    "a": "100-150 kelime."
+   },
+   {
+    "q": "Hazırlanan metinler nasıl değerlendirilir?",
+    "a": "Dereceli puanlama anahtarı ile performans görevi olarak değerlendirilir."
+   },
+   {
+    "q": "1. Ölçüt: Metin konu içeriğine uygun biçimde yazılmış mıdır?",
+    "a": "Evet, konuya uygun yazılmalıdır."
+   },
+   {
+    "q": "2. Ölçüt: Metinde konuya uygun örnekler verilmiş midir?",
+    "a": "Evet, konuya uygun örnekler verilmelidir."
+   },
+   {
+    "q": "3. Ölçüt: Metinde fiziksel etkinliğin önemi yorumlanmış mıdır?",
+    "a": "Evet, önemi yorumlanmalıdır."
+   },
+   {
+    "q": "4. Ölçüt: Metinde fiziksel etkinliklerin beden ve ruh sağlığına etkilerine değinilmiş midir?",
+    "a": "Evet, bu etkilere değinilmelidir."
+   },
+   {
+    "q": "5. Ölçüt: Metinde açık ve anlaşılır bir dil kullanılmış mıdır?",
+    "a": "Evet, açık ve anlaşılır bir dil kullanılmalıdır."
+   },
+   {
+    "q": "Puanlama anahtarındaki düzeyler nelerdir?",
+    "a": "Geliştirilmeli (1), Kabul Edilebilir (2), İyi (3), Çok İyi (4)."
+   },
+   {
+    "q": "Toplam puan en fazla kaçtır?",
+    "a": "20 (5 ölçüt × 4)."
+   }
+  ],
+  "20": [
+   {
+    "q": "Etkinlik adı ve amacı nedir?",
+    "a": "\"Sağlıklı Kal\" etkinliği; fiziksel etkinliğin beden ve ruh sağlığına etkilerini grup çalışması ve tartışma yoluyla kavratmaktır."
+   },
+   {
+    "q": "Etkinlik hangi süre ve yöntemle yapılır?",
+    "a": "30+30 dakika, grup çalışması ve tartışma yöntemiyle yapılır."
+   },
+   {
+    "q": "Etkinlikte hangi malzemeler kullanılır?",
+    "a": "Kâğıt, kalem ve akıllı tahta."
+   },
+   {
+    "q": "Öğrenciler önce ne izler?",
+    "a": "Fiziksel etkinlik içeren kısa bir slayt, video veya film izler."
+   },
+   {
+    "q": "\"Kendinizi nasıl hissediyorsunuz?\"",
+    "a": "Fiziksel etkinlik sonrası kendimi enerjik, zinde ve mutlu hissederim."
+   },
+   {
+    "q": "\"Fiziksel etkinlik yapmanın insan sağlığına ne gibi etkileri olabilir?\"",
+    "a": "Bedeni güçlendirir, hastalıkları önler, ruh halini iyileştirir ve yaşam kalitesini artırır."
+   },
+   {
+    "q": "Fiziksel etkinliğin beden sağlığına etkileri nelerdir?",
+    "a": "Kas ve kemikleri güçlendirir, kalp-damar sağlığını korur, kilo kontrolü sağlar, bağışıklığı artırır."
+   },
+   {
+    "q": "Fiziksel etkinliğin ruh sağlığına etkileri nelerdir?",
+    "a": "Stresi azaltır, mutluluk verir, özgüveni artırır, uykuyu düzenler ve depresyonu önler."
+   },
+   {
+    "q": "Hareketsiz yaşam tarzının zararları nelerdir?",
+    "a": "Obezite, kalp hastalığı, diyabet, kas zayıflığı ve ruhsal sorunlara yol açar."
+   },
+   {
+    "q": "Akran değerlendirme formunda kaç ölçüt vardır?",
+    "a": "5 ölçüt vardır; puanlama 0, 1 ve 2 olarak yapılır."
+   },
+   {
+    "q": "Gelecek derse hazırlık olarak ne araştırılır?",
+    "a": "\"Hareket kalıplarını kullanarak ritmik hareket edebilme\" konusu araştırılır."
+   },
+   {
+    "q": "Kaynak olarak hangi site uzantıları kullanılır?",
+    "a": "edu.tr, gov.tr ve org uzantılı siteler kullanılır."
+   }
+  ],
+  "21": [
+   {
+    "q": "Ritim eşliğinde sergilenebilecek hareket kalıplarına örnekler neler olabilir?",
+    "a": "Yürüme, koşma, sıçrama, sekme, dönme, el çırpma, dans adımları ve jimnastik hareketleri."
+   },
+   {
+    "q": "Basit bir ritmik hareketi ellerinizle ya da ayaklarınızla tekrar edebilir misiniz?",
+    "a": "Evet; örneğin \"bir-iki-üç-dört\" sayarak el çırpma veya ayakla adım alma ritmi tekrar edilebilir."
+   },
+   {
+    "q": "Ritmik hareketleri geliştirmek için nasıl bir çalışma yöntemi tercih edersiniz? (Tekrar yaparak, keşfederek, rehber eşliğinde vb.)",
+    "a": "Düzenli tekrar yaparak, rehber eşliğinde ve hareketleri keşfederek çalışmayı tercih ederim."
+   },
+   {
+    "q": "Tempolu sporlar yaparken belirli bir ritme göre hareket etmek yorulmayı geciktirir mi?",
+    "a": "Evet; uygun ritim, hareketi verimli kılar, gereksiz enerji harcamasını azaltır ve yorulmayı geciktirir."
+   },
+   {
+    "q": "Fiziksel etkinliklerde (koşma, sıçrama, top sürme, yürüme, sekme, merdiven çıkma vb.) ritim gerektiren hareketler neler olabilir?",
+    "a": "Koşma, yürüme, sıçrama, sekme, top sürme, merdiven çıkma ve ip atlama gibi tekrarlı hareketler ritim gerektirir."
+   },
+   {
+    "q": "Günlük işlerinizi yaparken belirli bir ritme göre hareket ettiğinizi düşünüyor musunuz?",
+    "a": "Evet; yürürken, merdiven çıkarken veya bir işi tekrarlarken farkında olmadan belirli bir ritimle hareket ederim."
+   }
+  ],
+  "24": [
+   {
+    "q": "Sayfadaki sorular",
+    "a": "Bu sayfada yanıtlanacak soru yoktur; yalnızca \"Ritmik Hareket Et\" etkinliğinin yönergeleri ve bir Grup Değerlendirme Formu yer alıyor."
+   },
+   {
+    "q": "3. Etkinlik (Ritmik Hareket Et) ne yapılmasını ister?",
+    "a": "Isınma (el çırpma, kol sallama, diz çekme) → ritimleri algılama → ikişerli grup → farklı seviye/yön/hızda hareket kalıpları uygulama → yapıcı geri bildirim → koreografi oluşturma → sergileme → yavaş tempoda soğuma → birbirini izleme."
+   },
+   {
+    "q": "Grup Değerlendirme Formu'ndaki ölçütler nelerdir?",
+    "a": "1) Ritme uyum, 2) Hareket çeşitliliği ve uyumu, 3) Alanı etkili kullanma, 4) Grup üyelerinin koordinasyonu, 5) İletişim ve iş birliği."
+   }
+  ]
+ }
+}

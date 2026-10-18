@@ -12,7 +12,7 @@ const norm = (s) => (s || "").toLocaleLowerCase("tr").replace(/\s+/g, " ").trim(
 async function load() {
   const res = await fetch("data/books.json");
   state.books = await res.json();
-  const withQa = state.books.filter((b) => b.qaCount > 0).length;
+  const withQa = state.books.filter((b) => (b.qaCount || 0) + (b.fullCount || 0) > 0).length;
   $("#heroStats").innerHTML =
     `<b>${state.books.length}</b> kitap · <b>${withQa}</b> kitapta soru‑cevap · ` +
     `resmi PDF ve etkileşimli kitap bağlantıları`;
@@ -48,7 +48,7 @@ function baseFilter() {
     if (state.kademe && b.kademe !== state.kademe) return false;
     if (state.sinif && b.sinif !== state.sinif) return false;
     if (state.ders && b.ders !== state.ders) return false;
-    if (state.onlyQa && !(b.qaCount > 0)) return false;
+    if (state.onlyQa && !((b.qaCount || 0) + (b.fullCount || 0) > 0)) return false;
     if (state.q) {
       const hay = norm(b.title + " " + b.ders + " " + b.sinif);
       if (!state.q.split(" ").every((w) => !w || hay.includes(norm(w)))) return false;
@@ -67,8 +67,9 @@ function fillSelects(list) {
 }
 
 function card(b) {
-  const qa = b.qaCount > 0
-    ? `<button class="btn qa" data-open="${b.id}">Cevap (${b.qaCount})</button>`
+  const total = (b.qaCount || 0) + (b.fullCount || 0);
+  const qa = total > 0
+    ? `<button class="btn qa" data-open="${b.id}">Cevap (${total})</button>`
     : `<button class="btn muted" data-open="${b.id}">Cevap yok</button>`;
   return `<article class="card">
     <div class="cover"><img loading="lazy" src="${esc(b.cover)}" alt="${esc(b.title)}" onerror="this.style.opacity=.15"></div>
@@ -76,7 +77,7 @@ function card(b) {
       <div class="badges">
         <span class="badge">${esc(b.sinif)}</span>
         <span class="badge ders">${esc(b.ders)}</span>
-        ${b.qaCount > 0 ? `<span class="badge qa">${b.qaCount} soru</span>` : ""}
+        ${total > 0 ? `<span class="badge qa">${total} soru</span>` : ""}
       </div>
       <h3>${esc(b.title)}</h3>
       <div class="actions">
@@ -122,18 +123,33 @@ async function openBook(id) {
         </div>
       </div>
     </div>
-    <div id="qaArea">${b.qaCount > 0 ? "Sorular yükleniyor…" : `<div class="noqa">Bu kitap için henüz soru‑cevap hazırlanmadı. PDF ve etkileşimli kitaba yukarıdan ulaşabilirsiniz.</div>`}</div>`;
+    <div id="qaArea">${(b.qaCount || 0) + (b.fullCount || 0) > 0 ? "Sorular yükleniyor…" : `<div class="noqa">Bu kitap için henüz soru‑cevap hazırlanmadı. PDF ve etkileşimli kitaba yukarıdan ulaşabilirsiniz.</div>`}</div>`;
   modal.hidden = false;
   document.body.style.overflow = "hidden";
   modal.querySelectorAll("[data-close]").forEach((el) => el.onclick = closeModal);
   const fullBtn = modal.querySelector("#openBookFull");
   if (fullBtn) fullBtn.onclick = () => openBookViewer(b.id);
   document.addEventListener("keydown", escClose);
-  if (b.qaCount > 0) {
+  if ((b.qaCount || 0) + (b.fullCount || 0) > 0) {
     try {
-      const r = await fetch(`data/qa/${b.id}.json`);
-      const qa = await r.json();
-      renderQa(qa, b);
+      const getJson = (u) => fetch(u).then((r) => (r.ok ? r.json() : null)).catch(() => null);
+      const [curated, full] = await Promise.all([
+        b.qaCount > 0 ? getJson(`data/qa/${b.id}.json`) : Promise.resolve(null),
+        b.fullCount > 0 ? getJson(`data/qa_full/${b.id}.json`) : Promise.resolve(null),
+      ]);
+      const blocks = [];
+      if (curated) for (const u of (curated.units || [])) blocks.push(u);
+      if (curated && !(curated.units || []).length && curated.questions?.length)
+        blocks.push({ name: "Sorular", questions: curated.questions });
+      if (full && full.pages) {
+        const pages = Object.keys(full.pages)
+          .map(Number).sort((a, b2) => a - b2);
+        for (const p of pages) {
+          const qs = (full.pages[String(p)] || []).filter((x) => x.q);
+          if (qs.length) blocks.push({ name: `Sayfa ${p}`, questions: qs.map((x) => ({ ...x, page: p })) });
+        }
+      }
+      renderQa(blocks, b);
     } catch (e) {
       $("#qaArea").innerHTML = `<div class="noqa">Sorular yüklenemedi.</div>`;
     }
@@ -142,19 +158,18 @@ async function openBook(id) {
 
 let viewCtx = null;
 
-function renderQa(qa, book) {
+function renderQa(blocks, book) {
   const area = $("#qaArea");
   if (!area) return;
-  const units = qa.units || [];
-  if (!units.length && !qa.questions?.length) { area.innerHTML = `<div class="noqa">Soru bulunamadı.</div>`; return; }
-  const blocks = units.length ? units : [{ name: "Sorular", questions: qa.questions }];
+  blocks = blocks || [];
+  if (!blocks.length) { area.innerHTML = `<div class="noqa">Soru bulunamadı.</div>`; return; }
   viewCtx = { book, blocks };
   area.innerHTML = blocks.map((u, ui) => `<section class="unit">
       <h4>${esc(u.name)}</h4>
       ${(u.questions || []).map((x, qi) => `<div class="qa">
           ${x.image ? `<img class="qa-img" loading="lazy" data-u="${ui}" data-q="${qi}" src="${esc(x.image)}" alt="">` : ""}
           <p class="q">${esc(x.q)}</p>
-          <p class="a"><b>Cevap:</b> ${esc(x.a)}</p>
+          <p class="a"><b>Cevap:</b> ${esc(x.a || "—")}</p>
           <div class="qa-foot">
             ${x.page ? `<span class="tag">Sayfa ${x.page}</span>` : `<span></span>`}
             <button class="btn open-full" data-u="${ui}" data-q="${qi}">Tam ekran</button>

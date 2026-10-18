@@ -1,0 +1,2056 @@
+{
+ "bookId": 36,
+ "pages": {
+  "3": [],
+  "7": [
+   {
+    "q": "(yok)",
+    "a": "Bu sayfada soru veya etkinlik bulunmuyor; sadece içindekiler listesi yer alıyor."
+   }
+  ],
+  "10": [
+   {
+    "q": "\"Eldiven giy\" güvenlik sembolü ne anlama gelir?",
+    "a": "Çok sıcak yüzey/ısıtıcı olduğunu, elin yanmaması için ısıya dayanıklı eldiven kullanılması gerektiğini belirtir."
+   },
+   {
+    "q": "\"Parlayıcı madde veya yüksek ısı\" sembolü ne anlama gelir?",
+    "a": "Yanıcı ve parlayıcı madde; ısıtılınca yangına neden olabilir, ateş, kıvılcım ve ısı kaynaklarından uzak tutulmalıdır."
+   },
+   {
+    "q": "\"Koruyucu gözlük kullan\" sembolü ne anlama gelir?",
+    "a": "Deneye başlamadan önce koruyucu gözlük kullanılması gerektiğini belirtir; gözlüksüz çalışmak göz sağlığına zarar verir."
+   },
+   {
+    "q": "\"Ekotoksik (çevreye zararlı) madde\" sembolü ne anlama gelir?",
+    "a": "Doğada uzun süre bozunmadan kalan, toprak, su ve hava kirliliği yapan maddelerdir; çöpe atılmamalı, lavaboya dökülmemelidir."
+   },
+   {
+    "q": "\"Koruyucu elbise giy\" sembolü ne anlama gelir?",
+    "a": "Malzemelerin sıçramasıyla elbiselerin aşınmasını önlemek için önlük veya tulum kullanılmasının uygun olduğunu gösterir."
+   },
+   {
+    "q": "\"Aşındırıcı madde\" sembolü ne anlama gelir?",
+    "a": "Canlı doku, kumaş, metal gibi yüzeyleri aşındırabilen maddelerdir; göz ve deriye zarar verdiği için önlem alınmalıdır."
+   },
+   {
+    "q": "\"Maske kullan\" sembolü ne anlama gelir?",
+    "a": "İşlemde kimyasal tepkimeler sonucu gazlar oluşabileceğinden maske kullanılması gerektiğini belirtir."
+   },
+   {
+    "q": "\"Toksik (zehirli) madde\" sembolü ne anlama gelir?",
+    "a": "Ağız, deri ve solunum yoluyla alındığında zehirlenmeye neden olur, kanserojen etki yapabilir; bu durumlarda kesinlikle tıbbi yardım alınmalıdır."
+   },
+   {
+    "q": "\"Kesici/delici cisim uyarısı\" sembolü ne anlama gelir?",
+    "a": "İşlemlerde kesici/delici gereçlerin kullanıldığını ve yaralanmaların olabileceğini belirtir."
+   },
+   {
+    "q": "\"Radyoaktif madde\" sembolü ne anlama gelir?",
+    "a": "Yaydığı radyasyonla canlı hücrelerde tahribata, kalıcı hasar ve kanserojen etkiye sebep olur; bu işaretin bulunduğu yerlerden uzak durulmalıdır."
+   },
+   {
+    "q": "\"Sıcak cisim uyarısı\" sembolü ne anlama gelir?",
+    "a": "İşlemde bir ısıtıcı ya da sıcak yüzey olduğunu gösterir; el, ayak ve diğer organların yanmamasına özen gösterilmelidir."
+   },
+   {
+    "q": "\"Oksitleyici madde\" sembolü ne anlama gelir?",
+    "a": "Yanmaya sebep olan maddelerdir; yakıcı maddeler ile yanıcı maddeler yan yana bulundurulmamalıdır."
+   },
+   {
+    "q": "\"Kırılabilir cam uyarısı\" sembolü ne anlama gelir?",
+    "a": "Cam malzemelerin kırılabileceğini gösterir; aşırı ısıtılma ve ani sıcaklık değişimlerine maruz kalmaması sağlanmalıdır."
+   },
+   {
+    "q": "\"Patlayıcı madde\" sembolü ne anlama gelir?",
+    "a": "Kıvılcım, ısınma, alev, vurma, çarpma ve sürtünmeye maruz kalınca patlayabilir; ateş, kıvılcım ve ısıdan uzak tutulmalı, koruyucu giysi giyilmelidir."
+   },
+   {
+    "q": "\"Elektrik uyarısı\" sembolü ne anlama gelir?",
+    "a": "İşlemlerde elektriğin şehir hattından kullanıldığını, güç kaynağı kullanırken iletken kısımlara dokunmanın tehlikeli olduğunu belirtir."
+   },
+   {
+    "q": "\"Zararlı veya tahriş edici madde\" sembolü ne anlama gelir?",
+    "a": "Alerjik deri sorunlarına neden olabilen maddelerdir; göz ve vücuda temasından kaçınılmalı, buharı solunmamalı ve koruyucu giysi giyilmelidir."
+   }
+  ],
+  "12": [
+   {
+    "q": "6. Etkinlik – Suyun Özelliklerini Belirleme etkinliğinin amacı nedir?",
+    "a": "Suyun genel özellikleriyle ilgili veri toplayabilmek."
+   },
+   {
+    "q": "Etkinlik kaç dakikada tamamlanmalıdır?",
+    "a": "40 dakika."
+   },
+   {
+    "q": "Ekipler kaç kişiden oluşmalıdır?",
+    "a": "4-6 kişilik."
+   },
+   {
+    "q": "Etkinlikte uygulanacak deneyler hangileridir?",
+    "a": "I, II, III, IV ve V numaralı uygulamalar/deneyler."
+   },
+   {
+    "q": "Deney sırasında nelere dikkat edilmelidir?",
+    "a": "Düzeneği hazırlarken dikkati olumsuz etkileyecek faktörler kontrol edilmeli, deneyler adım adım yapılmalı ve tüm veriler not edilmelidir."
+   },
+   {
+    "q": "I. Deneyin malzemeleri nelerdir?",
+    "a": "İki adet lam ve su."
+   },
+   {
+    "q": "I. Deneyin süresi ne kadardır?",
+    "a": "5 dakika."
+   },
+   {
+    "q": "I. Deney nasıl yapılır?",
+    "a": "Bir lam üzerine birkaç damla su konur, ikinci lam yavaşça üzerine yerleştirilir, suyun ince tabaka hâline gelmesi beklenir ve iki lam birbirinden ayrılmaya çalışılır."
+   },
+   {
+    "q": "I. Deneyde gözlenen durum suyun hangi özelliğiyle ilişkilidir?",
+    "a": "Adezyon (yapışma) ve kohezyon (birbirini tutma) kuvvetleri."
+   },
+   {
+    "q": "Hipotez nedir?",
+    "a": "Belirli bir durumun ya da olayın nedeninin, bağlantısının veya sonucunun açıklanması için sunulan önermedir."
+   },
+   {
+    "q": "Bir hipotez hangi özelliklere sahip olmalıdır?",
+    "a": "Deneysel yöntemler veya gözlemlerle test edilebilir, doğruluğu ya da yanlışlığı ispatlanabilir olmalıdır."
+   },
+   {
+    "q": "Örnek biyolojik durumdaki hipotez cümlesi nedir?",
+    "a": "\"Göz desenleri güveyi yiyebilecek avcıları uzaklaştırır.\""
+   },
+   {
+    "q": "Tahmin nedir?",
+    "a": "Hipotezlerin doğruluğu test edilmeden, hipotezden akıl yürütmeyle çıkarılan sonuçlara tahmin denir."
+   },
+   {
+    "q": "Tahminin bilimsel çalışmaya katkısı nedir?",
+    "a": "Zaman kaybını önler, araştırmaları kolaylaştırır ve doğrulanabilir sonuçların elde edilmesine katkıda bulunur."
+   },
+   {
+    "q": "Örnek durumda yapılabilecek tahmin nedir?",
+    "a": "Bir güvenin kanatlarında göz desenleri varsa avcı kuşlar güveyi yemekten kaçınır."
+   },
+   {
+    "q": "Kontrollü deneyin amacı nedir?",
+    "a": "Hipoteze dayalı tahminleri test etmektir."
+   },
+   {
+    "q": "Bağımsız değişken nedir?",
+    "a": "Kontrollü deneylerde araştırmacı tarafından değiştirilen ve etkisi araştırılan değişkendir."
+   },
+   {
+    "q": "Bağımlı değişken nedir?",
+    "a": "Bağımsız değişkene bağlı olarak değişen değişkendir."
+   },
+   {
+    "q": "Verilen örnekte bağımsız ve bağımlı değişkenler nelerdir?",
+    "a": "Güvelerin göz deseni bulundurma durumu bağımsız, güve sayıları bağımlı değişkendir."
+   },
+   {
+    "q": "Çıkarım nedir?",
+    "a": "Bilimsel çalışma sürecinde elde edilen verilerin yorumlanmasıdır."
+   },
+   {
+    "q": "Bulgular hipotez ile çelişirse ne yapılır?",
+    "a": "Hipotez tekrar gözden geçirilir ve gerekiyorsa değiştirilir."
+   },
+   {
+    "q": "Veriler hipotezi desteklemek için yeterli değilse ne yapılır?",
+    "a": "Yeni gözlem veya deneyler yapılarak yeni veriler elde edilmeye çalışılır."
+   },
+   {
+    "q": "Veriler hipotezi destekliyorsa ne yapılır?",
+    "a": "Deney sonuçları raporlanarak bilim çevrelerine duyurulur."
+   },
+   {
+    "q": "Örnek çalışmadan çıkarılan sonuç nedir?",
+    "a": "Güvenin kanatlarındaki beneklerin avcıların kaçmasına ve güvenin hayatta kalmasına yardımcı olduğu."
+   },
+   {
+    "q": "Bilim allarında bilimsel sürecin adımları benzer midir?",
+    "a": "Evet, fizik, kimya ve biyoloji gibi dallarda bilimsel sürecin benzer adımları izlenir."
+   },
+   {
+    "q": "Sayfa dış kenarındaki sütunlar ne için tasarlanmıştır?",
+    "a": "Tek sütun ölçülerindeki görsellerin yerleştirilmesi, görsel açıklamalarının yazılması ve öğrencilerin kendi çalışma notlarını yazabilmesi için."
+   },
+   {
+    "q": "Kitaptaki karekodlar ne işe yarar?",
+    "a": "Akıllı cihazlarla okutularak ya da dijital kopyalarda üzerine tıklanarak kitaba ait e-içeriklere ulaşılmasını sağlar."
+   }
+  ],
+  "13": [
+   {
+    "q": "\"Anlat Bakalım\" oyununun amacı nedir?",
+    "a": "Canlıların ortak ve karakteristik özelliklerini, yasaklı kelimeleri kullanmadan anlatarak eğlenerek pekiştirmek."
+   },
+   {
+    "q": "4. Etkinlik \"Virüsler\"in amacı nedir?",
+    "a": "Virüslerin canlı veya cansız olarak sınıflandırılamama nedenlerini açıklayabilmek."
+   },
+   {
+    "q": "Virüslerin yapısı ve genel özellikleri nelerdir?",
+    "a": "Nükleik asit (DNA/RNA) ile protein kılıftan (kapsid) oluşur; hücresel yapı, organel ve metabolizmaları yoktur."
+   },
+   {
+    "q": "Virüsler nasıl çoğalır?",
+    "a": "Zorunlu hücre içi parazittir; canlı bir hücreye girip onun enzim ve ribozomlarını kullanarak çoğalır."
+   },
+   {
+    "q": "Virüsler neden canlı ya da cansız olarak sınıflandırılamaz?",
+    "a": "Nükleik asit taşıyıp çoğalabildikleri (canlı), ancak hücresel yapı ve metabolizmadan yoksun olup tek başına çoğalamadıkları (cansız) için."
+   },
+   {
+    "q": "Alexander Fleming'in penisilin keşfi sadece tesadüflerle açıklanabilir mi? Bu beklenmedik sonuçları değerlendirme yeteneği hangi özelliklerle ilgilidir?",
+    "a": "Hayır; meraklı, dikkatli, gözlemci, sorgulayıcı, önyargısız ve araştırmacı olmasıyla ilgilidir."
+   },
+   {
+    "q": "Bilimsel çalışmalarda ve uzun vadeli araştırmaların başarılı olmasında sürekliliğin neden gerekli olduğunu açıklayınız.",
+    "a": "Bilimsel bilgi birikimli ve yavaş ilerler; kesintisiz sürdürülen çalışmalarla sonuç olgunlaşır (penisilin yıllar sonra Florey ve Chain ile ilaca dönüştü)."
+   },
+   {
+    "q": "Bilimsel bilginin gelişiminde farklı bilim insanlarının çalışmalarının birbirini tamamlaması neden önemlidir? Metinden örnek vererek açıklayınız.",
+    "a": "Bilgi farklı katkılarla ilerler; biri keşfeder, diğeri geliştirir. Fleming keşfetti, Florey ve Chain saflaştırıp ilaç hâline getirdi."
+   },
+   {
+    "q": "Penisilin saflaştırılamamış ve tedavi amaçlı kullanılamamış olsaydı toplum sağlığı üzerinde ne gibi sonuçlar ortaya çıkabilirdi?",
+    "a": "Enfeksiyon hastalıkları tedavi edilemez, salgın ve ölümler artar, antibiyotik gelişimi gecikirdi."
+   }
+  ],
+  "16": [
+   {
+    "q": "Aşağıdaki metni okuyunuz, metinden yararlanarak soruları cevaplayınız. (Konuya Başlarken yönergesi)",
+    "a": "Sayfada yönerge dışında numaralanmış soru veya etkinlik bulunmamaktadır; metin yalnızca uzay araştırmaları ve biyolojik uzay araştırmalarını tanıtan bir okuma parçasıdır."
+   }
+  ],
+  "17": [
+   {
+    "q": "İnsanların Ay'ın ötesine seyahat etmesine katkı sağlayacak biyolojik araştırmalar hangi alanlarda yapılabilir?",
+    "a": "Uzay biyolojisi, yaşam destek sistemleri, radyasyonun canlılar üzerindeki etkileri, mikro yerçekiminde bitki/insan fizyolojisi, kapalı ekosistemler ve biyorejeneratif yaşam destek alanlarında."
+   },
+   {
+    "q": "MOXIE hangi canlılardan veya biyolojik süreçlerden esinlenerek geliştirilmiştir?",
+    "a": "Bitkilerin fotosentezinden (karbondioksiti oksijene çevirme sürecinden) esinlenerek geliştirilmiştir; Mars atmosferindeki CO2'den oksijen üretir."
+   },
+   {
+    "q": "Biyoloji biliminin ilişkilendirilebileceği diğer bilim dalları hangileri olabilir?",
+    "a": "Fizik, kimya, matematik, tıp/sağlık bilimleri, jeoloji, çevre bilimi, ekoloji, genetik, biyoteknoloji ve bilgisayar bilimi."
+   },
+   {
+    "q": "Son yıllarda biyoloji bilimi ile ilgili hangi gelişmeleri takip ettiniz ve hangi araştırmaları okudunuz?",
+    "a": "(Öğrenciye bağlı) Örnek: gen düzenleme (CRISPR), mRNA aşıları, kök hücre tedavileri ve biyoteknolojik üretim haberlerini takip ettim."
+   },
+   {
+    "q": "Biyoloji alanındaki önemli buluşların insan hayatına katkıları nelerdir?",
+    "a": "Hastalıkların tedavisi, aşı ve antibiyotik gelişimi, gıda üretiminin artması, çevre ve biyoçeşitliliğin korunması, yaşam kalitesi ve ekonomik gelişme sağlar."
+   },
+   {
+    "q": "Penisilinin nasıl keşfedildiği ve bu keşfin insanlık tarihi için öneminin anlatıldığı belgeseli karekodla izleyiniz.",
+    "a": "Etkinlik: Karekod okutularak belgesel izlenir; penisilinin Alexander Fleming tarafından keşfi ve ölümcül hastalıkların tedavisindeki devrim anlatılır."
+   }
+  ],
+  "20": [
+   {
+    "q": "2. Tabloyu seçtiğiniz keşif/çalışmaya göre doldurunuz (Ne Biliyorum?, Ne Bilmek İstiyorum?, Ne Öğrendim?).",
+    "a": "Örn. kalp nakli: \"Ne Biliyorum?\" sağlık sorunlarına çözüm; \"Ne Bilmek İstiyorum?\" bağış ve uyum nasıl sağlanır?; \"Ne Öğrendim?\" araştırma sonunda doldurulur."
+   },
+   {
+    "q": "2a) Seçtiğiniz konunun hangi toplumsal soruna ne gibi çözümler ürettiğini \"Ne Biliyorum?\" sütununa yazınız.",
+    "a": "Örn. organ yetmezliği sorununa nakille tedavi çözümü; aşı ile bulaşıcı hastalıkların önlenmesi."
+   },
+   {
+    "q": "2b) Toplumsal sorunlara ürettiği çözümlere dair merak ettiklerinizi \"Ne Bilmek İstiyorum?\" sütununa yazınız.",
+    "a": "Örn. Nakil başarısını artıran etkenler neler? Aşılar nasıl geliştirilir?"
+   },
+   {
+    "q": "3. \"Ne Bilmek İstiyorum?\" sorularının cevapları için araştırma yapınız ve yararlandığınız kaynakları not ediniz.",
+    "a": "Kütüphane, ders kitabı, bilimsel dergiler ve .edu/.gov sitelerinden araştırıp kaynakları listelerim."
+   },
+   {
+    "q": "4. Yararlandığınız kaynakları tabloya yazarak güvenilirliğini kontrol ediniz.",
+    "a": "Her kaynak için güvenilir mi, bilimsel makale mi, hakem değerlendirmesinden geçmiş mi, .edu/.gov mu, uzman görüşü var mı, güncel mi sorularına Evet/Hayır işaretlenir."
+   },
+   {
+    "q": "5. Farklı bir dönüm noktası seçen büyük öğrenci grupları oluşturunuz.",
+    "a": "Öğretmen rehberliğinde gruplara ayrılıp her gruba farklı bir dönüm noktası seçerim."
+   },
+   {
+    "q": "6. Seçtiğiniz konuyla ilgili: a) Hangi özellikleri bakımından biyolojinin dönüm noktası kabul edilmiştir? b) İnsanlığa hangi katkıları sunmuştur?",
+    "a": "a) Bilimde köklü değişim yaratması ve yeni araştırma alanları açması; b) Örn. DNA'nın yapısının çözülmesiyle genetik ve tıpta büyük ilerleme."
+   },
+   {
+    "q": "7. Grubun görüşlerinin bir sözcü tarafından sınıfa açıklanmasını sağlayınız.",
+    "a": "Grup içinden seçilen bir sözcü özet görüşleri sınıfa sunar."
+   },
+   {
+    "q": "8. Araştırma ve tartışma sonuçlarından hareketle \"Ne öğrendim?\" sütununu doldurunuz.",
+    "a": "Araştırma ve tartışmalardan öğrendiklerim özetlenerek bu sütuna yazılır."
+   },
+   {
+    "q": "9. Biyolojideki dönüm noktalarının insanlığa katkılarına yönelik öğrenmelerinizi yansıtacağınız bir öğrenme günlüğü oluşturunuz.",
+    "a": "Her dönüm noktası için öğrendiklerimi, düşüncelerimi ve katkılarını düzenli olarak günlüğe yazarım."
+   },
+   {
+    "q": "Değerlendirme: Bütüncül Dereceli Puanlama Anahtarı.",
+    "a": "Etkinlik bu anahtarla, süreç ve ürün bütün olarak puanlanır."
+   }
+  ],
+  "21": [
+   {
+    "q": "1. Micrographia'yı (1665) yayımlayan, geliştirdiği mikroskopla canlıları inceleyen bilim insanı kimdir?",
+    "a": "Robert Hooke"
+   },
+   {
+    "q": "2. Çiçek hastalığına karşı ilk başarılı aşıyı geliştiren kişi kimdir?",
+    "a": "Edward Jenner"
+   },
+   {
+    "q": "3. 1973'te Cohen ve Boyer'in geliştirdiği, genetik yapıyı yeniden düzenlemeye yarayan teknoloji nedir?",
+    "a": "Rekombinant DNA teknolojisi (gen klonlama)"
+   },
+   {
+    "q": "4. Virüsün bir parçasının üretim yapılarını taşıyan aşı çeşidi nedir?",
+    "a": "mRNA aşısı"
+   },
+   {
+    "q": "5. Bulaşıcı hastalıklarda ilk kez \"mikrop ve bulaşma\" tezini ortaya atan bilim insanı kimdir?",
+    "a": "Louis Pasteur"
+   },
+   {
+    "q": "6. Dolly adlı koyunu klonlayan bilim insanlarından biri kimdir?",
+    "a": "Ian Wilmut"
+   },
+   {
+    "q": "7. Kalıtım biliminin öncüsü kimdir?",
+    "a": "Gregor Mendel"
+   },
+   {
+    "q": "8. Sağlık bilimleri çalışmalarının temelini oluşturan bilim dalı hangisidir?",
+    "a": "Biyoloji"
+   },
+   {
+    "q": "9. Penisilini bulan bilim insanı kimdir?",
+    "a": "Alexander Fleming"
+   },
+   {
+    "q": "10. DNA üzerinde ekleme, çıkarma veya dizilim değiştirmeye olanak tanıyan teknoloji nedir?",
+    "a": "CRISPR (CRISPR-Cas9) gen düzenleme"
+   },
+   {
+    "q": "11. İnsan DNA'sının ortaya çıkarılıp haritalanmasını amaçlayan gelişme nedir?",
+    "a": "İnsan Genom Projesi"
+   },
+   {
+    "q": "12. Çift sarmal DNA modelini öne süren bilim insanları kimlerdir?",
+    "a": "James Watson ve Francis Crick"
+   },
+   {
+    "q": "Renkli kutucuklardaki şifre nedir?",
+    "a": "BİLİM"
+   }
+  ],
+  "22": [
+   {
+    "q": "Aşağıda karışık verilen bilimsel araştırma basamaklarını genel akışa uygun sıralayınız.",
+    "a": "1. Problemin belirlenmesi — 2. Hipotez kurulması — 3. Deneyin veya gözlemin planlanması — 4. Verilerin toplanması — 5. Verilerin analiz edilmesi — 6. Bulguların yorumlanması ve sonuca ulaşılması — 7. Araştırma sonuçlarının paylaşılması"
+   },
+   {
+    "q": "Bilim nedir?",
+    "a": "Evrendeki olaylara ve merak edilen sorulara yanıt ararken sistematik bilgi edinme, elde edilen bilgileri güvenilir ve geçerli biçimde açıklama sürecidir."
+   },
+   {
+    "q": "\"Bilimin doğası\" kavramının öğrenilmesiyle ne ortaya konur?",
+    "a": "Bilimin nasıl yapıldığı, neyi amaçladığı ve neden önemli olduğu."
+   }
+  ],
+  "23": [
+   {
+    "q": "Bilimin doğası nedir?",
+    "a": "Bilimsel araştırmaların nasıl yapıldığını, bilginin nasıl elde edilip değerlendirildiğini ve toplumda nasıl kullanıldığını açıklayan kavramdır."
+   },
+   {
+    "q": "Bilimsel bilginin değişebilir olması ne demektir?",
+    "a": "Bilginin kesin ve mutlak olmadığı; yeni bulgularla zamanla değişebildiğidir."
+   },
+   {
+    "q": "Bilimsel bilginin sosyal ve kültürel yapısı neyi ifade eder?",
+    "a": "Bilimin toplumun yaşam tarzı, anlayış ve kültüründen bağımsız düşünülemeyeceğini."
+   },
+   {
+    "q": "Bilimsel bilginin özgünlüğü nedir?",
+    "a": "Yeni bir gerçeğin keşfi ya da mevcut bilginin yeni bir bakış açısıyla değerlendirilmesidir."
+   },
+   {
+    "q": "Öznellik (subjektiflik) nedir?",
+    "a": "Bilim insanının yaşantı, bakış açısı ve değerlerinin çalışmalarını etkilemesi; bilimin tümüyle nesnel olmadığı."
+   },
+   {
+    "q": "Teori ve kanun arasında hiyerarşi var mıdır?",
+    "a": "Hayır; bağımsızdırlar. Kanun \"nasıl\", teori \"neden\" sorusunu yanıtlar."
+   },
+   {
+    "q": "Bilimsel bilgi neye dayalı olarak elde edilir?",
+    "a": "Sistematik bir süreçte gözlemlere ve çıkarımlara dayalı olarak."
+   },
+   {
+    "q": "Tek ve evrensel bir bilimsel yöntem var mıdır?",
+    "a": "Hayır; bilim dallarına göre farklı uygulamalar vardır."
+   },
+   {
+    "q": "Aşılar otizme yol açar mı?",
+    "a": "Hayır; bilimsel çalışmalar aşı ile otizm arasında ilişki bulmamıştır."
+   },
+   {
+    "q": "Kalp sağlığını korumak için yağlı yiyeceklerden mi, karbohidratlardan mı kaçınılmalıdır?",
+    "a": "Trans/işlenmiş yağlar ile rafine karbonhidratlardan; doymamış yağlar tercih edilmelidir."
+   },
+   {
+    "q": "Küresel ısınma iklim değişikliğine neden olur mu?",
+    "a": "Evet; insan kaynaklı sera gazı salımı ısınmaya ve iklim değişikliğine yol açar."
+   },
+   {
+    "q": "Bilim insanları aynı sorulara neden farklı cevaplar verebilir?",
+    "a": "Farklı yöntem, veri, varsayım, yorum ve bakış açıları nedeniyle."
+   },
+   {
+    "q": "Cevaplardan hangisi daha bilimseldir veya dikkate alınmalıdır?",
+    "a": "Hakem denetimli, çoklu kanıta ve tekrarlanabilir gözleme dayanan, bilimsel konsensüsü yansıtan cevap."
+   },
+   {
+    "q": "Bilimin Doğasını Öğrenmek Neden Önemlidir?",
+    "a": "Bilginin nasıl üretildiğini anlayıp doğru kaynağı ayırt etmek ve ikilemlerde sağlıklı karar vermek için."
+   }
+  ],
+  "24": [],
+  "25": [
+   {
+    "q": "Bilimsel yöntem neden tek bir yol değildir?",
+    "a": "Farklı disiplinler, araştırma soruları ve araştırmacı tercihleri nedeniyle çeşitlilik gösterir; tek bir doğru yöntem yoktur."
+   },
+   {
+    "q": "Bilimsel yöntem basamakları örnek olarak hangileridir?",
+    "a": "Gözlem yapma, problemi belirleme, veri toplama, hipotez oluşturma, deney tasarlama, analiz etme, sonuç çıkarma."
+   },
+   {
+    "q": "Gözlem nasıl tanımlanır?",
+    "a": "Duyu organları ve araç gereçlerle bilgi toplanması; olayların sistemli ve dikkatli incelenmesidir."
+   },
+   {
+    "q": "Bilimsel araştırmanın ilk aşaması nedir?",
+    "a": "Gözlem yapma."
+   },
+   {
+    "q": "Gözlemler neye yardımcı olur?",
+    "a": "Hipotez geliştirmeye, deney oluşturmaya ve sonuçları yorumlamaya."
+   },
+   {
+    "q": "Ormanda güve gözleminde fark edilen özellik nedir?",
+    "a": "Güvenin kanatlarında baykuş yüzüne benzeyen göz desenleri olması."
+   },
+   {
+    "q": "Problemi belirleme sürecinde sorulan sorular nelerdir?",
+    "a": "\"Neden?\" ve \"Nasıl?\" gibi sorular sorulur."
+   },
+   {
+    "q": "Gözlemlenen duruma örnek soru nedir?",
+    "a": "\"Güvenin kanatlarında neden baykuş yüzüne benzeyen göz desenleri var?\""
+   },
+   {
+    "q": "Veri toplama neden önemlidir?",
+    "a": "Araştırmanın doğruluğu ve güvenilirliği için; çözümün bilimsel anlamı çok sayıda veriye dayanmalıdır."
+   },
+   {
+    "q": "Veri toplamada hangi sorular sorulur?",
+    "a": "Göz desenleri araştırılıyor mu, hangi sonuçlara ulaşılmış, güveye yaşamsal avantaj sağlıyor mu?"
+   }
+  ],
+  "26": [
+   {
+    "q": "Hipotez nedir?",
+    "a": "Belirli bir durumun/olayın nedeni, bağlantısı veya sonucunu açıklamak için sunulan, test edilebilir önermedir."
+   },
+   {
+    "q": "Tahmin nedir?",
+    "a": "Hipotezin doğruluğu test edilmeden, akıl yürütmeyle hipotezden çıkarılan sonuçtur."
+   },
+   {
+    "q": "Kontrollü deneyde bağımsız değişken nedir?",
+    "a": "Araştırmacının değiştirdiği ve etkisi araştırılan değişkendir."
+   },
+   {
+    "q": "Bağımlı değişken nedir?",
+    "a": "Bağımsız değişkene bağlı olarak değişen değişkendir."
+   },
+   {
+    "q": "Çıkarım nedir?",
+    "a": "Elde edilen verilerin yorumlanmasıdır."
+   },
+   {
+    "q": "Güve örneğindeki hipotez nedir?",
+    "a": "Göz desenleri, güveyi yiyebilecek avcıları uzaklaştırır."
+   },
+   {
+    "q": "Bu hipotezden çıkarılan tahmin nedir?",
+    "a": "Kanatlarında göz deseni olan güveleri avcı kuşlar yemekten kaçınır."
+   },
+   {
+    "q": "Güve örneğinde bağımsız ve bağımlı değişken nedir?",
+    "a": "Bağımsız: göz deseni bulundurma durumu; bağımlı: kalan güve sayısı."
+   },
+   {
+    "q": "Veriler hipotezle çelişirse ne yapılır?",
+    "a": "Hipotez gözden geçirilir, gerekirse değiştirilir."
+   },
+   {
+    "q": "Veriler hipotezi destekliyorsa ne yapılır?",
+    "a": "Sonuçlar raporlanarak bilim çevrelerine duyurulur."
+   }
+  ],
+  "27": [
+   {
+    "q": "Gölün kuzey ve güney kıyısında yaşayan söğüt ağacı popülasyonları kaçar bireyden oluşmaktadır?",
+    "a": "Kuzey kıyısı 400, güney kıyısı 80 söğüt ağacı."
+   },
+   {
+    "q": "Güneydeki popülasyonda kaç ağaçta sararma ve gelişim geriliği görülmektedir?",
+    "a": "60 ağaç (%75)."
+   },
+   {
+    "q": "Sararan yaprakların kimyasal yapısında (klorofil miktarı, ağır metal oranı vb.) normal ağaçlara göre farklılıklar var mıdır?",
+    "a": "Evet; fotosentez pigmentleri (klorofil) ciddi oranda azalmış, kök emici tüylerinde yapısal bozulmalar var."
+   },
+   {
+    "q": "Gölün güney kıyısındaki toprak veya suyun yapısında kuzeyde olmayan farklı çevresel etkenler veya insan faaliyetleri var mıdır?",
+    "a": "Evet; yeni inşa edilen otoparkın zemininden sızan araç atık sularının ulaştığı drenaj hattı."
+   },
+   {
+    "q": "Etkinliğin adı, amacı ve süresi nedir?",
+    "a": "Bilimsel Araştırma Süreçleri; bilimsel araştırma süreçlerinde bilimin doğasını yorumlayabilme; 80 dk."
+   },
+   {
+    "q": "Yönergeye göre ne yapmalısınız?",
+    "a": "Metni okuyup uygulama basamaklarını takip ederek bilimsel araştırma süreçlerini yansıtan bir rapor oluşturmalısınız."
+   },
+   {
+    "q": "Oluşturduğunuz rapor nasıl değerlendirilecek?",
+    "a": "Bütüncül Dereceli Puanlama Anahtarı ile öğretmeniniz tarafından."
+   },
+   {
+    "q": "Etkinlik sonunda hangi formlar doldurulur ve bunlara nasıl ulaşılır?",
+    "a": "Öz Değerlendirme Formu ve Grup Değerlendirme Formu; karekodlarla ya da ekler bölümündeki Form 2, Form 3, Form 4'ten."
+   }
+  ],
+  "28": [
+   {
+    "q": "1. Öğretmeninizin rehberliğinde beşer kişilik heterojen gruplar oluşturunuz.",
+    "a": "Öğretmen rehberliğinde 5 kişilik heterojen gruplar oluşturulur."
+   },
+   {
+    "q": "2. Yakın çevrenizde gözlemleyebileceğiniz benzer bir problem durumu ortaya koyunuz (Gözlem).",
+    "a": "Okul bahçesindeki bazı ağaçların yapraklarında sararma ve dökülme olduğu gözlenir."
+   },
+   {
+    "q": "3. Tespit ettiğiniz problemle ilgili araştırılabilir bir soru cümlesi oluşturunuz (Araştırma Sorunuz).",
+    "a": "Ağaç yapraklarındaki sararmaya, toprağa karışan atık su mu neden olmaktadır?"
+   },
+   {
+    "q": "4. Araştırma sorunuza yönelik test edilebilecek hipotezinizi yazınız.",
+    "a": "Atık su karışmış toprakta yetişen ağaçlarda yaprak sararması daha fazla görülür."
+   },
+   {
+    "q": "5. Kontrollü deneyin değişkenlerini belirleyiniz ve deney düzeneğinizi açıklayınız.",
+    "a": "Bağımsız değişken: sulama suyunun atık su içerip içermemesi. Bağımlı değişken: yapraklarda sararma miktarı. Kontrol grubu: normal su ile sulanan özdeş fidanlar."
+   },
+   {
+    "q": "6. Problemle ilgili deneysel veri toplayınız veya güvenilir kaynaklardan bilimsel araştırmaları kaydediniz.",
+    "a": "Gözlem/ölçüm verileri ile güvenilir kaynaklardan (kitap, hakemli dergi) bulgular kaydedilir."
+   },
+   {
+    "q": "7. Hipotezinizin doğruluğunu veya yanlışlığını destekleyen kanıtları tartışınız.",
+    "a": "Grup, toplanan verilerle hipotezi destekleyen ve çürüten kanıtları karşılaştırıp tartışır."
+   },
+   {
+    "q": "8. Süreçte nelere dikkat etmelisiniz?",
+    "a": "Birbirinin fikrine saygı, ortak düşünce belirleme, uzlaşma ve iş birliği."
+   },
+   {
+    "q": "9. Araştırma sürecinizde bilimin doğasıyla ilgili özellikleri tespit ederek raporlaştırınız.",
+    "a": "Bilimin gözleme dayandığı, değişebilir ve test edilebilir olduğu, kanıtla ilerlediği raporlanır."
+   },
+   {
+    "q": "10. Bilimin doğasıyla ilgili tespitlerinizi içeren bir zihin haritasını bireysel olarak oluşturunuz.",
+    "a": "Bilimin doğası özellikleri (gözlem, kanıt, deney, değişebilirlik, iş birliği) merkez alınarak zihin haritası çizilir."
+   }
+  ],
+  "29": [
+   {
+    "q": "a) Bilim insanları çalışmayı hangi amaçla gerçekleştirmiştir?",
+    "a": "Ormansızlaştırmanın (ağaç kesiminin) su toplama havzasından akan suyun nitrat derişimi üzerindeki etkisini incelemek."
+   },
+   {
+    "q": "a) Hangi hipotezleri ileri sürmüş olabilirler?",
+    "a": "Ağaçlar kesilip alan imara açılırsa, havzadan akan yağmur suyundaki nitrat derişimi artar (bitkiler azotu tuttuğu için)."
+   },
+   {
+    "q": "a) Elde edilen verilere dayanarak hangi çıkarımlarda bulunabilirler?",
+    "a": "Ağaçsızlaştırılan havzada nitrat derişimi arttı, kontrol havzasında değişmedi; bitki örtüsü suyun nitrat içeriğini düzenler ve toprakta azotu tutar."
+   },
+   {
+    "q": "b) Bu çalışmada bilimin doğasıyla ilgili tespit edilebilen özellikler nelerdir?",
+    "a": "Kontrollü deney ve karşılaştırma, değişken kontrolü, uzun süreli gözlem, veriye dayalı çıkarım, neden-sonuç ilişkisi ve bilimsel bilginin değişebilirliği."
+   },
+   {
+    "q": "Şemada A ile gösterilen basamak nedir?",
+    "a": "Problemin belirlenmesi / Gözlemlerin yapılması."
+   },
+   {
+    "q": "Şemada B ile gösterilen basamak nedir?",
+    "a": "Verilerin toplanması."
+   },
+   {
+    "q": "Şemada C ile gösterilen basamak nedir?",
+    "a": "Hipotez oluşturulması."
+   },
+   {
+    "q": "Şemada Ç ile gösterilen basamak nedir?",
+    "a": "Kontrollü deneylerin tasarlanarak uygulanması."
+   },
+   {
+    "q": "Şemada D ile gösterilen basamak nedir?",
+    "a": "Sonuçların değerlendirilmesi (sonuç)."
+   },
+   {
+    "q": "Sonuçlar hipotezi destekliyorsa ne olur?",
+    "a": "Hipotez desteklenir; teori/kanun hâline gelebilir."
+   },
+   {
+    "q": "Sonuçlar hipotezi desteklemiyorsa ne olur?",
+    "a": "Hipotez reddedilir; yeni bir hipotez kurulur."
+   }
+  ],
+  "30": [
+   {
+    "q": "“Human Challenge” yönteminde katılımcılara yüksek miktarda ödeme yapılması ve sağlıklı bireylerin bilerek enfekte edilmesi, gönüllü onamı ve adalet ilkeleri açısından hangi riskleri ortaya çıkarabilir? Bu durumun gönüllülerin kararını etkileyip etkilemediğini değerlendiriniz.",
+    "a": "Yüksek ödeme, özellikle maddi sıkıntıdaki kişileri çekerek onamın baskı altında ve özgür irade dışında verilmesine yol açabilir; bu da adalet ilkesini zedeler ve riskin yoksul/kırılgan gruplara yüklenmesine neden olur. Sağlıklı bireylerin bilerek enfekte edilmesi ise bilinmeyen uzun vadeli zarar riski taşır. Bu nedenle ödeme kararı etkileyebilir ve gönüllülüğü gölgeleyebilir."
+   },
+   {
+    "q": "Pandemi gibi küresel ölçekte acil durumlarda aşının daha kısa sürede geliştirilebilmesi amacıyla etik kuralların esnetilmesi ya da bazı araştırma aşamalarının hızlandırılması etik açıdan savunulabilir mi? Görüşünüzü bireysel haklar ile toplumsal yarar arasındaki dengeyi dikkate alarak açıklayınız.",
+    "a": "Kısmen savunulabilir; ancak etik kurallar tümüyle esnetilemez. Süreçler hızlandırılırken katılımcı onamı, bağımsız etik denetim ve güvenlik gözetimi korunmalıdır. Amaç toplumsal yarar olsa da bireysel haklar feda edilemez; denge, gönüllülük ve şeffaflık esasıyla sağlanmalıdır."
+   }
+  ],
+  "31": [
+   {
+    "q": "Öğretmenin rehberliğinde heterojen gruplar nasıl oluşturulur?",
+    "a": "Farklı başarı ve yetenek düzeyindeki öğrenciler bir araya getirilerek karma (heterojen) gruplar oluşturulur."
+   },
+   {
+    "q": "Örnek olay veya tarihî olay bilim etiğine uygunluğu açısından nasıl araştırılır?",
+    "a": "Güvenilir kaynaklardan (kitap, makale, kurum yayını) bilgi toplanır ve bilgiler farklı kaynaklardan doğrulanır."
+   },
+   {
+    "q": "Araştırma araçları nasıl seçilir ve grup içinde nasıl davranılmalıdır?",
+    "a": "Araçlar öğretmen rehberliğinde seçilir; grup üyeleri birbirine karşı sabırlı, anlayışlı ve duyarlı olur."
+   },
+   {
+    "q": "Birinci raporda bilimsel etiğe uygun olan durum nedir?",
+    "a": "Her grup üyesinin yaptığı işlerin net olarak belirtilmesi (iş bölümünün açık olması)."
+   },
+   {
+    "q": "İkinci ve üçüncü raporun etik dışı yönü nedir?",
+    "a": "İş bölümünden söz edilmemesi; emeğin kime ait olduğunun belirsiz kalması."
+   },
+   {
+    "q": "İkinci ve üçüncü raporda aynı fotoğrafların olması hangi etik dışı davranıştır?",
+    "a": "Veri/fotoğraf kopyalama ve intihal (başkasının çalışmasını kendi eseri gibi sunma)."
+   },
+   {
+    "q": "Üçüncü raporda kaynakça bulunmaması hangi etik ihlalidir?",
+    "a": "Kaynak göstermemek; intihal ve bilimsel sahtekârlık."
+   },
+   {
+    "q": "İki rapordaki anket bulgularının birbirinin tam zıttı olması neyi gösterir?",
+    "a": "Verilerin gerçeğe uygun olmadığını, uydurma/çarpıtma (veri sahteciliği) yapıldığını gösterir."
+   },
+   {
+    "q": "İkinci grupta iki üyenin hiç görev almaması hangi etik ihlalidir?",
+    "a": "Haksız/gerçek dışı yazarlık; katkıda bulunmayan kişilerin ödevde yer alması."
+   },
+   {
+    "q": "Örnek olaydaki bilimsel etiğe uymayan durumlar nelerdir?",
+    "a": "İntihal, kaynakça eksikliği, veri uydurma/çarpıtma, iş bölümünün belirsizliği ve haksız yazarlık."
+   },
+   {
+    "q": "Bilimsel araştırma süreçlerinde yapılan etik dışı davranışlar rapora nasıl yansıtılır?",
+    "a": "Tespit edilen her durum ilgili etik ihlal türüyle ilişkilendirilerek açıklanır ve görüşler arkadaşlarla paylaşılır."
+   }
+  ],
+  "32": [
+   {
+    "q": "Bilimsel araştırmalarda anket verilerinin doğruluğu ve güvenilirliği oldukça önemlidir. (D/Y)",
+    "a": "D"
+   },
+   {
+    "q": "Bilimsel araştırmalarda araştırma sonuçlarını desteklemeyen veriler yayımlanmayabilir. (D/Y)",
+    "a": "D"
+   },
+   {
+    "q": "Bilimsel araştırmalarda anket sonuçları istenildiği gibi değiştirilebilir. (D/Y)",
+    "a": "Y — Anket sonuçları istenildiği gibi değiştirilemez."
+   },
+   {
+    "q": "Bilimsel kaynaklardan derlenen bilgiler için mutlaka kaynak gösterilmelidir. (D/Y)",
+    "a": "D"
+   },
+   {
+    "q": "Bilimsel bir yayın veya raporda çalışmaya katkısı olmayanların ismi de yer alabilir. (D/Y)",
+    "a": "Y — Yalnızca çalışmaya katkısı olanların ismi yer alır."
+   },
+   {
+    "q": "Bilimsel bir çalışmada bir başkasının bulguları veya verileri kullanılmamalıdır. (D/Y)",
+    "a": "Y — Kaynak gösterilerek kullanılabilir."
+   },
+   {
+    "q": "5. Yönlendirmeleri dikkate alarak araştırmanızla ilgili raporunuzu karekod ile verilen bilimsel etik araştırma raporu formatına uygun hazırlayınız.",
+    "a": "Rapor, verilen format doğrultusunda kaynak gösterilerek hazırlanır."
+   },
+   {
+    "q": "6. Rapor hazırlama sürecinde planlı olunuz ve sürecin zamanında tamamlanması için sorumluluk alınız.",
+    "a": "Süreç planlanır ve zamanında tamamlanır."
+   },
+   {
+    "q": "7. Raporunuzu diğer gruptaki arkadaşlarınızla paylaşınız.",
+    "a": "Rapor diğer grupla paylaşılır."
+   }
+  ],
+  "33": [
+   {
+    "q": "a) Canlının yaşamını sürdürebilmesi için zorunlu değildir.",
+    "a": "Üreme (2)"
+   },
+   {
+    "q": "b) Üretici ve tüketici canlılarda görülen en ayırt edici özelliktir.",
+    "a": "Beslenme (5)"
+   },
+   {
+    "q": "c) Çiçekli ve çiçeksiz bitkiler için farklı olabilecek özelliktir.",
+    "a": "Üreme (2)"
+   },
+   {
+    "q": "ç) Yoğurt bakterileri ve mayada ortak olan özelliktir.",
+    "a": "Solunum (3) (fermantasyon/oksijensiz solunum)"
+   },
+   {
+    "q": "d) Canlılarda doğrudan gözlemlenebilen özelliktir.",
+    "a": "Büyüme (6)"
+   },
+   {
+    "q": "Çevrenizdeki canlıları birbirinden ayıran özellikler neler olabilir?",
+    "a": "Büyüklük, şekil, renk, hareket, beslenme ve üreme şekli ile yaşadığı ortam."
+   },
+   {
+    "q": "Canlılarda gözlenen bazı özellikler cansızlarda da gözlenebilir mi?",
+    "a": "Evet; hareket, büyüme gibi bazı özellikler cansızlarda da görülebilir, ama tümü birlikte yalnızca canlılarda bulunur."
+   },
+   {
+    "q": "Görsellerdeki bakteri, bitki, mantar ve hayvanda ortak gözlenen özellikleri listeleyiniz.",
+    "a": "Hücresel yapı, beslenme, solunum, boşaltım, hareket, uyaranlara tepki, üreme, büyüme ve gelişme, metabolizma."
+   }
+  ],
+  "36": [
+   {
+    "q": "Bu sayfada soru veya etkinlik var mı?",
+    "a": "Hayır; sayfada yalnızca metabolizma, anabolizma-katabolizma ve enerji (ATP) konularını anlatan açıklayıcı metin ile Görsel 1.12, 1.13 ve 1.14 bulunmaktadır. Soru ya da etkinlik yoktur."
+   }
+  ],
+  "37": [
+   {
+    "q": "Sayfada soru veya etkinlik var mı?",
+    "a": "Hayır, 37. sayfada yalnızca bilgilendirici metin ve görseller (Görsel 1.15, 1.16) bulunmakta; herhangi bir soru ya da etkinlik yer almamaktadır."
+   }
+  ],
+  "38": [],
+  "39": [
+   {
+    "q": "Sayfada yer alan soru ve etkinlikler nelerdir?",
+    "a": "Sayfa metninde herhangi bir soru veya etkinlik bulunmamaktadır; yalnızca homeostazi, varyasyon ve adaptasyon konularını açıklayan bilgi metni yer almaktadır."
+   }
+  ],
+  "40": [
+   {
+    "q": "3. Etkinlik nedir, amacı ve süresi nedir?",
+    "a": "Çevremizdeki Canlılar etkinliği; canlıların özelliklerini bilimsel gözlemlemeyi amaçlar, süresi ders dışı 3 gün + ders içi 80 dk'dır."
+   },
+   {
+    "q": "1. Basamak: Ne yapılmalıdır?",
+    "a": "İlgi çeken bir hayvan ve bir bitki 3 gün kararlı gözlemlenir; duyu ve basit araçlarla belirlenen doğrudan gözlemlenebilir özellikler Gözlem Tablosu'na gün gün kaydedilir."
+   },
+   {
+    "q": "2. Basamak: Gözlemlenemeyen özellikler için ne yapılır?",
+    "a": "Gözlemleyemediğiniz ama varlığını bildiğiniz canlılık özellikleri tabloda (-) olarak işaretlenir."
+   },
+   {
+    "q": "3. Basamak: Dolaylı gözlemlenebilir özellikler için ne yapılır?",
+    "a": "Bu özelliklere ilişkin tahminler tabloya yazılır ve güvenilir kaynaklardan doğrulanır."
+   },
+   {
+    "q": "Beslenme özelliği canlılara göre nasıl işaretlenir?",
+    "a": "Hayvan (1) heterotrof, bitki (2) ototroftur."
+   },
+   {
+    "q": "Üreme özelliği canlılara göre nasıl işaretlenir?",
+    "a": "Hayvan (1) eşeyli; bitki (2) eşeyli ve eşeysiz üreyebilir."
+   },
+   {
+    "q": "Büyüme ve gelişme özelliği canlılara göre nasıl işaretlenir?",
+    "a": "Hayvan (1) sınırlı, bitki (2) sınırsız büyüme gösterir."
+   },
+   {
+    "q": "Uyarılara tepki özelliği nasıl işaretlenir?",
+    "a": "Her iki canlıda da \"Var\" olarak işaretlenir."
+   },
+   {
+    "q": "Etkinlik nasıl değerlendirilir?",
+    "a": "Öğretmen tarafından \"Kontrol Listesi\" (Form 7 veya karekod) ile değerlendirilir."
+   }
+  ],
+  "42": [
+   {
+    "q": "\"Anlat bakalım\" oyununun amacı nedir?",
+    "a": "Canlıların ortak ve karakteristik özelliklerini kavramak."
+   },
+   {
+    "q": "Oyunda anlatıcı ne yapar?",
+    "a": "Kart çeker, yasaklı kelimeleri kullanmadan karttaki kavramı kendi ifadeleriyle anlatır."
+   },
+   {
+    "q": "Doğru cevap verilirse kaç puan alınır?",
+    "a": "1 dakika içinde bilinirse 2 puan."
+   },
+   {
+    "q": "Yasaklı kelime kullanılırsa ne olur?",
+    "a": "Ekibin toplam puanından 1 puan düşürülür."
+   },
+   {
+    "q": "Oyun ne zaman biter ve kazanan nasıl belirlenir?",
+    "a": "Kartlar bittiğinde biter; en yüksek puana sahip ekip kazanır."
+   },
+   {
+    "q": "4. Etkinlik'in adı ve amacı nedir?",
+    "a": "Adı \"Virüsler\"; amacı virüslerin canlı veya cansız sınıflandırılamama nedenlerini açıklayabilmek."
+   },
+   {
+    "q": "Etkinlik basamakları nelerdir?",
+    "a": "Karekodla verilen videoyu izlemek, virüslerin yapısı ve çoğalmasını öğrenmek; canlı/cansız kabul edilmeme nedenlerini tartışmak; zihin haritası oluşturmak."
+   },
+   {
+    "q": "Virüsler neden canlı olarak sınıflandırılamaz?",
+    "a": "Hücre yapısı yoktur, tek başına metabolizma göstermez, enerji üretmez, ancak konak hücre içinde çoğalır."
+   },
+   {
+    "q": "Virüsler neden cansız olarak da sınıflandırılamaz?",
+    "a": "Canlılara özgü kalıtım maddesi (DNA/RNA) taşır, çoğalabilir ve mutasyon geçirebilir."
+   },
+   {
+    "q": "Virüslerin sınıflandırılamama nedeninin özeti nedir?",
+    "a": "Hem canlı hem cansız özellikler taşıdıkları için ikisinin arasında kabul edilirler."
+   },
+   {
+    "q": "Virüslerin yapısı ve genel özellikleri nelerdir?",
+    "a": "Nükleik asit (DNA/RNA) ve protein kılıftan oluşur; zorunlu hücre içi parazittir, konak hücrede çoğalır."
+   }
+  ],
+  "44": [
+   {
+    "q": "İnorganik bileşikler kavramının çağrıştırdığı kelimeler/kavramlar (1. Bölüm, 8 madde)",
+    "a": "Su, mineral, tuz, asit, baz, oksijen, karbondioksit, iyon"
+   },
+   {
+    "q": "1. Cümle: İnorganik bileşikler kavramının kullanıldığı anlamlı bir cümle yazınız.",
+    "a": "Su ve mineraller vücudumuz için gerekli inorganik bileşiklerdir."
+   },
+   {
+    "q": "2. Cümle",
+    "a": "İnorganik bileşikler canlıların yapısında bulunan temel maddelerdir."
+   },
+   {
+    "q": "3. Cümle",
+    "a": "Canlılar ihtiyaç duydukları inorganik bileşikleri dışarıdan hazır alır."
+   },
+   {
+    "q": "4. Cümle",
+    "a": "Tuzlar ve asitler inorganik bileşiklere örnektir."
+   },
+   {
+    "q": "5. Cümle",
+    "a": "İnorganik bileşikler genellikle karbon içermez."
+   },
+   {
+    "q": "6. Cümle",
+    "a": "Solunumda kullandığımız oksijen bir inorganik bileşiktir."
+   },
+   {
+    "q": "7. Cümle",
+    "a": "Su vücutta düzenleyici ve taşıyıcı olarak görev yapar."
+   },
+   {
+    "q": "8. Cümle",
+    "a": "Mineraller sinir ve kas çalışmasında önemli rol oynar."
+   },
+   {
+    "q": "9. Cümle",
+    "a": "İnorganik bileşikler sentezlenmez, hazır alınır."
+   },
+   {
+    "q": "10. Cümle",
+    "a": "Karbondioksit ve su fotosentezin temel inorganik maddeleridir."
+   },
+   {
+    "q": "2. Bölüm: 1. Bölüm'deki cevapları kullanarak inorganik bileşikler kavramının kullanıldığı anlamlı birer cümle yazınız.",
+    "a": "Su, mineral, tuz, asit, baz, oksijen ve karbondioksit canlı yaşamı için gerekli inorganik bileşiklerdir."
+   }
+  ],
+  "45": [
+   {
+    "q": "İnorganik moleküllerin genel özellikleri nelerdir?",
+    "a": "Genellikle karbon içermezler; su, mineral ve tuzlardan oluşur; küçük ve basit yapılıdır; enerji vermez, yapıcı-onarıcı ve düzenleyici görev yapar."
+   },
+   {
+    "q": "İnorganik moleküllerin en önemlisi hangisidir?",
+    "a": "Su."
+   },
+   {
+    "q": "Suyun hücresel işlevleri nelerdir?",
+    "a": "Hücre yapısının büyük kısmını oluşturur; çözücüdür, besinlerin taşınmasını ve metabolik atıkların uzaklaştırılmasını sağlar."
+   },
+   {
+    "q": "Su metabolik olaylarda neden gereklidir?",
+    "a": "Metabolik reaksiyonların gerçekleşmesi ve enzimlerin düzgün çalışması için gereklidir."
+   },
+   {
+    "q": "Suyun vücuttaki görevleri nelerdir?",
+    "a": "Vücut sıcaklığını düzenler, hücrelerin yapısal bütünlüğünü korur ve sindirim sürecinde görev alır."
+   },
+   {
+    "q": "Canlı yaşamının devamlılığı neye bağlıdır?",
+    "a": "Suyun varlığına."
+   }
+  ],
+  "47": [
+   {
+    "q": "Etkinliğin adı ve amacı nedir?",
+    "a": "\"Suyun Özelliklerini Belirleme\"; suyun genel özellikleriyle ilgili veri toplayabilme."
+   },
+   {
+    "q": "I. Deneyde iki lam birbirinden neden zor ayrılır?",
+    "a": "Suyun adezyon (cama tutunma) ve kohezyon (su molekülleri arası çekim) kuvvetleri nedeniyle."
+   },
+   {
+    "q": "I. Deney suyun hangi özelliğini gösterir?",
+    "a": "Adezyon ve kohezyon özelliklerini."
+   },
+   {
+    "q": "II. Deneyde bardak ağzına kadar dolu olsa da su neden taşmaz?",
+    "a": "Yüzey gerilimi ve kohezyon nedeniyle su, bardağın üstünde kavisli bir yüzey oluşturur."
+   },
+   {
+    "q": "II. Deneydeki kavisli yapı suyun hangi özelliğiyle ilişkilidir?",
+    "a": "Yüzey gerilimi ve kohezyon."
+   },
+   {
+    "q": "Su molekülü neden asimetrik (polar) yapı kazanır?",
+    "a": "Oksijenin elektronegatifliği yüksek olduğu için paylaşılan elektronu kendine daha fazla çeker."
+   },
+   {
+    "q": "Suyun polar yapısı hangi özelliklerini ortaya çıkarır?",
+    "a": "Adezyon, kohezyon, öz ısı (ısı tutma kapasitesi) ve polar molekülleri çözebilme yeteneği."
+   },
+   {
+    "q": "Deneylerdeki gözlemler suyun hangi özellikleriyle ilişkilendirilebilir?",
+    "a": "Adezyon, kohezyon, yüzey gerilimi, yoğunluk ve çözücülük."
+   }
+  ],
+  "48": [
+   {
+    "q": "III. Deney'de buz küplerinin su yüzeyinde durmasının nedeni nedir?",
+    "a": "Suyun yoğunluğu buzdan büyüktür; buzun yoğunluğu daha az olduğu için su üstünde yüzer."
+   },
+   {
+    "q": "III. Deney'de buz küpleri eridiğinde suyun taşmamasının nedeni nedir?",
+    "a": "Eriyen buz, suda kapladığı hacim kadar yer kaplar (Arşimet prensibi); yüzen buzun taşırdığı su, eridiğinde oluşan suya eşittir."
+   },
+   {
+    "q": "IV. Deney'de parmağınız karabiberli yüzeye değdiğinde ıslanır mı?",
+    "a": "Islanmaz; yüzeyde karabiber tabakası ve suyun yüzey gerilimi parmağı kaplar, parmak kuru kalır."
+   },
+   {
+    "q": "IV. Deney'de karabiberin su yüzeyinde durmasının nedeni nedir?",
+    "a": "Suyun yüzey gerilimi karabiber tanelerini taşır; taneler suya batmaz."
+   },
+   {
+    "q": "V. Deney'de tuz, şeker ve bal suda karıştırıldığında ne olur?",
+    "a": "Çözünürler; su berrak kalır, madde gözle görülmez (homojen karışım/çözelti oluşur)."
+   },
+   {
+    "q": "V. Deney'de un ve kahve suda karıştırıldığında ne olur?",
+    "a": "Tam çözünmezler; su bulanıklaşır, madde çöker veya asılı kalır (heterojen/süspansiyon karışım)."
+   },
+   {
+    "q": "V. Deney'de eklenen madde miktarı iki katına çıkarıldığında ne gözlenir?",
+    "a": "Belli bir miktara kadar çözünen maddelerde doymuşluk oluşur; fazlası çözünmez ve dipte toplanır."
+   },
+   {
+    "q": "V. Deney'de tadına bakıldığında nasıl bir değişim görülür?",
+    "a": "Çözünen madde arttıkça tat daha belirgin/yoğun hale gelir; şeker-bal tatlı, tuz tuzlu, kahve acı tat verir."
+   },
+   {
+    "q": "V. Deney'de bardaklarda görsel ve duyusal değişimlerin nedeni nedir?",
+    "a": "Maddenin çözünürlüğü ve derişimi artması; çözünen taneciklerin su molekülleri arasına girmesi tat ve görünümü değiştirir."
+   }
+  ],
+  "49": [
+   {
+    "q": "VI. Deneyde hangi sıvı daha hızlı ısınıp daha hızlı soğudu?",
+    "a": "Sıvı yağ daha hızlı ısınıp daha hızlı soğudu; su daha yavaş ısınıp daha yavaş soğudu (suyun öz ısısı yağdan büyüktür)."
+   },
+   {
+    "q": "Tabloda VI. Deney için suyun özelliği ve günlük hayattan örnek nedir?",
+    "a": "Özellik: Öz ısısının (ısı depolama kapasitesinin) yüksek olması. Günlük hayat: Kalorifer/tavan ısıtma sistemlerinde ve sıcak su torbalarında suyun uzun süre ısı vermesi."
+   },
+   {
+    "q": "Tabloda I., II., III., IV. ve V. Deney için suyun özelliği ve günlük hayat örneği nedir?",
+    "a": "Bu deneylerin içeriği verilen 49. sayfada yer almadığı için (önceki sayfalarda olduklarından) yanıtlanamaz."
+   }
+  ],
+  "52": [
+   {
+    "q": "1. Adım – Minerallerin görevleri, bulundukları besinler ve eksikliğinde çıkabilecek sorunlar hakkında ne yapmalısınız?",
+    "a": "Güvenilir kaynaklardan bu konularda bilgi toplayınız."
+   },
+   {
+    "q": "2. Adım – Yararlandığınız kaynakların güvenilirliğini nasıl kontrol edersiniz?",
+    "a": "Kaynağı tabloya yazıp; bilimsel makale mi, hakem/editör değerlendirmesinden geçmiş mi, .edu/.gov uzantılı mı, uzman görüşü var mı, son gelişmeleri yansıtıyor mu sorularıyla Evet/Hayır işaretleyerek."
+   },
+   {
+    "q": "3. Adım – Verilen tabloda ne yazacaksınız?",
+    "a": "Her mineralin fizyolojik görevlerini, bulunduğu besinleri ve eksikliğinde çıkabilecek sağlık sorunlarını ilgili kutucuklara."
+   },
+   {
+    "q": "Demir (Fe) – Fizyolojik görevi / Besinler / Eksiklik?",
+    "a": "Hemoglobinle oksijen taşınması / Karaciğer, kırmızı et, yumurta, baklagil, yeşil sebze / Anemi (kansızlık)."
+   },
+   {
+    "q": "Fosfor (P) – Fizyolojik görevi / Besinler / Eksiklik?",
+    "a": "Kemik-diş yapısı, ATP ve nükleik asit yapımı / Süt, peynir, et, balık, tahıl / Kemik zayıflığı, raşitizm."
+   },
+   {
+    "q": "İyot (I) – Fizyolojik görevi / Besinler / Eksiklik?",
+    "a": "Tiroid hormonu yapımı / İyotlu tuz, deniz ürünleri, balık / Guatr, hipotiroidi."
+   },
+   {
+    "q": "Potasyum (K) – Fizyolojik görevi / Besinler / Eksiklik?",
+    "a": "Sinir iletimi, kalp kası çalışması, hücre içi sıvı dengesi / Muz, patates, kuru kayısı, portakal / Kas güçsüzlüğü, kalp ritim bozukluğu."
+   },
+   {
+    "q": "Sodyum (Na) – Fizyolojik görevi / Besinler / Eksiklik?",
+    "a": "Hücre dışı sıvı dengesi ve sinir iletimi / Tuz, işlenmiş gıdalar / Halsizlik, kas krampı, düşük tansiyon."
+   },
+   {
+    "q": "Kalsiyum (Ca) – Fizyolojik görevi / Besinler / Eksiklik?",
+    "a": "Kemik-diş yapısı, kan pıhtılaşması, kas kasılması / Süt, peynir, yoğurt, yeşil sebze / Osteoporoz, raşitizm."
+   },
+   {
+    "q": "Magnezyum (Mg) – Fizyolojik görevi / Besinler / Eksiklik?",
+    "a": "Enzim aktivasyonu, kas-sinir çalışması / Kuruyemiş, tahıl, yeşil yapraklı sebze / Kas krampı, yorgunluk."
+   },
+   {
+    "q": "Kükürt (S) – Fizyolojik görevi / Besinler / Eksiklik?",
+    "a": "Protein/amino asit yapısı, saç ve tırnak sağlığı / Et, yumurta, süt, baklagil / Nadir; cilt ve saç sorunları."
+   },
+   {
+    "q": "Çinko (Zn) – Fizyolojik görevi / Besinler / Eksiklik?",
+    "a": "Enzim ve bağışıklık sistemi, yara iyileşmesi / Et, deniz ürünleri, kuruyemiş, tahıl / Büyüme geriliği, bağışıklık zayıflığı."
+   },
+   {
+    "q": "Flor (F) – Fizyolojik görevi / Besinler / Eksiklik?",
+    "a": "Diş-kemik sağlığı, çürük önleme / İçme suyu, çay, deniz ürünleri / Diş çürüğü, zayıf kemik."
+   },
+   {
+    "q": "Klor (Cl) – Fizyolojik görevi / Besinler / Eksiklik?",
+    "a": "Asit-baz dengesi, mide asidi, sıvı dengesi / Tuz, işlenmiş gıdalar / Elektrolit ve sıvı dengesizliği."
+   }
+  ],
+  "53": [
+   {
+    "q": "4. Tabloya yazdığınız bilgileri Form 8'deki çalışma yaprağındaki bilgilerle karşılaştırıp doğruluğunu kontrol ediniz.",
+    "a": "Bilgilerim karekod/Form 8'deki kaynaklarla karşılaştırılarak doğrulanır; görev ve sorumluluklar kararlılıkla yerine getirilir."
+   },
+   {
+    "q": "5. Su deneylerinden elde edilen verileri analiz ederek suyun canlı yaşamı üzerindeki hayati önemini yorumlayınız.",
+    "a": "Su; çözücü, taşıyıcı ve ısı düzenleyici olduğundan canlıların yaşamsal faaliyetleri için vazgeçilmezdir."
+   },
+   {
+    "q": "6. Doğru bilgiye ulaşmanızı sağlayacak yöntemleri ve bilgi kaynaklarını kullanıp değerlendiriniz.",
+    "a": "Güvenilir kitap, dergi ve bilimsel siteler kullanılır; bilgiler karşılaştırılıp kaynağın güvenilirliği değerlendirilir."
+   },
+   {
+    "q": "7. Mineral eksikliğinden kaynaklanabilecek sağlık sorunlarını en aza indirmede yeterli ve dengeli beslenmenin rolünü yorumlayınız.",
+    "a": "Yeterli ve dengeli beslenme tüm mineralleri yeterince sağlar; böylece mineral eksikliğine bağlı hastalıklar önlenir."
+   },
+   {
+    "q": "8. Yorumlarınızı kendi beslenme alışkanlıklarınızla ilişkilendirip yeterli ve dengeli beslenmek için neler yapabileceğinizi paylaşınız.",
+    "a": "Sebze-meyve, süt, et, tahıl ve baklagil çeşitliliğiyle beslenmeli; abur cubur azaltılmalı ve öğünler düzenli olmalıdır."
+   },
+   {
+    "q": "9. İnorganik moleküller, suyun özellikleri ve minerallerin görevlerini içeren bir broşür hazırlayınız.",
+    "a": "Su ve minerallerin özellikleri, görevleri ve eksikliklerinde görülen hastalıkları içeren görselli bir broşür hazırlanır."
+   },
+   {
+    "q": "Bulmaca – Soldan Sağa 2. Aynı tür moleküllerin kendi aralarındaki çekim kuvveti.",
+    "a": "Kohezyon"
+   },
+   {
+    "q": "Bulmaca – Soldan Sağa 4. Eksikliği bitkilerin genç yapraklarında solmaya neden olan mineral.",
+    "a": "Kalsiyum"
+   },
+   {
+    "q": "Bulmaca – Soldan Sağa 6. İyot eksikliğinde ortaya çıkan hastalık.",
+    "a": "Guatr"
+   },
+   {
+    "q": "Bulmaca – Soldan Sağa 7. Farklı tür moleküller arasındaki çekim kuvveti.",
+    "a": "Adezyon"
+   },
+   {
+    "q": "Bulmaca – Soldan Sağa 8. Yeşil yapraklı bitkilerin ve kabuklu yemişlerin yapısında bolca bulunan mineral.",
+    "a": "Magnezyum"
+   },
+   {
+    "q": "Bulmaca – Yukarıdan Aşağıya 1. Eksikliği bağışıklığın zayıflamasına neden olan mineral.",
+    "a": "Çinko"
+   },
+   {
+    "q": "Bulmaca – Yukarıdan Aşağıya 2. Vücutta sıvı-elektrolit dengesini sağlayan mineral.",
+    "a": "Sodyum"
+   },
+   {
+    "q": "Bulmaca – Yukarıdan Aşağıya 3. Kanda oksijenin taşınmasında görevli mineral.",
+    "a": "Demir"
+   },
+   {
+    "q": "Bulmaca – Yukarıdan Aşağıya 4. Kemik ve diş sağlığı açısından önemli mineral.",
+    "a": "Kalsiyum"
+   },
+   {
+    "q": "Bulmaca – Yukarıdan Aşağıya 5. Eksikliği kalp atışlarında düzensizliğe sebep olan mineral.",
+    "a": "Potasyum"
+   }
+  ],
+  "54": [
+   {
+    "q": "Organik Bileşikler: (kavram haritası 1. madde)",
+    "a": "Karbon"
+   },
+   {
+    "q": "Organik Bileşikler: (2. madde)",
+    "a": "Hidrojen"
+   },
+   {
+    "q": "Organik Bileşikler: (3. madde)",
+    "a": "Kovalent bağ"
+   },
+   {
+    "q": "Organik Bileşikler: (4. madde)",
+    "a": "Karbon zinciri"
+   },
+   {
+    "q": "Organik Bileşikler: (5. madde)",
+    "a": "Fonksiyonel grup"
+   },
+   {
+    "q": "Organik Bileşikler: (6. madde)",
+    "a": "Alkol"
+   },
+   {
+    "q": "Organik Bileşikler: (7. madde)",
+    "a": "Karboksilik asit"
+   },
+   {
+    "q": "Organik Bileşikler: (8. madde)",
+    "a": "Polimer"
+   },
+   {
+    "q": "Organik Bileşikler: (9. madde)",
+    "a": "Glikoz"
+   },
+   {
+    "q": "Organik Bileşikler: (10. madde)",
+    "a": "Protein"
+   },
+   {
+    "q": "1. Cümle",
+    "a": "Organik bileşiklerin yapısında temel olarak karbon atomu bulunur."
+   },
+   {
+    "q": "2. Cümle",
+    "a": "Karbon atomları kovalent bağlarla bağlanarak zincir oluşturur."
+   },
+   {
+    "q": "3. Cümle",
+    "a": "Organik bileşikler canlıların yapısında yer alır."
+   },
+   {
+    "q": "4. Cümle",
+    "a": "Alkol ve karboksilik asit birer organik bileşiktir."
+   },
+   {
+    "q": "5. Cümle",
+    "a": "Fonksiyonel gruplar organik bileşiğin özelliklerini belirler."
+   },
+   {
+    "q": "6. Cümle",
+    "a": "Glikoz, protein ve yağlar organik moleküllerdir."
+   },
+   {
+    "q": "7. Cümle",
+    "a": "Polimerler küçük birimlerin birleşmesiyle oluşur."
+   },
+   {
+    "q": "8. Cümle",
+    "a": "Organik bileşikler genellikle yanıcıdır."
+   },
+   {
+    "q": "9. Cümle",
+    "a": "Bitkiler fotosentezle organik bileşik üretir."
+   },
+   {
+    "q": "10. Cümle",
+    "a": "Organik bileşikler yaşamın temel yapı taşlarıdır."
+   }
+  ],
+  "55": [
+   {
+    "q": "7. Etkinlik'in adı nedir?",
+    "a": "Organik Moleküller"
+   },
+   {
+    "q": "Etkinliğin amacı nedir?",
+    "a": "Organik moleküllerin yapısı ve çeşitleriyle ilgili bilgi toplayabilme"
+   },
+   {
+    "q": "Etkinliğin süresi nedir?",
+    "a": "80 dakika"
+   },
+   {
+    "q": "Etkinlik nasıl değerlendirilecek?",
+    "a": "Öğretmenin oluşturacağı \"Puanlama Anahtarı\" ile"
+   },
+   {
+    "q": "1. işlem basamağı nedir?",
+    "a": "Öğretmen rehberliğinde beşer kişilik heterojen gruplar oluşturulur."
+   },
+   {
+    "q": "2. işlem basamağı nedir?",
+    "a": "\"Organik Moleküller ve İlişkili Kavramlar\" tablosundan bir organik molekül grubu seçilir; her birey farklı grup seçer."
+   }
+  ],
+  "73": [
+   {
+    "q": "Kavram haritasının merkezindeki \"ORGANİK MOLEKÜLLER\"in alt başlıkları (çeşitleri) nelerdir?",
+    "a": "Karbonhidratlar, lipitler, proteinler, vitaminler, nükleik asitler (DNA-RNA) ve enzimler."
+   },
+   {
+    "q": "\"Çeşitleri\" başlığının altındaki boşluklara ne yazılır?",
+    "a": "Karbonhidrat, lipit, protein, vitamin, nükleik asit, enzim."
+   },
+   {
+    "q": "\"Enzimler\" başlığı altındaki boşluklara ne yazılır?",
+    "a": "Protein yapılıdır, tepkimeyi hızlandırır, tepkimeden değişmeden çıkar, özgüldür (substrata özel), tekrar kullanılabilir, proteinler gibi denatüre olur."
+   },
+   {
+    "q": "\"Lipitler\" başlığı altındaki boşluklara ne yazılır?",
+    "a": "Nötral yağlar, fosfolipitler, steroidler (kolesterol), mumlar; yapı birimi yağ asidi + gliserol."
+   },
+   {
+    "q": "\"Yapısındaki şekerin türüne göre\" boşlukları nelerdir?",
+    "a": "Pentoz (5 karbonlu) ve heksoz (6 karbonlu) şekerler."
+   },
+   {
+    "q": "\"Monomer sayısına göre\" boşlukları nelerdir?",
+    "a": "Monosakkarit (tek), disakkarit (iki), polisakkarit (çok)."
+   },
+   {
+    "q": "\"Yapılarına göre\" boşlukları nelerdir?",
+    "a": "Basit (monomer) ve bileşik (polimer) yapılı moleküller."
+   },
+   {
+    "q": "\"Çözündüğü maddeye göre\" boşlukları nelerdir?",
+    "a": "Suda çözünenler ve yağda çözünenler."
+   },
+   {
+    "q": "\"İki kısımdan oluşur.\" ifadesi hangi molekülü açıklar?",
+    "a": "Disakkaritler (iki monosakkaritin birleşmesiyle oluşur); örn. sükroz, laktoz, maltoz."
+   },
+   {
+    "q": "\"Örnek\" boşluklarına ne yazılır?",
+    "a": "Monosakkarit: glikoz, fruktoz, galaktoz; disakkarit: sükroz, laktoz, maltoz; polisakkarit: nişasta, glikojen, selüloz."
+   }
+  ],
+  "74": [
+   {
+    "q": "Organik moleküllerin tespitinde ayıraçlar nasıl kullanılır?",
+    "a": "Ayıraçlar tespit edilecek molekülle etkileşime girip renk değiştirir; bu renk değişiminden molekülün varlığı anlaşılır."
+   },
+   {
+    "q": "Günlük tüketilen besinlerin içeriğinde hangi organik molekül olduğu nasıl anlaşılır?",
+    "a": "Besin etiketleri incelenir ve basit gözlem ile ayıraç testleriyle (karbonhidrat, yağ, protein) içerik tespit edilir."
+   },
+   {
+    "q": "Süt ve süt ürünlerindeki karbohidratların belirlenmesinde kullanılan ayıraçlar nelerdir?",
+    "a": "Benedict (veya Fehling) ayıracı; şeker varlığında renk değişimi gözlenir."
+   },
+   {
+    "q": "Zeytinyağının saf olup olmadığı nasıl anlaşılır?",
+    "a": "Basit testler ve gözlemlerle yüksek kaliteli ve saf ürün olup olmadığı anlaşılır."
+   }
+  ],
+  "75": [
+   {
+    "q": "Karbohidrat, protein ve lipitler için kullanılan ayıraç çeşitlerini ve oluşturdukları renkleri gösteren \"Organik Moleküllerin Ayıraçları\" tablosunu inceleyiniz.",
+    "a": "Karbohidratlar: Nişasta–iyot (mavi-mor), glikojen–iyot (kahverengi-kırmızı), selüloz–iyotlu çinko klorür (açık mavi/yeşil), glikoz/fruktoz–Benedict veya Fehling (kiremit kırmızısı/turuncu), monosakkarit–Barfoed (kırmızı). Proteinler: nitrik asit (sarı), Fehling (menekşe), biüret (açık mavi/mor), Coomassie mavisi (mavi), amino asitler–ninhidrin (sarı/mor). Lipitler: Sudan III/IV (kırmızı/turuncu), Sudan kırmızısı (kırmızı), doymamış yağlar–osmik asit (siyah/koyu kahverengi)."
+   }
+  ],
+  "76": [
+   {
+    "q": "2. Elma, patates, süt, yumurta, ekmek, fındık, ceviz, peynir, bakla, fasulye, ayçiçeği yağındaki organik molekülleri tahmin edip tabloya yazınız.",
+    "a": "Karbohidrat: elma, patates, süt, ekmek, fındık, ceviz, bakla, fasulye. Protein: süt, yumurta, peynir, bakla, fasulye, fındık, ceviz, ekmek. Yağ: fındık, ceviz, peynir, süt, yumurta, ayçiçeği yağı."
+   },
+   {
+    "q": "3. Beşer kişilik heterojen öğrenci ekipleri oluşturunuz.",
+    "a": "Her ekipte farklı özellik ve görevde (araştırmacı, gözlemci, yazıcı, malzeme sorumlusu, sunucu) beş öğrenci olacak şekilde heterojen ekipler kurulur."
+   },
+   {
+    "q": "4. Besinlerdeki organik moleküllerin niteliksel tayini için ayıraçların kullanılacağı deneyler tasarlayınız.",
+    "a": "Karbohidrat için Benedict/Fehling ve nişasta için iyot çözeltisi; protein için Biüret ayıracı; yağ için Sudan III ve kâğıt (yağ lekesi) testi kullanılan deneyler tasarlanır."
+   },
+   {
+    "q": "5. Karbohidrat Tayini: Kullanılacak besinler, ayıraçlar ve deney planı nedir?",
+    "a": "Besinler: elma, patates, ekmek. Ayıraçlar: Benedict/Fehling çözeltisi, nişasta için iyot (Lugol). Plan: Örnekler ezilip suyla karıştırılır; her birine Benedict eklenip su banyosunda ısıtılır, kiremit kırmızısı renk indirgeyici şeker olduğunu gösterir; ayrı örneklere iyot damlatılır, mavi-siyah renk nişastayı gösterir."
+   },
+   {
+    "q": "5. Protein Tayini: Kullanılacak besinler, ayıraçlar ve deney planı nedir?",
+    "a": "Besinler: süt, yumurta akı, peynir. Ayıraçlar: Biüret ayıracı (NaOH + CuSO₄). Plan: Örnekler suyla karıştırılır; eşit hacimde Biüret eklenir; mor-menekşe renk protein varlığını gösterir."
+   },
+   {
+    "q": "5. Yağ Tayini: Kullanılacak besinler, ayıraçlar ve deney planı nedir?",
+    "a": "Besinler: fındık, ceviz, ayçiçeği yağı. Ayıraçlar: Sudan III (veya kâğıt testi). Plan: Örnek ezilip Sudan III ile boyanır, mikroskopta yağ damlacıkları kırmızı görünür; ayrıca besin kâğıda sürülür, ışık geçirgen yağ lekesi kalıcı olursa yağ vardır."
+   }
+  ],
+  "77": [
+   {
+    "q": "6. Besinlerdeki organik molekülleri tayin edebilmek için tasarladığınız deneyi nasıl gerçekleştirirsiniz?",
+    "a": "Nişasta için iyot (Lugol), protein için biüret, glikoz için Benedict, yağ için kâğıt/emülsiyon testi kullanarak besin örneklerine ayıraçları ayrı ayrı ekleyip renk değişimini gözlemleyerek."
+   },
+   {
+    "q": "7. Deney süresince nelere dikkat edilmelidir?",
+    "a": "Laboratuvar kurallarına uyulmalı, önlük ve gözlük takılmalı, kimyasallara doğrudan temas ve tatma önlenmeli, güvenlik önlemleri alınmalıdır."
+   },
+   {
+    "q": "8. Etkinlikte nasıl bir çalışma tutumu gerekir?",
+    "a": "Her basamakta dikkatli, sistemli ve sabırlı olunmalıdır; bu, güvenilir ve geçerli sonuç verir."
+   },
+   {
+    "q": "9. Gözlem ve bulgular tabloya nasıl kaydedilir?",
+    "a": "Her besin için kullanılan ayıraç, renk değişimi (var/yok), ayıracın renk değişimi ve sonuç sütunları doldurularak kaydedilir."
+   },
+   {
+    "q": "10. Renk değişimi görülmediğinde ne yapılır?",
+    "a": "Aynı besin için farklı bir ayıraç kullanılarak deney tekrarlanır."
+   },
+   {
+    "q": "11. Ekipler arası bulgu farklılıkları nasıl değerlendirilir?",
+    "a": "Bulgular diğer ekiplerle karşılaştırılır; farklıysa nedenleri (ölçüm hatası, ayıraç miktarı, bozulma, yöntem farkı) tartışılıp olası nedenler tahmin edilir."
+   },
+   {
+    "q": "12. Deney raporu nasıl hazırlanır?",
+    "a": "Karekod ile verilen \"Deney Raporu\" formatına uygun olarak hazırlanır."
+   },
+   {
+    "q": "13. Sınıf sunusu nasıl hazırlanır?",
+    "a": "Her ekipten bir sözcü belirlenir; uygulama aşamalarını ve bulguları içeren 5-10 dakikalık sunu hazırlanıp sınıfta paylaşılır."
+   },
+   {
+    "q": "14. Bulgular nerede paylaşılır?",
+    "a": "Belirlenen bir dijital ortamda paylaşılır."
+   },
+   {
+    "q": "Değerlendirme başlığında hangi formlar yer alır?",
+    "a": "Deney Tasarlama Formu, Öz Değerlendirme Formu, Analitik Dereceli Puanlama Anahtarı ve Grup Değerlendirme Formu."
+   }
+  ],
+  "78": [
+   {
+    "q": "Hangi kutucuklardaki besinler protein içerir?",
+    "a": "C (Nohut), Ç (Et), D (Ceviz), G (Süt), H (Bakla), İ (Yumurta)"
+   },
+   {
+    "q": "Hangi kutucuklardaki ayıraçlar karbohidratla renk değişimi gösterir?",
+    "a": "Ğ (İyot), L (Benedict çözeltisi), M (Fehling çözeltisi)"
+   },
+   {
+    "q": "Hangi kutucuklardaki ayıraçlar yağlarla kırmızı renk verir?",
+    "a": "I (Sudan III)"
+   },
+   {
+    "q": "Hangi kutucuklardaki besinler karbohidrat içerir?",
+    "a": "B (Makarna), C (Nohut), F (Patates), G (Süt), H (Bakla)"
+   },
+   {
+    "q": "Hangi kutucuklardaki ayıraçlar proteinlerle renk değişimi gösterir?",
+    "a": "K (Biüret)"
+   },
+   {
+    "q": "Hangi kutucuklardaki ayıraçlar karbohidratlarla kiremit kırmızısı renk verir?",
+    "a": "L (Benedict çözeltisi), M (Fehling çözeltisi)"
+   }
+  ],
+  "79": [
+   {
+    "q": "Sindirim enzimlerinin çoğu niçin midede çalışmaz?",
+    "a": "Mide ortamı çok asidiktir (pH ~2) ve bu enzimlerin optimum pH'ı farklıdır; uç pH yapılarını bozar."
+   },
+   {
+    "q": "Oda sıcaklığında bekletilen tohumların, sıcaklığı düşük ortamlardaki tohumlardan daha önce çimlenmesinin sebebi ne olabilir?",
+    "a": "Oda sıcaklığında moleküler kinetik enerji ve enzim aktivitesi daha yüksek olduğundan metabolik tepkimeler hızlanır."
+   },
+   {
+    "q": "Bitki tohumları neden kuru ve serin yerde saklanır?",
+    "a": "Kuru ve serin ortamda su ve sıcaklık yetersiz olduğundan enzim aktivitesi yavaşlar, çimlenme (bozulma) engellenir."
+   }
+  ],
+  "80": [
+   {
+    "q": "Etkinliğin adı nedir?",
+    "a": "Katalaz Aktivitesinin Ölçümü."
+   },
+   {
+    "q": "Etkinliğin amacı nedir?",
+    "a": "Katalaz aktivitesini belirleyebilme."
+   },
+   {
+    "q": "Etkinliğin süresi nedir?",
+    "a": "40 dakika."
+   },
+   {
+    "q": "Katalaz kaynağı olarak ne kullanılır?",
+    "a": "Yaş hamur mayası ya da kuru maya."
+   },
+   {
+    "q": "Katalaz enzimi nedir?",
+    "a": "Hücrelerde üretilen, serbest radikallerin etkisini azaltan antioksidan bir enzimdir."
+   },
+   {
+    "q": "Katalaz enzimi hangi maddeyi parçalar?",
+    "a": "Hidrojen peroksiti (toksik bileşik) su ve oksijene dönüştürür."
+   },
+   {
+    "q": "Etkinlikte kaç kişilik ekipler oluşturulur?",
+    "a": "Beşer kişilik heterojen ekipler."
+   },
+   {
+    "q": "Maya çözeltisi nasıl hazırlanır?",
+    "a": "İki tatlı kaşığı yaş maya veya bir paket kuru maya 200 ml suda yavaşça karıştırılır."
+   },
+   {
+    "q": "Hangi derişimde hidrojen peroksit kullanılır?",
+    "a": "%30 (v/v)."
+   },
+   {
+    "q": "Açığa çıkan gaz nasıl toplanır?",
+    "a": "Su dolu ters dereceli silindirde suyun yerini alarak (ürün toplama alanı)."
+   },
+   {
+    "q": "Bağımlı değişken nedir?",
+    "a": "Katalaz aktivitesi (açığa çıkan oksijen miktarı/hızı)."
+   },
+   {
+    "q": "Bağımsız değişken ne olabilir?",
+    "a": "Sıcaklık ve pH."
+   },
+   {
+    "q": "Neden eldiven, gözlük ve önlük kullanılır?",
+    "a": "%30 hidrojen peroksit yakıcı olduğundan güvenlik için."
+   },
+   {
+    "q": "Etkinlikte başka hangi enzimler kullanılabilir?",
+    "a": "Amilaz, lipaz vb. kolay ulaşılabilen enzimler."
+   }
+  ],
+  "81": [
+   {
+    "q": "Ekip olarak elde ettiğiniz sonuçları diğer ekiplerin sonuçlarıyla karşılaştırınız.",
+    "a": "Sonuçlar büyük ölçüde benzerdir; farklar ölçüm hatası, sıcaklık ve maya miktarından kaynaklanır."
+   },
+   {
+    "q": "Aynı deney koşullarında, hidrojen peroksit konsantrasyonu veya maya miktarı artırıldığında deneyinizin sonucunda nasıl bir değişiklik olabileceğini tartışınız.",
+    "a": "Bir noktaya kadar substrat veya enzim artışı kabarcık sayısını (reaksiyon hızını) artırır; enzim sabitken substrat artışı belli bir noktadan sonra hızı değiştirmez (doygunluk)."
+   },
+   {
+    "q": "Ortamın pH değerini değiştirebilmek için kullanılabilecek malzemeler nelerdir?",
+    "a": "Asit (HCl) ve baz (NaOH) çözeltileri ya da farklı pH tampon çözeltileri."
+   },
+   {
+    "q": "Ortamın sıcaklığını değiştirebilmek için kullanılabilecek malzemeler/ortamlar nelerdir?",
+    "a": "Su banyosu, buz, sıcak su, termometre ve ısıtıcı (etüv)."
+   }
+  ],
+  "82": [
+   {
+    "q": "3. Deneyde bağımlı, bağımsız ve kontrol değişkenlerini belirleyip tabloya yazınız (pH ve sıcaklık etkisi).",
+    "a": "Bağımsız değişken: pH / sıcaklık (değiştirilen etken); Bağımlı değişken: katalaz aktivitesi (beş dakikadaki hava kabarcığı sayısı); Kontrol değişkenleri: enzim (katalaz) miktarı ve derişimi, substrat (H₂O₂) miktarı ve derişimi, süre (5 dk), tüp/ortam ve toplam hacim (sıcaklık deneyinde pH sabit, pH deneyinde sıcaklık sabit)."
+   },
+   {
+    "q": "4. Farklı pH ve sıcaklık değerlerinin katalaz aktivitesine etkisini ölçebileceğiniz deneyler tasarlayınız.",
+    "a": "Sıcaklık deneyi: aynı miktarda katalaz ve H₂O₂ alınıp tüpler 10, 20, 30, 40, 60, 80 °C su banyolarına konur; pH deneyi: katalaz/H₂O₂ ortamı pH 3, 5, 7, 9, 11 tamponlarına ayarlanır; her tüpteki 5 dakikalık kabarcık sayısı sayılır."
+   },
+   {
+    "q": "5. Deneylerde ortam sıcaklığını ve pH değerini değiştirebileceğiniz malzemeleri/ortamları kullanınız.",
+    "a": "Sıcaklık için su banyosu/termometreli ısıtıcı ve buz; pH için tampon çözeltiler veya asit/baz (HCl, NaOH) ile pH kâğıdı/ pH metre kullanılır."
+   },
+   {
+    "q": "6. Olası hata kaynaklarını en aza indirmek için gerekli tedbirleri alınız (kontrol değişkenleri sabit).",
+    "a": "Tüm tüplerde aynı hacim ve derişimde enzim/substrat, aynı süre ve aynı sayım yöntemi kullanılır; sıcaklık ve pH termometre/pH metre ile ölçülüp sabit tutulur, deney tekrarlanıp ortalama alınır."
+   },
+   {
+    "q": "7. Sıcaklık ve pH etkisini belirlemek için bağımsız değişkenlerin değiştirildiği koşullarda deneyi gerçekleştiriniz.",
+    "a": "Tek seferde yalnızca bir bağımsız değişken değiştirilerek (sıcaklık serisi ve pH serisi ayrı ayrı) “Katalaz Aktivitesinin Ölçümü” deneyi yapılır."
+   },
+   {
+    "q": "8. Beş dakikada ölçülen kabarcık sayısını tablolara yazıp sıcaklık ve pH grafiklerini çiziniz.",
+    "a": "Her koşul için 5 dakikadaki kabarcık sayısı tabloya kaydedilir; sıcaklık-kabarcık ve pH-kabarcık grafikleri çizilir (sıcaklıkta optimum ~30–40 °C'de tepe, pH'ta optimum ~7 civarında tepe olan çan eğrisi)."
+   },
+   {
+    "q": "9. Sonuçlarınızı aynı değişkeni çalışan farklı grupların sonuçlarıyla karşılaştırınız; farklılık varsa nedenlerini tartışınız.",
+    "a": "Sonuçlar genelde benzer eğilim gösterir; farklar enzim/substrat miktarı, sıcaklık-pH ölçüm hassasiyeti, sayım hatası, süre farkı ve kullanılan doku kaynağından kaynaklanabilir."
+   },
+   {
+    "q": "10. Sonuçların her enzim için genellenip genellenemeyeceğini tartışınız.",
+    "a": "Genellenemez; her enzimin optimum sıcaklık ve pH'ı farklıdır (örn. pepsin asidik, tripsin bazik), bu yüzden sonuçlar katalaza özgüdür."
+   },
+   {
+    "q": "11. Asitli içecek tüketimi mide asitliğini değiştirerek sindirim enzimlerini nasıl etkiler?",
+    "a": "Asitli içecekler mide pH'ını düşürür (daha asidik yapar); optimum dışına çıkan pH enzimlerin yapısını bozarak aktiviteyi azaltır, sindirim yavaşlar."
+   },
+   {
+    "q": "12. Gıdaların saklanması ve peynir-yoğurt mayalanmasında sıcaklığa dikkat edilmesinin nedenini deney sonuçlarına göre açıklayınız.",
+    "a": "Sıcaklık optimumun üzerinde enzimleri denatüre eder, altında aktiviteyi yavaşlatır; bu yüzden saklamada düşük sıcaklık bozulmayı azaltır, mayalamada ise uygun (ılık) sıcaklık enzim ve mikroorganizma faaliyetini sağlar."
+   }
+  ],
+  "83": [
+   {
+    "q": "1. Deney düzeneğindeki 1. tüpte nasıl bir sonuç beklenebilir? Açıklayınız.",
+    "a": "1. tüpte hidrojen peroksit (substrat) yoktur; bu yüzden enzim substratı parçalayamaz, tepkime gerçekleşmez ve balon şişmez."
+   },
+   {
+    "q": "2. Deneyin bağımlı, bağımsız ve kontrol değişkenleri nelerdir? Yazınız.",
+    "a": "Bağımsız değişken: pH, sıcaklık ve karaciğer özütü miktarı. Bağımlı değişken: balon hacmindeki değişim (enzim aktivitesi/açığa çıkan oksijen). Kontrol değişkenleri: hidrojen peroksit miktarı, deney tüpleri ve bekletme süresi."
+   },
+   {
+    "q": "3. Hangi deney tüpündeki sonuçlar, pH değerindeki değişikliğin enzim aktivitesi üzerine etkisini ölçebilmek için kullanılmalıdır? Açıklayınız.",
+    "a": "2., 3. ve 6. tüpler kullanılmalıdır; bu tüplerde diğer değişkenler sabit (37 °C, 10 ml özüt) olup yalnızca pH sırasıyla 7, 4 ve 12’dir."
+   },
+   {
+    "q": "4. Hangi deney tüpündeki sonuçlar, sıcaklık değerindeki değişikliğin enzim aktivitesi üzerine etkisini belirlemek için kullanılmalıdır? Açıklayınız.",
+    "a": "2., 4. ve 5. tüpler kullanılmalıdır; bu tüplerde pH 7 ve özüt miktarı 10 ml sabit olup sıcaklık sırasıyla 37, 5 ve 80 °C’dir."
+   }
+  ],
+  "84": [
+   {
+    "q": "Alexander Fleming'in penisilin keşfi sadece tesadüflerle açıklanabilir mi? Alexander Fleming'in bu beklenmedik sonuçları değerlendirme yeteneği, bilim insanlarının hangi özellikleriyle ilgilidir?",
+    "a": "Hayır, sadece tesadüfle açıklanamaz. Bu, bilim insanının merakı, dikkatli gözlem yapması, deneyim ve bilgisiyle beklenmedik durumu sorgulaması, fark ettiği sonucu değerlendirmesi gibi özellikleriyle ilgilidir."
+   },
+   {
+    "q": "Bilimsel çalışmaların ve uzun vadeli araştırmaların başarılı olmasında sürekliliğin neden gerekli olduğunu açıklayınız.",
+    "a": "Çünkü bilimsel çalışmalar zaman, deneme ve tekrar gerektirir; sabır, azim ve süreklilik olmadan yeni buluşlar ortaya çıkmaz ve önceki bulgular geliştirilerek sonuca ulaşılamaz."
+   },
+   {
+    "q": "3. soru",
+    "a": "Sayfa metninde 3. soru yer almamaktadır."
+   }
+  ],
+  "85": [
+   {
+    "q": "3. Penisilinin keşfi gerçekleşmeseydi tıp ve bilim dünyasındaki etkileri nasıl olurdu? Bu durum toplum sağlığı üzerinde ne gibi sonuçlar doğururdu?",
+    "a": "Bakteriyel enfeksiyonlar tedavi edilemez, salgınlar ve ölüm oranları artardı; cerrahi ve tıbbi gelişmeler büyük ölçüde sekteye uğrar, antibiyotik çağı yaşanmazdı."
+   },
+   {
+    "q": "4. Grafiklere göre nakledilen popülasyon ile kaynak popülasyonun benek sayısı ve benek alanları nasıl karşılaştırılır?",
+    "a": "Nakledilen popülasyonda erkek lepisteslerin renkli benek sayısı ve benek alanları, kaynak popülasyona göre daha fazla ve daha büyüktür."
+   },
+   {
+    "q": "5. Parlak renkli erkekliğin lepistes için avantaj ve dezavantajı nedir?",
+    "a": "Avantajı dişiler tarafından tercih edilip daha çok yavru sahibi olması; dezavantajı avcılar tarafından daha kolay fark edilmesidir."
+   },
+   {
+    "q": "6. Turna balığının bulunduğu ortamda parlak erkek lepisteslerin yaşama şansı neden azalır?",
+    "a": "Turna balığı yetişkin lepistesleri avlar ve parlak renkleri kolayca fark eder, bu nedenle parlak erkekler daha çok yenir."
+   },
+   {
+    "q": "7. Sazancık bulunan havuza taşınan lepisteslerde 15 nesil sonra neden daha parlak renkler görülmüştür?",
+    "a": "Yetişkinler avlanmadığı için parlak renkli erkekler yaşayıp üreyebilmiş, doğal seçilim parlak renkleri desteklemiştir."
+   }
+  ],
+  "86": [
+   {
+    "q": "4.a) Soru",
+    "a": "Sazancık (avcı) bulunan havuza nakledilen lepistes erkeklerinde benek sayısı ve beneklerin kapladığı alan zamanla değişir mi?"
+   },
+   {
+    "q": "4.b) Hipotez",
+    "a": "Avcı baskısı olan ortamda yaşayan lepistes erkeklerinin benek sayısı ve beneklerin kapladığı alan azalır."
+   },
+   {
+    "q": "4.c) Tahmin",
+    "a": "Nakledilen popülasyondaki erkeklerin benek sayısında ve benek alanında azalma olur."
+   },
+   {
+    "q": "4.ç) Kontrol grubu",
+    "a": "Sazancığın bulunmadığı kaynak havuzdaki lepistes popülasyonu."
+   },
+   {
+    "q": "4.d) Deney grubu",
+    "a": "Sazancıkların bulunduğu havuza nakledilen lepistes popülasyonu."
+   },
+   {
+    "q": "5. Doğru çıkarım hangisidir?",
+    "a": "II (benek sayısı ve beneklerin kapladığı alanda belirgin azalma)."
+   },
+   {
+    "q": "6. Lepistesler 22 ay sonra kaynak havuzuna döndürülürse ne olur?",
+    "a": "Avcı baskısı kalktığı için zamanla benek sayısı ve benek alanı yeniden artar, popülasyon eski görünümüne döner."
+   },
+   {
+    "q": "7. Bu araştırmada bilimin doğasının hangi özellikleri incelenmiştir?",
+    "a": "Kanıta/gözleme dayalılık, deneyle test edilebilirlik, tekrarlanabilirlik, bilginin değişebilirliği ve doğal dünyayı doğaüstü olmayan biçimde açıklaması."
+   },
+   {
+    "q": "8. (Metne göre kral yılanı–mercan yılanı taklidiyle ilgili soru; soru metni sayfada verilmemiştir)",
+    "a": "Halkalı desenli kral yılanları, zehirli mercan yılanlarının bulunduğu bölgede avcılardan korunmak için taklit (mimikri) yapar; bu nedenle güneyde halkalı, kuzeyde kahverengi görünürler."
+   },
+   {
+    "q": "9. (Plastik model deneyine ilişkin soru; soru metni sayfada verilmemiştir)",
+    "a": "Zehirli mercan yılanının bulunduğu bölgelerde halkalı modeller kahverengilere göre çok daha az saldırı aldığından, halkalı desen taklidi avcıya karşı koruma sağlar."
+   }
+  ],
+  "87": [
+   {
+    "q": "8. Araştırmacıların doğal ortama canlı yılanlar yerine plastik yılan modelleri bırakmalarının ve üzerindeki diş izlerini incelemelerinin bilimsel yöntemin doğası açısından temel gerekçesi nedir?",
+    "a": "Değişkenleri kontrol altında tutup güvenli, tekrarlanabilir ve etik gözlem/deney yapmak; canlıyı rahatsız etmeden nesnel veri toplamak."
+   },
+   {
+    "q": "9. Yapılan bu çalışma, bilimsel bilginin üretilme süreciyle ilgili hangi çıkarımları doğrulamaktadır? (Birden fazla seçilebilir.)",
+    "a": "A, Ç ve D."
+   },
+   {
+    "q": "10. B'nin verilerin bir kısmını referans göstermeden kullanması etik ihlaldir. B, veri kullanımında etik sorumlulukları göz önünde bulundurarak nasıl bir yaklaşım izlemeliydi?",
+    "a": "Kullandığı tüm kaynakları eksiksiz atıf/referans göstererek belirtmeli, intihalden kaçınmalı ve başkalarının emeğine saygı göstermeliydi."
+   }
+  ],
+  "88": [
+   {
+    "q": "11. Verilen örnek olayda başka hangi etik ihlaller mevcuttur?",
+    "a": "İntihal (aşırma), veri uydurma/sahteleme, çarpıtma, kaynak göstermeme, gizliliği ihlal, aydınlatılmış onam almama gibi ihlaller."
+   },
+   {
+    "q": "12. Metinde verilen etik ihlallerin bilimsel araştırmalara olan etkileri neler olabilir?",
+    "a": "Sonuçların güvenilirliği azalır, yanlış bilgi yayılır, tekrarlanabilirlik bozulur, bilime duyulan güven sarsılır ve kaynak israfı olur."
+   },
+   {
+    "q": "13. Araştırmacıların etik standartlara uygun davranmalarının bilim insanlarının güvenilirlikleri ve itibarları üzerindeki etkileri neler olabilir?",
+    "a": "Güvenilirlik ve itibar artar, çalışmalarına saygı duyulur, iş birliği ve destek kolaylaşır, bilim toplumda güven kazanır."
+   },
+   {
+    "q": "14. Hangi öğrencilerin verdiği cevaplar doğrudur?",
+    "a": "Gökhan, Seda ve Esra'nın cevapları doğrudur."
+   }
+  ],
+  "89": [
+   {
+    "q": "15. Hangi öğrencilerin cevapları kısmen doğrudur? Bu öğrencilerin cevaplarındaki hatalı kısımları düzeltiniz.",
+    "a": "Sayfada öğrenci cevapları yer almadığından belirlenemez."
+   },
+   {
+    "q": "16. Hangi öğrencilerin cevapları tamamen hatalıdır? Bu öğrencilerin verdikleri cevapların doğrusunu yazınız.",
+    "a": "Sayfada öğrenci cevapları yer almadığından belirlenemez."
+   },
+   {
+    "q": "17, 18, 19 ve 20. soruların metni sayfada verilmemiştir.",
+    "a": "Bu soruların metni olmadığı için cevaplanamaz."
+   },
+   {
+    "q": "Tablodaki tahlil sonuçlarına göre referans aralığı dışında (anormal) olan değerler hangileridir?",
+    "a": "Magnezyum (29,0; düşük), Kalsiyum (50,0; düşük), Potasyum (1200; düşük), Fosfor (250; düşük), Sodyum (1428; düşük) ve Cıva (4,0; yüksek)."
+   }
+  ],
+  "90": [
+   {
+    "q": "21. Karıncaların su üzerinde nasıl kaldığını araştıran bir öğrencinin aşağıdakilerden hangisini araştırması beklenmez?",
+    "a": "E) Nesnelerin su üzerinde oluşturduğu dönme hareketi"
+   },
+   {
+    "q": "17. Hastanın kalsiyum değerinin normal değerlere ulaşması için hangi besinleri tüketmesi gerekir?",
+    "a": "Süt ve süt ürünleri (yoğurt, peynir), yeşil yapraklı sebzeler, susam, badem ve kuru baklagiller."
+   },
+   {
+    "q": "18. Magnezyum eksikliği uzun süre tedavi edilmezse hangi sistemlerde anormallikler oluşabilir?",
+    "a": "Sinir ve kas sistemlerinde (ayrıca kalp-damar sisteminde) anormallikler oluşabilir."
+   },
+   {
+    "q": "19. Fosfor eksikliği başka bir mineral ile giderilebilir mi? Açıklayınız.",
+    "a": "Hayır. Her mineralin vücutta farklı görevi vardır; fosforun yerini başka bir mineral dolduramaz, eksiklik ancak fosfor içeren besinlerle giderilir."
+   },
+   {
+    "q": "20. Mineral eksikliğinden kaynaklanabilecek sorunları en aza indirmek için yeterli ve dengeli beslenmeyi sağlayan, günlük öğünleri gösteren bir beslenme tablosu hazırlayınız.",
+    "a": "Kahvaltı: süt/peynir, yumurta, tam tahıl ekmek, zeytin, sebze. Öğle: et/tavuk/balık veya kuru baklagil, pilav/bulgur, salata, yoğurt. Ara öğün: meyve, kuruyemiş (badem, fındık). Akşam: sebze yemeği, kuru baklagil veya et, yoğurt, salata. Her öğünde su içilmeli; tuz, şeker ve işlenmiş gıdalar sınırlandırılmalı."
+   }
+  ],
+  "91": [
+   {
+    "q": "Ateş karıncaları örneğinden yola çıkarak bazı nesnelerin suda batmadan kalabilmesini sağlayan faktörleri yazınız.",
+    "a": "Suyun yüzey gerilimi, nesnenin hafif olması (ağırlığın az olması), suyu iten (hidrofobik) yapısı ve geniş yüzey alanı."
+   },
+   {
+    "q": "Karbohidrat çeşitlerinden selülozun sindirim sistemi sağlığı ve enerji üretimi açısından önemini yazınız.",
+    "a": "Selüloz sindirilemez ve enerji üretimine katılmaz; bağırsak hareketlerini artırarak (lif/posa) sindirim sistemi sağlığına katkı sağlar."
+   },
+   {
+    "q": "Hangi tüpe iyot damlatıldığında mavi-mor renk oluşur?",
+    "a": "-4 °C (a) ve 70 °C (c) tüplerine; bu tüplerde enzim çalışmadığı için nişasta parçalanmamıştır."
+   },
+   {
+    "q": "Tüpler oda sıcaklığına alınıp bir süre bekletildikten sonra hangi tüpe Benedict çözeltisi damlatılırsa renk değişimi gözlenir? Sebebini açıklayınız.",
+    "a": "-4 °C (a) tüpüne; düşük sıcaklıkta enzim sadece yavaşlar, denatüre olmaz, oda sıcaklığında tekrar çalışıp nişastayı glikoza çevirir ve Benedict kiremit kırmızısı renk verir (70 °C'de enzim denatüre olduğu için çalışmaz)."
+   }
+  ],
+  "92": [
+   {
+    "q": "26. \"Bitkilerde maltozu sindiren enzim bulunur.\" hipotezini kuran bir öğrenci hangi deney tüplerini kullanmalıdır? Sebebini açıklayınız.",
+    "a": "1, 3 ve 9. tüpler. Bitki özütü (1) enzim kaynağı, maltoz (3) substrattır; sindirim sonucu oluşan glikoz, glikoz ayıracı (9) ile renk değişimi vererek gösterilir."
+   },
+   {
+    "q": "27. Sükrozun yapı taşlarının glikoz ve fruktoz olduğunu ispatlayacak deneyde hangi tüpler kullanılmalıdır? Sebebini açıklayınız.",
+    "a": "4, 9 ve 10. tüpler. Sükroz (4) hidroliz edilince açığa çıkan glikoz, glikoz ayıracı (9); fruktoz ise fruktoz ayıracı (10) ile belirlenir."
+   },
+   {
+    "q": "28-a) X özütü bitkisel ise A kesinlikle maltoz ayıracıdır.",
+    "a": "Y. Bitkisel özütte hem maltoz hem sükroz bulunur; A, maltoz ya da sükroz ayıracı olabilir, kesin değildir."
+   },
+   {
+    "q": "28-b) Y özütü hayvansal ise B'nin glikojen ayıracı olduğu kesindir.",
+    "a": "D. Hayvansal özütte glikojen bulunur ve Y'de yalnızca B renk değişimi vermiştir."
+   },
+   {
+    "q": "28-c) X özütü hayvansal ise C sükroz ayıracı olabilir.",
+    "a": "Y. Hayvansal özütte sükroz bulunmaz; X iki ayıraçla tepkime verdiğinden X bitkisel olmalıdır."
+   },
+   {
+    "q": "28-ç) Y bitki özütü ise A kesinlikle glikojen ayıracıdır.",
+    "a": "Y. Bitkisel özütte glikojen bulunmaz; ayrıca Y yalnızca B ile tepkime verdiğinden bu durum tablo ile çelişir."
+   }
+  ],
+  "93": [
+   {
+    "q": "29. Bilinmeyen bir özütün \"hayvansal kaynaklı\" olduğunu ispatlamak için tablodaki hangi iki tüp birlikte kullanılmalıdır?",
+    "a": "Bu sayfa metniyle çözülemez. Tabloda yalnızca 1–7 numaralı tüpler var; seçeneklerdeki 8, 9, 11 ve 12. tüpler yok. Ayrıca tablo hayvansal/bitkisel ayrımı içermiyor, sıcaklık–enzim etkisini ölçüyor. Tabloya göre \"geçerli\" görünen tek seçenek D) 3 ve 6'dır, ama bu da sorulan \"hayvansal kaynak\" kanıtını vermez."
+   },
+   {
+    "q": "30 ve 31. sorular (yönergede belirtilen)",
+    "a": "Sayfa metninde bu soruların kendisi yok; yalnızca yönerge var, bu yüzden cevaplanamaz (sayfa eksik/hatalı basılmış)."
+   }
+  ],
+  "94": [
+   {
+    "q": "30. Tasarlanan bu deney ile hangi sorulara yanıt aranır? (seçenekleri daire içine alınız)",
+    "a": "A — Enzim aktivitesi sıcaklık değişiminden etkilenir mi?"
+   },
+   {
+    "q": "31. Deney düzeneklerinin hangilerinde renk değişimi olmaz? Nedenini açıklayınız.",
+    "a": "Enzim içermeyen (kaynatılmış/denatüre enzimli) düzenekte renk değişimi olmaz; substrat parçalanmadığı için tepkime gerçekleşmez."
+   },
+   {
+    "q": "32, 33, 34. (Tabloya dayalı sorular)",
+    "a": "Bu soruların metni verilen sayfa metninde yer almıyor, bu yüzden yanıtlanamıyor."
+   }
+  ],
+  "95": [
+   {
+    "q": "32. Aşağıdakilerden hangisi bu araştırmaya ilişkin bir problem olabilir?",
+    "a": "E) Çiğ sütün taşınma ve saklanma koşulları, mikrobiyal aktiviteye ve sütün kimyasal bileşimine etki eder mi?"
+   },
+   {
+    "q": "33. Yapılan araştırmanın hipotezi aşağıdakilerden hangisi olmalıdır?",
+    "a": "C) Çiğ sütün taşınma ve saklanma koşulları mikrobiyal aktiviteyi ve sütün kimyasal bileşimini olumsuz etkiler."
+   },
+   {
+    "q": "34. Sağlıklı, kaliteli süt ve süt ürünleri üretebilmek için çiğ sütün üreticiden toplanması ve üretim tesisinde işlenmesi aşamalarında hangi koşullar sağlanmalıdır? Açıklayınız.",
+    "a": "Soğuk zincir korunmalı (süt 4 °C civarında soğutulmalı), hijyenik sağım ve temiz kaplar kullanılmalı, toplama-taşıma hızlı ve steril koşullarda yapılmalı, bekletilmeden tesise ulaştırılıp kısa sürede pastörize/sterilize edilmelidir."
+   }
+  ],
+  "98": [
+   {
+    "q": "Konuya Başlarken – Kelime ilişkilendirme: \"Hücre\" ile ilişkili üç kelime yazınız.",
+    "a": "Hücre zarı, stoplazma, çekirdek"
+   },
+   {
+    "q": "\"Hücre zarı\" ile ilişkili üç kelime yazınız.",
+    "a": "Seçici geçirgenlik, madde alışverişi, zar proteinleri"
+   },
+   {
+    "q": "\"Stoplazma\" ile ilişkili üç kelime yazınız.",
+    "a": "Organeller, sitozol, metabolik tepkimeler"
+   },
+   {
+    "q": "\"Çekirdek\" ile ilişkili üç kelime yazınız.",
+    "a": "DNA, çekirdekçik, kalıtım"
+   },
+   {
+    "q": "\"Mitokondri\" ile ilişkili üç kelime yazınız.",
+    "a": "Enerji (ATP), oksijenli solunum, çift zar"
+   },
+   {
+    "q": "\"Ribozom\" ile ilişkili üç kelime yazınız.",
+    "a": "Protein sentezi, rRNA, mRNA"
+   },
+   {
+    "q": "\"Endoplazmik retikulum\" ile ilişkili üç kelime yazınız.",
+    "a": "Madde iletimi, kanalcıklar, granüllü/granülsüz"
+   },
+   {
+    "q": "\"Golgi aygıtı\" ile ilişkili üç kelime yazınız.",
+    "a": "Paketleme, salgı, işleme"
+   },
+   {
+    "q": "\"Lizozom\" ile ilişkili üç kelime yazınız.",
+    "a": "Sindirim enzimleri, hücre içi sindirim, artık madde"
+   },
+   {
+    "q": "\"Kloroplast\" ile ilişkili üç kelime yazınız.",
+    "a": "Fotosentez, klorofil, bitki hücresi"
+   },
+   {
+    "q": "\"Koful\" ile ilişkili üç kelime yazınız.",
+    "a": "Depolama, su dengesi, boşaltım"
+   },
+   {
+    "q": "\"Prokaryot-Ökaryot\" ile ilişkili üç kelime yazınız.",
+    "a": "Zarsız çekirdek, zarlı çekirdek, organel farkı"
+   }
+  ],
+  "99": [
+   {
+    "q": "Prokaryot ve ökaryot hücrelerde görülen benzerlikler nelerdir?",
+    "a": "Her ikisi de hücre zarı, sitoplazma, ribozom, DNA (kalıtım maddesi) ve enzim sistemlerine sahiptir; metabolizma olayları (solunum, protein sentezi) her ikisinde de görülür."
+   },
+   {
+    "q": "Prokaryot ve ökaryot hücrelerin farklılıkları nelerdir?",
+    "a": "Prokaryot hücreler daha küçük ve tek hücrelidir; çekirdek zarları ve zarlı organelleri yoktur, DNA serbest haldedir. Ökaryot hücreler daha büyüktür; gerçek çekirdekleri (çekirdek zarı) ve zarlı organelleri (mitokondri, endoplazmik retikulum, golgi vb.) vardır."
+   },
+   {
+    "q": "Prokaryot ve ökaryot hücrelerin alt birimlerini yazınız.",
+    "a": "Prokaryot: hücre zarı, sitoplazma, ribozom, çıplak DNA (nükleoid), gerektiğinde kamçı/pili. Ökaryot: hücre zarı, sitoplazma, çekirdek (çekirdekçik, DNA), ribozom, mitokondri, endoplazmik retikulum, golgi, lizozom, koful, sentrozom (hayvanda), kloroplast (bitkide)."
+   },
+   {
+    "q": "Mikroskopta incelenen hücrelerden hangisinin ökaryot, hangisinin prokaryot olduğunu tahmin ediniz.",
+    "a": "Çekirdeği ve zarlı organelleri belirgin, büyük ve düzenli şekilli olanlar ökaryot; çekirdek ve zarlı organelleri görülmeyen, küçük ve daha basit yapılı olanlar prokaryottur."
+   },
+   {
+    "q": "Bulgularınızı farklı gruplarla karşılaştırarak benzerlik ve farklılıkları tespit ediniz.",
+    "a": "Aynı hücre için benzer yapı ve çizimler elde edilir; farklılıklar genellikle büyütme oranı, boyama, preparat kalitesi ve çizim yorumundan kaynaklanır."
+   },
+   {
+    "q": "Farklı bulgular veya çizimler varsa preparatları yeniden inceleyiniz.",
+    "a": "Preparatlar farklı büyütmelerde yeniden incelenir, gözlem tekrarlanarak bulgular doğrulanır ve hatalar düzeltilir."
+   },
+   {
+    "q": "Prokaryot ve ökaryotik hücrelerin farklı ve benzer özelliklerini içeren sunu hazırlayarak paylaşınız.",
+    "a": "Grup sözcüsü seçilir; benzerlik ve farklılıklar tablo/görselle sunulur, sınıf dinleyip soruları saygıyla sorar."
+   }
+  ],
+  "100": [
+   {
+    "q": "1. Hücre alt birimlerinin yapı, görev ve işlevsel ilişkilerini belirlemek için ne yapılır?",
+    "a": "Hücre zarı, çekirdek, endoplazmik retikulum, Golgi aygıtı, lizozom, koful, mitokondri, plastitler, ribozom ve sentrozomun yapı ve görevleri hakkında bilgi toplanır."
+   },
+   {
+    "q": "2. Bilgiye ulaşmak için kaynaklar nasıl belirlenir?",
+    "a": "Güvenilir kaynaklar (ders kitabı, bilimsel yayın ve güvenilir siteler) öğretmen rehberliğinde belirlenir."
+   },
+   {
+    "q": "3. Araştırmadan elde edilen bilgiler ne yapılır?",
+    "a": "Hücre alt birimlerinin görevleri araştırılıp deftere not edilir."
+   },
+   {
+    "q": "4. Toplanan bilgilerden yararlanarak ne hazırlanır?",
+    "a": "Hücre alt birimlerini ve görevlerini gösteren bir bilgi görseli hazırlanır."
+   },
+   {
+    "q": "5. Hazırlanan bilgi görseli ne yapılır?",
+    "a": "Sınıfta sunulur."
+   },
+   {
+    "q": "6. Sunum sırasında nasıl davranılır?",
+    "a": "Arkadaşlar dikkatle dinlenir, sözleri kesilmez, sorular sunum tamamlandıktan sonra sorulur."
+   },
+   {
+    "q": "7. Edinilen bilgilerle ne oluşturulur?",
+    "a": "Prokaryot ve ökaryot hücre modelleri oluşturulur."
+   },
+   {
+    "q": "8a. Hücre zarını temsil eden dış katman nasıl oluşturulur?",
+    "a": "Beyaz karton uygun biçimde kesilip şekillendirilir."
+   },
+   {
+    "q": "8b. Hücre içindeki yapılar nasıl gösterilir?",
+    "a": "Renkli kalemlerle çizilir ya da görselleri karton üzerine uygun yerlere yerleştirilir."
+   },
+   {
+    "q": "8c. Bilgi kartları neden ve nasıl hazırlanır?",
+    "a": "Her bileşenin adı ve görevi açıklanır; tek katlı ve çift katlı zarlı yapılar için farklı renk kart kullanılır."
+   },
+   {
+    "q": "8d. Proteinin sentezlenip hücre dışına gönderilmesi süreci nasıl gösterilir?",
+    "a": "Görev alan yapı ve organeller oklar ve çizimlerle sırasına uygun gösterilir (ribozom → ER → Golgi → hücre zarı)."
+   },
+   {
+    "q": "8e. Modelde açıkça ne belirtilir?",
+    "a": "Hücresel bileşenler arasındaki yapısal ve işlevsel ilişkiler."
+   },
+   {
+    "q": "9. Son olarak ne yapılır?",
+    "a": "Oluşturulan hücre modelini tanıtan bir poster hazırlanıp sınıfta paylaşılır."
+   }
+  ],
+  "109": [
+   {
+    "q": "1. Her iki hücre çeşidinde ortak olan yapıların isimlerini yazınız.",
+    "a": "Hücre zarı, sitoplazma, ribozom, DNA (kalıtsal materyal)."
+   },
+   {
+    "q": "2. Ökaryot hücre görselinde 1, 6, 8 ve 9 ile gösterilen birimlerin ortak özelliklerini yazınız.",
+    "a": "Hepsi zarla çevrili (zarlı) organeldir."
+   },
+   {
+    "q": "3. Prokaryot ve ökaryot hücrelerde DNA'nın bulunduğu yapıların isimlerini yazınız.",
+    "a": "Prokaryotta nükleoit (çekirdek bölgesi), ökaryotta çekirdek (nükleus)."
+   },
+   {
+    "q": "1. (numaralı yapı)",
+    "a": "Çekirdek"
+   },
+   {
+    "q": "2. (numaralı yapı)",
+    "a": "Çekirdekçik"
+   },
+   {
+    "q": "3. (numaralı yapı)",
+    "a": "Endoplazmik retikulum"
+   },
+   {
+    "q": "4. (numaralı yapı)",
+    "a": "Golgi cisimciği"
+   },
+   {
+    "q": "5. (numaralı yapı)",
+    "a": "Ribozom"
+   },
+   {
+    "q": "6. (numaralı yapı)",
+    "a": "Mitokondri"
+   },
+   {
+    "q": "7. (numaralı yapı)",
+    "a": "Lizozom"
+   },
+   {
+    "q": "8. (numaralı yapı)",
+    "a": "Kloroplast"
+   },
+   {
+    "q": "9. (numaralı yapı)",
+    "a": "Koful (vakuol)"
+   },
+   {
+    "q": "10. (numaralı yapı)",
+    "a": "Hücre duvarı"
+   },
+   {
+    "q": "11. (numaralı yapı)",
+    "a": "Hücre zarı"
+   },
+   {
+    "q": "12. (numaralı yapı)",
+    "a": "Sitoplazma"
+   },
+   {
+    "q": "13. (numaralı yapı)",
+    "a": "Ribozom"
+   },
+   {
+    "q": "14. (numaralı yapı)",
+    "a": "Nükleoit (DNA)"
+   },
+   {
+    "q": "15. (numaralı yapı)",
+    "a": "Kamçı (flagellum)"
+   }
+  ],
+  "110": [
+   {
+    "q": "Hücre zarının seçici geçirgenliğini bir cümle ile tanımlayınız.",
+    "a": "Hücre zarının, hücreye gerekli maddelerin (besin, su, oksijen) geçişine izin verirken zararlı ve gereksiz maddelerin geçişini sınırlandırarak iç ortam dengesini (homeostaziyi) korumasıdır."
+   }
+  ],
+  "111": [
+   {
+    "q": "Hücre zarının görevleri nelerdir?",
+    "a": "Madde alımını düzenlemek, atıkları dışarı atmak, iç dengeyi, iletişimi ve iç ortam düzenlenmesini sağlamak."
+   },
+   {
+    "q": "2. Etkinlik'in adı ve amacı nedir?",
+    "a": "Adı \"Hücre Zarından Madde Geçişleri\"; amacı hücre zarından madde geçişlerini sınıflandırabilme."
+   },
+   {
+    "q": "Madde geçişleri hangi ölçütlere göre incelenir?",
+    "a": "Molekül boyutu, enerji gereksinimi, geçiş yönü ve derişim (konsantrasyon) farkı."
+   },
+   {
+    "q": "1. görseldeki geçiş nedir?",
+    "a": "Difüzyon; küçük moleküllerin zarın fosfolipit tabakasından doğrudan geçişi."
+   },
+   {
+    "q": "2. görseldeki geçiş nedir?",
+    "a": "Osmoz; su moleküllerinin kanal proteinlerinden geçişi."
+   },
+   {
+    "q": "3. görseldeki geçiş nedir?",
+    "a": "Kolaylaştırılmış difüzyon; taşıyıcı proteinle, enerji (ATP) harcanmadan geçiş."
+   },
+   {
+    "q": "4. görseldeki geçiş nedir?",
+    "a": "Aktif taşıma; ATP kullanılarak derişimi düşükten yükseğe (derişime karşı) geçiş."
+   },
+   {
+    "q": "5. görseldeki geçiş nedir?",
+    "a": "Endositoz; büyük moleküllerin hücre zarıyla sarılıp hücre içine alınması."
+   },
+   {
+    "q": "6. görseldeki geçiş nedir?",
+    "a": "Ekzositoz; büyük moleküllerin keseciklerle hücre dışına atılması."
+   }
+  ]
+ }
+}

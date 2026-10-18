@@ -14,7 +14,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/astronomi-ve-uzay-bilimleri-dersi-kitabi_20261005_233819_605.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=396",
     "detail": "https://tymm.meb.gov.tr/kitap/396/astronomi-ve-uzay-bilimleri-dersi-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 397,
@@ -31,7 +32,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/beden-egitimi-ve-spor-dersi-10sinif-ogretmen-kilavuz-kitabi_20261006_092205_819.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=397",
     "detail": "https://tymm.meb.gov.tr/kitap/397/beden-egitimi-ve-spor-dersi-10sinif-ogretmen-kilavuz-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 398,
@@ -48,7 +50,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/beden-egitimi-ve-spor-dersi-9sinif-ogretmen-kilavuz-kitabi_20261006_090734_787.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=398",
     "detail": "https://tymm.meb.gov.tr/kitap/398/beden-egitimi-ve-spor-dersi-9sinif-ogretmen-kilavuz-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 399,
@@ -65,7 +68,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/beden-egitimi-ve-spor-dersi-hazirlik-sinifi-ogretmen-kilavuz-kitabi_20261006_090352_450.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=399",
     "detail": "https://tymm.meb.gov.tr/kitap/399/beden-egitimi-ve-spor-dersi-hazirlik-sinifi-ogretmen-kilavuz-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 45
   },
   {
     "id": 71,
@@ -82,7 +86,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/biyoloji-dersi-10sinif-ders-kitabi_20261013_171142_303.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=71",
     "detail": "https://tymm.meb.gov.tr/kitap/71/biyoloji-dersi-10sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 400,
@@ -99,7 +104,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/biyoloji-dersi-11sinif-ders-kitabi_20261004_221656_902.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=400",
     "detail": "https://tymm.meb.gov.tr/kitap/400/biyoloji-dersi-11sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 36,
@@ -116,7 +122,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/biyoloji-dersi-9sinif-ders-kitabi_20261006_220008_456.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/36/biyoloji-dersi-9sinif-ders-kitabi",
-    "qaCount": 12
+    "qaCount": 12,
+    "fullCount": 481
   },
   {
     "id": 72,
@@ -133,7 +140,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/cografya-dersi-10sinif-ders-kitabi_20261004_200628_795.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=72",
     "detail": "https://tymm.meb.gov.tr/kitap/72/cografya-dersi-10sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 401,
@@ -150,7 +158,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/cografya-dersi-11sinif-ders-kitabi_20261004_192901_442.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=401",
     "detail": "https://tymm.meb.gov.tr/kitap/401/cografya-dersi-11sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 37,
@@ -167,7 +176,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/cografya-dersi-9sinif-ders-kitabi_20260907_201524_569.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=37",
     "detail": "https://tymm.meb.gov.tr/kitap/37/cografya-dersi-9sinif-ders-kitabi",
-    "qaCount": 14
+    "qaCount": 14,
+    "fullCount": 0
   },
   {
     "id": 402,
@@ -184,7 +194,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/demokrasi-ve-insan-haklari-dersi-kitabi_20261004_095937_947.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=402",
     "detail": "https://tymm.meb.gov.tr/kitap/402/demokrasi-ve-insan-haklari-dersi-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 35,
@@ -201,7 +212,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/din-kulturu-ve-ahlak-bilgisi-9sinif-ders-kitabi_20261003_185826_706.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/35/din-kulturu-ve-ahlak-bilgisi-10sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 519,
@@ -218,7 +230,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/din-kulturu-ve-ahlak-bilgisi-11sinif-ders-kitabi_20261003_190231_999.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=519",
     "detail": "https://tymm.meb.gov.tr/kitap/519/din-kulturu-ve-ahlak-bilgisi-11sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 520,
@@ -235,7 +248,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/din-kulturu-ve-ahlak-bilgisi-12sinif-ders-kitabi_20261003_190757_270.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=520",
     "detail": "https://tymm.meb.gov.tr/kitap/520/din-kulturu-ve-ahlak-bilgisi-12sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 518,
@@ -252,7 +266,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/din-kulturu-ve-ahlak-bilgisi-9sinif-ders-kitabi_20261003_185509_939.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=518",
     "detail": "https://tymm.meb.gov.tr/kitap/518/din-kulturu-ve-ahlak-bilgisi-9sinif-ders-kitabi",
-    "qaCount": 13
+    "qaCount": 13,
+    "fullCount": 0
   },
   {
     "id": 73,
@@ -269,7 +284,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/felsefe-dersi-10sinif-ders-kitabi_20261013_140018_786.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=73",
     "detail": "https://tymm.meb.gov.tr/kitap/73/felsefe-dersi-10sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 403,
@@ -286,7 +302,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/felsefe-dersi-11sinif-ders-kitabi_20261003_214213_339.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=403",
     "detail": "https://tymm.meb.gov.tr/kitap/403/felsefe-dersi-11sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 74,
@@ -303,7 +320,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/fizik-dersi-10sinif-ders-kitabi_20261012_224944_785.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=74",
     "detail": "https://tymm.meb.gov.tr/kitap/74/fizik-dersi-10sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 404,
@@ -320,7 +338,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/fizik-dersi-11sinif-ders-kitabi_20261003_001345_238.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=404",
     "detail": "https://tymm.meb.gov.tr/kitap/404/fizik-dersi-11sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 38,
@@ -337,7 +356,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/fizik-dersi-9sinif-ders-kitabi_20261006_194425_076.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=38",
     "detail": "https://tymm.meb.gov.tr/kitap/38/fizik-dersi-9sinif-ders-kitabi",
-    "qaCount": 18
+    "qaCount": 18,
+    "fullCount": 0
   },
   {
     "id": 406,
@@ -354,7 +374,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/gorsel-sanatlar-dersi-10sinif-ogretmen-kilavuz-kitabi_20261002_100905_689.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=406",
     "detail": "https://tymm.meb.gov.tr/kitap/406/gorsel-sanatlar-dersi-10sinif-ogretmen-kilavuz-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 405,
@@ -371,7 +392,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/gorsel-sanatlar-dersi-9sinif-ogretmen-kilavuz-kitabi_20261002_234913_977.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=405",
     "detail": "https://tymm.meb.gov.tr/kitap/405/gorsel-sanatlar-dersi-9sinif-ogretmen-kilavuz-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 407,
@@ -388,7 +410,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/gorsel-sanatlar-dersi-hazirlik-sinifi-ogretmen-kilavuz-kitabi_20261002_082201_928.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=407",
     "detail": "https://tymm.meb.gov.tr/kitap/407/gorsel-sanatlar-dersi-hazirlik-sinifi-ogretmen-kilavuz-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 75,
@@ -405,7 +428,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/kimya-10sinif-ders-kitabi_20261004_173619_390.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=75",
     "detail": "https://tymm.meb.gov.tr/kitap/75/kimya-10sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 416,
@@ -422,7 +446,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/kimya-11sinif-ders-kitabi_20260930_195607_842.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=416",
     "detail": "https://tymm.meb.gov.tr/kitap/416/kimya-11sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 39,
@@ -439,7 +464,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/kimya-9sinif-ders-kitabi_20260908_105401_982.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=39",
     "detail": "https://tymm.meb.gov.tr/kitap/39/kimya-9sinif-ders-kitabi",
-    "qaCount": 13
+    "qaCount": 13,
+    "fullCount": 0
   },
   {
     "id": 526,
@@ -456,7 +482,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/kuran-i-kerim-10sinif-ders-kitabi_20261003_193404_636.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=526",
     "detail": "https://tymm.meb.gov.tr/kitap/526/kuran-i-kerim-10sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 527,
@@ -473,7 +500,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/kuran-i-kerim-11sinif-ders-kitabi_20261003_204913_494.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=527",
     "detail": "https://tymm.meb.gov.tr/kitap/527/kuran-i-kerim-11sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 528,
@@ -490,7 +518,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/kuran-i-kerim-12sinif-ders-kitabi_20261003_205510_487.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=528",
     "detail": "https://tymm.meb.gov.tr/kitap/528/kuran-i-kerim-12sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 525,
@@ -507,7 +536,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/kuran-i-kerim-9sinif-ders-kitabi_20261003_192716_339.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=525",
     "detail": "https://tymm.meb.gov.tr/kitap/525/kuran-i-kerim-9sinif-ders-kitabi",
-    "qaCount": 19
+    "qaCount": 19,
+    "fullCount": 0
   },
   {
     "id": 529,
@@ -524,7 +554,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/kuran-i-kerimin-anlam-dunyasi-11sinif-ders-kitabi_20261003_210144_867.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=529",
     "detail": "https://tymm.meb.gov.tr/kitap/529/kuran-i-kerimin-anlam-dunyasi-11sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 530,
@@ -541,7 +572,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/kuran-i-kerimin-anlam-dunyasi-12sinif-ders-kitabi_20261003_210343_255.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=530",
     "detail": "https://tymm.meb.gov.tr/kitap/530/kuran-i-kerimin-anlam-dunyasi-12sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 417,
@@ -558,7 +590,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/mantik-ders-kitabi_20260930_193142_072.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=417",
     "detail": "https://tymm.meb.gov.tr/kitap/417/mantik-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 76,
@@ -575,7 +608,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/matematik-10sinif-ders-kitabi_20261008_124008_508.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=76",
     "detail": "https://tymm.meb.gov.tr/kitap/76/matematik-10sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 41,
@@ -592,7 +626,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/matematik-9sinif-ders-kitabi-1kitap_20261006_102913_502.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=41",
     "detail": "https://tymm.meb.gov.tr/kitap/41/matematik-9sinif-ders-kitabi-1kitap",
-    "qaCount": 15
+    "qaCount": 15,
+    "fullCount": 0
   },
   {
     "id": 42,
@@ -609,7 +644,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/matematik-9sinif-ders-kitabi-2kitap_20261006_104711_394.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=42",
     "detail": "https://tymm.meb.gov.tr/kitap/42/matematik-9sinif-ders-kitabi-2kitap",
-    "qaCount": 20
+    "qaCount": 20,
+    "fullCount": 0
   },
   {
     "id": 418,
@@ -626,7 +662,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/matematik-dersi-11sinif-ders-kitabi_20260930_191412_605.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=418",
     "detail": "https://tymm.meb.gov.tr/kitap/418/matematik-dersi-11sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 40,
@@ -643,7 +680,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/matematik-hazirlik-sinifi-ders-kitabi_20261006_130517_456.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=40",
     "detail": "https://tymm.meb.gov.tr/kitap/40/matematik-hazirlik-sinifi-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 420,
@@ -660,7 +698,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/muzik-dersi-10sinif-ogretmen-kilavuz-kitabi_20260930_182640_975.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=420",
     "detail": "https://tymm.meb.gov.tr/kitap/420/muzik-dersi-10sinif-ogretmen-kilavuz-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 419,
@@ -677,7 +716,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/muzik-dersi-9sinif-ogretmen-kilavuz-kitabi_20260930_183933_988.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=419",
     "detail": "https://tymm.meb.gov.tr/kitap/419/muzik-dersi-9sinif-ogretmen-kilavuz-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 421,
@@ -694,7 +734,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/muzik-dersi-hazirlik-sinifi-ogretmen-kilavuz-kitabi_20260930_141922_525.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=421",
     "detail": "https://tymm.meb.gov.tr/kitap/421/muzik-dersi-hazirlik-sinifi-ogretmen-kilavuz-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 540,
@@ -711,7 +752,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/peygamberimizin-hayati-10sinif-ders-kitabi_20261003_220034_917.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=540",
     "detail": "https://tymm.meb.gov.tr/kitap/540/peygamberimizin-hayati-10sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 541,
@@ -728,7 +770,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/peygamberimizin-hayati-11sinif-ders-kitabi_20261003_220253_186.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=541",
     "detail": "https://tymm.meb.gov.tr/kitap/541/peygamberimizin-hayati-11sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 542,
@@ -745,7 +788,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/peygamberimizin-hayati-12sinif-ders-kitabi_20261003_220639_751.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=542",
     "detail": "https://tymm.meb.gov.tr/kitap/542/peygamberimizin-hayati-12sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 539,
@@ -762,7 +806,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/peygamberimizin-hayati-9sinif-ders-kitabi_20261003_215114_083.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=539",
     "detail": "https://tymm.meb.gov.tr/kitap/539/peygamberimizin-hayati-9sinif-ders-kitabi",
-    "qaCount": 27
+    "qaCount": 27,
+    "fullCount": 0
   },
   {
     "id": 422,
@@ -779,7 +824,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/psikoloji-ders-kitabi_20260930_140631_850.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=422",
     "detail": "https://tymm.meb.gov.tr/kitap/422/psikoloji-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 423,
@@ -796,7 +842,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/saglik-bilgisi-ve-trafik-kulturu-dersi_20260930_134542_199.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=423",
     "detail": "https://tymm.meb.gov.tr/kitap/423/saglik-bilgisi-ve-trafik-kulturu-dersi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 425,
@@ -813,7 +860,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/sosyal-bilim-calismalari-dersi-ii_20260930_130121_816.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=425",
     "detail": "https://tymm.meb.gov.tr/kitap/425/sosyal-bilim-calismalari-dersi-ii",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 426,
@@ -830,7 +878,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/sosyal-bilim-calismalari-dersi-iii_20260930_110045_088.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=426",
     "detail": "https://tymm.meb.gov.tr/kitap/426/sosyal-bilim-calismalari-dersi-iii",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 424,
@@ -847,7 +896,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/sosyal-bilim-calismalari-dersi-i_20260930_131923_996.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=424",
     "detail": "https://tymm.meb.gov.tr/kitap/424/sosyal-bilim-calismalari-dersi-i",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 427,
@@ -864,7 +914,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/sosyoloji-1-ders-kitabi_20260930_104131_724.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=427",
     "detail": "https://tymm.meb.gov.tr/kitap/427/sosyoloji-1-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 62,
@@ -881,7 +932,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/studentsbook-prep-year-vol1.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/62/students-book-uptone-prep-year-volume-1",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 65,
@@ -898,7 +950,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/studentsbook-prep-year-vol2.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/65/students-book-uptone-prep-year-volume-2",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 77,
@@ -915,7 +968,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/tarih-10sinif-ders-kitabi_20261013_153142_277.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=77",
     "detail": "https://tymm.meb.gov.tr/kitap/77/tarih-10sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 428,
@@ -932,7 +986,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/tarih-11sinif-ders-kitabi_20260908_185409_780.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=428",
     "detail": "https://tymm.meb.gov.tr/kitap/428/tarih-11sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 43,
@@ -949,7 +1004,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/tarih-9sinif-ders-kitabi_20261006_121514_240.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=43",
     "detail": "https://tymm.meb.gov.tr/kitap/43/tarih-9sinif-ders-kitabi",
-    "qaCount": 12
+    "qaCount": 12,
+    "fullCount": 0
   },
   {
     "id": 63,
@@ -966,7 +1022,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/teachersbook-prep-year-vol1.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/63/teachers-book-uptone-prep-year-volume-1",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 66,
@@ -983,7 +1040,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/teachersbook-prep-year-vol2.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/66/teachers-book-uptone-prep-year-volume-2",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 531,
@@ -1000,7 +1058,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/temel-dini-bilgiler-ders-kitabi-islam-1_20261003_211103_514.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=531",
     "detail": "https://tymm.meb.gov.tr/kitap/531/temel-dini-bilgiler-ders-kitabi-islam-1",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 532,
@@ -1017,7 +1076,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/temel-dini-bilgiler-ders-kitabi-islam-2_20261003_211334_008.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=532",
     "detail": "https://tymm.meb.gov.tr/kitap/532/temel-dini-bilgiler-ders-kitabi-islam-2",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 429,
@@ -1034,7 +1094,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/temel-matematik-11sinif-ders-kitabi_20260930_093904_083.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=429",
     "detail": "https://tymm.meb.gov.tr/kitap/429/temel-matematik-11sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 78,
@@ -1051,7 +1112,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/turk-dili-ve-edebiyati-10sinif-ders-kitabi_20261013_143136_171.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=78",
     "detail": "https://tymm.meb.gov.tr/kitap/78/turk-dili-ve-edebiyati-10sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 430,
@@ -1068,7 +1130,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/turk-dili-ve-edebiyati-11sinif-ders-kitabi_20260930_091040_422.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=430",
     "detail": "https://tymm.meb.gov.tr/kitap/430/turk-dili-ve-edebiyati-11sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 45,
@@ -1085,7 +1148,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/turk-dili-ve-edebiyati-9sinif-ders-kitabi_20261006_100252_162.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=45",
     "detail": "https://tymm.meb.gov.tr/kitap/45/turk-dili-ve-edebiyati-9sinif-ders-kitabi",
-    "qaCount": 13
+    "qaCount": 13,
+    "fullCount": 0
   },
   {
     "id": 44,
@@ -1102,7 +1166,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/turk-dili-ve-edebiyati-hazirlik-sinifi-ders-kitabi_20261006_111517_150.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=44",
     "detail": "https://tymm.meb.gov.tr/kitap/44/turk-dili-ve-edebiyati-hazirlik-sinifi-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 431,
@@ -1119,7 +1184,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/turk-kultur-ve-medeniyet-tarihi-ders-kitabi_20260908_190419_870.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=431",
     "detail": "https://tymm.meb.gov.tr/kitap/431/turk-kultur-ve-medeniyet-tarihi-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 64,
@@ -1136,7 +1202,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/workbook-prep-year-vol1.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/64/workbook-uptone-prep-year-volume-1",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 67,
@@ -1153,7 +1220,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/workbook-prep-year-vol2.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/67/workbook-uptone-prep-year-volume-2",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 411,
@@ -1170,7 +1238,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/iklim-cevre-ve-yenilikci-cozumler-dersi-kitabi_20261001_113437_499.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=411",
     "detail": "https://tymm.meb.gov.tr/kitap/411/iklim-cevre-ve-yenilikci-cozumler-dersi-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 412,
@@ -1187,7 +1256,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/ingilizce-dersi-10sinif-ders-kitabi_20261001_100339_692.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=412",
     "detail": "https://tymm.meb.gov.tr/kitap/412/ingilizce-dersi-10sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 414,
@@ -1204,7 +1274,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/ingilizce-dersi-10sinif-calisma-kitabi_20261001_062822_651.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=414",
     "detail": "https://tymm.meb.gov.tr/kitap/414/ingilizce-dersi-10sinif-calisma-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 413,
@@ -1221,7 +1292,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/ingilizce-dersi-10sinif-ogretmen-kilavuz-kitabi_20261001_071621_485.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=413",
     "detail": "https://tymm.meb.gov.tr/kitap/413/ingilizce-dersi-10sinif-ogretmen-kilavuz-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 68,
@@ -1238,7 +1310,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/ingilizce-dersi-9-sinif-ders-kitabi.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/68/ingilizce-dersi-9sinif-ders-kitabi",
-    "qaCount": 27
+    "qaCount": 27,
+    "fullCount": 0
   },
   {
     "id": 408,
@@ -1255,7 +1328,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/ingilizce-dersi-9sinif-ders-kitabi_20261001_182308_053.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=408",
     "detail": "https://tymm.meb.gov.tr/kitap/408/ingilizce-dersi-9sinif-ders-kitabi",
-    "qaCount": 26
+    "qaCount": 26,
+    "fullCount": 0
   },
   {
     "id": 70,
@@ -1272,7 +1346,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/ingilizce-dersi-9sinif-calisma-kitabi_20261013_172611_034.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=70",
     "detail": "https://tymm.meb.gov.tr/kitap/70/ingilizce-dersi-9sinif-calisma-kitabi",
-    "qaCount": 17
+    "qaCount": 17,
+    "fullCount": 0
   },
   {
     "id": 409,
@@ -1289,7 +1364,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/ingilizce-dersi-9sinif-calisma-kitabi_20261001_175917_443.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=409",
     "detail": "https://tymm.meb.gov.tr/kitap/409/ingilizce-dersi-9sinif-calisma-kitabi",
-    "qaCount": 16
+    "qaCount": 16,
+    "fullCount": 0
   },
   {
     "id": 410,
@@ -1306,7 +1382,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/ingilizce-dersi-9sinif-ogretmen-kilavuz-kitabi_20261001_174723_247.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=410",
     "detail": "https://tymm.meb.gov.tr/kitap/410/ingilizce-dersi-9sinif-ogretmen-kilavuz-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 69,
@@ -1323,7 +1400,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/ingilizce-dersi-9sinif-ogretmen-kilavuz-kitabi_20261013_174157_354.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=69",
     "detail": "https://tymm.meb.gov.tr/kitap/69/ingilizce-dersi-9sinif-ogretmen-kilavuz-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 415,
@@ -1340,7 +1418,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/islam-bilim-tarihi-ders-kitabi_20260930_231138_658.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=415",
     "detail": "https://tymm.meb.gov.tr/kitap/415/islam-bilim-tarihi-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 470,
@@ -1357,7 +1436,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/akaid-ders-kitabi_20261001_194910_541.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=470",
     "detail": "https://tymm.meb.gov.tr/kitap/470/akaid-11sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 473,
@@ -1374,7 +1454,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/din-egitimi-ders-kitabi_20261002_113128_935.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=473",
     "detail": "https://tymm.meb.gov.tr/kitap/473/din-egitimi-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 475,
@@ -1391,7 +1472,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/dinler-tarihi-ders-kitabi_20261002_114740_854.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/475/dinler-tarihi-12sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 474,
@@ -1408,7 +1490,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/dini-musiki-i-ders-kitabi_20261002_114119_073.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/474/dini-musiki-i-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 476,
@@ -1425,7 +1508,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/ebru-i-ders-kitabi_20261002_115647_184.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/476/ebru-i-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 477,
@@ -1442,7 +1526,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/fikih-ders-kitabi_20261002_120141_315.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/477/fikih-10sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 478,
@@ -1459,7 +1544,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/fikih-okumalari-ders-kitabi_20261002_120827_958.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/478/fikih-okumalari-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 480,
@@ -1476,7 +1562,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/hadis-10sinif-ders-kitabi_20261002_122002_014.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/480/hadis-10sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 479,
@@ -1493,7 +1580,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/hadis-metinleri-ders-kitabi_20261002_121256_751.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/479/hadis-metinleri-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 481,
@@ -1510,7 +1598,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/hitabet-ve-mesleki-uygulama-11sinif-ders-kitabi_20261002_122621_413.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=481",
     "detail": "https://tymm.meb.gov.tr/kitap/481/hitabet-ve-mesleki-uygulama-11sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 482,
@@ -1527,7 +1616,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/husnuhat-i-ders-kitabi_20261002_123312_246.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=482",
     "detail": "https://tymm.meb.gov.tr/kitap/482/husnuhat-i-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 488,
@@ -1544,7 +1634,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/kelam-ders-kitabi_20261003_083730_101.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/488/kelam-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 492,
@@ -1561,7 +1652,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/kuranin-ana-konulari-i-ders-kitabi_20261003_091055_042.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/492/kuranin-ana-konulari-i-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 491,
@@ -1578,7 +1670,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/kuran-i-kerim-10sinif-ders-kitabi_20261003_085703_158.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/491/kuran-i-kerim-10sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 489,
@@ -1595,7 +1688,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/kuran-i-kerim-9sinif-ders-kitabi_20261003_084522_474.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/489/kuran-i-kerim-9sinif-ders-kitabi",
-    "qaCount": 19
+    "qaCount": 19,
+    "fullCount": 0
   },
   {
     "id": 490,
@@ -1612,7 +1706,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/kuran-i-kerim-hazirlik-sinifi-ders-kitabi_20261003_084911_689.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/490/kuran-i-kerim-hazirlik-sinifi-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 495,
@@ -1629,7 +1724,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/mesleki-uygulama-ders-kitabi_20261003_101553_249.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/495/mesleki-uygulama-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 497,
@@ -1646,7 +1742,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/siyer-10sinif-ders-kitabi_20261003_103232_646.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/497/siyer-10sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 498,
@@ -1663,7 +1760,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/tasavvuf-kulturu-ders-kitabi_20261003_103745_869.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/498/tasavvuf-kulturu-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 500,
@@ -1680,7 +1778,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/tefsir-11sinif-ders-kitabi_20261003_105255_250.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/500/tefsir-11sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 501,
@@ -1697,7 +1796,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/tefsir-okumalari-ders-kitabi_20261003_110552_470.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/501/tefsir-okumalari-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 499,
@@ -1714,7 +1814,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/temel-dini-bilgiler-9sinif-ders-kitabi_20261003_104515_093.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/499/temel-dini-bilgiler-9sinif-ders-kitabi",
-    "qaCount": 23
+    "qaCount": 23,
+    "fullCount": 0
   },
   {
     "id": 502,
@@ -1731,7 +1832,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/tezhip-ders-kitabi_20261003_143755_832.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/502/tezhip-i-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 483,
@@ -1748,7 +1850,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/islam-ahlaki-ders-kitabi_20261002_123821_095.pdf",
     "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=483",
     "detail": "https://tymm.meb.gov.tr/kitap/483/islam-ahlaki-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 484,
@@ -1765,7 +1868,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/islam-felsefesi-11sinif-ders-kitabi_20261003_081549_442.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/484/islam-felsefesi-11sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 485,
@@ -1782,7 +1886,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/islam-kultur-ve-medeniyeti-12sinif-ders-kitabi_20261003_082311_640.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/485/islam-kultur-ve-medeniyeti-12sinif-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 486,
@@ -1799,7 +1904,8 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/islam-tarihi-ders-kitabi_20261003_082801_652.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/486/islam-tarihi-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   },
   {
     "id": 487,
@@ -1816,6 +1922,7 @@
     "pdf": "https://tymm.meb.gov.tr/assets/pdf/islamda-cocuk-egitimi-ders-kitabi_20261003_083315_426.pdf",
     "interactive": null,
     "detail": "https://tymm.meb.gov.tr/kitap/487/islamda-cocuk-egitimi-ders-kitabi",
-    "qaCount": 0
+    "qaCount": 0,
+    "fullCount": 0
   }
 ]
