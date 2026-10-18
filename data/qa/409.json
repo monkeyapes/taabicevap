@@ -1,0 +1,118 @@
+{
+  "bookId": 409,
+  "title": "İngilizce Dersi 9.Sınıf Çalışma Kitabı (Hazırlık-12)",
+  "units": [
+    {
+      "name": "Theme 1 - School Life & Education",
+      "questions": [
+        {
+          "q": "Complete: 'Look! The students ___ (study) in the library now.'",
+          "a": "are studying — Present Progressive, şu an süren eylem.",
+          "image": "data/qa/img/409_sum0.png"
+        },
+        {
+          "q": "Write a sentence with an adverb of frequency.",
+          "a": "I usually do my homework after school."
+        }
+      ]
+    },
+    {
+      "name": "Theme 2 - Classroom Life & Learning",
+      "questions": [
+        {
+          "q": "Write a question asking for clarification in class.",
+          "a": "Could you repeat that, please?",
+          "image": "data/qa/img/409_sum1.png"
+        },
+        {
+          "q": "Name two learning styles.",
+          "a": "Visual learner, auditory learner."
+        }
+      ]
+    },
+    {
+      "name": "Theme 3 - Personal Life & Well-being",
+      "questions": [
+        {
+          "q": "Give two pieces of advice about staying healthy using 'should'.",
+          "a": "You should sleep eight hours. You should eat fruit and vegetables.",
+          "image": "data/qa/img/409_sum2.png"
+        },
+        {
+          "q": "Write a sentence about your hobby.",
+          "a": "I enjoy playing basketball in my free time."
+        }
+      ]
+    },
+    {
+      "name": "Theme 4 - Family Life & Home",
+      "questions": [
+        {
+          "q": "Write two household chores in English.",
+          "a": "Tidy up your room, do the washing-up.",
+          "image": "data/qa/img/409_sum0.png"
+        },
+        {
+          "q": "Describe your home with 'there is / there are'.",
+          "a": "There is a small balcony and there are three bedrooms in my house."
+        }
+      ]
+    },
+    {
+      "name": "Theme 5 - Life in the Neighbourhood, City & Social Life",
+      "questions": [
+        {
+          "q": "Make a suggestion for a weekend activity.",
+          "a": "How about going to the cinema on Saturday?",
+          "image": "data/qa/img/409_sum1.png"
+        },
+        {
+          "q": "Ask for directions to the museum.",
+          "a": "Excuse me, how can I get to the museum?"
+        }
+      ]
+    },
+    {
+      "name": "Theme 6 - Life in the World & Culture",
+      "questions": [
+        {
+          "q": "Write the nationality for 'Japan' and 'Germany'.",
+          "a": "Japanese, German.",
+          "image": "data/qa/img/409_sum2.png"
+        },
+        {
+          "q": "Write a sentence comparing two cultures.",
+          "a": "Turkish breakfast is different from English breakfast."
+        }
+      ]
+    },
+    {
+      "name": "Theme 7 - Life in Nature & Global Problems",
+      "questions": [
+        {
+          "q": "Name two global problems.",
+          "a": "Climate change, pollution.",
+          "image": "data/qa/img/409_sum0.png"
+        },
+        {
+          "q": "Write an obligation sentence about the environment.",
+          "a": "We must reduce plastic waste."
+        }
+      ]
+    },
+    {
+      "name": "Theme 8 - Life in the Universe & the Future",
+      "questions": [
+        {
+          "q": "Write a future plan with 'be going to'.",
+          "a": "I am going to join a science club.",
+          "image": "data/qa/img/409_sum1.png"
+        },
+        {
+          "q": "Name two things people may use in the future.",
+          "a": "Flying cars, smart robots."
+        }
+      ]
+    }
+  ]
+}

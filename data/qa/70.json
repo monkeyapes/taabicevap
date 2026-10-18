@@ -1,0 +1,122 @@
+{
+  "bookId": 70,
+  "title": "İngilizce Dersi 9.Sınıf Çalışma Kitabı",
+  "units": [
+    {
+      "name": "Theme 1 - School Life",
+      "questions": [
+        {
+          "q": "Write two sentences using the Simple Present about your school routine.",
+          "a": "I get up at seven. I go to school by bus every morning.",
+          "image": "data/qa/img/70_sum0.png"
+        },
+        {
+          "q": "Complete: 'She ___ (study) English every evening.'",
+          "a": "studies — Simple Present, üçüncü tekil şahısta fiile -s eklenir."
+        },
+        {
+          "q": "Make a polite request about opening the door.",
+          "a": "Could you open the door, please?"
+        }
+      ]
+    },
+    {
+      "name": "Theme 2 - Classroom Life",
+      "questions": [
+        {
+          "q": "Match the instruction with its meaning: 'Work in pairs.'",
+          "a": "İki kişilik gruplar halinde çalışın.",
+          "image": "data/qa/img/70_sum1.png"
+        },
+        {
+          "q": "Write a sentence with a preposition of place.",
+          "a": "The pencil is under the desk."
+        }
+      ]
+    },
+    {
+      "name": "Theme 3 - Personal Life: Physical Appearance & Personality",
+      "questions": [
+        {
+          "q": "Describe a friend using 'have got'.",
+          "a": "My friend has got curly black hair and brown eyes.",
+          "image": "data/qa/img/70_sum2.png"
+        },
+        {
+          "q": "Write two adjectives describing personality.",
+          "a": "Helpful, hardworking (örnek: kind, outgoing)."
+        }
+      ]
+    },
+    {
+      "name": "Theme 4 - Family Life",
+      "questions": [
+        {
+          "q": "Write about your family in three sentences.",
+          "a": "There are four people in my family. My mother is a teacher. I have got one brother.",
+          "image": "data/qa/img/70_sum0.png"
+        },
+        {
+          "q": "Use a possessive 's in a sentence.",
+          "a": "My sister's room is very tidy."
+        }
+      ]
+    },
+    {
+      "name": "Theme 5 - Life in the House & Neighbourhood",
+      "questions": [
+        {
+          "q": "Write two sentences with 'there is / there are'.",
+          "a": "There is a park near my house. There are two bakeries in my neighbourhood.",
+          "image": "data/qa/img/70_sum1.png"
+        },
+        {
+          "q": "Name three places in your neighbourhood in English.",
+          "a": "Pharmacy, supermarket, bank (örnek: park, hospital)."
+        }
+      ]
+    },
+    {
+      "name": "Theme 6 - Life in the City & Country",
+      "questions": [
+        {
+          "q": "Compare the city and the country using a comparative adjective.",
+          "a": "The city is more crowded than the country.",
+          "image": "data/qa/img/70_sum2.png"
+        },
+        {
+          "q": "Give directions from your home to the school.",
+          "a": "Go straight, turn right at the traffic lights, the school is on your left."
+        }
+      ]
+    },
+    {
+      "name": "Theme 7 - Life in the World & Nature",
+      "questions": [
+        {
+          "q": "Write two things we should do to protect nature.",
+          "a": "We should recycle and save water.",
+          "image": "data/qa/img/70_sum0.png"
+        },
+        {
+          "q": "Name three weather conditions.",
+          "a": "Sunny, rainy, windy (örnek: snowy, foggy)."
+        }
+      ]
+    },
+    {
+      "name": "Theme 8 - Life in the Universe & Future",
+      "questions": [
+        {
+          "q": "Write a prediction about the future using 'will'.",
+          "a": "People will travel to other planets in the future.",
+          "image": "data/qa/img/70_sum1.png"
+        },
+        {
+          "q": "Write a future plan using 'be going to'.",
+          "a": "I am going to study hard this year."
+        }
+      ]
+    }
+  ]
+}

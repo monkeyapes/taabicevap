@@ -1,0 +1,162 @@
+{
+  "bookId": 68,
+  "title": "İngilizce Dersi 9.Sınıf Ders Kitabı",
+  "units": [
+    {
+      "name": "Theme 1 - School Life",
+      "questions": [
+        {
+          "q": "What is the difference between the Simple Present and the Present Progressive Tense?",
+          "a": "Simple Present rutin/alışkanlıkları anlatır (I go to school every day); Present Progressive şu anda olan eylemleri anlatır (I am going to school now).",
+          "image": "data/qa/img/68_sum0.png"
+        },
+        {
+          "q": "How are adverbs of frequency used (always, usually, often, sometimes, never)?",
+          "a": "Sıklık zarfları bir eylemin ne sıklıkla yapıldığını gösterir ve genellikle ana fiilden önce, 'be' fiilinden sonra kullanılır."
+        },
+        {
+          "q": "Give examples of polite requests with 'can, could, may, might'.",
+          "a": "Could you open the window, please? / May I come in? / Can I borrow your pen? — Kibar rica kalıplarıdır."
+        },
+        {
+          "q": "What are question tags in present tenses?",
+          "a": "Cümle sonuna eklenen kısa soru ekleridir: 'You are a student, aren't you?' veya 'He doesn't like maths, does he?'"
+        },
+        {
+          "q": "Name three kinds of school events or celebrations.",
+          "a": "School trips, sports day, national days (e.g. 23 Nisan), graduation ceremonies, festivals."
+        }
+      ]
+    },
+    {
+      "name": "Theme 2 - Classroom Life",
+      "questions": [
+        {
+          "q": "Name common classroom objects in English.",
+          "a": "Board, desk, chair, book, notebook, pencil, eraser, ruler, backpack, projector.",
+          "image": "data/qa/img/68_sum1.png"
+        },
+        {
+          "q": "Give examples of classroom instructions.",
+          "a": "Open your books, please. / Listen carefully. / Work in pairs. / Raise your hand."
+        },
+        {
+          "q": "How do prepositions of place describe position in the classroom?",
+          "a": "In, on, under, next to, behind, in front of, between — nesnelerin yerini belirtir (e.g. The book is on the desk)."
+        },
+        {
+          "q": "What phrases are used to ask for and give permission?",
+          "a": "May I go out? / Can I ask a question? — Sure, go ahead. / Of course."
+        }
+      ]
+    },
+    {
+      "name": "Theme 3 - Personal Life: Physical Appearance & Personality",
+      "questions": [
+        {
+          "q": "How do we describe physical appearance in English?",
+          "a": "Using adjectives: tall, short, slim, plump, curly/straight hair, blue eyes, and structures like 'She has got long hair'.",
+          "image": "data/qa/img/68_sum2.png"
+        },
+        {
+          "q": "How do we describe personality?",
+          "a": "With adjectives: kind, helpful, shy, outgoing, generous, hardworking, patient — 'He is very generous'."
+        },
+        {
+          "q": "What is the difference between 'have got' and 'has got'?",
+          "a": "'Have got' I/you/we/they ile, 'has got' he/she/it ile kullanılır; sahiplik ve özellik belirtir."
+        }
+      ]
+    },
+    {
+      "name": "Theme 4 - Family Life",
+      "questions": [
+        {
+          "q": "Name five family members in English.",
+          "a": "Mother, father, sister, brother, grandmother, grandfather, aunt, uncle, cousin.",
+          "image": "data/qa/img/68_sum0.png"
+        },
+        {
+          "q": "How is the possessive ('s / of) used?",
+          "a": "Sahiplik belirtir: 'My mother's name is Ayşe.' / 'the father of my friend'."
+        },
+        {
+          "q": "Describe a typical family routine using the Simple Present.",
+          "a": "My father goes to work at eight. We have dinner together at seven in the evening. I do my homework after dinner."
+        }
+      ]
+    },
+    {
+      "name": "Theme 5 - Life in the House & Neighbourhood",
+      "questions": [
+        {
+          "q": "Name the rooms of a house.",
+          "a": "Living room, kitchen, bedroom, bathroom, study/office, garden, balcony.",
+          "image": "data/qa/img/68_sum1.png"
+        },
+        {
+          "q": "How is 'there is / there are' used?",
+          "a": "Tekil için 'there is' (There is a sofa), çoğul için 'there are' (There are two windows) kullanılır."
+        },
+        {
+          "q": "What places are there in a neighbourhood?",
+          "a": "Bakery, pharmacy, supermarket, bank, park, hospital, school, post office."
+        }
+      ]
+    },
+    {
+      "name": "Theme 6 - Life in the City & Country",
+      "questions": [
+        {
+          "q": "How do we ask for and give directions?",
+          "a": "How can I get to the museum? Turn left, go straight, then turn right — Yol sorma ve tarif kalıplarıdır.",
+          "image": "data/qa/img/68_sum2.png"
+        },
+        {
+          "q": "How is the comparative form of adjectives used?",
+          "a": "İki şeyi karşılaştırır: bigger, smaller, more crowded. 'The city is more crowded than the village.'"
+        },
+        {
+          "q": "Compare life in the city and the country.",
+          "a": "City life is busier and more crowded; country life is quieter and calmer."
+        }
+      ]
+    },
+    {
+      "name": "Theme 7 - Life in the World & Nature",
+      "questions": [
+        {
+          "q": "Name some natural elements and weather conditions.",
+          "a": "Mountain, river, forest, sea, sun, rain, snow, wind, fog.",
+          "image": "data/qa/img/68_sum0.png"
+        },
+        {
+          "q": "How can we talk about protecting the environment?",
+          "a": "We should recycle, save water, and plant trees. We shouldn't litter or waste energy."
+        },
+        {
+          "q": "What modals express obligation and advice about nature?",
+          "a": "Must/should for obligation and advice (We must protect animals; We should save water)."
+        }
+      ]
+    },
+    {
+      "name": "Theme 8 - Life in the Universe & Future",
+      "questions": [
+        {
+          "q": "How do we talk about the future in English?",
+          "a": "Will ve be going to yapıları kullanılır: 'I will be a doctor.' / 'She is going to visit space.'",
+          "image": "data/qa/img/68_sum1.png"
+        },
+        {
+          "q": "Name some space-related words.",
+          "a": "Universe, planet, star, galaxy, astronaut, spaceship, satellite, moon."
+        },
+        {
+          "q": "What is the difference between 'will' and 'be going to'?",
+          "a": "'Will' anlık karar/tahmin, 'be going to' önceden planlanan niyet için kullanılır."
+        }
+      ]
+    }
+  ]
+}

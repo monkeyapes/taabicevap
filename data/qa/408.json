@@ -1,0 +1,158 @@
+{
+  "bookId": 408,
+  "title": "İngilizce Dersi 9.Sınıf Ders Kitabı (Hazırlık-12)",
+  "units": [
+    {
+      "name": "Theme 1 - School Life & Education",
+      "questions": [
+        {
+          "q": "How do we compare the Simple Present and the Present Progressive?",
+          "a": "Simple Present alışkanlık ve rutinleri (I study every day), Present Progressive şu an süren eylemleri (I am studying now) anlatır.",
+          "image": "data/qa/img/408_sum0.png"
+        },
+        {
+          "q": "What are adverbs of frequency and where are they placed?",
+          "a": "Always, usually, often, sometimes, rarely, never; genellikle ana fiilden önce, 'be' fiilinden sonra yer alır."
+        },
+        {
+          "q": "Give examples of polite requests and offers with modals.",
+          "a": "Could you help me, please? / May I ask a question? / Shall we start? — kibar rica ve teklif kalıplarıdır."
+        },
+        {
+          "q": "How do articles and quantifiers work in English?",
+          "a": "a/an belirsiz, the belirli tanımlıktır; some/any, much/many, a lot of miktar belirtir."
+        },
+        {
+          "q": "What is a question tag? Give an example.",
+          "a": "Cümle sonuna eklenen kısa soru eki: 'You like English, don't you?'"
+        }
+      ]
+    },
+    {
+      "name": "Theme 2 - Classroom Life & Learning",
+      "questions": [
+        {
+          "q": "What expressions are used to ask for clarification in class?",
+          "a": "Could you repeat that, please? / What does ... mean? / Can you explain it again?",
+          "image": "data/qa/img/408_sum1.png"
+        },
+        {
+          "q": "Name different learning styles.",
+          "a": "Visual, auditory, kinaesthetic, reading/writing learners."
+        },
+        {
+          "q": "How do we talk about study habits?",
+          "a": "I usually take notes. I revise every evening. I learn best by listening."
+        }
+      ]
+    },
+    {
+      "name": "Theme 3 - Personal Life & Well-being",
+      "questions": [
+        {
+          "q": "How do we talk about health and well-being?",
+          "a": "Using 'should/shouldn't': You should sleep well. You shouldn't eat too much sugar.",
+          "image": "data/qa/img/408_sum2.png"
+        },
+        {
+          "q": "Name some feelings and emotions.",
+          "a": "Happy, sad, excited, worried, tired, relaxed, stressed, proud."
+        },
+        {
+          "q": "How do we ask about hobbies and free time?",
+          "a": "What do you do in your free time? / I enjoy reading and playing football."
+        }
+      ]
+    },
+    {
+      "name": "Theme 4 - Family Life & Home",
+      "questions": [
+        {
+          "q": "How do we describe our home and family?",
+          "a": "There is/are, have got/has got ve aile üyeleri: 'We have got a big garden.' / 'My sister has got her own room.'",
+          "image": "data/qa/img/408_sum0.png"
+        },
+        {
+          "q": "Name household chores in English.",
+          "a": "Do the washing-up, tidy up, do the laundry, water the plants, take out the rubbish."
+        },
+        {
+          "q": "How do we express possession?",
+          "a": "Possessive 's ve iyelik sıfatları: my, your, his, her, our, their; 'my mother's car'."
+        }
+      ]
+    },
+    {
+      "name": "Theme 5 - Life in the Neighbourhood, City & Social Life",
+      "questions": [
+        {
+          "q": "How do we ask for and give directions?",
+          "a": "Excuse me, how can I get to ...? Go straight, turn left at the corner, it's next to the bank.",
+          "image": "data/qa/img/408_sum1.png"
+        },
+        {
+          "q": "Name places in a city.",
+          "a": "Museum, library, shopping centre, cinema, hospital, town hall, bus station."
+        },
+        {
+          "q": "How do we make suggestions about social activities?",
+          "a": "Let's go to the cinema. / How about meeting at the park? / Why don't we join a club?"
+        }
+      ]
+    },
+    {
+      "name": "Theme 6 - Life in the World & Culture",
+      "questions": [
+        {
+          "q": "How do we talk about countries and nationalities?",
+          "a": "Country + nationality: Turkey–Turkish, England–English, Japan–Japanese.",
+          "image": "data/qa/img/408_sum2.png"
+        },
+        {
+          "q": "What expressions are used to compare cultures?",
+          "a": "In my culture ... / Unlike in ... / Both ... and ... / whereas."
+        },
+        {
+          "q": "Name some cultural elements.",
+          "a": "Traditional food, festivals, music, clothing, customs and celebrations."
+        }
+      ]
+    },
+    {
+      "name": "Theme 7 - Life in Nature & Global Problems",
+      "questions": [
+        {
+          "q": "Name some global problems.",
+          "a": "Climate change, pollution, deforestation, water shortage, hunger, poverty.",
+          "image": "data/qa/img/408_sum0.png"
+        },
+        {
+          "q": "How do we express obligation and advice about the environment?",
+          "a": "We must reduce waste. We should recycle. We shouldn't cut down trees."
+        },
+        {
+          "q": "Name natural disasters and natural elements.",
+          "a": "Earthquake, flood, drought, storm; mountain, river, forest, ocean."
+        }
+      ]
+    },
+    {
+      "name": "Theme 8 - Life in the Universe & the Future",
+      "questions": [
+        {
+          "q": "How do we talk about future plans and predictions?",
+          "a": "Be going to (plan): I am going to study medicine. Will (prediction/decision): I think people will live on Mars.",
+          "image": "data/qa/img/408_sum1.png"
+        },
+        {
+          "q": "Name space-related vocabulary.",
+          "a": "Universe, planet, satellite, astronaut, spaceship, galaxy, telescope."
+        },
+        {
+          "q": "What might life in the future be like?",
+          "a": "People may use robots and smart homes; travel may be faster and cleaner thanks to technology."
+        }
+      ]
+    }
+  ]
+}
