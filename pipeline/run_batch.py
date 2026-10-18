@@ -26,8 +26,7 @@ OUT = ROOT / "data" / "qa_full"
 OUT.mkdir(parents=True, exist_ok=True)
 
 OPENCODE = os.environ.get("OPENCODE_BIN", "opencode")
-MODEL = os.environ.get("OPencode_MODEL", "opencode/deepseek-v4.1-flash-free")
-MODEL = os.environ.get("OPENCODE_MODEL", MODEL)
+MODEL = os.environ.get("OPENCODE_MODEL", "opencode/deepseek-v4.1-flash-free")
 BUDGET = int(os.environ.get("BUDGET_MIN", "330")) * 60
 MAX_BOOKS = int(os.environ.get("MAX_BOOKS", "0"))
 
