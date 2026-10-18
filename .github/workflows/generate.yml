@@ -49,6 +49,7 @@ jobs:
           BUDGET_MIN: ${{ github.event.inputs.budget_min || '330' }}
           MAX_BOOKS: ${{ github.event.inputs.max_books || '0' }}
           OPENCODE_MODEL: opencode/deepseek-v4.1-flash-free
+          AUTOCOMMIT: "1"
         run: python pipeline/run_batch.py
 
       - name: Refresh counts
@@ -63,5 +64,9 @@ jobs:
             echo "nothing to commit"
           else
             git commit -m "Generate page answers [skip ci]"
-            git push
           fi
+          for i in 1 2 3 4; do
+            git pull --rebase --autostash || true
+            git push && break
+            sleep 3
+          done

@@ -22,7 +22,7 @@ import pymupdf
 
 ROOT = Path(__file__).resolve().parent.parent
 BOOKS = json.loads((ROOT / "data" / "books.json").read_text(encoding="utf-8"))
-OUT = ROOT / "data" / "qa_full"
+OUT = Path(os.environ.get("QA_FULL_DIR", str(ROOT / "data" / "qa_full")))
 OUT.mkdir(parents=True, exist_ok=True)
 
 OPENCODE = os.environ.get("OPENCODE_BIN", "opencode")
@@ -133,6 +133,21 @@ def download(url, dest):
             f.write(chunk)
 
 
+def git_commit(msg):
+    if os.environ.get("AUTOCOMMIT") != "1":
+        return
+    subprocess.run(["git", "add", "data/qa_full"], cwd=ROOT)
+    if subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=ROOT).returncode == 0:
+        return
+    subprocess.run(["git", "commit", "-m", msg], cwd=ROOT)
+    for _ in range(4):
+        subprocess.run(["git", "pull", "--rebase", "--autostash"], cwd=ROOT)
+        if subprocess.run(["git", "push"], cwd=ROOT).returncode == 0:
+            print("  pushed", flush=True)
+            return
+        time.sleep(3)
+
+
 def process_book(book):
     bid = str(book["id"])
     state = load_state(bid)
@@ -162,6 +177,7 @@ def process_book(book):
             print(f"  {bid}: p{pg} ({n} pages, {round(time.time()-t0)}s)", flush=True)
         if time.time() - t0 > BUDGET:
             print(f"  {bid}: budget hit mid-book, saving partial", flush=True)
+            git_commit(f"Partial answers for book {bid} [skip ci]")
             doc.close()
             try:
                 tmp.unlink()
@@ -176,21 +192,25 @@ def process_book(book):
     except OSError:
         pass
     print(f"{bid}: DONE {len(state['pages'])} pages, {round(time.time()-t0)}s", flush=True)
+    git_commit(f"Answers for book {bid} [skip ci]")
     return n
 
 
-def queue():
+def queue(only=None):
     def gorder(b):
         s = b.get("sinif") or ""
         return GRADE_ORDER.index(s) if s in GRADE_ORDER else 99
     books = [b for b in BOOKS if b.get("pdf")]
+    if only:
+        books = [b for b in books if str(b["id"]) in only]
     books.sort(key=lambda b: (gorder(b), str(b.get("ders") or ""), b["id"]))
     return [b for b in books if not load_state(str(b["id"])).get("done")]
 
 
 def main():
     start = time.time()
-    q = queue()
+    only = set(sys.argv[1:]) or None
+    q = queue(only)
     print(f"queue: {len(q)} books pending; budget {BUDGET//60} min", flush=True)
     done = 0
     for b in q:
