@@ -1,6 +1,6 @@
 {
  "bookId": 399,
- "done": false,
+ "done": true,
  "pages": {
   "3": [
    {
@@ -192,6 +192,402 @@
    {
     "q": "Grup Değerlendirme Formu'ndaki ölçütler nelerdir?",
     "a": "1) Ritme uyum, 2) Hareket çeşitliliği ve uyumu, 3) Alanı etkili kullanma, 4) Grup üyelerinin koordinasyonu, 5) İletişim ve iş birliği."
+   }
+  ],
+  "25": [
+   {
+    "q": "Etkinliğin adı nedir?",
+    "a": "Ritimle Gezdir"
+   },
+   {
+    "q": "Etkinliğin süresi ve çalışma biçimi nedir?",
+    "a": "30+30 dk., grup çalışması"
+   },
+   {
+    "q": "Hangi yöntem ve teknikler kullanılır?",
+    "a": "Alıştırma, gösterip yaptırma, eşli çalışma, grupla çalışma"
+   },
+   {
+    "q": "Hangi malzemeler kullanılır?",
+    "a": "Düdük, mendil, işitsel ve görsel araçlar vb."
+   },
+   {
+    "q": "Isınma nasıl yapılır?",
+    "a": "Ritmik hareketlerle (el çırpma, kolları sallama, diz çekme vb.)"
+   },
+   {
+    "q": "Gezinme nasıl başlatılır?",
+    "a": "Müzik eşliğinde spor salonunda veya okul bahçesinde"
+   },
+   {
+    "q": "Müzik durunca ne yapılır?",
+    "a": "Her öğrenci en yakınındaki arkadaşıyla eşleşir."
+   },
+   {
+    "q": "Eşlerden biri ne yapar?",
+    "a": "Eşinin gözünü bağlar."
+   },
+   {
+    "q": "Gözü açık öğrenci ne yapar?",
+    "a": "Gözü kapalı öğrenciyi belirlediği ritim eşliğinde gezdirir."
+   },
+   {
+    "q": "Gruplar gezinirken neye dikkat etmelidir?",
+    "a": "Birbirlerine çarpmamaya"
+   },
+   {
+    "q": "Etkinlik sırasında öğrenciler ne yapmalıdır?",
+    "a": "Konuşmamalı ve belirlenen ritmi kullanmalıdır."
+   },
+   {
+    "q": "Etkinlik tekrarından sonra ne yapılır?",
+    "a": "Eşler rol değiştirir."
+   },
+   {
+    "q": "Soğuma hareketleri nasıl yapılır?",
+    "a": "Yavaş tempoda yürüyüş yaparak"
+   },
+   {
+    "q": "Etkinlik sonunda ne istenir?",
+    "a": "Grupların birbirlerinin performansını değerlendirmesi"
+   },
+   {
+    "q": "Bu hangi tema ve etkinliktir?",
+    "a": "1. Tema, 4. Etkinlik"
+   }
+  ],
+  "26": [
+   {
+    "q": "Grup olarak verilen görevin sorumluluklarını yerine getirmeye dikkat edilmiş midir?",
+    "a": "Her Zaman (2)"
+   },
+   {
+    "q": "Grup çalışmasına aktif olarak katılım sağlanmış mıdır?",
+    "a": "Her Zaman (2)"
+   },
+   {
+    "q": "Ritimler doğru verilmiş midir?",
+    "a": "Her Zaman (2)"
+   },
+   {
+    "q": "Ritimlere uygun hareket edilmiş midir?",
+    "a": "Her Zaman (2)"
+   },
+   {
+    "q": "Görev için verilen zaman verimli biçimde kullanılmış mıdır?",
+    "a": "Her Zaman (2)"
+   },
+   {
+    "q": "Görev için verilen alan etkili biçimde kullanılmış mıdır?",
+    "a": "Her Zaman (2)"
+   },
+   {
+    "q": "Toplam puan kaçtır?",
+    "a": "12"
+   },
+   {
+    "q": "Zenginleştirme: Fiziksel etkinliğin önemi hakkında profesyonel sporcularla röportaj yapınız.",
+    "a": "Beden ve ruh sağlığının iyileştirilmesinde fiziksel etkinliğin önemine dair sorular hazırlayıp sporcularla görüşülür."
+   },
+   {
+    "q": "Zenginleştirme: Hareket kalıplarını kullanarak kendinize özgü bir figür oluşturunuz.",
+    "a": "Yürüme, sıçrama, dönme gibi temel hareketler birleştirilerek özgün bir figür oluşturulur."
+   },
+   {
+    "q": "Destekleme: Fiziksel etkinliğin beden ve ruh sağlığına etkisini ifade eden bilgi kartı hazırlayınız.",
+    "a": "Öğretmen veya akran yardımıyla etkileri yazıp görsellerle destekleyen bir kart hazırlanır."
+   },
+   {
+    "q": "Destekleme: El çırpma, kolları sallama, diz çekme vb. hareket kalıplarını uygulayınız.",
+    "a": "Hareketler öğretmen rehberliğinde sırayla ve ritme uygun şekilde uygulanır."
+   },
+   {
+    "q": "Gelecek derse hazırlık olarak ne yapılmalıdır?",
+    "a": "Basketbol ve futsal için gerekli materyaller hazırlanır."
+   }
+  ],
+  "27": [
+   {
+    "q": "Fiziksel etkinliğin hem beden sağlığına hem de ruh sağlığına olan etkilerini açıklayınız?",
+    "a": "Beden sağlığına; kas ve kemikleri güçlendirir, kalp-dolaşım ve solunumu düzenler, kilo kontrolü sağlar, hastalık riskini azaltır. Ruh sağlığına; endorfin salgılar, stresi azaltır, mutluluk verir, özgüven ve zihinsel odaklanmayı artırır."
+   },
+   {
+    "q": "Teknolojik gelişmelerin fiziksel hareket üzerindeki etkileri ve bu durumun olası sonuçları nelerdir?",
+    "a": "Teknoloji hareketsizliği artırır (ekran başında uzun süre oturma, asansör/araç kullanımı). Sonuçları; obezite, kas zayıflığı, duruş bozuklukları, kalp rahatsızlıkları ve ruhsal sorunlardır."
+   },
+   {
+    "q": "Ritmik hareketler günlük yaşamımızda nerelerde ve nasıl karşımıza çıkmaktadır?",
+    "a": "Müzikle dans, yürüyüş, koşu, yüzme, spor branşları, halk oyunları, jimnastik ve günlük işlerde (merdiven çıkma, tempolu yürüme) düzenli tekrarlarla karşımıza çıkar."
+   },
+   {
+    "q": "Yaptığınız ritmik hareketleri oluştururken nelere dikkat edersiniz?",
+    "a": "Ritme uygunluk, hareketlerin sırası ve düzeni, grup uyumu, doğru duruş, ısınma, güvenlik ve hareketlerin estetik/akıcı olmasına dikkat ederim."
+   },
+   {
+    "q": "Aşağıdakilerden hangisi fiziksel etkinliğin ruh sağlığı üzerindeki etkilerinden biri değildir?",
+    "a": "B) Kas yorgunluğunu artırarak uyku süresini uzatması"
+   },
+   {
+    "q": "Ritmik hareket yaparken aşağıdakilerden hangisine dikkat edilmelidir?",
+    "a": "B) Grup üyeleriyle uyumlu olmak"
+   }
+  ],
+  "35": [
+   {
+    "q": "Futsaldaki top sürme becerisini gösteriniz.",
+    "a": "Öğretmen, ayak içi ve dışını kullanarak topu vücuda yakın, yumuşak dokunuşlarla sürerek örnekler."
+   },
+   {
+    "q": "Öğrencilerden bireysel top sürme becerisini deneyimlemelerini isteyiniz.",
+    "a": "Her öğrenci kendi topuyla serbest alanda bireysel top sürme yapar."
+   },
+   {
+    "q": "Becerinin düz bir çizgide ve farklı yönlere serbest şekilde yapmalarını sağlayınız.",
+    "a": "Öğrenciler önce düz çizgide, sonra farklı yönlere serbestçe top sürer."
+   },
+   {
+    "q": "Öğrencilerin bireysel hatalarını tespit edip rehberlik yapabilirsiniz. Rehberlik nasıl olmalıdır?",
+    "a": "\"Topa daha yumuşak dokunuşlar yapabilirsin.\" veya \"Ayağının içini ve dışını seri şekilde kullanabilirsin.\" gibi yönlendirmelerle."
+   },
+   {
+    "q": "Öğrencilerin ikişerli eşleşmelerini ve beceri basamaklarını birbirlerine göstermelerini sağlayınız.",
+    "a": "Eşler sırayla top sürme basamaklarını uygulayıp birbirine gösterir."
+   },
+   {
+    "q": "Eşlerin birbirlerine geri bildirim vermelerini nasıl sağlarsınız?",
+    "a": "Eşler hareketleri izleyerek yapıcı geri bildirimde bulunur."
+   },
+   {
+    "q": "Futsal top sürmede verilebilecek geri bildirim örnekleri nelerdir?",
+    "a": "Topu vücuda yakın tutması, ayak dışını da kullanması, bileklerini esnek tutması, ayak içiyle yön vermesi, dizlerini bükmesi ve vücudunu siper etmesi yönünde öneriler."
+   },
+   {
+    "q": "Grupların top sürme becerisinin kullanıldığı mini oyun/yarışma tasarlamalarını isteyiniz. Örnek nedir?",
+    "a": "Gruplar hunilerle iki bölge belirler; öğrenciler sırayla topları hunilerin arasından sürerek kendi bölgesine taşır; süre sonunda en çok topu olan grup kazanır."
+   },
+   {
+    "q": "Her grubun tasarladığı benzer oyunu ne yapmasını istersiniz?",
+    "a": "Her grup tasarladığı oyunu iki farklı gruba oynatır."
+   }
+  ],
+  "38": [
+   {
+    "q": "Manute Bol kimdir?",
+    "a": "Güney Sudanlı, 2.31 m boyunda, NBA'de \"Blok Kralı\" olarak tanınan basketbol efsanesi."
+   },
+   {
+    "q": "Basketbol/futsal müsabakasında taktikler hangi durumlarda değiştirilir?",
+    "a": "Rakip oyun tarzı, skor durumu, oyuncu değişikliği, sakatlık ve maçın gidişatı değiştiğinde."
+   },
+   {
+    "q": "Yarış/müsabaka koşulları (hava durumu, yer, zaman vb.) değiştiğinde taktik ve stratejilerde ne gibi değişiklikler yapılabilir?",
+    "a": "Oyuncu seçimi, diziliş, tempo, savunma-hücum düzeni ve oyun planı yeni koşullara göre uyarlanır."
+   },
+   {
+    "q": "Bu konuda senin fikirlerin nelerdir?",
+    "a": "Koşullara hızlı uyum sağlayan esnek taktikler başarıyı artırır."
+   }
+  ],
+  "43": [
+   {
+    "q": "Bağlantı Noktası - İzlenen tenis/ayak tenisi müsabakasında sergilenen hareket becerilerinin müsabakaya etkisine örnekler veriniz.",
+    "a": "Doğru servis, hızlı koşu, isabetli vuruş, etkili raket tutuşu ve zamanlama gibi beceriler sayı kazanmayı ve müsabaka sonucunu doğrudan etkiler."
+   },
+   {
+    "q": "Aşağıdaki örnek işleniş basamaklarını belirlediğiniz branşa göre yapılandırınız.",
+    "a": "Branşa göre; ısınma, temel teknik çalışmalar (tutuş, vuruş, servis), oyun/uygulama ve soğuma-değerlendirme aşamaları şeklinde sıralanır."
+   },
+   {
+    "q": "Ön Değerlendirme - Tenis/ayak tenisi müsabakasında oyun alanını etkili kullanmanın sonuca etkisi hakkındaki düşünceleriniz nelerdir?",
+    "a": "Oyun alanını etkili kullanmak rakibe boş alan bıraktırır, zaman kazandırır ve savunmayı zorlaştırarak sayı kazanma avantajı sağlar."
+   },
+   {
+    "q": "Dersten Önce - Dersten önce yapılması gereken hazırlıklar nelerdir?",
+    "a": "Top, huni, koruyucu ekipman, antrenman merdiveni, işaret bandı ve değerlendirme formu kontrol edilir; alan güvenliği sağlanır ve ders aşamaları (ısınma, teknik çalışmalar, oyun, soğuma) planlanır."
+   }
+  ],
+  "44": [
+   {
+    "q": "Aşağıdaki metni okuyunuz ve konu hakkındaki fikirlerinizi söyleyiniz.",
+    "a": "Tenis; strateji, çeviklik, hız, disiplin ve eğlenceyi birleştiren, zihin ve bedeni birlikte çalıştıran bir spordur."
+   },
+   {
+    "q": "Peki, tenisi bu kadar ilgi çekici kılan nedir?",
+    "a": "Zihin-beden uyumu sağlaması, kardiyo etkisiyle formda tutması, stres attırması ve sosyalleştirmesidir."
+   },
+   {
+    "q": "Öğrencileri güdülemek için ne yapılmalıdır?",
+    "a": "Oyun ve yarışma bazlı etkinlikler yapılmalıdır."
+   },
+   {
+    "q": "Özelleşmiş hareket becerisi çalışmalarında öğrencilere hangi roller verilmelidir?",
+    "a": "Liderlik, antrenörlük ve hakemlik gibi roller verilerek sorumluluk almaları sağlanmalıdır."
+   },
+   {
+    "q": "Beceri öğretiminde nasıl etkinlikler tasarlanmalıdır?",
+    "a": "Esnek sınırlara sahip, yeniden düzenlenmiş etkinlikler (kuralları değiştirme, sayıları azaltma gibi) tasarlanmalıdır."
+   },
+   {
+    "q": "Taktik ve strateji etkinliklerinde ne uygulatılmalıdır?",
+    "a": "Branşa özgü kurallar uygulatılmalıdır."
+   },
+   {
+    "q": "Dikkat çekme ve farklılaştırma bölümlerindeki örnek içerikler neye göre uyarlanmalıdır?",
+    "a": "Belirlenen branşa göre uyarlanmalıdır."
+   },
+   {
+    "q": "Beceri öğretiminde öğrenmeyi kolaylaştırmak için ne yapılmalıdır?",
+    "a": "Akıllı tahta, sesli talimatlar ve saha uygulamaları gibi birden fazla duyuya hitap eden çalışmalar yaptırılmalıdır."
+   }
+  ],
+  "46": [
+   {
+    "q": "Teniste forehand vuruşunu farklı durumlarda uygulama çalışması nasıl yapılır?",
+    "a": "Öğrenciler kortun bir ucundan diğer ucundaki hedefe (ör. rakibin dip çizgisi) güçlü ve isabetli forehand vuruşları yapar."
+   },
+   {
+    "q": "Soğuma aşamasında neler yapılır?",
+    "a": "Hafif tempolu koşu yapılır; ardından kol, omuz, sırt ve bacak kaslarına statik esneme hareketleri uygulanır."
+   },
+   {
+    "q": "Değerlendirme aşamasında ne yapılır?",
+    "a": "Öğrencilere Öz Değerlendirme Formu dağıtılarak tenise ait özelleşmiş hareket becerilerini sergileyebilmeleri değerlendirilir."
+   }
+  ],
+  "49": [
+   {
+    "q": "Soğuma aşamasında hangi egzersizler yapılmalıdır?",
+    "a": "Eşli hafif tempolu koşu ve ardından bacak, kalça, karın ve sırt kaslarına yönelik statik esneme hareketleri yapılmalıdır."
+   },
+   {
+    "q": "Öz Değerlendirme formu ne amaçla kullanılır?",
+    "a": "Ayak tenisi servis atışına ait özelleşmiş hareket becerilerini öğrencinin kendisinin değerlendirmesi için kullanılır."
+   },
+   {
+    "q": "Servis öncesi doğru duruş pozisyonu alıyor muyum?",
+    "a": "Evet."
+   },
+   {
+    "q": "Topa vuruş anında doğru ayak bileği esnekliğini ve kontrolünü sağlıyor muyum?",
+    "a": "Evet."
+   },
+   {
+    "q": "Topa vurduktan sonra doğru bir şekilde takip hareketini tamamlıyor muyum?",
+    "a": "Evet."
+   },
+   {
+    "q": "Servislerimi hedeflediğim alana isabetli bir şekilde gönderiyor muyum?",
+    "a": "Evet."
+   },
+   {
+    "q": "Farklı durumlarda servisimi duruma göre ayarlıyor muyum?",
+    "a": "Evet."
+   },
+   {
+    "q": "Gelecek derse hazırlık olarak ne yapılmalıdır?",
+    "a": "Seçilen file/raket sporunda (badminton, masa tenisi vb.) taktik ve strateji geliştirme için video, slayt, etkinlik örnekleri ve vaka analizi gibi materyaller hazırlanmalıdır."
+   }
+  ],
+  "50": [
+   {
+    "q": "Tenis/ayak tenisi müsabakalarında taktikler hangi durumlarda değiştirilir?",
+    "a": "Rakibin oyun tarzı, skor durumu, hava koşulları, zemin ve oyuncunun yorgunluğu değiştiğinde."
+   },
+   {
+    "q": "Bir tenis/ayak tenisi müsabakasının koşulları (hava durumu, müsabaka yeri, müsabaka zamanı, seyirci vb.) değiştiğinde taktik ve stratejilerde ne gibi değişiklikler yapılabilir?",
+    "a": "Rüzgârlı havada alçak ve kontrollü vuruş, sıcakta tempoyu düşürme, kalabalık seyircide sakin oyun, farklı zeminde ayak uyumunu değiştirme gibi önlemler alınabilir."
+   },
+   {
+    "q": "Dikkat Çekme metni: Solhan Ayak Tenisi Takımı'nın hikâyesi bize ne anlatıyor?",
+    "a": "Azim, inanç ve birlikteliğin insana güç kattığını, \"imkânsız\" kelimesinin sadece bir bahane olduğunu gösteriyor."
+   },
+   {
+    "q": "Ayak tenisi takımının en büyük dileği nedir?",
+    "a": "Ayak tenisinin Türkiye'de resmi bir branş olarak kabul edilmesi ve daha fazla destek bulması."
+   },
+   {
+    "q": "Takımın elde ettiği başarılar nelerdir?",
+    "a": "Üst üste dört kez Türkiye şampiyonluğu ve Avrupa üçüncülüğü."
+   }
+  ],
+  "52": [
+   {
+    "q": "Grup içindeki her öğrenci verilen problem/duruma nasıl çözüm önerisi sunar ve en uygun öneri nasıl uygulanır?",
+    "a": "Her öğrenci bir öneri sunar, grup tartışır ve en uygun öneriyi birlikte uygular."
+   },
+   {
+    "q": "Mini oyunlar tamamlandıktan sonra müsabakalar hangi kriterlere göre tasarlanır?",
+    "a": "Görevler verme, değişken yapay koşullar oluşturma ve kurallarda esneklik sağlama kriterlerine göre."
+   },
+   {
+    "q": "Müsabakalarda öğrencilere hangi fırsatlar verilir?",
+    "a": "Rakiplerin stratejilerini değerlendirme, güçlü/zayıf yönlerini analiz etme ve yenilikçi çözümler üretme."
+   },
+   {
+    "q": "Geliştirilen taktiğe göre öğrencilerden ne yapmaları istenir?",
+    "a": "Rollerini ve pozisyonlarını belirlemeleri."
+   },
+   {
+    "q": "Geliştirilen taktiklerin müsabakalarda uygulanması kimden istenir?",
+    "a": "Gruplardan."
+   },
+   {
+    "q": "Gruplar müsabaka sırasında birbirlerini nasıl değerlendirir?",
+    "a": "Taktik etkililiği, ekip içi koordinasyon ve bireysel performans kriterlerine dikkat ederek."
+   },
+   {
+    "q": "Öğrenciler arkadaşlarına nasıl geri bildirim vermeli?",
+    "a": "Zayıf yönleri geliştirecek ve güçlü yönlerin farkında olmayı sağlayacak yapıcı geri bildirimlerle."
+   },
+   {
+    "q": "Soğuma bölümünde öğrenciler ne yapar?",
+    "a": "Vücudun soğuması için hafif tempolu koşular yapar."
+   },
+   {
+    "q": "Tartışma sırasında öğrencilerden beklenen davranışlar nelerdir?",
+    "a": "Fikir sunma ve dinleme, açık-öz dil, açık fikirlilik, esneklik, ön yargısız dinleme, yapıcı eleştiri, ısrarcı olmama ve zamanı etkin kullanma."
+   },
+   {
+    "q": "Ayak tenisinde taktik ve strateji geliştirme becerisi nasıl değerlendirilir?",
+    "a": "Akran Değerlendirme Formu dağıtılarak."
+   }
+  ],
+  "55": [
+   {
+    "q": "Teniste taktik ve strateji geliştirebilme becerileri nasıl değerlendirilir?",
+    "a": "Akran Değerlendirme Formu dağıtılarak öğrencilerin birbirini değerlendirmesi sağlanır."
+   },
+   {
+    "q": "Müsabakalar hangi kriterlere göre tasarlanır?",
+    "a": "Estetik sayılara fazladan puan, centilmenlik puanı ve başarılı taktik değişikliğine fazladan puan verilecek şekilde."
+   },
+   {
+    "q": "Müsabakalarda hangi değerlendirme fırsatları verilir?",
+    "a": "Rakip stratejilerini ve kendi taktiklerini anlık değerlendirme fırsatı verilir."
+   },
+   {
+    "q": "Öğrencilerden taktiğe göre neleri belirlemeleri istenir?",
+    "a": "Rollerini ve pozisyonlarını (dip çizgi, hücum, fileye yakın oynama, savunma vb.) belirlemeleri."
+   },
+   {
+    "q": "Geliştirilen taktiklerle ne yapılması istenir?",
+    "a": "Taktiklerin müsabakalarda uygulanması istenir."
+   },
+   {
+    "q": "Gruplar müsabaka sırasında ne yapar?",
+    "a": "Önceden belirlenen kriterlere göre birbirlerinin performansını dikkatle değerlendirir."
+   },
+   {
+    "q": "Değerlendirmelerde hangi kriterlere dikkat edilir?",
+    "a": "Veri odaklı analiz, ekip içi koordinasyon ve iş birliği, bireysel performans, taktik ve stratejilerin işlevselliği."
+   },
+   {
+    "q": "Geri bildirim verirken nelere dikkat edilmelidir?",
+    "a": "Davranışlara odaklanma, davranışın takım başarısına etkisi, soru sorma, güçlü yönleri vurgulama ve gelişim önerileri sunma."
+   },
+   {
+    "q": "Soğuma aşamasında ne yapılır?",
+    "a": "Etkinlik alanında hafif tempolu koşu yapılır."
    }
   ]
  }
