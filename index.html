@@ -75,6 +75,20 @@
   <div class="viewer-stage" id="viewerStage"></div>
 </div>
 
+<div id="bookViewer" class="bviewer" hidden>
+  <div class="bviewer-top">
+    <div class="bviewer-title" id="bviewerTitle"></div>
+    <div class="bviewer-actions">
+      <a class="btn" id="bviewerPdf" target="_blank" rel="noopener">PDF indir / aç</a>
+      <button class="viewer-x" id="bviewerClose" aria-label="Kapat">×</button>
+    </div>
+  </div>
+  <div class="bviewer-stage">
+    <iframe id="bviewerFrame" title="Kitap görüntüleyici"></iframe>
+    <div class="bviewer-wm" aria-hidden="true">TaabiCevap</div>
+  </div>
+</div>
+
 <script src="assets/app.js"></script>
 </body>
 </html>

@@ -81,6 +81,7 @@ function card(b) {
       <h3>${esc(b.title)}</h3>
       <div class="actions">
         ${qa}
+        ${b.pdf ? `<button class="btn book" data-book="${b.id}">Kitap (tüm sayfalar)</button>` : ""}
         ${b.pdf ? `<a class="btn pdf" target="_blank" rel="noopener" href="${esc(b.pdf)}">PDF</a>` : ""}
         ${b.interactive ? `<a class="btn" target="_blank" rel="noopener" href="${esc(b.interactive)}">Etkileşimli</a>` : ""}
       </div>
@@ -100,6 +101,8 @@ function render() {
   $("#empty").hidden = list.length > 0;
   grid.querySelectorAll("[data-open]").forEach((el) =>
     el.addEventListener("click", () => openBook(+el.dataset.open)));
+  grid.querySelectorAll("[data-book]").forEach((el) =>
+    el.addEventListener("click", () => openBookViewer(+el.dataset.book)));
 }
 
 async function openBook(id) {
@@ -112,6 +115,7 @@ async function openBook(id) {
         <h2>${esc(b.title)}</h2>
         <div class="badges"><span class="badge">${esc(b.kademe)}</span><span class="badge">${esc(b.sinif)}</span><span class="badge ders">${esc(b.ders)}</span></div>
         <div class="modal-actions">
+          ${b.pdf ? `<button class="btn book" id="openBookFull">Kitabı tüm sayfalarda aç</button>` : ""}
           ${b.pdf ? `<a class="btn pdf" target="_blank" rel="noopener" href="${esc(b.pdf)}">PDF indir / aç</a>` : ""}
           ${b.interactive ? `<a class="btn" target="_blank" rel="noopener" href="${esc(b.interactive)}">Etkileşimli Kitap</a>` : ""}
           ${b.detail ? `<a class="btn" target="_blank" rel="noopener" href="${esc(b.detail)}">MEB sayfası</a>` : ""}
@@ -122,6 +126,8 @@ async function openBook(id) {
   modal.hidden = false;
   document.body.style.overflow = "hidden";
   modal.querySelectorAll("[data-close]").forEach((el) => el.onclick = closeModal);
+  const fullBtn = modal.querySelector("#openBookFull");
+  if (fullBtn) fullBtn.onclick = () => openBookViewer(b.id);
   document.addEventListener("keydown", escClose);
   if (b.qaCount > 0) {
     try {
@@ -173,9 +179,14 @@ function openViewer(ui, qi) {
       <div class="viewer-text">
         <p class="vq">${esc(x.q)}</p>
         <p class="va"><b>Cevap:</b> ${esc(x.a)}</p>
-        ${x.page ? `<div class="tag">Sayfa ${x.page}</div>` : ""}
+        <div class="viewer-foot">
+          ${x.page ? `<span class="tag">Sayfa ${x.page}</span>` : "<span></span>"}
+          ${(x.page && viewCtx.book?.pdf) ? `<button class="btn book" id="viewerOpenPage">Kitapta bu sayfayı aç</button>` : ""}
+        </div>
       </div>
     </div>`;
+  const opb = $("#viewerOpenPage");
+  if (opb) opb.onclick = () => openBookViewer(viewCtx.book.id, x.page);
   $("#viewer").hidden = false;
   document.body.style.overflow = "hidden";
   $("#viewerClose").onclick = closeViewer;
@@ -186,12 +197,36 @@ function closeViewer() {
   const v = $("#viewer");
   if (!v || v.hidden) return false;
   v.hidden = true;
-  if ($("#modal").hidden) document.body.style.overflow = "";
+  if ($("#modal").hidden && $("#bookViewer").hidden) document.body.style.overflow = "";
+  return true;
+}
+
+function openBookViewer(id, page) {
+  const b = state.books.find((x) => x.id === id);
+  if (!b || !b.pdf) return;
+  $("#bviewerTitle").textContent = b.title;
+  $("#bviewerPdf").href = b.pdf;
+  const frame = $("#bviewerFrame");
+  frame.src = "about:blank";
+  const url = b.pdf + (page ? `#page=${page}` : "");
+  setTimeout(() => { frame.src = url; }, 40);
+  $("#bookViewer").hidden = false;
+  document.body.style.overflow = "hidden";
+  $("#bviewerClose").onclick = closeBookViewer;
+}
+
+function closeBookViewer() {
+  const v = $("#bookViewer");
+  if (!v || v.hidden) return false;
+  v.hidden = true;
+  $("#bviewerFrame").src = "about:blank";
+  if ($("#modal").hidden && $("#viewer").hidden) document.body.style.overflow = "";
   return true;
 }
 
 function closeModal() {
   closeViewer();
+  closeBookViewer();
   $("#modal").hidden = true;
   document.body.style.overflow = "";
   document.removeEventListener("keydown", escClose);
@@ -199,6 +234,7 @@ function closeModal() {
 function escClose(e) {
   if (e.key !== "Escape") return;
   if (closeViewer()) return;
+  if (closeBookViewer()) return;
   closeModal();
 }
 
