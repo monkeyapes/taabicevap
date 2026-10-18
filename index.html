@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Taabi Cevap — MEB Ders Kitapları Cevap Anahtarı</title>
+<meta name="description" content="MEB (Türkiye Yüzyılı Maarif Modeli) ders kitapları, sorular ve kısa cevaplar." />
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📘</text></svg>" />
+<link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap topbar-inner">
+    <a class="brand" href="#" id="brand">
+      <span class="brand-mark">TÇ</span>
+      <span class="brand-text">Taabi<b>Cevap</b></span>
+    </a>
+    <div class="search">
+      <input id="searchInput" type="search" placeholder="Kitap ara: matematik 5, fen bilimleri, ingilizce 9..." autocomplete="off" />
+    </div>
+    <div class="source">Kaynak: <a href="https://tymm.meb.gov.tr/ders-kitaplari" target="_blank" rel="noopener">tymm.meb.gov.tr</a></div>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <h1>MEB ders kitapları — sorular ve <span>kısa cevaplar</span>, tek yerde.</h1>
+    <p id="heroStats" class="hero-stats">Yükleniyor…</p>
+  </div>
+</section>
+
+<main class="wrap">
+  <div class="filters">
+    <div class="filter-row">
+      <span class="filter-label">Kademe</span>
+      <div id="kademeChips" class="chips"></div>
+    </div>
+    <div class="filter-row">
+      <span class="filter-label">Sınıf</span>
+      <select id="sinifSelect"><option value="">Tüm sınıflar</option></select>
+      <span class="filter-label">Ders</span>
+      <select id="dersSelect"><option value="">Tüm dersler</option></select>
+      <button id="clearBtn" class="ghost">Temizle</button>
+    </div>
+  </div>
+
+  <div class="result-head">
+    <span id="count">—</span>
+    <label class="qatoggle"><input type="checkbox" id="onlyQa" /> Sadece cevabı olanlar</label>
+  </div>
+
+  <div id="grid" class="grid"></div>
+  <div id="empty" class="empty" hidden>Sonuç bulunamadı.</div>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p>Taabi Cevap — resmi olmayan yardımcı çalışma sitesi. Kitaplar ve görseller MEB'e aittir.</p>
+  </div>
+</footer>
+
+<div id="modal" class="modal" hidden>
+  <div class="modal-backdrop" data-close></div>
+  <div class="modal-card" role="dialog" aria-modal="true">
+    <button class="modal-x" data-close aria-label="Kapat">×</button>
+    <div id="modalBody"></div>
+  </div>
+</div>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

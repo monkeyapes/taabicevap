@@ -1,0 +1,4832 @@
+[
+  {
+    "id": 261,
+    "title": "Afet Bilinci Ders Kitabı-1",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "Ortaokul Seçmeli Dersler",
+    "ders": "Afet Bilinci Dersi",
+    "sinifIds": [
+      18
+    ],
+    "dersId": 66,
+    "cover": "https://tymm.meb.gov.tr/assets/img/afet-bilinci-ders-kitabi-1_20260904_235628_795.webp",
+    "pdf": "https://meb.ai/URezQtN",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/261/afet-bilinci-ders-kitabi-1",
+    "qaCount": 24
+  },
+  {
+    "id": 257,
+    "title": "Ahlak Ve Vatandaşlık Eğitimi Ders Kitabı-1",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "Ortaokul Seçmeli Dersler",
+    "ders": "Ahlak ve Vatandaşlık Eğitimi Dersi",
+    "sinifIds": [
+      18
+    ],
+    "dersId": 67,
+    "cover": "https://tymm.meb.gov.tr/assets/img/ahlak-ve-vatandaslik-egitimi-ders-kitabi-1_20260904_234058_013.webp",
+    "pdf": "https://meb.ai/XthVlt",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/257/ahlak-ve-vatandaslik-egitimi-ders-kitabi-1",
+    "qaCount": 0
+  },
+  {
+    "id": 179,
+    "title": "Beden Eğitimi Ve Spor Dersi Öğretmen Kılavuz Kitabı (1-4.Sınıf)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "1.Sınıf",
+    "ders": "Beden Eğitimi ve Oyun Dersi",
+    "sinifIds": [
+      2,
+      3
+    ],
+    "dersId": 31,
+    "cover": "https://tymm.meb.gov.tr/assets/img/beden-egitimi-oyun-1-4-ogretmen-kilavuz.webp",
+    "pdf": "https://meb.ai/nI1DH3",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/179/beden-egitimi-ve-spor-dersi-ogretmen-kilavuz-kitabi-1-4sinif",
+    "qaCount": 0
+  },
+  {
+    "id": 180,
+    "title": "Beden Eğitimi Ve Spor Dersi Öğretmen Kılavuz Kitabı (5-8.Sınıf)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "5.Sınıf",
+    "ders": "Beden Eğitimi ve Spor Dersi",
+    "sinifIds": [
+      6,
+      7
+    ],
+    "dersId": 36,
+    "cover": "https://tymm.meb.gov.tr/assets/img/beden-egitimi-spor-5-8-ogretmen-kilavuz.webp",
+    "pdf": "https://meb.ai/UhkA03V",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/180/beden-egitimi-ve-spor-dersi-ogretmen-kilavuz-kitabi-5-8sinif",
+    "qaCount": 0
+  },
+  {
+    "id": 432,
+    "title": "Bilişim Teknolojileri Ve Yazılım Dersi 5.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "5.Sınıf",
+    "ders": "Bilişim Teknolojileri ve Yazılım Dersi",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 38,
+    "cover": "https://tymm.meb.gov.tr/assets/img/bilisim-teknolojileri-ve-yazilim-dersi-5sinif-ogretmen-kilavuz-kitabi_20260918_064018_908.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/bilisim-teknolojileri-ve-yazilim-dersi-5sinif-ogretmen-kilavuz-kitabi_20260930_175401_503.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=432",
+    "detail": "https://tymm.meb.gov.tr/kitap/432/bilisim-teknolojileri-ve-yazilim-dersi-5sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 433,
+    "title": "Bilişim Teknolojileri Ve Yazılım Dersi 6.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "6.Sınıf",
+    "ders": "Bilişim Teknolojileri ve Yazılım Dersi",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 38,
+    "cover": "https://tymm.meb.gov.tr/assets/img/bilisim-teknolojileri-ve-yazilim-dersi-6sinif-ogretmen-kilavuz-kitabi_20260918_064056_768.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/bilisim-teknolojileri-ve-yazilim-dersi-6sinif-ogretmen-kilavuz-kitabi_20260930_173511_136.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=433",
+    "detail": "https://tymm.meb.gov.tr/kitap/433/bilisim-teknolojileri-ve-yazilim-dersi-6sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 514,
+    "title": "Din Kültürü Ve Ahlak Bilgisi 4.Sınıf Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "4.Sınıf",
+    "ders": "Din Kültürü ve Ahlak Bilgisi Dersi (Temel Eğitim)",
+    "sinifIds": [
+      5
+    ],
+    "dersId": 10,
+    "cover": "https://tymm.meb.gov.tr/assets/img/din-kulturu-ve-ahlak-bilgisi-4sinif-ders-kitabi_20261003_183803_531.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/din-kulturu-ve-ahlak-bilgisi-4sinif-ders-kitabi_20261003_183741_260.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=514",
+    "detail": "https://tymm.meb.gov.tr/kitap/514/din-kulturu-ve-ahlak-bilgisi-4sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 18,
+    "title": "Din Kültürü Ve Ahlak Bilgisi 5.Sınıf Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "5.Sınıf",
+    "ders": "Din Kültürü ve Ahlak Bilgisi Dersi (Temel Eğitim)",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 10,
+    "cover": "https://tymm.meb.gov.tr/assets/img/din-kulturu-ve-ahlak-bilgisi-5sinif-ders-kitabi_20261003_184032_323.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/din-kulturu-ve-ahlak-bilgisi-5sinif-ders-kitabi_20261003_183932_159.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/18/din-kulturu-ve-ahlak-bilgisi-5sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 515,
+    "title": "Din Kültürü Ve Ahlak Bilgisi 6.Sınıf Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "6.Sınıf",
+    "ders": "Din Kültürü ve Ahlak Bilgisi Dersi (Temel Eğitim)",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 10,
+    "cover": "https://tymm.meb.gov.tr/assets/img/din-kulturu-ve-ahlak-bilgisi-6sinif-ders-kitabi_20261003_184426_585.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/din-kulturu-ve-ahlak-bilgisi-6sinif-ders-kitabi_20261003_184337_537.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=515",
+    "detail": "https://tymm.meb.gov.tr/kitap/515/din-kulturu-ve-ahlak-bilgisi-6sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 516,
+    "title": "Din Kültürü Ve Ahlak Bilgisi 7.Sınıf Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "7.Sınıf",
+    "ders": "Din Kültürü ve Ahlak Bilgisi Dersi (Temel Eğitim)",
+    "sinifIds": [
+      8
+    ],
+    "dersId": 10,
+    "cover": "https://tymm.meb.gov.tr/assets/img/din-kulturu-ve-ahlak-bilgisi-7sinif-ders-kitabi_20261003_185023_172.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/din-kulturu-ve-ahlak-bilgisi-7sinif-ders-kitabi_20261003_185019_272.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=516",
+    "detail": "https://tymm.meb.gov.tr/kitap/516/din-kulturu-ve-ahlak-bilgisi-7sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 517,
+    "title": "Din Kültürü Ve Ahlak Bilgisi 8.Sınıf Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "8.Sınıf",
+    "ders": "Din Kültürü ve Ahlak Bilgisi Dersi (Temel Eğitim)",
+    "sinifIds": [
+      9
+    ],
+    "dersId": 10,
+    "cover": "https://tymm.meb.gov.tr/assets/img/din-kulturu-ve-ahlak-bilgisi-8sinif-ders-kitabi_20261003_185357_862.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/din-kulturu-ve-ahlak-bilgisi-8sinif-ders-kitabi_20261003_185300_204.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=517",
+    "detail": "https://tymm.meb.gov.tr/kitap/517/din-kulturu-ve-ahlak-bilgisi-8sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 268,
+    "title": "Düşünme Eğitimi Ders Kitabı-1",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "Ortaokul Seçmeli Dersler",
+    "ders": "Düşünme Eğitimi Dersi",
+    "sinifIds": [
+      18
+    ],
+    "dersId": 70,
+    "cover": "https://tymm.meb.gov.tr/assets/img/dusunme-egitimi-ders-kitabi-1_20260905_092126_507.webp",
+    "pdf": "https://meb.ai/3MlMS9",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/268/dusunme-egitimi-ders-kitabi-1",
+    "qaCount": 0
+  },
+  {
+    "id": 270,
+    "title": "Fen Bilimleri 3.Sınıf Ders Kitabı (1.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "3.Sınıf",
+    "ders": "Fen Bilimleri Dersi",
+    "sinifIds": [
+      4
+    ],
+    "dersId": 3,
+    "cover": "https://tymm.meb.gov.tr/assets/img/fen-bilimleri-3sinif-ders-kitabi-1kitap_20260905_092720_764.webp",
+    "pdf": "https://meb.ai/kegFRj",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/270/fen-bilimleri-3sinif-ders-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 271,
+    "title": "Fen Bilimleri 3.Sınıf Ders Kitabı (2.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "3.Sınıf",
+    "ders": "Fen Bilimleri Dersi",
+    "sinifIds": [
+      4
+    ],
+    "dersId": 3,
+    "cover": "https://tymm.meb.gov.tr/assets/img/fen-bilimleri-3sinif-ders-kitabi-2kitap_20260905_092822_977.webp",
+    "pdf": "https://meb.ai/xYFZct",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/271/fen-bilimleri-3sinif-ders-kitabi-2kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 19,
+    "title": "Fen Bilimleri 5.Sınıf Ders Kitabı (1.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "5.Sınıf",
+    "ders": "Fen Bilimleri Dersi",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 3,
+    "cover": "https://tymm.meb.gov.tr/assets/img/fen-bilimleri-5sinif-ders-kitabi-1kitap_20260905_093040_443.webp",
+    "pdf": "https://meb.ai/UTSNgQB",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/19/fen-bilimleri-5sinif-ders-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 20,
+    "title": "Fen Bilimleri 5.Sınıf Ders Kitabı (2.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "5.Sınıf",
+    "ders": "Fen Bilimleri Dersi",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 3,
+    "cover": "https://tymm.meb.gov.tr/assets/img/fen-bilimleri-5sinif-ders-kitabi-2kitap_20260905_093152_190.webp",
+    "pdf": "https://meb.ai/1xuiyc",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/20/fen-bilimleri-5sinif-ders-kitabi-2kitap",
+    "qaCount": 35
+  },
+  {
+    "id": 48,
+    "title": "Fen Bilimleri 6.Sınıf Ders Kitabı (1.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "6.Sınıf",
+    "ders": "Fen Bilimleri Dersi",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 3,
+    "cover": "https://tymm.meb.gov.tr/assets/img/fen-bilimleri-6sinif-ders-kitabi-1kitap_20260905_093333_123.webp",
+    "pdf": "https://meb.ai/2pn9LH",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/48/fen-bilimleri-6sinif-ders-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 49,
+    "title": "Fen Bilimleri 6.Sınıf Ders Kitabı (2.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "6.Sınıf",
+    "ders": "Fen Bilimleri Dersi",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 3,
+    "cover": "https://tymm.meb.gov.tr/assets/img/fen-bilimleri-6sinif-ders-kitabi-2kitap_20260905_093425_943.webp",
+    "pdf": "https://meb.ai/U364pU5",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/49/fen-bilimleri-6sinif-ders-kitabi-2kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 272,
+    "title": "Fen Bilimleri 7.Sınıf Ders Kitabı (1.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "7.Sınıf",
+    "ders": "Fen Bilimleri Dersi",
+    "sinifIds": [
+      8
+    ],
+    "dersId": 3,
+    "cover": "https://tymm.meb.gov.tr/assets/img/fen-bilimleri-7sinif-ders-kitabi-1kitap_20260905_093644_537.webp",
+    "pdf": "https://meb.ai/DDH5xr",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/272/fen-bilimleri-7sinif-ders-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 273,
+    "title": "Fen Bilimleri 7.Sınıf Ders Kitabı (2.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "7.Sınıf",
+    "ders": "Fen Bilimleri Dersi",
+    "sinifIds": [
+      8
+    ],
+    "dersId": 3,
+    "cover": "https://tymm.meb.gov.tr/assets/img/fen-bilimleri-7sinif-ders-kitabi-2kitap_20260905_093740_980.webp",
+    "pdf": "https://meb.ai/T5ENRQ",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/273/fen-bilimleri-7sinif-ders-kitabi-2kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 274,
+    "title": "Görgü Kuralları Ve Nezaket Dersi-1",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "Ortaokul Seçmeli Dersler",
+    "ders": "Görgü Kuralları ve Nezaket Dersi",
+    "sinifIds": [
+      18
+    ],
+    "dersId": 72,
+    "cover": "https://tymm.meb.gov.tr/assets/img/gorgu-kurallari-ve-nezaket-dersi-1_20260905_093918_755.webp",
+    "pdf": "https://meb.ai/UqDX0Kv",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/274/gorgu-kurallari-ve-nezaket-dersi-1",
+    "qaCount": 0
+  },
+  {
+    "id": 434,
+    "title": "Görsel Sanatlar Dersi 1.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "1.Sınıf",
+    "ders": "Görsel Sanatlar Dersi",
+    "sinifIds": [
+      2
+    ],
+    "dersId": 40,
+    "cover": "https://tymm.meb.gov.tr/assets/img/gorsel-sanatlar-1-sinif-ogretmen-kilavuz-kitabi_20260918_065441_096.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/gorsel-sanatlar-dersi-1sinif-ogretmen-kilavuz-kitabi_20260930_171830_933.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=434",
+    "detail": "https://tymm.meb.gov.tr/kitap/434/gorsel-sanatlar-dersi-1sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 435,
+    "title": "Görsel Sanatlar Dersi 2.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "2.Sınıf",
+    "ders": "Görsel Sanatlar Dersi",
+    "sinifIds": [
+      3
+    ],
+    "dersId": 40,
+    "cover": "https://tymm.meb.gov.tr/assets/img/gorsel-sanatlar-2-sinif-ogretmen-kilavuz-kitabi_20260918_065703_782.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/gorsel-sanatlar-dersi-2sinif-ogretmen-kilavuz-kitabi_20260930_171440_798.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=435",
+    "detail": "https://tymm.meb.gov.tr/kitap/435/gorsel-sanatlar-dersi-2sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 436,
+    "title": "Görsel Sanatlar Dersi 5.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "5.Sınıf",
+    "ders": "Görsel Sanatlar Dersi",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 40,
+    "cover": "https://tymm.meb.gov.tr/assets/img/gorsel-sanatlar-5-sinif-ogretmen-kilavuz-kitabi_20260918_065822_901.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/gorsel-sanatlar-5-sinif-ogretmen-kilavuz-kitabi_20260930_113624_715.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=436",
+    "detail": "https://tymm.meb.gov.tr/kitap/436/gorsel-sanatlar-dersi-5sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 437,
+    "title": "Görsel Sanatlar Dersi 6.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "6.Sınıf",
+    "ders": "Görsel Sanatlar Dersi",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 40,
+    "cover": "https://tymm.meb.gov.tr/assets/img/gorsel-sanatlar-6-sinif-ogretmen-kilavuz-kitabi_20260918_065937_214.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/gorsel-sanatlar-6-sinif-ogretmen-kilavuz-kitabi_20260930_112507_944.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=437",
+    "detail": "https://tymm.meb.gov.tr/kitap/437/gorsel-sanatlar-dersi-6sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 438,
+    "title": "Halk Oyunları Dersi Öğretmen Kılavuz Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "Ortaokul Seçmeli Dersler",
+    "ders": "Halk Oyunları Dersi",
+    "sinifIds": [
+      18
+    ],
+    "dersId": 73,
+    "cover": "https://tymm.meb.gov.tr/assets/img/halk-oyunlari-dersi-ogretmen-kilavuz-kitabi_20260918_070236_797.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/halk-oyunlari-dersi-ogretmen-kilavuz-kitabi_20260930_111619_549.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=438",
+    "detail": "https://tymm.meb.gov.tr/kitap/438/halk-oyunlari-dersi-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 21,
+    "title": "Hayat Bilgisi 1.Sınıf Ders Kitabı (1.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "1.Sınıf",
+    "ders": "Hayat Bilgisi Dersi",
+    "sinifIds": [
+      2
+    ],
+    "dersId": 4,
+    "cover": "https://tymm.meb.gov.tr/assets/img/hayat-bilgisi-1sinif-ders-kitabi-1kitap_20260905_094346_628.webp",
+    "pdf": "https://meb.ai/UTWjeP6",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/21/hayat-bilgisi-1sinif-ders-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 22,
+    "title": "Hayat Bilgisi 1.Sınıf Ders Kitabı (2.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "1.Sınıf",
+    "ders": "Hayat Bilgisi Dersi",
+    "sinifIds": [
+      2
+    ],
+    "dersId": 4,
+    "cover": "https://tymm.meb.gov.tr/assets/img/hayat-bilgisi-1sinif-ders-kitabi-2kitap_20260905_094401_313.webp",
+    "pdf": "https://meb.ai/jKPdVy",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/22/hayat-bilgisi-1sinif-ders-kitabi-2kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 50,
+    "title": "Hayat Bilgisi 2.Sınıf Ders Kitabı (1.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "2.Sınıf",
+    "ders": "Hayat Bilgisi Dersi",
+    "sinifIds": [
+      3
+    ],
+    "dersId": 4,
+    "cover": "https://tymm.meb.gov.tr/assets/img/hayat-bilgisi-2sinif-ders-kitabi-1kitap_20260905_094540_032.webp",
+    "pdf": "https://meb.ai/IWcGiK",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/50/hayat-bilgisi-2sinif-ders-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 51,
+    "title": "Hayat Bilgisi 2.Sınıf Ders Kitabı (2.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "2.Sınıf",
+    "ders": "Hayat Bilgisi Dersi",
+    "sinifIds": [
+      3
+    ],
+    "dersId": 4,
+    "cover": "https://tymm.meb.gov.tr/assets/img/hayat-bilgisi-2sinif-ders-kitabi-2kitap_20260905_094553_866.webp",
+    "pdf": "https://meb.ai/UoJKV4o",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/51/hayat-bilgisi-2sinif-ders-kitabi-2kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 275,
+    "title": "Hayat Bilgisi 3.Sınıf Ders Kitabı (1.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "3.Sınıf",
+    "ders": "Hayat Bilgisi Dersi",
+    "sinifIds": [
+      4
+    ],
+    "dersId": 4,
+    "cover": "https://tymm.meb.gov.tr/assets/img/hayat-bilgisi-3sinif-ders-kitabi-1kitap_20260905_094802_144.webp",
+    "pdf": "https://meb.ai/nGGJ0s",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/275/hayat-bilgisi-3sinif-ders-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 276,
+    "title": "Hayat Bilgisi 3.Sınıf Ders Kitabı (2.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "3.Sınıf",
+    "ders": "Hayat Bilgisi Dersi",
+    "sinifIds": [
+      4
+    ],
+    "dersId": 4,
+    "cover": "https://tymm.meb.gov.tr/assets/img/hayat-bilgisi-3sinif-ders-kitabi-2kitap_20260905_094829_787.webp",
+    "pdf": "https://meb.ai/UpNUfOf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/276/hayat-bilgisi-3sinif-ders-kitabi-2kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 277,
+    "title": "Hukuk Ve Adalet Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "Ortaokul Seçmeli Dersler",
+    "ders": "Hukuk ve Adalet Dersi",
+    "sinifIds": [
+      18
+    ],
+    "dersId": 74,
+    "cover": "https://tymm.meb.gov.tr/assets/img/hukuk-ve-adalet-ders-kitabi_20260905_095042_682.webp",
+    "pdf": "https://meb.ai/wvqycw",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/277/hukuk-ve-adalet-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 521,
+    "title": "Kur'an-ı Kerim 5.Sınıf Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "5.Sınıf",
+    "ders": "Kur'an-ı Kerim Dersi (Temel Eğitim)",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 12,
+    "cover": "https://tymm.meb.gov.tr/assets/img/kuran-i-kerim-5sinif-ders-kitabi_20261003_191121_967.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/kuran-i-kerim-5sinif-ders-kitabi_20261003_191114_704.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=521",
+    "detail": "https://tymm.meb.gov.tr/kitap/521/kuran-i-kerim-5sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 522,
+    "title": "Kur'an-ı Kerim 6.Sınıf Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "6.Sınıf",
+    "ders": "Kur'an-ı Kerim Dersi (Temel Eğitim)",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 12,
+    "cover": "https://tymm.meb.gov.tr/assets/img/kuran-i-kerim-6sinif-ders-kitabi_20261003_191433_272.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/kuran-i-kerim-6sinif-ders-kitabi_20261003_191402_828.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=522",
+    "detail": "https://tymm.meb.gov.tr/kitap/522/kuran-i-kerim-6sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 523,
+    "title": "Kur'an-ı Kerim 7.Sınıf Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "7.Sınıf",
+    "ders": "Kur'an-ı Kerim Dersi (Temel Eğitim)",
+    "sinifIds": [
+      8
+    ],
+    "dersId": 12,
+    "cover": "https://tymm.meb.gov.tr/assets/img/kuran-i-kerim-7sinif-ders-kitabi_20261003_192127_785.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/kuran-i-kerim-7sinif-ders-kitabi_20261003_192100_953.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=523",
+    "detail": "https://tymm.meb.gov.tr/kitap/523/kuran-i-kerim-7sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 524,
+    "title": "Kur'an-ı Kerim 8.Sınıf Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "8.Sınıf",
+    "ders": "Kur'an-ı Kerim Dersi (Temel Eğitim)",
+    "sinifIds": [
+      9
+    ],
+    "dersId": 12,
+    "cover": "https://tymm.meb.gov.tr/assets/img/kuran-i-kerim-8sinif-ders-kitabi_20261003_192445_959.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/kuran-i-kerim-8sinif-ders-kitabi_20261003_192443_822.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=524",
+    "detail": "https://tymm.meb.gov.tr/kitap/524/kuran-i-kerim-8sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 295,
+    "title": "KüLtüR Ve Medeniyetimize YöN Verenler Ders Kitabı-1",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "Ortaokul Seçmeli Dersler",
+    "ders": "Kültür ve Medeniyetimize Yön Verenler Dersi",
+    "sinifIds": [
+      18
+    ],
+    "dersId": 75,
+    "cover": "https://tymm.meb.gov.tr/assets/img/kultur-ve-medeniyetimize-yon-verenler-ders-kitabi-1_20260905_122345_258.webp",
+    "pdf": "https://meb.ai/UiERRGU",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/295/kultur-ve-medeniyetimize-yon-verenler-ders-kitabi-1",
+    "qaCount": 0
+  },
+  {
+    "id": 296,
+    "title": "Masal Ve Destanlarımız Ders Kitabı-1",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "Ortaokul Seçmeli Dersler",
+    "ders": "Masal ve Destanlarımız Dersi",
+    "sinifIds": [
+      18
+    ],
+    "dersId": 77,
+    "cover": "https://tymm.meb.gov.tr/assets/img/masal-ve-destanlarimiz-ders-kitabi-1_20260905_122546_779.webp",
+    "pdf": "https://meb.ai/UFgE37m",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/296/masal-ve-destanlarimiz-ders-kitabi-1",
+    "qaCount": 0
+  },
+  {
+    "id": 23,
+    "title": "Matematik 1.Sınıf Ders Kitabı (1.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "1.Sınıf",
+    "ders": "İlkokul Matematik Dersi",
+    "sinifIds": [
+      2
+    ],
+    "dersId": 2,
+    "cover": "https://tymm.meb.gov.tr/assets/img/matematik-1sinif-ders-kitabi-1kitap_20260905_095301_243.webp",
+    "pdf": "https://meb.ai/UhDljKM",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/23/matematik-1sinif-ders-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 24,
+    "title": "Matematik 1.Sınıf Ders Kitabı (2.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "1.Sınıf",
+    "ders": "İlkokul Matematik Dersi",
+    "sinifIds": [
+      2
+    ],
+    "dersId": 2,
+    "cover": "https://tymm.meb.gov.tr/assets/img/matematik-1sinif-ders-kitabi-2kitap_20260905_095349_224.webp",
+    "pdf": "https://meb.ai/UvHcryL",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/24/matematik-1sinif-ders-kitabi-2kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 52,
+    "title": "Matematik 2.Sınıf Ders Kitabı (1.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "2.Sınıf",
+    "ders": "İlkokul Matematik Dersi",
+    "sinifIds": [
+      3
+    ],
+    "dersId": 2,
+    "cover": "https://tymm.meb.gov.tr/assets/img/matematik-2sinif-ders-kitabi-1kitap_20260905_095559_037.webp",
+    "pdf": "https://meb.ai/dW5ziI",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/52/matematik-2sinif-ders-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 53,
+    "title": "Matematik 2.Sınıf Ders Kitabı (2.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "2.Sınıf",
+    "ders": "İlkokul Matematik Dersi",
+    "sinifIds": [
+      3
+    ],
+    "dersId": 2,
+    "cover": "https://tymm.meb.gov.tr/assets/img/matematik-2sinif-ders-kitabi-2kitap_20260905_095643_028.webp",
+    "pdf": "https://meb.ai/UeQe5Lz",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/53/matematik-2sinif-ders-kitabi-2kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 278,
+    "title": "Matematik 3.Sınıf Ders Kitabı (1.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "3.Sınıf",
+    "ders": "İlkokul Matematik Dersi",
+    "sinifIds": [
+      4
+    ],
+    "dersId": 2,
+    "cover": "https://tymm.meb.gov.tr/assets/img/matematik-3sinif-ders-kitabi-1kitap_20260905_095837_614.webp",
+    "pdf": "https://meb.ai/lFLkBe",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/278/matematik-3sinif-ders-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 279,
+    "title": "Matematik 3.Sınıf Ders Kitabı (2.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "3.Sınıf",
+    "ders": "İlkokul Matematik Dersi",
+    "sinifIds": [
+      4
+    ],
+    "dersId": 2,
+    "cover": "https://tymm.meb.gov.tr/assets/img/matematik-3sinif-ders-kitabi-2kitap_20260905_095914_652.webp",
+    "pdf": "https://meb.ai/Ux6k4N3",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/279/matematik-3sinif-ders-kitabi-2kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 25,
+    "title": "Matematik 5.Sınıf Ders Kitabı (1.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "5.Sınıf",
+    "ders": "Ortaokul Matematik Dersi",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 7,
+    "cover": "https://tymm.meb.gov.tr/assets/img/matematik-5sinif-ders-kitabi-1kitap_20260905_101958_437.webp",
+    "pdf": "https://meb.ai/MxA2Nr",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/25/matematik-5sinif-ders-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 26,
+    "title": "Matematik 5.Sınıf Ders Kitabı (2.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "5.Sınıf",
+    "ders": "Ortaokul Matematik Dersi",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 7,
+    "cover": "https://tymm.meb.gov.tr/assets/img/matematik-5sinif-ders-kitabi-2kitap_20260905_102142_327.webp",
+    "pdf": "https://meb.ai/qzYTOr",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/26/matematik-5sinif-ders-kitabi-2kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 54,
+    "title": "Matematik 6.Sınıf Ders Kitabı (1.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "6.Sınıf",
+    "ders": "Ortaokul Matematik Dersi",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 7,
+    "cover": "https://tymm.meb.gov.tr/assets/img/matematik-6sinif-ders-kitabi-1kitap_20260905_102337_455.webp",
+    "pdf": "https://meb.ai/aaIG5I",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/54/matematik-6sinif-ders-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 55,
+    "title": "Matematik 6.Sınıf Ders Kitabı (2.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "6.Sınıf",
+    "ders": "Ortaokul Matematik Dersi",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 7,
+    "cover": "https://tymm.meb.gov.tr/assets/img/matematik-6sinif-ders-kitabi-2kitap_20260905_102355_953.webp",
+    "pdf": "https://meb.ai/Uj0c1mI",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/55/matematik-6sinif-ders-kitabi-2kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 280,
+    "title": "Matematik 7.Sınıf Ders Kitabı (1.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "7.Sınıf",
+    "ders": "Ortaokul Matematik Dersi",
+    "sinifIds": [
+      8
+    ],
+    "dersId": 7,
+    "cover": "https://tymm.meb.gov.tr/assets/img/matematik-7sinif-ders-kitabi-1kitap_20260905_102627_838.webp",
+    "pdf": "https://meb.ai/0w0pTz",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/280/matematik-7sinif-ders-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 281,
+    "title": "Matematik 7.Sınıf Ders Kitabı (2.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "7.Sınıf",
+    "ders": "Ortaokul Matematik Dersi",
+    "sinifIds": [
+      8
+    ],
+    "dersId": 7,
+    "cover": "https://tymm.meb.gov.tr/assets/img/matematik-7sinif-ders-kitabi-2kitap_20260905_102703_264.webp",
+    "pdf": "https://meb.ai/UfnV4xM",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/281/matematik-7sinif-ders-kitabi-2kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 294,
+    "title": "Medya OkuryazarlığI Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "Ortaokul Seçmeli Dersler",
+    "ders": "Medya Okuryazarlığı Dersi",
+    "sinifIds": [
+      18
+    ],
+    "dersId": 78,
+    "cover": "https://tymm.meb.gov.tr/assets/img/medya-okuryazarligi-ders-kitabi_20260905_122112_715.webp",
+    "pdf": "https://meb.ai/BOOqbg",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/294/medya-okuryazarligi-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 137,
+    "title": "Müzik 1.Sınıf Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "1.Sınıf",
+    "ders": "Müzik Dersi",
+    "sinifIds": [
+      2
+    ],
+    "dersId": 32,
+    "cover": "https://tymm.meb.gov.tr/assets/img/ilkokul-1-sinif-muzik-ders-kitabi_20260905_102828_341.webp",
+    "pdf": "https://meb.ai/U2X404g",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/137/muzik-1sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 282,
+    "title": "Müzik 2.Sınıf Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "2.Sınıf",
+    "ders": "Müzik Dersi",
+    "sinifIds": [
+      3
+    ],
+    "dersId": 32,
+    "cover": "https://tymm.meb.gov.tr/assets/img/muzik-2sinif-ders-kitabi_20260905_103124_536.webp",
+    "pdf": "https://meb.ai/ZODdlz",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/282/muzik-2sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 138,
+    "title": "Müzik 5.Sınıf Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "5.Sınıf",
+    "ders": "Müzik Dersi",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 32,
+    "cover": "https://tymm.meb.gov.tr/assets/img/muzik-5sinif-ders-kitabi_20260905_103441_830.webp",
+    "pdf": "https://meb.ai/X7ZvWY",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/138/muzik-5sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 284,
+    "title": "Müzik 6.Sınıf Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "6.Sınıf",
+    "ders": "Müzik Dersi",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 32,
+    "cover": "https://tymm.meb.gov.tr/assets/img/muzik-6sinif-ders-kitabi_20260905_103812_960.webp",
+    "pdf": "https://meb.ai/7ZnsCA",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/284/muzik-6sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 308,
+    "title": "Okul Temelli Sosyal Sorumluluk ÇAlışMaları Öğretmen Kılavuz Kitabı-1",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "Ortaokul Seçmeli Dersler",
+    "ders": "Okul Temelli Sosyal Sorumluluk Çalışmaları Dersi",
+    "sinifIds": [
+      18
+    ],
+    "dersId": 79,
+    "cover": "https://tymm.meb.gov.tr/assets/img/okul-temelli-sosyal-sorumluluk-calismalari-ogretmen-kilavuz-kitabi-1_20260905_131338_013.webp",
+    "pdf": "https://meb.ai/UJusAc0",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/308/okul-temelli-sosyal-sorumluluk-calismalari-ogretmen-kilavuz-kitabi-1",
+    "qaCount": 0
+  },
+  {
+    "id": 307,
+    "title": "Okul Temelli Sosyal Sorumluluk Çalışmaları Ders Kitabı-1",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "Ortaokul Seçmeli Dersler",
+    "ders": "Okul Temelli Sosyal Sorumluluk Çalışmaları Dersi",
+    "sinifIds": [
+      18
+    ],
+    "dersId": 79,
+    "cover": "https://tymm.meb.gov.tr/assets/img/okul-temelli-sosyal-sorumluluk-calismalari-ders-kitabi-1_20260905_131152_830.webp",
+    "pdf": "https://meb.ai/UcrHmk4",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/307/okul-temelli-sosyal-sorumluluk-calismalari-ders-kitabi-1",
+    "qaCount": 0
+  },
+  {
+    "id": 9,
+    "title": "Okul Öncesi Eğitim 3 Yaş Çekirdek 1 Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "36-48 Ay",
+    "ders": "Okul Öncesi",
+    "sinifIds": [
+      1
+    ],
+    "dersId": 26,
+    "cover": "https://tymm.meb.gov.tr/assets/img/okul-oncesi-3-yas-cekirdek-1-ders-kitabi_20260915_204329_184.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-3-yas-cekirdek-1-ders-kitabi_20260915_204438_787.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/9/okul-oncesi-egitim-3-yas-cekirdek-1-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 10,
+    "title": "Okul Öncesi Eğitim 3 Yaş Çekirdek 2 Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "36-48 Ay",
+    "ders": "Okul Öncesi",
+    "sinifIds": [
+      1
+    ],
+    "dersId": 26,
+    "cover": "https://tymm.meb.gov.tr/assets/img/okul-oncesi-3-yas-cekirdek-2-ders-kitabi_20260915_204546_149.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-3-yas-cekirdek-2-ders-kitabi_20260915_204546_149.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/10/okul-oncesi-egitim-3-yas-cekirdek-2-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 11,
+    "title": "Okul Öncesi Eğitim 4 Yaş Çekirdek 1 Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "48-60 Ay",
+    "ders": "Okul Öncesi",
+    "sinifIds": [
+      15
+    ],
+    "dersId": 26,
+    "cover": "https://tymm.meb.gov.tr/assets/img/okul-oncesi-egitim-4-yas-cekirdek-1-ders-kitabi_20260915_205015_971.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-4-yas-cekirdek-1-ders-kitabi_20260915_205011_981.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/11/okul-oncesi-egitim-4-yas-cekirdek-1-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 12,
+    "title": "Okul Öncesi Eğitim 4 Yaş Çekirdek 2 Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "48-60 Ay",
+    "ders": "Okul Öncesi",
+    "sinifIds": [
+      15
+    ],
+    "dersId": 26,
+    "cover": "https://tymm.meb.gov.tr/assets/img/okul-oncesi-egitim-4-yas-cekirdek-2-ders-kitabi_20260915_205138_494.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-4-yas-cekirdek-2-ders-kitabi_20260915_205136_700.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/12/okul-oncesi-egitim-4-yas-cekirdek-2-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 13,
+    "title": "Okul Öncesi Eğitim 4 Yaş Çekirdek 3 Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "48-60 Ay",
+    "ders": "Okul Öncesi",
+    "sinifIds": [
+      15
+    ],
+    "dersId": 26,
+    "cover": "https://tymm.meb.gov.tr/assets/img/okul-oncesi-4-yas-cekirdek-3-ders-kitabi_20260915_205216_345.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-4-yas-cekirdek-3-ders-kitabi_20260915_205216_345.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/13/okul-oncesi-egitim-4-yas-cekirdek-3-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 14,
+    "title": "Okul Öncesi Eğitim 5 Yaş Çekirdek 1 Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "60-72 Ay",
+    "ders": "Okul Öncesi",
+    "sinifIds": [
+      16
+    ],
+    "dersId": 26,
+    "cover": "https://tymm.meb.gov.tr/assets/img/okul-oncesi-5-yas-cekirdek-1-ders-kitabi_20260905_001923_554.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-5-yas-cekirdek-1-ders-kitabi_20260905_001923_554.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/14/okul-oncesi-egitim-5-yas-cekirdek-1-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 15,
+    "title": "Okul Öncesi Eğitim 5 Yaş Çekirdek 2 Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "60-72 Ay",
+    "ders": "Okul Öncesi",
+    "sinifIds": [
+      16
+    ],
+    "dersId": 26,
+    "cover": "https://tymm.meb.gov.tr/assets/img/okul-oncesi-5-yas-cekirdek-2-ders-kitabi_20260905_002022_665.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-5-yas-cekirdek-2-ders-kitabi_20260905_002022_665.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/15/okul-oncesi-egitim-5-yas-cekirdek-2-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 16,
+    "title": "Okul Öncesi Eğitim 5 Yaş Çekirdek 3 Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "60-72 Ay",
+    "ders": "Okul Öncesi",
+    "sinifIds": [
+      16
+    ],
+    "dersId": 26,
+    "cover": "https://tymm.meb.gov.tr/assets/img/okul-oncesi-5-yas-cekirdek-3-ders-kitabi_20260905_002120_157.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-5-yas-cekirdek-3-ders-kitabi_20260905_002120_157.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/16/okul-oncesi-egitim-5-yas-cekirdek-3-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 17,
+    "title": "Okul Öncesi Eğitim 5 Yaş Çekirdek 4 Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "60-72 Ay",
+    "ders": "Okul Öncesi",
+    "sinifIds": [
+      16
+    ],
+    "dersId": 26,
+    "cover": "https://tymm.meb.gov.tr/assets/img/okul-oncesi-5-yas-cekirdek-4-ders-kitabi_20260905_002220_915.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-5-yas-cekirdek-4-ders-kitabi_20260905_002220_915.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/17/okul-oncesi-egitim-5-yas-cekirdek-4-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 306,
+    "title": "Okuma Becerileri Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "Ortaokul Seçmeli Dersler",
+    "ders": "Okuma Becerileri Dersi",
+    "sinifIds": [
+      18
+    ],
+    "dersId": 80,
+    "cover": "https://tymm.meb.gov.tr/assets/img/okuma-becerileri-ders-kitabi_20260905_130956_386.webp",
+    "pdf": "https://meb.ai/U7PyS6r",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/306/okuma-becerileri-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 535,
+    "title": "Peygamberimizin Hayatı 5.Sınıf Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "5.Sınıf",
+    "ders": "Peygamberimizin Hayatı Dersi (Temel Eğitim)",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 11,
+    "cover": "https://tymm.meb.gov.tr/assets/img/peygamberimizin-hayati-5sinif-ders-kitabi_20261003_213900_408.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/peygamberimizin-hayati-5sinif-ders-kitabi_20261003_213845_403.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=535",
+    "detail": "https://tymm.meb.gov.tr/kitap/535/peygamberimizin-hayati-5sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 536,
+    "title": "Peygamberimizin Hayatı 6.Sınıf Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "6.Sınıf",
+    "ders": "Peygamberimizin Hayatı Dersi (Temel Eğitim)",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 11,
+    "cover": "https://tymm.meb.gov.tr/assets/img/peygamberimizin-hayati-6sinif-ders-kitabi_20261003_214504_680.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/peygamberimizin-hayati-6sinif-ders-kitabi_20261003_214439_665.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=536",
+    "detail": "https://tymm.meb.gov.tr/kitap/536/peygamberimizin-hayati-6sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 537,
+    "title": "Peygamberimizin Hayatı 7.Sınıf Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "7.Sınıf",
+    "ders": "Peygamberimizin Hayatı Dersi (Temel Eğitim)",
+    "sinifIds": [
+      8
+    ],
+    "dersId": 11,
+    "cover": "https://tymm.meb.gov.tr/assets/img/peygamberimizin-hayati-7sinif-ders-kitabi_20261003_214836_840.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/peygamberimizin-hayati-7sinif-ders-kitabi_20261003_214834_097.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=537",
+    "detail": "https://tymm.meb.gov.tr/kitap/537/peygamberimizin-hayati-7sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 538,
+    "title": "Peygamberimizin Hayatı 8.Sınıf Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "8.Sınıf",
+    "ders": "Peygamberimizin Hayatı Dersi (Temel Eğitim)",
+    "sinifIds": [
+      9
+    ],
+    "dersId": 11,
+    "cover": "https://tymm.meb.gov.tr/assets/img/peygamberimizin-hayati-8sinif-ders-kitabi_20261003_215000_176.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/peygamberimizin-hayati-8sinif-ders-kitabi_20261003_214948_763.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=538",
+    "detail": "https://tymm.meb.gov.tr/kitap/538/peygamberimizin-hayati-8sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 46,
+    "title": "Sosyal Bilgiler 5.Sınıf Ders Kitabı (1.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "5.Sınıf",
+    "ders": "Sosyal Bilgiler Dersi",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 8,
+    "cover": "https://tymm.meb.gov.tr/assets/img/sosyal-bilgileri-5sinif-ders-kitabi-1kitap_20260905_115128_826.webp",
+    "pdf": "https://meb.ai/UZTEDQC",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/46/sosyal-bilgiler-5sinif-ders-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 47,
+    "title": "Sosyal Bilgiler 5.Sınıf Ders Kitabı (2.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "5.Sınıf",
+    "ders": "Sosyal Bilgiler Dersi",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 8,
+    "cover": "https://tymm.meb.gov.tr/assets/img/sosyal-bilgileri-5sinif-ders-kitabi-2kitap_20260905_115145_140.webp",
+    "pdf": "https://meb.ai/5pBQD6",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/47/sosyal-bilgiler-5sinif-ders-kitabi-2kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 56,
+    "title": "Sosyal Bilgileri 6.Sınıf Ders Kitabı (1.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "6.Sınıf",
+    "ders": "Sosyal Bilgiler Dersi",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 8,
+    "cover": "https://tymm.meb.gov.tr/assets/img/sosyal-bilgileri-6sinif-ders-kitabi-1kitap_20260905_115402_022.webp",
+    "pdf": "https://meb.ai/WygFSY",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/56/sosyal-bilgileri-6sinif-ders-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 57,
+    "title": "Sosyal Bilgileri 6.Sınıf Ders Kitabı (2.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "6.Sınıf",
+    "ders": "Sosyal Bilgiler Dersi",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 8,
+    "cover": "https://tymm.meb.gov.tr/assets/img/sosyal-bilgileri-6sinif-ders-kitabi-2kitap_20260905_115427_694.webp",
+    "pdf": "https://meb.ai/Ofrajx",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/57/sosyal-bilgileri-6sinif-ders-kitabi-2kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 289,
+    "title": "Sosyal Bilgileri 7.Sınıf Ders Kitabı (1.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "7.Sınıf",
+    "ders": "Sosyal Bilgiler Dersi",
+    "sinifIds": [
+      8
+    ],
+    "dersId": 8,
+    "cover": "https://tymm.meb.gov.tr/assets/img/sosyal-bilgileri-7sinif-ders-kitabi-1kitap_20260905_115749_897.webp",
+    "pdf": "https://meb.ai/rO4R8o",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/289/sosyal-bilgileri-7sinif-ders-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 290,
+    "title": "Sosyal Bilgileri 7.Sınıf Ders Kitabı (2.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "7.Sınıf",
+    "ders": "Sosyal Bilgiler Dersi",
+    "sinifIds": [
+      8
+    ],
+    "dersId": 8,
+    "cover": "https://tymm.meb.gov.tr/assets/img/sosyal-bilgileri-7sinif-ders-kitabi-2kitap_20260916_090804_387.webp",
+    "pdf": "https://meb.ai/UttLCVG",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/290/sosyal-bilgileri-7sinif-ders-kitabi-2kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 533,
+    "title": "Temel Dinî Bilgiler Ders Kitabı (İslam 1)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "Ortaokul Seçmeli Dersler",
+    "ders": "Temel Dinî Bilgiler Dersi (Temel Eğitim)",
+    "sinifIds": [
+      18
+    ],
+    "dersId": 154,
+    "cover": "https://tymm.meb.gov.tr/assets/img/temel-dini-bilgiler-ders-kitabi-islam-1_20261003_211724_578.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/temel-dini-bilgiler-ders-kitabi-islam-1_20261003_211640_548.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=533",
+    "detail": "https://tymm.meb.gov.tr/kitap/533/temel-dini-bilgiler-ders-kitabi-islam-1",
+    "qaCount": 0
+  },
+  {
+    "id": 534,
+    "title": "Temel Dinî Bilgiler Ders Kitabı (İslam 2)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "Ortaokul Seçmeli Dersler",
+    "ders": "Temel Dinî Bilgiler Dersi (Temel Eğitim)",
+    "sinifIds": [
+      18
+    ],
+    "dersId": 154,
+    "cover": "https://tymm.meb.gov.tr/assets/img/temel-dini-bilgiler-ders-kitabi-islam-2_20261003_212208_464.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/temel-dini-bilgiler-ders-kitabi-islam-2_20261003_212109_004.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=534",
+    "detail": "https://tymm.meb.gov.tr/kitap/534/temel-dini-bilgiler-ders-kitabi-islam-2",
+    "qaCount": 0
+  },
+  {
+    "id": 305,
+    "title": "TüRk Sosyal Hayatında Aile Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "Ortaokul Seçmeli Dersler",
+    "ders": "Türk Sosyal Hayatında Aile Dersi",
+    "sinifIds": [
+      18
+    ],
+    "dersId": 97,
+    "cover": "https://tymm.meb.gov.tr/assets/img/turk-sosyal-hayatinda-aile-ders-kitabi_20260905_130738_186.webp",
+    "pdf": "https://meb.ai/YNa5vt",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/305/turk-sosyal-hayatinda-aile-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 29,
+    "title": "Türkçe 1.Sınıf Ders Kitabı (1.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "1.Sınıf",
+    "ders": "İlkokul Türkçe Dersi",
+    "sinifIds": [
+      2
+    ],
+    "dersId": 1,
+    "cover": "https://tymm.meb.gov.tr/assets/img/turkce-1sinif-ders-kitabi-1kitap_20260905_104106_406.webp",
+    "pdf": "https://meb.ai/l8iio9",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/29/turkce-1sinif-ders-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 30,
+    "title": "Türkçe 1.Sınıf Ders Kitabı (2.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "1.Sınıf",
+    "ders": "İlkokul Türkçe Dersi",
+    "sinifIds": [
+      2
+    ],
+    "dersId": 1,
+    "cover": "https://tymm.meb.gov.tr/assets/img/turkce-1sinif-ders-kitabi-2kitap_20260905_104130_572.webp",
+    "pdf": "https://meb.ai/UZZeqYd",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/30/turkce-1sinif-ders-kitabi-2kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 31,
+    "title": "Türkçe 1.Sınıf İlk Okuma Yazma Kitabı (1.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "1.Sınıf",
+    "ders": "İlkokul Türkçe Dersi",
+    "sinifIds": [
+      2
+    ],
+    "dersId": 1,
+    "cover": "https://tymm.meb.gov.tr/assets/img/turkce-1sinif-ilk-okuma-yazma-kitabi-1kitap_20260905_104336_599.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/turkce-1sinif-ilk-okuma-yazma-kitabi-1kitap_20261004_203307_790.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=31",
+    "detail": "https://tymm.meb.gov.tr/kitap/31/turkce-1sinif-ilk-okuma-yazma-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 32,
+    "title": "Türkçe 1.Sınıf İlk Okuma Yazma Kitabı (2.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "1.Sınıf",
+    "ders": "İlkokul Türkçe Dersi",
+    "sinifIds": [
+      2
+    ],
+    "dersId": 1,
+    "cover": "https://tymm.meb.gov.tr/assets/img/turkce-1sinif-ilk-okuma-yazma-kitabi-2kitap_20260905_104355_902.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/turkce-1sinif-ilk-okuma-yazma-kitabi-2kitap_20261004_215930_271.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=32",
+    "detail": "https://tymm.meb.gov.tr/kitap/32/turkce-1sinif-ilk-okuma-yazma-kitabi-2kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 58,
+    "title": "Türkçe 2.Sınıf Ders Kitabı (1.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "2.Sınıf",
+    "ders": "İlkokul Türkçe Dersi",
+    "sinifIds": [
+      3
+    ],
+    "dersId": 1,
+    "cover": "https://tymm.meb.gov.tr/assets/img/turkce-2sinif-ders-kitabi-1kitap_20260905_104607_384.webp",
+    "pdf": "https://meb.ai/alMV9u",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/58/turkce-2sinif-ders-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 59,
+    "title": "Türkçe 2.Sınıf Ders Kitabı (2.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "2.Sınıf",
+    "ders": "İlkokul Türkçe Dersi",
+    "sinifIds": [
+      3
+    ],
+    "dersId": 1,
+    "cover": "https://tymm.meb.gov.tr/assets/img/turkce-2sinif-ders-kitabi-2kitap_20260905_104623_849.webp",
+    "pdf": "https://meb.ai/xzwMpd",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/59/turkce-2sinif-ders-kitabi-2kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 285,
+    "title": "Türkçe 3.Sınıf Ders Kitabı (1.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "3.Sınıf",
+    "ders": "İlkokul Türkçe Dersi",
+    "sinifIds": [
+      4
+    ],
+    "dersId": 1,
+    "cover": "https://tymm.meb.gov.tr/assets/img/turkce-3sinif-ders-kitabi-1kitap_20260905_104804_377.webp",
+    "pdf": "https://meb.ai/Ue2CBkM",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/285/turkce-3sinif-ders-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 286,
+    "title": "Türkçe 3.Sınıf Ders Kitabı (2.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "3.Sınıf",
+    "ders": "İlkokul Türkçe Dersi",
+    "sinifIds": [
+      4
+    ],
+    "dersId": 1,
+    "cover": "https://tymm.meb.gov.tr/assets/img/turkce-3sinif-ders-kitabi-2kitap_20260905_104912_328.webp",
+    "pdf": "https://meb.ai/jwCDS1",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/286/turkce-3sinif-ders-kitabi-2kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 33,
+    "title": "Türkçe 5.Sınıf Ders Kitabı (1.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "5.Sınıf",
+    "ders": "Ortaokul Türkçe Dersi",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 6,
+    "cover": "https://tymm.meb.gov.tr/assets/img/turkce-5sinif-ders-kitabi-1kitap_20260905_105044_572.webp",
+    "pdf": "https://meb.ai/UhAFZ4b",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/33/turkce-5sinif-ders-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 34,
+    "title": "Türkçe 5.Sınıf Ders Kitabı (2.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "5.Sınıf",
+    "ders": "Ortaokul Türkçe Dersi",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 6,
+    "cover": "https://tymm.meb.gov.tr/assets/img/turkce-5sinif-ders-kitabi-2kitap_20260905_105057_880.webp",
+    "pdf": "https://meb.ai/UfjP8nD",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/34/turkce-5sinif-ders-kitabi-2kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 60,
+    "title": "Türkçe 6.Sınıf Ders Kitabı (1.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "6.Sınıf",
+    "ders": "Ortaokul Türkçe Dersi",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 6,
+    "cover": "https://tymm.meb.gov.tr/assets/img/turkce-6sinif-ders-kitabi-1kitap_20260905_105213_680.webp",
+    "pdf": "https://meb.ai/ULy28Hy",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/60/turkce-6sinif-ders-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 61,
+    "title": "Türkçe 6.Sınıf Ders Kitabı (2.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "6.Sınıf",
+    "ders": "Ortaokul Türkçe Dersi",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 6,
+    "cover": "https://tymm.meb.gov.tr/assets/img/turkce-6sinif-ders-kitabi-2kitap_20260905_105308_018.webp",
+    "pdf": "https://meb.ai/CPSB1u",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/61/turkce-6sinif-ders-kitabi-2kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 287,
+    "title": "Türkçe 7.Sınıf Ders Kitabı (1.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "7.Sınıf",
+    "ders": "Ortaokul Türkçe Dersi",
+    "sinifIds": [
+      8
+    ],
+    "dersId": 6,
+    "cover": "https://tymm.meb.gov.tr/assets/img/turkce-7sinif-ders-kitabi-1kitap_20260905_105511_556.webp",
+    "pdf": "https://meb.ai/UxjYr7N",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/287/turkce-7sinif-ders-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 288,
+    "title": "Türkçe 7.Sınıf Ders Kitabı (2.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "7.Sınıf",
+    "ders": "Ortaokul Türkçe Dersi",
+    "sinifIds": [
+      8
+    ],
+    "dersId": 6,
+    "cover": "https://tymm.meb.gov.tr/assets/img/turkce-7sinif-ders-kitabi-2kitap_20260905_105542_611.webp",
+    "pdf": "https://meb.ai/wMPuMB",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/288/turkce-7sinif-ders-kitabi-2kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 304,
+    "title": "Yazarlık Ve Yazma Becerileri Ders Kitabı-1",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "Ortaokul Seçmeli Dersler",
+    "ders": "Yazarlık ve Yazma Becerileri Dersi",
+    "sinifIds": [
+      18
+    ],
+    "dersId": 99,
+    "cover": "https://tymm.meb.gov.tr/assets/img/yazarlik-ve-yazma-becerileri-ders-kitabi-1_20260905_130550_156.webp",
+    "pdf": "https://meb.ai/Uxs4xNQ",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/304/yazarlik-ve-yazma-becerileri-ders-kitabi-1",
+    "qaCount": 0
+  },
+  {
+    "id": 269,
+    "title": "Çevre Eğitimi Ve İklim Değişikliği Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "Ortaokul Seçmeli Dersler",
+    "ders": "Çevre Eğitimi ve İklim Değişikliği Dersi",
+    "sinifIds": [
+      18
+    ],
+    "dersId": 68,
+    "cover": "https://tymm.meb.gov.tr/assets/img/cevre-egitimi-ve-iklim-degisikligi-ders-kitabi_20260905_092337_648.webp",
+    "pdf": "https://meb.ai/U62dmrt",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/269/cevre-egitimi-ve-iklim-degisikligi-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 135,
+    "title": "Çoklu Yabancı Dil Eğitim Modeli İngilizce 7.Sınıf Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "7.Sınıf",
+    "ders": "Çoklu Yabancı Dil Eğitim Modeli İngilizce",
+    "sinifIds": [
+      8
+    ],
+    "dersId": 35,
+    "cover": "https://tymm.meb.gov.tr/assets/img/coklu-yabanci-dil-egitim-modeli-ingilizce-7sinif-ders-kitabi_20260905_125601_905.webp",
+    "pdf": "https://meb.ai/UT0G9YB",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/135/coklu-yabanci-dil-egitim-modeli-ingilizce-7sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 136,
+    "title": "Çoklu Yabancı Dil Eğitim Modeli İngilizce 7.Sınıf Çalışma Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "7.Sınıf",
+    "ders": "Çoklu Yabancı Dil Eğitim Modeli İngilizce",
+    "sinifIds": [
+      8
+    ],
+    "dersId": 35,
+    "cover": "https://tymm.meb.gov.tr/assets/img/coklu-yabanci-dil-egitim-modeli-ingilizce-7sinif-calisma-kitabi_20260905_125711_291.webp",
+    "pdf": "https://meb.ai/FyTrgS",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/136/coklu-yabanci-dil-egitim-modeli-ingilizce-7sinif-calisma-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 300,
+    "title": "Çoklu Yabancı Dil Eğitim Modeli İngilizce 7.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "7.Sınıf",
+    "ders": "Çoklu Yabancı Dil Eğitim Modeli İngilizce",
+    "sinifIds": [
+      8
+    ],
+    "dersId": 35,
+    "cover": "https://tymm.meb.gov.tr/assets/img/coklu-yabanci-dil-egitim-modeli-ingilizce-7sinif-ogretmen-kilavuz-kita_20260905_125852_993.webp",
+    "pdf": "https://meb.ai/UpZzTas",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/300/coklu-yabanci-dil-egitim-modeli-ingilizce-7sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 302,
+    "title": "Çoklu Yabancı Dil Eğitim Modeli İngilizce 8.Sınıf Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "8.Sınıf",
+    "ders": "Çoklu Yabancı Dil Eğitim Modeli İngilizce",
+    "sinifIds": [
+      9
+    ],
+    "dersId": 35,
+    "cover": "https://tymm.meb.gov.tr/assets/img/coklu-yabanci-dil-egitim-modeli-ingilizce-8sinif-ders-kitabi_20260905_130200_914.webp",
+    "pdf": "https://meb.ai/Dvp5ss",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/302/coklu-yabanci-dil-egitim-modeli-ingilizce-8sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 303,
+    "title": "Çoklu Yabancı Dil Eğitim Modeli İngilizce 8.Sınıf Çalışma Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "8.Sınıf",
+    "ders": "Çoklu Yabancı Dil Eğitim Modeli İngilizce",
+    "sinifIds": [
+      9
+    ],
+    "dersId": 35,
+    "cover": "https://tymm.meb.gov.tr/assets/img/coklu-yabanci-dil-egitim-modeli-ingilizce-8sinif-calisma-kitabi_20260905_130323_787.webp",
+    "pdf": "https://meb.ai/ULfkIAQ",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/303/coklu-yabanci-dil-egitim-modeli-ingilizce-8sinif-calisma-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 301,
+    "title": "Çoklu Yabancı Dil Eğitim Modeli İngilizce 8.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "8.Sınıf",
+    "ders": "Çoklu Yabancı Dil Eğitim Modeli İngilizce",
+    "sinifIds": [
+      9
+    ],
+    "dersId": 35,
+    "cover": "https://tymm.meb.gov.tr/assets/img/coklu-yabanci-dil-egitim-modeli-ingilizce-8sinif-ogretmen-kilavuz-kita_20260905_130042_656.webp",
+    "pdf": "https://meb.ai/UHQvR6G",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/301/coklu-yabanci-dil-egitim-modeli-ingilizce-8sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 129,
+    "title": "Çoklu Yabancı Dil Eğitim Modeli İngilizce Dersi 5.Sınıf Ders Kitabı (1.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "5.Sınıf",
+    "ders": "Çoklu Yabancı Dil Eğitim Modeli İngilizce",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 35,
+    "cover": "https://tymm.meb.gov.tr/assets/img/coklu-yabanci-dil-egitim-modeli-ingilizce-dersi-5sinif-ders-kitabi-1ki_20260905_123458_830.webp",
+    "pdf": "https://meb.ai/ozrE43",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/129/coklu-yabanci-dil-egitim-modeli-ingilizce-dersi-5sinif-ders-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 130,
+    "title": "Çoklu Yabancı Dil Eğitim Modeli İngilizce Dersi 5.Sınıf Ders Kitabı (2.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "5.Sınıf",
+    "ders": "Çoklu Yabancı Dil Eğitim Modeli İngilizce",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 35,
+    "cover": "https://tymm.meb.gov.tr/assets/img/coklu-yabanci-dil-egitim-modeli-ingilizce-dersi-5sinif-ders-kitabi-2ki_20260905_124306_728.webp",
+    "pdf": "https://meb.ai/U8TdPfI",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/130/coklu-yabanci-dil-egitim-modeli-ingilizce-dersi-5sinif-ders-kitabi-2kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 131,
+    "title": "Çoklu Yabancı Dil Eğitim Modeli İngilizce Dersi 5.Sınıf Çalışma Kitabı (1.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "5.Sınıf",
+    "ders": "Çoklu Yabancı Dil Eğitim Modeli İngilizce",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 35,
+    "cover": "https://tymm.meb.gov.tr/assets/img/coklu-yabanci-dil-egitim-modeli-ingilizce-dersi-5sinif-calisma-kitabi_20260905_124444_293.webp",
+    "pdf": "https://meb.ai/hMpHfl",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/131/coklu-yabanci-dil-egitim-modeli-ingilizce-dersi-5sinif-calisma-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 132,
+    "title": "Çoklu Yabancı Dil Eğitim Modeli İngilizce Dersi 5.Sınıf Çalışma Kitabı (2.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "5.Sınıf",
+    "ders": "Çoklu Yabancı Dil Eğitim Modeli İngilizce",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 35,
+    "cover": "https://tymm.meb.gov.tr/assets/img/coklu-yabanci-dil-egitim-modeli-ingilizce-dersi-5sinif-calisma-kitabi_20260905_124608_291.webp",
+    "pdf": "https://meb.ai/U5liXtC",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/132/coklu-yabanci-dil-egitim-modeli-ingilizce-dersi-5sinif-calisma-kitabi-2kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 215,
+    "title": "Çoklu Yabancı Dil Eğitim Modeli İngilizce Dersi 5.Sınıf Öğretmen Kılavuz Kitabı (1.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "5.Sınıf",
+    "ders": "Çoklu Yabancı Dil Eğitim Modeli İngilizce",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 35,
+    "cover": "https://tymm.meb.gov.tr/assets/img/coklu-yabanci-dil-egitim-modeli-ingilizce-dersi-5sinif-ogretmen-kilavu_20260905_124729_149.webp",
+    "pdf": "https://meb.ai/QibnFw",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/215/coklu-yabanci-dil-egitim-modeli-ingilizce-dersi-5sinif-ogretmen-kilavuz-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 216,
+    "title": "Çoklu Yabancı Dil Eğitim Modeli İngilizce Dersi 5.Sınıf Öğretmen Kılavuz Kitabı (2.Kitap)",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "5.Sınıf",
+    "ders": "Çoklu Yabancı Dil Eğitim Modeli İngilizce",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 35,
+    "cover": "https://tymm.meb.gov.tr/assets/img/coklu-yabanci-dil-egitim-modeli-ingilizce-dersi-5sinif-ogretmen-kilavu_20260905_124834_051.webp",
+    "pdf": "https://meb.ai/kiJLSQ",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/216/coklu-yabanci-dil-egitim-modeli-ingilizce-dersi-5sinif-ogretmen-kilavuz-kitabi-2kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 133,
+    "title": "Çoklu Yabancı Dil Eğitim Modeli İngilizce Dersi 6.Sınıf Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "6.Sınıf",
+    "ders": "Çoklu Yabancı Dil Eğitim Modeli İngilizce",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 35,
+    "cover": "https://tymm.meb.gov.tr/assets/img/coklu-yabanci-dil-egitim-modeli-ingilizce-dersi-6sinif-ders-kitabi_20260905_125108_443.webp",
+    "pdf": "https://meb.ai/RPmUm6",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/133/coklu-yabanci-dil-egitim-modeli-ingilizce-dersi-6sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 134,
+    "title": "Çoklu Yabancı Dil Eğitim Modeli İngilizce Dersi 6.Sınıf Çalışma Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "6.Sınıf",
+    "ders": "Çoklu Yabancı Dil Eğitim Modeli İngilizce",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 35,
+    "cover": "https://tymm.meb.gov.tr/assets/img/coklu-yabanci-dil-egitim-modeli-ingilizce-dersi-6sinif-calisma-kitabi_20260905_125210_544.webp",
+    "pdf": "https://meb.ai/UkWYUBq",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/134/coklu-yabanci-dil-egitim-modeli-ingilizce-dersi-6sinif-calisma-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 218,
+    "title": "Çoklu Yabancı Dil Eğitim Modeli İngilizce Dersi 6.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "6.Sınıf",
+    "ders": "Çoklu Yabancı Dil Eğitim Modeli İngilizce",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 35,
+    "cover": "https://tymm.meb.gov.tr/assets/img/coklu-yabanci-dil-egitim-modeli-ingilizce-dersi-6sinif-ogretmen-kilavu_20260905_125327_482.webp",
+    "pdf": "https://meb.ai/mktZER",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/218/coklu-yabanci-dil-egitim-modeli-ingilizce-dersi-6sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 151,
+    "title": "İngilizce Dersi 2.Sınıf Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "2.Sınıf",
+    "ders": "İngilizce Dersi",
+    "sinifIds": [
+      3
+    ],
+    "dersId": 34,
+    "cover": "https://tymm.meb.gov.tr/assets/img/ilkokul-2sinif-ingilizce-ders-kitabi_20260905_120652_284.webp",
+    "pdf": "https://meb.ai/UjICisN",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/151/ingilizce-dersi-2sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 152,
+    "title": "İngilizce Dersi 2.Sınıf Çalışma Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "2.Sınıf",
+    "ders": "İngilizce Dersi",
+    "sinifIds": [
+      3
+    ],
+    "dersId": 34,
+    "cover": "https://tymm.meb.gov.tr/assets/img/ilkokul-2sinif-ingilizce-calisma-kitabi_20260905_120818_204.webp",
+    "pdf": "https://meb.ai/giUrK9",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/152/ingilizce-dersi-2sinif-calisma-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 214,
+    "title": "İngilizce Dersi 2.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "2.Sınıf",
+    "ders": "İngilizce Dersi",
+    "sinifIds": [
+      3
+    ],
+    "dersId": 34,
+    "cover": "https://tymm.meb.gov.tr/assets/img/ingilizce-dersi-2sinif-ogretmen-kilavuz-kitabi_20260905_120937_374.webp",
+    "pdf": "https://meb.ai/UYvUQ6G",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/214/ingilizce-dersi-2sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 291,
+    "title": "İngilizce Dersi 3.Sınıf Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "3.Sınıf",
+    "ders": "İngilizce Dersi",
+    "sinifIds": [
+      4
+    ],
+    "dersId": 34,
+    "cover": "https://tymm.meb.gov.tr/assets/img/ingilizce-dersi-3sinif-ders-kitabi_20260905_120234_437.webp",
+    "pdf": "https://meb.ai/xOG3e6",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/291/ingilizce-dersi-3sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 292,
+    "title": "İngilizce Dersi 3.Sınıf Çalışma Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "3.Sınıf",
+    "ders": "İngilizce Dersi",
+    "sinifIds": [
+      4
+    ],
+    "dersId": 34,
+    "cover": "https://tymm.meb.gov.tr/assets/img/ingilizce-dersi-3sinif-calisma-kitabi_20260905_120355_666.webp",
+    "pdf": "https://meb.ai/SKR3OC",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/292/ingilizce-dersi-3sinif-calisma-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 293,
+    "title": "İngilizce Dersi 3.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "3.Sınıf",
+    "ders": "İngilizce Dersi",
+    "sinifIds": [
+      4
+    ],
+    "dersId": 34,
+    "cover": "https://tymm.meb.gov.tr/assets/img/ingilizce-dersi-3sinif-ogretmen-kilavuz-kitabi_20260905_120515_060.webp",
+    "pdf": "https://meb.ai/UmY0zvf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/293/ingilizce-dersi-3sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 139,
+    "title": "İngilizce Dersi 5.Sınıf Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "5.Sınıf",
+    "ders": "İngilizce Dersi",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 34,
+    "cover": "https://tymm.meb.gov.tr/assets/img/ingilizce-dersi-5sinif-ogretmen-ders-kitabi_20260905_121614_942.webp",
+    "pdf": "https://meb.ai/Uo2KUKY",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/139/ingilizce-dersi-5sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 140,
+    "title": "İngilizce Dersi 5.Sınıf Çalışma Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "5.Sınıf",
+    "ders": "İngilizce Dersi",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 34,
+    "cover": "https://tymm.meb.gov.tr/assets/img/ingilizce-dersi-5sinif-calisma-kitabi_20260905_121417_565.webp",
+    "pdf": "https://meb.ai/UZ2Ksse",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/140/ingilizce-dersi-5sinif-calisma-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 217,
+    "title": "İngilizce Dersi 5.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "5.Sınıf",
+    "ders": "İngilizce Dersi",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 34,
+    "cover": "https://tymm.meb.gov.tr/assets/img/ingilizce-dersi-5sinif-ogretmen-kilavuz-kitabi_20260905_121842_884.webp",
+    "pdf": "https://meb.ai/U5Tll8B",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/217/ingilizce-dersi-5sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 298,
+    "title": "İngilizce Dersi 6.Sınıf Ders Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "6.Sınıf",
+    "ders": "İngilizce Dersi",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 34,
+    "cover": "https://tymm.meb.gov.tr/assets/img/ingilizce-dersi-6sinif-ders-kitabi_20260905_122918_571.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/ingilizce-dersi-6sinif-ders-kitabi_20260930_115014_740.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=298",
+    "detail": "https://tymm.meb.gov.tr/kitap/298/ingilizce-dersi-6sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 297,
+    "title": "İngilizce Dersi 6.Sınıf Çalışma Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "6.Sınıf",
+    "ders": "İngilizce Dersi",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 34,
+    "cover": "https://tymm.meb.gov.tr/assets/img/ingilizce-dersi-6sinif-calisma-kitabi_20260905_122800_041.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/ingilizce-dersi-6sinif-calisma-kitabi_20260930_124530_359.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=297",
+    "detail": "https://tymm.meb.gov.tr/kitap/297/ingilizce-dersi-6sinif-calisma-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 299,
+    "title": "İngilizce Dersi 6.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Temel Eğitim",
+    "kademeId": 2,
+    "sinif": "6.Sınıf",
+    "ders": "İngilizce Dersi",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 34,
+    "cover": "https://tymm.meb.gov.tr/assets/img/ingilizce-dersi-6sinif-ogretmen-kilavuz-kitabi_20260905_123048_647.webp",
+    "pdf": "https://meb.ai/UZTRQlE",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/299/ingilizce-dersi-6sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 396,
+    "title": "Astronomi Ve Uzay Bilimleri Dersi Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "Astronomi ve Uzay Bilimleri Dersi",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 101,
+    "cover": "https://tymm.meb.gov.tr/assets/img/astronomi-ve-uzay-bilimleri-dersi-kitabi_20260907_191934_730.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/astronomi-ve-uzay-bilimleri-dersi-kitabi_20261005_233819_605.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=396",
+    "detail": "https://tymm.meb.gov.tr/kitap/396/astronomi-ve-uzay-bilimleri-dersi-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 397,
+    "title": "Beden Eğitimi Ve Spor Dersi 10.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "10.Sınıf",
+    "ders": "Beden Eğitimi ve Spor Dersi",
+    "sinifIds": [
+      12
+    ],
+    "dersId": 30,
+    "cover": "https://tymm.meb.gov.tr/assets/img/beden-egitimi-ve-spor-dersi-10sinif-ogretmen-kilavuz-kitabi_20260907_194052_634.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/beden-egitimi-ve-spor-dersi-10sinif-ogretmen-kilavuz-kitabi_20261006_092205_819.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=397",
+    "detail": "https://tymm.meb.gov.tr/kitap/397/beden-egitimi-ve-spor-dersi-10sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 398,
+    "title": "Beden Eğitimi Ve Spor Dersi 9.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "9.Sınıf",
+    "ders": "Beden Eğitimi ve Spor Dersi",
+    "sinifIds": [
+      11
+    ],
+    "dersId": 30,
+    "cover": "https://tymm.meb.gov.tr/assets/img/beden-egitimi-ve-spor-dersi-9sinif-ogretmen-kilavuz-kitabi_20260907_200133_272.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/beden-egitimi-ve-spor-dersi-9sinif-ogretmen-kilavuz-kitabi_20261006_090734_787.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=398",
+    "detail": "https://tymm.meb.gov.tr/kitap/398/beden-egitimi-ve-spor-dersi-9sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 399,
+    "title": "Beden Eğitimi Ve Spor Dersi Hazırlık Sınıfı Öğretmen Kılavuz Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "Hazırlık",
+    "ders": "Beden Eğitimi ve Spor Dersi",
+    "sinifIds": [
+      10
+    ],
+    "dersId": 30,
+    "cover": "https://tymm.meb.gov.tr/assets/img/beden-egitimi-ve-spor-dersi-hazirlik-sinifi-ogretmen-kilavuz-kitabi_20260907_200319_770.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/beden-egitimi-ve-spor-dersi-hazirlik-sinifi-ogretmen-kilavuz-kitabi_20261006_090352_450.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=399",
+    "detail": "https://tymm.meb.gov.tr/kitap/399/beden-egitimi-ve-spor-dersi-hazirlik-sinifi-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 71,
+    "title": "Biyoloji Dersi 10.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "10.Sınıf",
+    "ders": "Biyoloji Dersi",
+    "sinifIds": [
+      12
+    ],
+    "dersId": 21,
+    "cover": "https://tymm.meb.gov.tr/assets/img/biyoloji-dersi-10sinif-ders-kitabi_20260907_200859_576.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/biyoloji-dersi-10sinif-ders-kitabi_20261013_171142_303.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=71",
+    "detail": "https://tymm.meb.gov.tr/kitap/71/biyoloji-dersi-10sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 400,
+    "title": "Biyoloji Dersi 11.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "11.Sınıf",
+    "ders": "Biyoloji Dersi",
+    "sinifIds": [
+      13
+    ],
+    "dersId": 21,
+    "cover": "https://tymm.meb.gov.tr/assets/img/biyoloji-dersi-11sinif-ders-kitabi_20260907_201212_138.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/biyoloji-dersi-11sinif-ders-kitabi_20261004_221656_902.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=400",
+    "detail": "https://tymm.meb.gov.tr/kitap/400/biyoloji-dersi-11sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 36,
+    "title": "Biyoloji Dersi 9.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "9.Sınıf",
+    "ders": "Biyoloji Dersi",
+    "sinifIds": [
+      11
+    ],
+    "dersId": 21,
+    "cover": "https://tymm.meb.gov.tr/assets/img/biyoloji-9sinif-ders-kitabi_20260907_200538_016.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/biyoloji-dersi-9sinif-ders-kitabi_20261006_220008_456.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/36/biyoloji-dersi-9sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 72,
+    "title": "Coğrafya Dersi 10.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "10.Sınıf",
+    "ders": "Coğrafya Dersi",
+    "sinifIds": [
+      12
+    ],
+    "dersId": 22,
+    "cover": "https://tymm.meb.gov.tr/assets/img/cografya-dersi-10sinif-ders-kitabi_20260907_201736_513.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/cografya-dersi-10sinif-ders-kitabi_20261004_200628_795.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=72",
+    "detail": "https://tymm.meb.gov.tr/kitap/72/cografya-dersi-10sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 401,
+    "title": "Coğrafya Dersi 11.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "11.Sınıf",
+    "ders": "Coğrafya Dersi",
+    "sinifIds": [
+      13
+    ],
+    "dersId": 22,
+    "cover": "https://tymm.meb.gov.tr/assets/img/cografya-dersi-11sinif-ders-kitabi_20260907_202053_830.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/cografya-dersi-11sinif-ders-kitabi_20261004_192901_442.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=401",
+    "detail": "https://tymm.meb.gov.tr/kitap/401/cografya-dersi-11sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 37,
+    "title": "Coğrafya Dersi 9.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "9.Sınıf",
+    "ders": "Coğrafya Dersi",
+    "sinifIds": [
+      11
+    ],
+    "dersId": 22,
+    "cover": "https://tymm.meb.gov.tr/assets/img/cografya-dersi-9sinif-ders-kitabi_20260907_201524_569.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/cografya-dersi-9sinif-ders-kitabi_20260907_201524_569.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=37",
+    "detail": "https://tymm.meb.gov.tr/kitap/37/cografya-dersi-9sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 402,
+    "title": "Demokrasi Ve İnsan Hakları Dersi Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "Demokrasi ve İnsan Hakları Dersi",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 102,
+    "cover": "https://tymm.meb.gov.tr/assets/img/demokrasi-ve-insan-haklari-dersi-kitabi_20260907_202917_221.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/demokrasi-ve-insan-haklari-dersi-kitabi_20261004_095937_947.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=402",
+    "detail": "https://tymm.meb.gov.tr/kitap/402/demokrasi-ve-insan-haklari-dersi-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 35,
+    "title": "Din Kültürü Ve Ahlak Bilgisi 10.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "10.Sınıf",
+    "ders": "Din Kültürü ve Ahlak Bilgisi Dersi (Ortaöğretim)",
+    "sinifIds": [
+      12
+    ],
+    "dersId": 13,
+    "cover": "https://tymm.meb.gov.tr/assets/img/din-kulturu-ve-ahlak-bilgisi-10sinif-ders-kitabi_20261003_185839_881.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/din-kulturu-ve-ahlak-bilgisi-9sinif-ders-kitabi_20261003_185826_706.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/35/din-kulturu-ve-ahlak-bilgisi-10sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 519,
+    "title": "Din Kültürü Ve Ahlak Bilgisi 11.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "11.Sınıf",
+    "ders": "Din Kültürü ve Ahlak Bilgisi Dersi (Ortaöğretim)",
+    "sinifIds": [
+      13
+    ],
+    "dersId": 13,
+    "cover": "https://tymm.meb.gov.tr/assets/img/din-kulturu-ve-ahlak-bilgisi-11sinif-ders-kitabi_20261003_190235_967.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/din-kulturu-ve-ahlak-bilgisi-11sinif-ders-kitabi_20261003_190231_999.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=519",
+    "detail": "https://tymm.meb.gov.tr/kitap/519/din-kulturu-ve-ahlak-bilgisi-11sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 520,
+    "title": "Din Kültürü Ve Ahlak Bilgisi 12.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "12.Sınıf",
+    "ders": "Din Kültürü ve Ahlak Bilgisi Dersi (Ortaöğretim)",
+    "sinifIds": [
+      14
+    ],
+    "dersId": 13,
+    "cover": "https://tymm.meb.gov.tr/assets/img/din-kulturu-ve-ahlak-bilgisi-12sinif-ders-kitabi_20261003_190939_726.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/din-kulturu-ve-ahlak-bilgisi-12sinif-ders-kitabi_20261003_190757_270.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=520",
+    "detail": "https://tymm.meb.gov.tr/kitap/520/din-kulturu-ve-ahlak-bilgisi-12sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 518,
+    "title": "Din Kültürü Ve Ahlak Bilgisi 9.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "9.Sınıf",
+    "ders": "Din Kültürü ve Ahlak Bilgisi Dersi (Ortaöğretim)",
+    "sinifIds": [
+      11
+    ],
+    "dersId": 13,
+    "cover": "https://tymm.meb.gov.tr/assets/img/din-kulturu-ve-ahlak-bilgisi-9sinif-ders-kitabi_20261003_185528_092.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/din-kulturu-ve-ahlak-bilgisi-9sinif-ders-kitabi_20261003_185509_939.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=518",
+    "detail": "https://tymm.meb.gov.tr/kitap/518/din-kulturu-ve-ahlak-bilgisi-9sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 73,
+    "title": "Felsefe Dersi 10.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "10.Sınıf",
+    "ders": "Felsefe Dersi",
+    "sinifIds": [
+      12
+    ],
+    "dersId": 23,
+    "cover": "https://tymm.meb.gov.tr/assets/img/felsefe-10.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/felsefe-dersi-10sinif-ders-kitabi_20261013_140018_786.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=73",
+    "detail": "https://tymm.meb.gov.tr/kitap/73/felsefe-dersi-10sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 403,
+    "title": "Felsefe Dersi 11.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "11.Sınıf",
+    "ders": "Felsefe Dersi",
+    "sinifIds": [
+      13
+    ],
+    "dersId": 23,
+    "cover": "https://tymm.meb.gov.tr/assets/img/felsefe-dersi-11sinif-ders-kitabi_20261003_214328_520.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/felsefe-dersi-11sinif-ders-kitabi_20261003_214213_339.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=403",
+    "detail": "https://tymm.meb.gov.tr/kitap/403/felsefe-dersi-11sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 74,
+    "title": "Fizik Dersi 10.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "10.Sınıf",
+    "ders": "Fizik Dersi",
+    "sinifIds": [
+      12
+    ],
+    "dersId": 19,
+    "cover": "https://tymm.meb.gov.tr/assets/img/fizik-dersi-10sinif-ders-kitabi_20260907_205657_162.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/fizik-dersi-10sinif-ders-kitabi_20261012_224944_785.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=74",
+    "detail": "https://tymm.meb.gov.tr/kitap/74/fizik-dersi-10sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 404,
+    "title": "Fizik Dersi 11.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "11.Sınıf",
+    "ders": "Fizik Dersi",
+    "sinifIds": [
+      13
+    ],
+    "dersId": 19,
+    "cover": "https://tymm.meb.gov.tr/assets/img/fizik-dersi-11sinif-ders-kitabi_20260907_210053_605.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/fizik-dersi-11sinif-ders-kitabi_20261003_001345_238.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=404",
+    "detail": "https://tymm.meb.gov.tr/kitap/404/fizik-dersi-11sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 38,
+    "title": "Fizik Dersi 9.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "9.Sınıf",
+    "ders": "Fizik Dersi",
+    "sinifIds": [
+      11
+    ],
+    "dersId": 19,
+    "cover": "https://tymm.meb.gov.tr/assets/img/fizik-dersi-9sinif-ders-kitabi_20260907_204632_669.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/fizik-dersi-9sinif-ders-kitabi_20261006_194425_076.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=38",
+    "detail": "https://tymm.meb.gov.tr/kitap/38/fizik-dersi-9sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 406,
+    "title": "Görsel Sanatlar Dersi 10.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "10.Sınıf",
+    "ders": "Görsel Sanatlar Dersi",
+    "sinifIds": [
+      12
+    ],
+    "dersId": 28,
+    "cover": "https://tymm.meb.gov.tr/assets/img/gorsel-sanatlar-dersi-10sinif-ogretmen-kilavuz-kitabi_20260907_211158_869.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/gorsel-sanatlar-dersi-10sinif-ogretmen-kilavuz-kitabi_20261002_100905_689.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=406",
+    "detail": "https://tymm.meb.gov.tr/kitap/406/gorsel-sanatlar-dersi-10sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 405,
+    "title": "Görsel Sanatlar Dersi 9.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "9.Sınıf",
+    "ders": "Görsel Sanatlar Dersi",
+    "sinifIds": [
+      11
+    ],
+    "dersId": 28,
+    "cover": "https://tymm.meb.gov.tr/assets/img/gorsel-sanatlar-dersi-9sinif-ogretmen-kilavuz-kitabi_20260907_210931_665.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/gorsel-sanatlar-dersi-9sinif-ogretmen-kilavuz-kitabi_20261002_234913_977.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=405",
+    "detail": "https://tymm.meb.gov.tr/kitap/405/gorsel-sanatlar-dersi-9sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 407,
+    "title": "Görsel Sanatlar Dersi Hazırlık Sınıfı Öğretmen Kılavuz Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "Hazırlık",
+    "ders": "Görsel Sanatlar Dersi",
+    "sinifIds": [
+      10
+    ],
+    "dersId": 28,
+    "cover": "https://tymm.meb.gov.tr/assets/img/gorsel-sanatlar-dersi-hazirlik-sinifi-ogretmen-kilavuz-kitabi_20260907_211349_048.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/gorsel-sanatlar-dersi-hazirlik-sinifi-ogretmen-kilavuz-kitabi_20261002_082201_928.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=407",
+    "detail": "https://tymm.meb.gov.tr/kitap/407/gorsel-sanatlar-dersi-hazirlik-sinifi-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 75,
+    "title": "Kimya 10.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "10.Sınıf",
+    "ders": "Kimya Dersi",
+    "sinifIds": [
+      12
+    ],
+    "dersId": 20,
+    "cover": "https://tymm.meb.gov.tr/assets/img/kimya-10sinif-ders-kitabi_20260908_105608_516.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/kimya-10sinif-ders-kitabi_20261004_173619_390.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=75",
+    "detail": "https://tymm.meb.gov.tr/kitap/75/kimya-10sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 416,
+    "title": "Kimya 11.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "11.Sınıf",
+    "ders": "Kimya Dersi",
+    "sinifIds": [
+      13
+    ],
+    "dersId": 20,
+    "cover": "https://tymm.meb.gov.tr/assets/img/kimya-11sinif-ders-kitabi_20260908_105854_643.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/kimya-11sinif-ders-kitabi_20260930_195607_842.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=416",
+    "detail": "https://tymm.meb.gov.tr/kitap/416/kimya-11sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 39,
+    "title": "Kimya 9.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "9.Sınıf",
+    "ders": "Kimya Dersi",
+    "sinifIds": [
+      11
+    ],
+    "dersId": 20,
+    "cover": "https://tymm.meb.gov.tr/assets/img/kimya-9sinif-ders-kitabi_20260908_105401_981.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/kimya-9sinif-ders-kitabi_20260908_105401_982.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=39",
+    "detail": "https://tymm.meb.gov.tr/kitap/39/kimya-9sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 526,
+    "title": "Kur'an-ı Kerim 10.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "10.Sınıf",
+    "ders": "Kur'an-ı Kerim Dersi (Ortaöğretim)",
+    "sinifIds": [
+      12
+    ],
+    "dersId": 151,
+    "cover": "https://tymm.meb.gov.tr/assets/img/kuran-i-kerim-10sinif-ders-kitabi_20261003_204527_167.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/kuran-i-kerim-10sinif-ders-kitabi_20261003_193404_636.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=526",
+    "detail": "https://tymm.meb.gov.tr/kitap/526/kuran-i-kerim-10sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 527,
+    "title": "Kur'an-ı Kerim 11.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "11.Sınıf",
+    "ders": "Kur'an-ı Kerim Dersi (Ortaöğretim)",
+    "sinifIds": [
+      13
+    ],
+    "dersId": 151,
+    "cover": "https://tymm.meb.gov.tr/assets/img/kuran-i-kerim-11sinif-ders-kitabi_20261003_204915_092.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/kuran-i-kerim-11sinif-ders-kitabi_20261003_204913_494.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=527",
+    "detail": "https://tymm.meb.gov.tr/kitap/527/kuran-i-kerim-11sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 528,
+    "title": "Kur'an-ı Kerim 12.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "12.Sınıf",
+    "ders": "Kur'an-ı Kerim Dersi (Ortaöğretim)",
+    "sinifIds": [
+      14
+    ],
+    "dersId": 151,
+    "cover": "https://tymm.meb.gov.tr/assets/img/kuran-i-kerim-12sinif-ders-kitabi_20261003_205718_081.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/kuran-i-kerim-12sinif-ders-kitabi_20261003_205510_487.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=528",
+    "detail": "https://tymm.meb.gov.tr/kitap/528/kuran-i-kerim-12sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 525,
+    "title": "Kur'an-ı Kerim 9.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "9.Sınıf",
+    "ders": "Kur'an-ı Kerim Dersi (Ortaöğretim)",
+    "sinifIds": [
+      11
+    ],
+    "dersId": 151,
+    "cover": "https://tymm.meb.gov.tr/assets/img/kuran-i-kerim-9sinif-ders-kitabi_20261003_192727_188.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/kuran-i-kerim-9sinif-ders-kitabi_20261003_192716_339.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=525",
+    "detail": "https://tymm.meb.gov.tr/kitap/525/kuran-i-kerim-9sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 529,
+    "title": "Kur'an-ı Kerim'in Anlam Dünyası 11.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "11.Sınıf",
+    "ders": "Kur'an-ı Kerim'in Anlam Dünyası Dersi",
+    "sinifIds": [
+      13
+    ],
+    "dersId": 152,
+    "cover": "https://tymm.meb.gov.tr/assets/img/kuran-i-kerimin-anlam-dunyasi-11sinif-ders-kitabi_20261003_210205_934.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/kuran-i-kerimin-anlam-dunyasi-11sinif-ders-kitabi_20261003_210144_867.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=529",
+    "detail": "https://tymm.meb.gov.tr/kitap/529/kuran-i-kerimin-anlam-dunyasi-11sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 530,
+    "title": "Kur'an-ı Kerim'in Anlam Dünyası 12.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "12.Sınıf",
+    "ders": "Kur'an-ı Kerim'in Anlam Dünyası Dersi",
+    "sinifIds": [
+      14
+    ],
+    "dersId": 152,
+    "cover": "https://tymm.meb.gov.tr/assets/img/kuran-i-kerimin-anlam-dunyasi-12sinif-ders-kitabi_20261003_210346_277.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/kuran-i-kerimin-anlam-dunyasi-12sinif-ders-kitabi_20261003_210343_255.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=530",
+    "detail": "https://tymm.meb.gov.tr/kitap/530/kuran-i-kerimin-anlam-dunyasi-12sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 417,
+    "title": "Mantık Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "Mantık Dersi",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 104,
+    "cover": "https://tymm.meb.gov.tr/assets/img/mantik-ders-kitabi_20260908_110853_293.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/mantik-ders-kitabi_20260930_193142_072.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=417",
+    "detail": "https://tymm.meb.gov.tr/kitap/417/mantik-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 76,
+    "title": "Matematik 10.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "10.Sınıf",
+    "ders": "Matematik Dersi",
+    "sinifIds": [
+      12
+    ],
+    "dersId": 18,
+    "cover": "https://tymm.meb.gov.tr/assets/img/matematik-10sinif-ders-kitabi_20260908_111459_880.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/matematik-10sinif-ders-kitabi_20261008_124008_508.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=76",
+    "detail": "https://tymm.meb.gov.tr/kitap/76/matematik-10sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 41,
+    "title": "Matematik 9.Sınıf Ders Kitabı (1.Kitap)",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "9.Sınıf",
+    "ders": "Matematik Dersi",
+    "sinifIds": [
+      11
+    ],
+    "dersId": 18,
+    "cover": "https://tymm.meb.gov.tr/assets/img/matematik-9sinif-ders-kitabi-1kitap_20260908_111051_343.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/matematik-9sinif-ders-kitabi-1kitap_20261006_102913_502.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=41",
+    "detail": "https://tymm.meb.gov.tr/kitap/41/matematik-9sinif-ders-kitabi-1kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 42,
+    "title": "Matematik 9.Sınıf Ders Kitabı (2.Kitap)",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "9.Sınıf",
+    "ders": "Matematik Dersi",
+    "sinifIds": [
+      11
+    ],
+    "dersId": 18,
+    "cover": "https://tymm.meb.gov.tr/assets/img/matematik-9sinif-ders-kitabi-2kitap_20260908_111224_539.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/matematik-9sinif-ders-kitabi-2kitap_20261006_104711_394.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=42",
+    "detail": "https://tymm.meb.gov.tr/kitap/42/matematik-9sinif-ders-kitabi-2kitap",
+    "qaCount": 0
+  },
+  {
+    "id": 418,
+    "title": "Matematik Dersi 11.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "11.Sınıf",
+    "ders": "Matematik Dersi",
+    "sinifIds": [
+      13
+    ],
+    "dersId": 18,
+    "cover": "https://tymm.meb.gov.tr/assets/img/matematik-dersi-11sinif-ders-kitabi_20260908_112426_175.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/matematik-dersi-11sinif-ders-kitabi_20260930_191412_605.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=418",
+    "detail": "https://tymm.meb.gov.tr/kitap/418/matematik-dersi-11sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 40,
+    "title": "Matematik Hazırlık Sınıfı Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "Hazırlık",
+    "ders": "Matematik Dersi",
+    "sinifIds": [
+      10
+    ],
+    "dersId": 18,
+    "cover": "https://tymm.meb.gov.tr/assets/img/matematik-hazirlik-sinifi-ders-kitabi_20260908_112552_024.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/matematik-hazirlik-sinifi-ders-kitabi_20261006_130517_456.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=40",
+    "detail": "https://tymm.meb.gov.tr/kitap/40/matematik-hazirlik-sinifi-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 420,
+    "title": "Müzik Dersi 10.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "10.Sınıf",
+    "ders": "Müzik Dersi",
+    "sinifIds": [
+      12
+    ],
+    "dersId": 29,
+    "cover": "https://tymm.meb.gov.tr/assets/img/muzik-dersi-10sinif-ogretmen-kilavuz-kitabi_20260908_145543_912.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/muzik-dersi-10sinif-ogretmen-kilavuz-kitabi_20260930_182640_975.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=420",
+    "detail": "https://tymm.meb.gov.tr/kitap/420/muzik-dersi-10sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 419,
+    "title": "Müzik Dersi 9.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "9.Sınıf",
+    "ders": "Müzik Dersi",
+    "sinifIds": [
+      11
+    ],
+    "dersId": 29,
+    "cover": "https://tymm.meb.gov.tr/assets/img/muzik-dersi-9sinif-ders-kitabi_20260908_112736_979.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/muzik-dersi-9sinif-ogretmen-kilavuz-kitabi_20260930_183933_988.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=419",
+    "detail": "https://tymm.meb.gov.tr/kitap/419/muzik-dersi-9sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 421,
+    "title": "Müzik Dersi Hazırlık Sınıfı Öğretmen Kılavuz Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "Hazırlık",
+    "ders": "Müzik Dersi",
+    "sinifIds": [
+      10
+    ],
+    "dersId": 29,
+    "cover": "https://tymm.meb.gov.tr/assets/img/muzik-dersi-hazirlik-sinifi-ogretmen-kilavuz-kitabi_20260908_182722_261.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/muzik-dersi-hazirlik-sinifi-ogretmen-kilavuz-kitabi_20260930_141922_525.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=421",
+    "detail": "https://tymm.meb.gov.tr/kitap/421/muzik-dersi-hazirlik-sinifi-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 540,
+    "title": "Peygamberimizin Hayatı 10.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "10.Sınıf",
+    "ders": "Peygamberimizin Hayatı Dersi (Ortaöğretim)",
+    "sinifIds": [
+      12
+    ],
+    "dersId": 14,
+    "cover": "https://tymm.meb.gov.tr/assets/img/peygamberimizin-hayati-10sinif-ders-kitabi_20261003_220120_552.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/peygamberimizin-hayati-10sinif-ders-kitabi_20261003_220034_917.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=540",
+    "detail": "https://tymm.meb.gov.tr/kitap/540/peygamberimizin-hayati-10sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 541,
+    "title": "Peygamberimizin Hayatı 11.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "11.Sınıf",
+    "ders": "Peygamberimizin Hayatı Dersi (Ortaöğretim)",
+    "sinifIds": [
+      13
+    ],
+    "dersId": 14,
+    "cover": "https://tymm.meb.gov.tr/assets/img/peygamberimizin-hayati-11sinif-ders-kitabi_20261003_220346_483.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/peygamberimizin-hayati-11sinif-ders-kitabi_20261003_220253_186.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=541",
+    "detail": "https://tymm.meb.gov.tr/kitap/541/peygamberimizin-hayati-11sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 542,
+    "title": "Peygamberimizin Hayatı 12.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "12.Sınıf",
+    "ders": "Peygamberimizin Hayatı Dersi (Ortaöğretim)",
+    "sinifIds": [
+      14
+    ],
+    "dersId": 14,
+    "cover": "https://tymm.meb.gov.tr/assets/img/peygamberimizin-hayati-12sinif-ders-kitabi_20261003_220704_009.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/peygamberimizin-hayati-12sinif-ders-kitabi_20261003_220639_751.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=542",
+    "detail": "https://tymm.meb.gov.tr/kitap/542/peygamberimizin-hayati-12sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 539,
+    "title": "Peygamberimizin Hayatı 9.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "9.Sınıf",
+    "ders": "Peygamberimizin Hayatı Dersi (Ortaöğretim)",
+    "sinifIds": [
+      11
+    ],
+    "dersId": 14,
+    "cover": "https://tymm.meb.gov.tr/assets/img/peygamberimizin-hayati-9sinif-ders-kitabi_20261003_215156_835.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/peygamberimizin-hayati-9sinif-ders-kitabi_20261003_215114_083.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=539",
+    "detail": "https://tymm.meb.gov.tr/kitap/539/peygamberimizin-hayati-9sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 422,
+    "title": "Psikoloji Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "Psikoloji Dersi",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 105,
+    "cover": "https://tymm.meb.gov.tr/assets/img/psikoloji-ders-kitabi_20260908_182957_733.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/psikoloji-ders-kitabi_20260930_140631_850.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=422",
+    "detail": "https://tymm.meb.gov.tr/kitap/422/psikoloji-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 423,
+    "title": "Sağlık Bilgisi Ve Trafik Kültürü Dersi",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "Sağlık Bilgisi ve Trafik Kültürü Dersi",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 113,
+    "cover": "https://tymm.meb.gov.tr/assets/img/saglik-bilgisi-ve-trafik-kulturu-dersi_20260908_183533_064.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/saglik-bilgisi-ve-trafik-kulturu-dersi_20260930_134542_199.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=423",
+    "detail": "https://tymm.meb.gov.tr/kitap/423/saglik-bilgisi-ve-trafik-kulturu-dersi",
+    "qaCount": 0
+  },
+  {
+    "id": 425,
+    "title": "Sosyal Bilim Çalışmaları Dersi-II",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "Sosyal Bilim Çalışmaları Dersi",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 106,
+    "cover": "https://tymm.meb.gov.tr/assets/img/sosyal-bilim-calismalari-dersi-ii_20260908_184041_835.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/sosyal-bilim-calismalari-dersi-ii_20260930_130121_816.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=425",
+    "detail": "https://tymm.meb.gov.tr/kitap/425/sosyal-bilim-calismalari-dersi-ii",
+    "qaCount": 0
+  },
+  {
+    "id": 426,
+    "title": "Sosyal Bilim Çalışmaları Dersi-III",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "Sosyal Bilim Çalışmaları Dersi",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 106,
+    "cover": "https://tymm.meb.gov.tr/assets/img/sosyal-bilim-calismalari-dersi-iii_20260908_184145_151.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/sosyal-bilim-calismalari-dersi-iii_20260930_110045_088.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=426",
+    "detail": "https://tymm.meb.gov.tr/kitap/426/sosyal-bilim-calismalari-dersi-iii",
+    "qaCount": 0
+  },
+  {
+    "id": 424,
+    "title": "Sosyal Bilim Çalışmaları Dersi-ı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "Sosyal Bilim Çalışmaları Dersi",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 106,
+    "cover": "https://tymm.meb.gov.tr/assets/img/sosyal-bilim-calismalari-dersi-i_20260908_183927_059.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/sosyal-bilim-calismalari-dersi-i_20260930_131923_996.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=424",
+    "detail": "https://tymm.meb.gov.tr/kitap/424/sosyal-bilim-calismalari-dersi-i",
+    "qaCount": 0
+  },
+  {
+    "id": 427,
+    "title": "Sosyoloji 1 Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "Sosyoloji Dersi",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 107,
+    "cover": "https://tymm.meb.gov.tr/assets/img/sosyoloji-1-ders-kitabi_20260908_184559_747.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/sosyoloji-1-ders-kitabi_20260930_104131_724.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=427",
+    "detail": "https://tymm.meb.gov.tr/kitap/427/sosyoloji-1-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 62,
+    "title": "Student's Book Uptone Prep Year Volume 1",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "Hazırlık",
+    "ders": "İngilizce Dersi (Hazırlık-12)",
+    "sinifIds": [
+      10
+    ],
+    "dersId": 27,
+    "cover": "https://tymm.meb.gov.tr/assets/img/studentsbook-prep-year-vol1.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/studentsbook-prep-year-vol1.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/62/students-book-uptone-prep-year-volume-1",
+    "qaCount": 0
+  },
+  {
+    "id": 65,
+    "title": "Student's Book Uptone Prep Year Volume 2",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "Hazırlık",
+    "ders": "İngilizce Dersi (Hazırlık-12)",
+    "sinifIds": [
+      10
+    ],
+    "dersId": 27,
+    "cover": "https://tymm.meb.gov.tr/assets/img/studentsbook-prep-year-vol2.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/studentsbook-prep-year-vol2.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/65/students-book-uptone-prep-year-volume-2",
+    "qaCount": 0
+  },
+  {
+    "id": 77,
+    "title": "Tarih 10.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "10.Sınıf",
+    "ders": "Tarih Dersi",
+    "sinifIds": [
+      12
+    ],
+    "dersId": 24,
+    "cover": "https://tymm.meb.gov.tr/assets/img/tarih-10sinif-ders-kitabi_20260908_185021_146.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/tarih-10sinif-ders-kitabi_20261013_153142_277.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=77",
+    "detail": "https://tymm.meb.gov.tr/kitap/77/tarih-10sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 428,
+    "title": "Tarih 11.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "11.Sınıf",
+    "ders": "Tarih Dersi",
+    "sinifIds": [
+      13
+    ],
+    "dersId": 24,
+    "cover": "https://tymm.meb.gov.tr/assets/img/tarih-11sinif-ders-kitabi_20260908_185409_779.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/tarih-11sinif-ders-kitabi_20260908_185409_780.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=428",
+    "detail": "https://tymm.meb.gov.tr/kitap/428/tarih-11sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 43,
+    "title": "Tarih 9.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "9.Sınıf",
+    "ders": "Tarih Dersi",
+    "sinifIds": [
+      11
+    ],
+    "dersId": 24,
+    "cover": "https://tymm.meb.gov.tr/assets/img/tarih-9sinif-ders-kitabi_20260908_184825_403.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/tarih-9sinif-ders-kitabi_20261006_121514_240.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=43",
+    "detail": "https://tymm.meb.gov.tr/kitap/43/tarih-9sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 63,
+    "title": "Teacher's Book Uptone Prep Year Volume 1",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "Hazırlık",
+    "ders": "İngilizce Dersi (Hazırlık-12)",
+    "sinifIds": [
+      10
+    ],
+    "dersId": 27,
+    "cover": "https://tymm.meb.gov.tr/assets/img/teachersbook-prep-year-vol1.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/teachersbook-prep-year-vol1.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/63/teachers-book-uptone-prep-year-volume-1",
+    "qaCount": 0
+  },
+  {
+    "id": 66,
+    "title": "Teacher's Book Uptone Prep Year Volume 2",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "Hazırlık",
+    "ders": "İngilizce Dersi (Hazırlık-12)",
+    "sinifIds": [
+      10
+    ],
+    "dersId": 27,
+    "cover": "https://tymm.meb.gov.tr/assets/img/teachersbook-prep-year-vol2.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/teachersbook-prep-year-vol2.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/66/teachers-book-uptone-prep-year-volume-2",
+    "qaCount": 0
+  },
+  {
+    "id": 531,
+    "title": "Temel Dinî Bilgiler Ders Kitabı (İslam 1)",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "Temel Dinî Bilgiler Dersi (Ortaöğretim)",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 153,
+    "cover": "https://tymm.meb.gov.tr/assets/img/temel-dini-bilgiler-ders-kitabi-islam-1_20261003_211126_069.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/temel-dini-bilgiler-ders-kitabi-islam-1_20261003_211103_514.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=531",
+    "detail": "https://tymm.meb.gov.tr/kitap/531/temel-dini-bilgiler-ders-kitabi-islam-1",
+    "qaCount": 0
+  },
+  {
+    "id": 532,
+    "title": "Temel Dinî Bilgiler Ders Kitabı (İslam 2)",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "Temel Dinî Bilgiler Dersi (Ortaöğretim)",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 153,
+    "cover": "https://tymm.meb.gov.tr/assets/img/temel-dini-bilgiler-ders-kitabi-islam-2_20261003_211416_371.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/temel-dini-bilgiler-ders-kitabi-islam-2_20261003_211334_008.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=532",
+    "detail": "https://tymm.meb.gov.tr/kitap/532/temel-dini-bilgiler-ders-kitabi-islam-2",
+    "qaCount": 0
+  },
+  {
+    "id": 429,
+    "title": "Temel Matematik 11.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "11.Sınıf",
+    "ders": "Temel Matematik Dersi",
+    "sinifIds": [
+      13
+    ],
+    "dersId": 112,
+    "cover": "https://tymm.meb.gov.tr/assets/img/temel-matematik-11sinif-ders-kitabi_20260908_185752_993.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/temel-matematik-11sinif-ders-kitabi_20260930_093904_083.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=429",
+    "detail": "https://tymm.meb.gov.tr/kitap/429/temel-matematik-11sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 78,
+    "title": "Türk Dili Ve Edebiyatı 10.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "10.Sınıf",
+    "ders": "Türk Dili Ve Edebiyatı Dersi",
+    "sinifIds": [
+      12
+    ],
+    "dersId": 17,
+    "cover": "https://tymm.meb.gov.tr/assets/img/turk-dili-ve-edebiyati-10sinif-ders-kitabi_20260908_190036_827.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/turk-dili-ve-edebiyati-10sinif-ders-kitabi_20261013_143136_171.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=78",
+    "detail": "https://tymm.meb.gov.tr/kitap/78/turk-dili-ve-edebiyati-10sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 430,
+    "title": "Türk Dili Ve Edebiyatı 11.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "11.Sınıf",
+    "ders": "Türk Dili Ve Edebiyatı Dersi",
+    "sinifIds": [
+      13
+    ],
+    "dersId": 17,
+    "cover": "https://tymm.meb.gov.tr/assets/img/turk-dili-ve-edebiyati-11sinif-ders-kitabi_20260908_190220_499.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/turk-dili-ve-edebiyati-11sinif-ders-kitabi_20260930_091040_422.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=430",
+    "detail": "https://tymm.meb.gov.tr/kitap/430/turk-dili-ve-edebiyati-11sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 45,
+    "title": "Türk Dili Ve Edebiyatı 9.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "9.Sınıf",
+    "ders": "Türk Dili Ve Edebiyatı Dersi",
+    "sinifIds": [
+      11
+    ],
+    "dersId": 17,
+    "cover": "https://tymm.meb.gov.tr/assets/img/turk-dili-ve-edebiyati-9sinif-ders-kitabi_20260908_185914_237.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/turk-dili-ve-edebiyati-9sinif-ders-kitabi_20261006_100252_162.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=45",
+    "detail": "https://tymm.meb.gov.tr/kitap/45/turk-dili-ve-edebiyati-9sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 44,
+    "title": "Türk Dili Ve Edebiyatı Hazırlık Sınıfı Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "Hazırlık",
+    "ders": "Türk Dili Ve Edebiyatı Dersi",
+    "sinifIds": [
+      10
+    ],
+    "dersId": 17,
+    "cover": "https://tymm.meb.gov.tr/assets/img/turk-dili-ve-edebiyati-hazirlik-sinifi-ders-kitabi_20260908_185533_950.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/turk-dili-ve-edebiyati-hazirlik-sinifi-ders-kitabi_20261006_111517_150.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=44",
+    "detail": "https://tymm.meb.gov.tr/kitap/44/turk-dili-ve-edebiyati-hazirlik-sinifi-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 431,
+    "title": "Türk Kültür Ve Medeniyet Tarihi Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "Türk Kültür ve Medeniyet Tarihi Dersi",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 110,
+    "cover": "https://tymm.meb.gov.tr/assets/img/turk-kultur-ve-medeniyet-tarihi-ders-kitabi_20260908_190419_869.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/turk-kultur-ve-medeniyet-tarihi-ders-kitabi_20260908_190419_870.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=431",
+    "detail": "https://tymm.meb.gov.tr/kitap/431/turk-kultur-ve-medeniyet-tarihi-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 64,
+    "title": "Workbook Uptone Prep Year Volume 1",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "Hazırlık",
+    "ders": "İngilizce Dersi (Hazırlık-12)",
+    "sinifIds": [
+      10
+    ],
+    "dersId": 27,
+    "cover": "https://tymm.meb.gov.tr/assets/img/workbook-prep-year-vol1.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/workbook-prep-year-vol1.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/64/workbook-uptone-prep-year-volume-1",
+    "qaCount": 0
+  },
+  {
+    "id": 67,
+    "title": "Workbook Uptone Prep Year Volume 2",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "Hazırlık",
+    "ders": "İngilizce Dersi (Hazırlık-12)",
+    "sinifIds": [
+      10
+    ],
+    "dersId": 27,
+    "cover": "https://tymm.meb.gov.tr/assets/img/workbook-prep-year-vol2.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/workbook-prep-year-vol2.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/67/workbook-uptone-prep-year-volume-2",
+    "qaCount": 0
+  },
+  {
+    "id": 411,
+    "title": "İklim, Çevre Ve Yenilikçi Çözümler Dersi Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "İklim, Çevre ve Yenilikçi Çözümler Dersi",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 103,
+    "cover": "https://tymm.meb.gov.tr/assets/img/iklim-cevre-ve-yenilikci-cozumler-dersi-kitabi_20260907_235624_159.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/iklim-cevre-ve-yenilikci-cozumler-dersi-kitabi_20261001_113437_499.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=411",
+    "detail": "https://tymm.meb.gov.tr/kitap/411/iklim-cevre-ve-yenilikci-cozumler-dersi-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 412,
+    "title": "İngilizce Dersi 10.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "10.Sınıf",
+    "ders": "İngilizce Dersi (9-12)",
+    "sinifIds": [
+      12
+    ],
+    "dersId": 39,
+    "cover": "https://tymm.meb.gov.tr/assets/img/ingilizce-dersi-10sinif-ders-kitabi_20260908_001009_015.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/ingilizce-dersi-10sinif-ders-kitabi_20261001_100339_692.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=412",
+    "detail": "https://tymm.meb.gov.tr/kitap/412/ingilizce-dersi-10sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 414,
+    "title": "İngilizce Dersi 10.Sınıf Çalışma Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "10.Sınıf",
+    "ders": "İngilizce Dersi (9-12)",
+    "sinifIds": [
+      12
+    ],
+    "dersId": 39,
+    "cover": "https://tymm.meb.gov.tr/assets/img/ingilizce-dersi-10sinif-calisma-kitabi_20260908_001356_428.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/ingilizce-dersi-10sinif-calisma-kitabi_20261001_062822_651.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=414",
+    "detail": "https://tymm.meb.gov.tr/kitap/414/ingilizce-dersi-10sinif-calisma-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 413,
+    "title": "İngilizce Dersi 10.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "10.Sınıf",
+    "ders": "İngilizce Dersi (9-12)",
+    "sinifIds": [
+      12
+    ],
+    "dersId": 39,
+    "cover": "https://tymm.meb.gov.tr/assets/img/ingilizce-dersi-10sinif-ogretmen-kilavuz-kitabi_20260908_001159_599.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/ingilizce-dersi-10sinif-ogretmen-kilavuz-kitabi_20261001_071621_485.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=413",
+    "detail": "https://tymm.meb.gov.tr/kitap/413/ingilizce-dersi-10sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 68,
+    "title": "İngilizce Dersi 9.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "9.Sınıf",
+    "ders": "İngilizce Dersi (9-12)",
+    "sinifIds": [
+      11
+    ],
+    "dersId": 39,
+    "cover": "https://tymm.meb.gov.tr/assets/img/ingilizce-dersi-9sinif-ders-kitabi_20260907_235903_411.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/ingilizce-dersi-9-sinif-ders-kitabi.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/68/ingilizce-dersi-9sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 408,
+    "title": "İngilizce Dersi 9.Sınıf Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "9.Sınıf",
+    "ders": "İngilizce Dersi (Hazırlık-12)",
+    "sinifIds": [
+      11
+    ],
+    "dersId": 27,
+    "cover": "https://tymm.meb.gov.tr/assets/img/ingilizce-dersi-9sinif-ders-kitabi_20260907_212105_549.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/ingilizce-dersi-9sinif-ders-kitabi_20261001_182308_053.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=408",
+    "detail": "https://tymm.meb.gov.tr/kitap/408/ingilizce-dersi-9sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 70,
+    "title": "İngilizce Dersi 9.Sınıf Çalışma Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "9.Sınıf",
+    "ders": "İngilizce Dersi (9-12)",
+    "sinifIds": [
+      11
+    ],
+    "dersId": 39,
+    "cover": "https://tymm.meb.gov.tr/assets/img/waymark-year-9-b1.1-calisma-kitabi.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/ingilizce-dersi-9sinif-calisma-kitabi_20261013_172611_034.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=70",
+    "detail": "https://tymm.meb.gov.tr/kitap/70/ingilizce-dersi-9sinif-calisma-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 409,
+    "title": "İngilizce Dersi 9.Sınıf Çalışma Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "9.Sınıf",
+    "ders": "İngilizce Dersi (Hazırlık-12)",
+    "sinifIds": [
+      11
+    ],
+    "dersId": 27,
+    "cover": "https://tymm.meb.gov.tr/assets/img/ingilizce-dersi-9sinif-calisma-kitabi_20260907_212213_547.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/ingilizce-dersi-9sinif-calisma-kitabi_20261001_175917_443.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=409",
+    "detail": "https://tymm.meb.gov.tr/kitap/409/ingilizce-dersi-9sinif-calisma-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 410,
+    "title": "İngilizce Dersi 9.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "9.Sınıf",
+    "ders": "İngilizce Dersi (Hazırlık-12)",
+    "sinifIds": [
+      11
+    ],
+    "dersId": 27,
+    "cover": "https://tymm.meb.gov.tr/assets/img/ingilizce-dersi-9sinif-ogretmen-kilavuz-kitabi_20260907_212337_176.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/ingilizce-dersi-9sinif-ogretmen-kilavuz-kitabi_20261001_174723_247.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=410",
+    "detail": "https://tymm.meb.gov.tr/kitap/410/ingilizce-dersi-9sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 69,
+    "title": "İngilizce Dersi 9.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "9.Sınıf",
+    "ders": "İngilizce Dersi (9-12)",
+    "sinifIds": [
+      11
+    ],
+    "dersId": 39,
+    "cover": "https://tymm.meb.gov.tr/assets/img/ingilizce-dersi-9sinif-ogretmen-kilavuz-kitabi_20260908_000134_828.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/ingilizce-dersi-9sinif-ogretmen-kilavuz-kitabi_20261013_174157_354.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=69",
+    "detail": "https://tymm.meb.gov.tr/kitap/69/ingilizce-dersi-9sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 415,
+    "title": "İslam Bilim Tarihi Ders Kitabı",
+    "kademe": "Ortaöğretim",
+    "kademeId": 3,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "İslam Bilim Tarihi Dersi",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 108,
+    "cover": "https://tymm.meb.gov.tr/assets/img/islam-bilim-tarihi-ders-kitabi_20260908_105137_234.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/islam-bilim-tarihi-ders-kitabi_20260930_231138_658.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=415",
+    "detail": "https://tymm.meb.gov.tr/kitap/415/islam-bilim-tarihi-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 470,
+    "title": "Akaid 11.Sınıf Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "11.Sınıf",
+    "ders": "Akaid Dersi",
+    "sinifIds": [
+      13
+    ],
+    "dersId": 121,
+    "cover": "https://tymm.meb.gov.tr/assets/img/akaid-ders-kitabi_20261001_194916_654.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/akaid-ders-kitabi_20261001_194910_541.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=470",
+    "detail": "https://tymm.meb.gov.tr/kitap/470/akaid-11sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 473,
+    "title": "Din Eğitimi Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "Din Eğitimi Dersi",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 123,
+    "cover": "https://tymm.meb.gov.tr/assets/img/din-egitimi-ders-kitabi_20261002_113131_193.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/din-egitimi-ders-kitabi_20261002_113128_935.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=473",
+    "detail": "https://tymm.meb.gov.tr/kitap/473/din-egitimi-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 475,
+    "title": "Dinler Tarihi 12.Sınıf Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "12.Sınıf",
+    "ders": "Dinler Tarihi Dersi",
+    "sinifIds": [
+      14
+    ],
+    "dersId": 125,
+    "cover": "https://tymm.meb.gov.tr/assets/img/dinler-tarihi-ders-kitabi_20261002_114749_617.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/dinler-tarihi-ders-kitabi_20261002_114740_854.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/475/dinler-tarihi-12sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 474,
+    "title": "Dinî Musiki I Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "Dinî Musiki Dersi",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 124,
+    "cover": "https://tymm.meb.gov.tr/assets/img/dini-musiki-i-ders-kitabi_20261002_114123_856.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/dini-musiki-i-ders-kitabi_20261002_114119_073.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/474/dini-musiki-i-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 476,
+    "title": "Ebru I Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "Ebru Dersi",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 126,
+    "cover": "https://tymm.meb.gov.tr/assets/img/ebru-i-ders-kitabi_20261002_115651_592.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/ebru-i-ders-kitabi_20261002_115647_184.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/476/ebru-i-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 477,
+    "title": "Fıkıh 10.Sınıf Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "10.Sınıf",
+    "ders": "Fıkıh Dersi",
+    "sinifIds": [
+      12
+    ],
+    "dersId": 127,
+    "cover": "https://tymm.meb.gov.tr/assets/img/fikih-ders-kitabi_20261002_120149_064.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/fikih-ders-kitabi_20261002_120141_315.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/477/fikih-10sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 478,
+    "title": "Fıkıh Okumaları Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "Fıkıh Okumaları Dersi",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 128,
+    "cover": "https://tymm.meb.gov.tr/assets/img/fikih-okumalari-ders-kitabi_20261002_120835_413.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/fikih-okumalari-ders-kitabi_20261002_120827_958.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/478/fikih-okumalari-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 480,
+    "title": "Hadis 10.Sınıf Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "10.Sınıf",
+    "ders": "Hadis Dersi",
+    "sinifIds": [
+      12
+    ],
+    "dersId": 130,
+    "cover": "https://tymm.meb.gov.tr/assets/img/hadis-10sinif-ders-kitabi_20261002_122027_392.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/hadis-10sinif-ders-kitabi_20261002_122002_014.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/480/hadis-10sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 479,
+    "title": "Hadis Metinleri Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "Hadis Metinleri Dersi",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 129,
+    "cover": "https://tymm.meb.gov.tr/assets/img/hadis-metinleri-ders-kitabi_20261002_121320_673.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/hadis-metinleri-ders-kitabi_20261002_121256_751.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/479/hadis-metinleri-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 481,
+    "title": "Hitabet Ve Mesleki Uygulama 11.Sınıf Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "11.Sınıf",
+    "ders": "Hitabet ve Mesleki Uygulama Dersi",
+    "sinifIds": [
+      13
+    ],
+    "dersId": 131,
+    "cover": "https://tymm.meb.gov.tr/assets/img/hitabet-ve-mesleki-uygulama-11sinif-ders-kitabi_20261002_122625_819.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/hitabet-ve-mesleki-uygulama-11sinif-ders-kitabi_20261002_122621_413.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=481",
+    "detail": "https://tymm.meb.gov.tr/kitap/481/hitabet-ve-mesleki-uygulama-11sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 482,
+    "title": "Hüsnühat I Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "Hüsnühat Dersi",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 132,
+    "cover": "https://tymm.meb.gov.tr/assets/img/husnuhat-i-ders-kitabi_20261002_123317_707.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/husnuhat-i-ders-kitabi_20261002_123312_246.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=482",
+    "detail": "https://tymm.meb.gov.tr/kitap/482/husnuhat-i-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 488,
+    "title": "Kelam Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "12.Sınıf",
+    "ders": "Kelam Dersi",
+    "sinifIds": [
+      14
+    ],
+    "dersId": 138,
+    "cover": "https://tymm.meb.gov.tr/assets/img/kelam-ders-kitabi_20261003_083750_275.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/kelam-ders-kitabi_20261003_083730_101.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/488/kelam-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 492,
+    "title": "Kur'an'ın Ana Konuları-ı Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "Kur'an'ın Ana Konuları Dersi",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 139,
+    "cover": "https://tymm.meb.gov.tr/assets/img/kuranin-ana-konulari-i-ders-kitabi_20261003_091057_722.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/kuranin-ana-konulari-i-ders-kitabi_20261003_091055_042.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/492/kuranin-ana-konulari-i-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 491,
+    "title": "Kur'an-ı Kerim 10.Sınıf Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "10.Sınıf",
+    "ders": "Kur'an-ı Kerim Dersi (AİHL)",
+    "sinifIds": [
+      12
+    ],
+    "dersId": 15,
+    "cover": "https://tymm.meb.gov.tr/assets/img/kuran-i-kerim-10sinif-ders-kitabi_20261003_085733_531.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/kuran-i-kerim-10sinif-ders-kitabi_20261003_085703_158.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/491/kuran-i-kerim-10sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 489,
+    "title": "Kur'an-ı Kerim 9.Sınıf Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "9.Sınıf",
+    "ders": "Kur'an-ı Kerim Dersi (AİHL)",
+    "sinifIds": [
+      11
+    ],
+    "dersId": 15,
+    "cover": "https://tymm.meb.gov.tr/assets/img/kuran-i-kerim-9sinif-ders-kitabi_20261003_084531_006.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/kuran-i-kerim-9sinif-ders-kitabi_20261003_084522_474.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/489/kuran-i-kerim-9sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 490,
+    "title": "Kur'an-ı Kerim Hazırlık Sınıfı Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "Hazırlık",
+    "ders": "Kur'an-ı Kerim Dersi (AİHL)",
+    "sinifIds": [
+      10
+    ],
+    "dersId": 15,
+    "cover": "https://tymm.meb.gov.tr/assets/img/kuran-i-kerim-hazirlik-sinifi-ders-kitabi_20261003_084919_509.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/kuran-i-kerim-hazirlik-sinifi-ders-kitabi_20261003_084911_689.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/490/kuran-i-kerim-hazirlik-sinifi-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 495,
+    "title": "Mesleki Uygulama Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "Mesleki Uygulama Dersi",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 141,
+    "cover": "https://tymm.meb.gov.tr/assets/img/mesleki-uygulama-ders-kitabi_20261003_101618_312.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/mesleki-uygulama-ders-kitabi_20261003_101553_249.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/495/mesleki-uygulama-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 497,
+    "title": "Siyer 10.Sınıf Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "10.Sınıf",
+    "ders": "Siyer Dersi",
+    "sinifIds": [
+      12
+    ],
+    "dersId": 143,
+    "cover": "https://tymm.meb.gov.tr/assets/img/siyer-10sinif-ders-kitabi_20261003_103234_623.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/siyer-10sinif-ders-kitabi_20261003_103232_646.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/497/siyer-10sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 498,
+    "title": "Tasavvuf Kültürü Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "Tasavvuf Kültürü Dersi",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 144,
+    "cover": "https://tymm.meb.gov.tr/assets/img/tasavvuf-kulturu-ders-kitabi_20261003_103747_591.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/tasavvuf-kulturu-ders-kitabi_20261003_103745_869.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/498/tasavvuf-kulturu-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 500,
+    "title": "Tefsir 11.Sınıf Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "11.Sınıf",
+    "ders": "Tefsir Dersi",
+    "sinifIds": [
+      13
+    ],
+    "dersId": 146,
+    "cover": "https://tymm.meb.gov.tr/assets/img/tefsir-11sinif-ders-kitabi_20261003_105337_461.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/tefsir-11sinif-ders-kitabi_20261003_105255_250.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/500/tefsir-11sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 501,
+    "title": "Tefsir Okumaları Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "Tefsir Okumaları Dersi",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 147,
+    "cover": "https://tymm.meb.gov.tr/assets/img/tefsir-okumalari-ders-kitabi_20261003_110618_918.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/tefsir-okumalari-ders-kitabi_20261003_110552_470.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/501/tefsir-okumalari-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 499,
+    "title": "Temel Dinî Bilgiler 9.Sınıf Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "9.Sınıf",
+    "ders": "Temel Dinî Bilgiler Dersi (AİHL)",
+    "sinifIds": [
+      11
+    ],
+    "dersId": 145,
+    "cover": "https://tymm.meb.gov.tr/assets/img/temel-dini-bilgiler-9sinif-ders-kitabi_20261003_104640_155.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/temel-dini-bilgiler-9sinif-ders-kitabi_20261003_104515_093.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/499/temel-dini-bilgiler-9sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 502,
+    "title": "Tezhip I Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "Tezhip Dersi",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 148,
+    "cover": "https://tymm.meb.gov.tr/assets/img/tezhip-i-ders-kitabi_20261003_143828_788.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/tezhip-ders-kitabi_20261003_143755_832.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/502/tezhip-i-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 483,
+    "title": "İslam Ahlakı Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "İslam Ahlakı Dersi",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 133,
+    "cover": "https://tymm.meb.gov.tr/assets/img/islam-ahlaki-ders-kitabi_20261002_123858_492.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/islam-ahlaki-ders-kitabi_20261002_123821_095.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=483",
+    "detail": "https://tymm.meb.gov.tr/kitap/483/islam-ahlaki-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 484,
+    "title": "İslam Felsefesi 11.Sınıf Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "11.Sınıf",
+    "ders": "İslam Felsefesi Dersi",
+    "sinifIds": [
+      13
+    ],
+    "dersId": 134,
+    "cover": "https://tymm.meb.gov.tr/assets/img/islam-felsefesi-11sinif-ders-kitabi_20261003_081652_362.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/islam-felsefesi-11sinif-ders-kitabi_20261003_081549_442.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/484/islam-felsefesi-11sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 485,
+    "title": "İslam Kültür Ve Medeniyeti 12.Sınıf Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "12.Sınıf",
+    "ders": "İslam Kültür ve Medeniyeti Dersi",
+    "sinifIds": [
+      14
+    ],
+    "dersId": 135,
+    "cover": "https://tymm.meb.gov.tr/assets/img/islam-kultur-ve-medeniyeti-12sinif-ders-kitabi_20261003_082326_307.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/islam-kultur-ve-medeniyeti-12sinif-ders-kitabi_20261003_082311_640.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/485/islam-kultur-ve-medeniyeti-12sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 486,
+    "title": "İslam Tarihi Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "İslam Tarihi Dersi",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 136,
+    "cover": "https://tymm.meb.gov.tr/assets/img/islam-tarihi-ders-kitabi_20261003_082816_548.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/islam-tarihi-ders-kitabi_20261003_082801_652.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/486/islam-tarihi-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 487,
+    "title": "İslam'da Çocuk Eğitimi Ders Kitabı",
+    "kademe": "Anadolu İmam Hatip Liseleri",
+    "kademeId": 6,
+    "sinif": "Ortaöğretim Seçmeli Dersler",
+    "ders": "İslam'da Çocuk Eğitimi",
+    "sinifIds": [
+      17
+    ],
+    "dersId": 137,
+    "cover": "https://tymm.meb.gov.tr/assets/img/islamda-cocuk-egitimi-ders-kitabi_20261003_083342_137.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/islamda-cocuk-egitimi-ders-kitabi_20261003_083315_426.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/487/islamda-cocuk-egitimi-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 181,
+    "title": "Beden Eğitimi Ve Sporun Temelleri 5.Sınıf Ders Kitabı",
+    "kademe": "Spor Ortaokulları",
+    "kademeId": 9,
+    "sinif": "5.Sınıf",
+    "ders": "Beden Eğitimi ve Sporun Temelleri Dersi",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 45,
+    "cover": "https://tymm.meb.gov.tr/assets/img/beden-sporun-temelleri-ders-kitabi-5.webp",
+    "pdf": "https://meb.ai/UGgCR0d",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/181/beden-egitimi-ve-sporun-temelleri-5sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 182,
+    "title": "Beden Eğitimi Ve Sporun Temelleri 6.Sınıf Ders Kitabı",
+    "kademe": "Spor Ortaokulları",
+    "kademeId": 9,
+    "sinif": "6.Sınıf",
+    "ders": "Beden Eğitimi ve Sporun Temelleri Dersi",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 45,
+    "cover": "https://tymm.meb.gov.tr/assets/img/beden-sporun-temelleri-ders-kitabi-6.webp",
+    "pdf": "https://meb.ai/Uluv4Lv",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/182/beden-egitimi-ve-sporun-temelleri-6sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 321,
+    "title": "Beden Eğitimi Ve Sporun Temelleri 7.Sınıf Ders Kitabı",
+    "kademe": "Spor Ortaokulları",
+    "kademeId": 9,
+    "sinif": "7.Sınıf",
+    "ders": "Beden Eğitimi ve Sporun Temelleri Dersi",
+    "sinifIds": [
+      8
+    ],
+    "dersId": 45,
+    "cover": "https://tymm.meb.gov.tr/assets/img/beden-egitimi-ve-sporun-temelleri-7sinif-ders-kitabi_20260905_231504_079.webp",
+    "pdf": "https://meb.ai/36Ns2I",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/321/beden-egitimi-ve-sporun-temelleri-7sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 185,
+    "title": "Kapsamlı Spor Eğitimi 5.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Spor Ortaokulları",
+    "kademeId": 9,
+    "sinif": "5.Sınıf",
+    "ders": "Kapsamlı Spor Eğitimi Dersi",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 42,
+    "cover": "https://tymm.meb.gov.tr/assets/img/kapsamli-spor-egitimi-5-kilavuz-kitap.webp",
+    "pdf": "https://meb.ai/zHzwWk",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/185/kapsamli-spor-egitimi-5sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 186,
+    "title": "Kapsamlı Spor Eğitimi 6.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Spor Ortaokulları",
+    "kademeId": 9,
+    "sinif": "6.Sınıf",
+    "ders": "Kapsamlı Spor Eğitimi Dersi",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 42,
+    "cover": "https://tymm.meb.gov.tr/assets/img/kapsamli-spor-egitimi-6-kilavuz-kitap.webp",
+    "pdf": "https://meb.ai/lB4XKY",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/186/kapsamli-spor-egitimi-6sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 323,
+    "title": "Kapsamlı Spor Eğitimi 7.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Spor Ortaokulları",
+    "kademeId": 9,
+    "sinif": "7.Sınıf",
+    "ders": "Kapsamlı Spor Eğitimi Dersi",
+    "sinifIds": [
+      8
+    ],
+    "dersId": 42,
+    "cover": "https://tymm.meb.gov.tr/assets/img/kapsamli-spor-egitimi-7sinif-ogretmen-kilavuz-kitabi_20260906_013008_471.webp",
+    "pdf": "https://meb.ai/XWIEvC",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/323/kapsamli-spor-egitimi-7sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 187,
+    "title": "Oyun Ve Taktiksel Farkındalık 5.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Spor Ortaokulları",
+    "kademeId": 9,
+    "sinif": "5.Sınıf",
+    "ders": "Oyun ve Taktiksel Farkındalık Dersi",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 43,
+    "cover": "https://tymm.meb.gov.tr/assets/img/oyun-ve-taktiksel-farkindalik-5-kilavuz.webp",
+    "pdf": "https://meb.ai/UWrNygt",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/187/oyun-ve-taktiksel-farkindalik-5sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 188,
+    "title": "Oyun Ve Taktiksel Farkındalık 6.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Spor Ortaokulları",
+    "kademeId": 9,
+    "sinif": "6.Sınıf",
+    "ders": "Oyun ve Taktiksel Farkındalık Dersi",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 43,
+    "cover": "https://tymm.meb.gov.tr/assets/img/oyun-ve-taktiksel-farkindalik-6-kilavuz.webp",
+    "pdf": "https://meb.ai/I3Hxfz",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/188/oyun-ve-taktiksel-farkindalik-6sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 324,
+    "title": "Oyun Ve Taktiksel Farkındalık 7.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Spor Ortaokulları",
+    "kademeId": 9,
+    "sinif": "7.Sınıf",
+    "ders": "Oyun ve Taktiksel Farkındalık Dersi",
+    "sinifIds": [
+      8
+    ],
+    "dersId": 43,
+    "cover": "https://tymm.meb.gov.tr/assets/img/oyun-ve-taktiksel-farkindalik-7sinif-ogretmen-kilavuz-kitabi_20260906_013155_799.webp",
+    "pdf": "https://meb.ai/UKTXHe2",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/324/oyun-ve-taktiksel-farkindalik-7sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 189,
+    "title": "Ritim Eğitimi Ve Halk Oyunları 5.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Spor Ortaokulları",
+    "kademeId": 9,
+    "sinif": "5.Sınıf",
+    "ders": "Ritim Eğitimi ve Halk Oyunları Dersi",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 41,
+    "cover": "https://tymm.meb.gov.tr/assets/img/ritim-egitimi-halk-oyunlari-5-kilavuz.webp",
+    "pdf": "https://meb.ai/UMgTB2Y",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/189/ritim-egitimi-ve-halk-oyunlari-5sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 190,
+    "title": "Ritim Eğitimi Ve Halk Oyunları 6.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Spor Ortaokulları",
+    "kademeId": 9,
+    "sinif": "6.Sınıf",
+    "ders": "Ritim Eğitimi ve Halk Oyunları Dersi",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 41,
+    "cover": "https://tymm.meb.gov.tr/assets/img/ritim-egitimi-halk-oyunlari-6-kilavuz.webp",
+    "pdf": "https://meb.ai/UlIqN8C",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/190/ritim-egitimi-ve-halk-oyunlari-6sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 325,
+    "title": "Ritim Eğitimi Ve Halk Oyunları 7.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Spor Ortaokulları",
+    "kademeId": 9,
+    "sinif": "7.Sınıf",
+    "ders": "Ritim Eğitimi ve Halk Oyunları Dersi",
+    "sinifIds": [
+      8
+    ],
+    "dersId": 41,
+    "cover": "https://tymm.meb.gov.tr/assets/img/ritim-egitimi-ve-halk-oyunlari-7sinif-ogretmen-kilavuz-kitabi_20260906_013325_602.webp",
+    "pdf": "https://meb.ai/o6mpo8",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/325/ritim-egitimi-ve-halk-oyunlari-7sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 183,
+    "title": "Çocuklarda Atletik Performans Uygulamaları 5.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Spor Ortaokulları",
+    "kademeId": 9,
+    "sinif": "5.Sınıf",
+    "ders": "Çocuklarda Atletik Performans Uygulamaları Dersi",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 44,
+    "cover": "https://tymm.meb.gov.tr/assets/img/cocuklarda-atletik-per-uyg-5-kilavuz.webp",
+    "pdf": "https://meb.ai/BUHmSJ",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/183/cocuklarda-atletik-performans-uygulamalari-5sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 184,
+    "title": "Çocuklarda Atletik Performans Uygulamaları 6.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Spor Ortaokulları",
+    "kademeId": 9,
+    "sinif": "6.Sınıf",
+    "ders": "Çocuklarda Atletik Performans Uygulamaları Dersi",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 44,
+    "cover": "https://tymm.meb.gov.tr/assets/img/cocuklarda-atletik-per-uyg-6-kilavuz.webp",
+    "pdf": "https://meb.ai/UMCmlfi",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/184/cocuklarda-atletik-performans-uygulamalari-6sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 322,
+    "title": "Çocuklarda Atletik Performans Uygulamaları 7.Sınıf Öğretmen Kılavuz Kitabı",
+    "kademe": "Spor Ortaokulları",
+    "kademeId": 9,
+    "sinif": "7.Sınıf",
+    "ders": "Çocuklarda Atletik Performans Uygulamaları Dersi",
+    "sinifIds": [
+      8
+    ],
+    "dersId": 44,
+    "cover": "https://tymm.meb.gov.tr/assets/img/cocuklarda-atletik-performans-uygulamalari-7sinif-ogretmen-kilavuz-kit_20260906_012811_714.webp",
+    "pdf": "https://meb.ai/UVm35ae",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/322/cocuklarda-atletik-performans-uygulamalari-7sinif-ogretmen-kilavuz-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 202,
+    "title": "Beden Eğitimi Oyun Ve Müzik 1.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "1.Sınıf",
+    "ders": "Beden Eğitimi, Oyun ve Müzik Dersi",
+    "sinifIds": [
+      2
+    ],
+    "dersId": 46,
+    "cover": "https://tymm.meb.gov.tr/assets/img/beden-oyun-muzik-kitabi-1.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/beden-egitimi-oyun-ve-muzik-1sinif-ders-kitabi_20261005_145953_985.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=202",
+    "detail": "https://tymm.meb.gov.tr/kitap/202/beden-egitimi-oyun-ve-muzik-1sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 203,
+    "title": "Beden Eğitimi Oyun Ve Müzik 5.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "5.Sınıf",
+    "ders": "Beden Eğitimi, Oyun ve Müzik Dersi",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 46,
+    "cover": "https://tymm.meb.gov.tr/assets/img/beden-oyun-muzik-kitabi-5.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/beden-egitimi-oyun-ve-muzik-5sinif-ders-kitabi_20261007_110221_814.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=203",
+    "detail": "https://tymm.meb.gov.tr/kitap/203/beden-egitimi-oyun-ve-muzik-5sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 204,
+    "title": "Beden Eğitimi Oyun Ve Müzik 6.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "6.Sınıf",
+    "ders": "Beden Eğitimi, Oyun ve Müzik Dersi",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 46,
+    "cover": "https://tymm.meb.gov.tr/assets/img/beden-oyun-muzik-kitabi-6.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/beden-oyun-muzik-kitabi-6.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/204/beden-egitimi-oyun-ve-muzik-6sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 213,
+    "title": "Beden Eğitimi, Oyun Ve Müzik 2.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "2.Sınıf",
+    "ders": "Beden Eğitimi, Oyun ve Müzik Dersi",
+    "sinifIds": [
+      3
+    ],
+    "dersId": 46,
+    "cover": "https://tymm.meb.gov.tr/assets/img/beden-egitimi-oyun-2-ders.webp",
+    "pdf": "https://meb.ai/2q64Sz",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/213/beden-egitimi-oyun-ve-muzik-2sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 327,
+    "title": "Beden Eğitimi, Oyun Ve Müzik 3.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "3.Sınıf",
+    "ders": "Beden Eğitimi, Oyun ve Müzik Dersi",
+    "sinifIds": [
+      4
+    ],
+    "dersId": 46,
+    "cover": "https://tymm.meb.gov.tr/assets/img/beden-egitimi-oyun-ve-muzik-3sinif-ders-kitabi_20260906_013809_324.webp",
+    "pdf": "https://meb.ai/ICKdxj",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/327/beden-egitimi-oyun-ve-muzik-3sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 309,
+    "title": "Beden Eğitimi, Oyun Ve Müzik 7.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "7.Sınıf",
+    "ders": "Beden Eğitimi, Oyun ve Müzik Dersi",
+    "sinifIds": [
+      8
+    ],
+    "dersId": 46,
+    "cover": "https://tymm.meb.gov.tr/assets/img/beden-egitimi-oyun-ve-muzik-7sinif-ders-kitabi_20260905_220426_946.webp",
+    "pdf": "https://meb.ai/Up9yW87",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/309/beden-egitimi-oyun-ve-muzik-7sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 191,
+    "title": "Bireysel Ses Eğitimi 1.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "1.Sınıf",
+    "ders": "Bireysel Ses Eğitimi Dersi",
+    "sinifIds": [
+      2
+    ],
+    "dersId": 47,
+    "cover": "https://tymm.meb.gov.tr/assets/img/bireysel-ses-egitimi-1.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/bireysel-ses-egitimi-1.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/191/bireysel-ses-egitimi-1sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 192,
+    "title": "Bireysel Ses Eğitimi 2.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "2.Sınıf",
+    "ders": "Bireysel Ses Eğitimi Dersi",
+    "sinifIds": [
+      3
+    ],
+    "dersId": 47,
+    "cover": "https://tymm.meb.gov.tr/assets/img/bireysel-ses-egitimi-2.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/bireysel-ses-egitimi-2.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/192/bireysel-ses-egitimi-2sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 193,
+    "title": "Bireysel Ses Eğitimi 5.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "5.Sınıf",
+    "ders": "Bireysel Ses Eğitimi Dersi",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 47,
+    "cover": "https://tymm.meb.gov.tr/assets/img/bireysel-ses-egitimi-5.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/bireysel-ses-egitimi-5.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/193/bireysel-ses-egitimi-5sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 194,
+    "title": "Bireysel Ses Eğitimi 6.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "6.Sınıf",
+    "ders": "Bireysel Ses Eğitimi Dersi",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 47,
+    "cover": "https://tymm.meb.gov.tr/assets/img/bireysel-ses-egitimi-6.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/bireysel-ses-egitimi-6.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/194/bireysel-ses-egitimi-6sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 310,
+    "title": "Bireysel Ses Eğitimi Dersi 3.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "3.Sınıf",
+    "ders": "Bireysel Ses Eğitimi Dersi",
+    "sinifIds": [
+      4
+    ],
+    "dersId": 47,
+    "cover": "https://tymm.meb.gov.tr/assets/img/bireysel-ses-egitimi-dersi-3sinif-ders-kitabi_20260905_224929_692.webp",
+    "pdf": "https://meb.ai/ULS4h2W",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/310/bireysel-ses-egitimi-dersi-3sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 312,
+    "title": "Bireysel Ses Eğitimi Dersi 7.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "7.Sınıf",
+    "ders": "Bireysel Ses Eğitimi Dersi",
+    "sinifIds": [
+      8
+    ],
+    "dersId": 47,
+    "cover": "https://tymm.meb.gov.tr/assets/img/bireysel-ses-egitimi-dersi-7sinif-ders-kitabi_20260905_225349_877.webp",
+    "pdf": "https://meb.ai/MEXjPX",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/312/bireysel-ses-egitimi-dersi-7sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 195,
+    "title": "Koro Ve Repertuvar 1.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "1.Sınıf",
+    "ders": "Koro ve Repertuvar Dersi",
+    "sinifIds": [
+      2
+    ],
+    "dersId": 52,
+    "cover": "https://tymm.meb.gov.tr/assets/img/koro-repertuvar-1-kitabi.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/koro-repertuvar-1-kitabi.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/195/koro-ve-repertuvar-1sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 196,
+    "title": "Koro Ve Repertuvar 2.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "2.Sınıf",
+    "ders": "Koro ve Repertuvar Dersi",
+    "sinifIds": [
+      3
+    ],
+    "dersId": 52,
+    "cover": "https://tymm.meb.gov.tr/assets/img/koro-repertuvar-2-kitabi.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/koro-repertuvar-2-kitabi.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/196/koro-ve-repertuvar-2sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 314,
+    "title": "Koro Ve Repertuvar 3.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "3.Sınıf",
+    "ders": "Koro ve Repertuvar Dersi",
+    "sinifIds": [
+      4
+    ],
+    "dersId": 52,
+    "cover": "https://tymm.meb.gov.tr/assets/img/koro-ve-repertuvar-3sinif-ders-kitabi_20260905_225843_484.webp",
+    "pdf": "https://meb.ai/VbFjeW",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/314/koro-ve-repertuvar-3sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 197,
+    "title": "Koro Ve Repertuvar 5.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "5.Sınıf",
+    "ders": "Koro ve Repertuvar Dersi",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 52,
+    "cover": "https://tymm.meb.gov.tr/assets/img/koro-repertuvar-5-kitabi.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/koro-repertuvar-5-kitabi.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/197/koro-ve-repertuvar-5sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 198,
+    "title": "Koro Ve Repertuvar 6.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "6.Sınıf",
+    "ders": "Koro ve Repertuvar Dersi",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 52,
+    "cover": "https://tymm.meb.gov.tr/assets/img/koro-repertuvar-6-kitabi.webp",
+    "pdf": "https://meb.ai/UXbeF8V",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/198/koro-ve-repertuvar-6sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 315,
+    "title": "Koro Ve Repertuvar 7.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "7.Sınıf",
+    "ders": "Koro ve Repertuvar Dersi",
+    "sinifIds": [
+      8
+    ],
+    "dersId": 52,
+    "cover": "https://tymm.meb.gov.tr/assets/img/koro-ve-repertuvar-7sinif-ders-kitabi_20260905_230127_522.webp",
+    "pdf": "https://meb.ai/YgLF4Q",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/315/koro-ve-repertuvar-7sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 318,
+    "title": "Müzik Kültürü Dersi 3.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "3.Sınıf",
+    "ders": "Müzik Kültürü Dersi",
+    "sinifIds": [
+      4
+    ],
+    "dersId": 49,
+    "cover": "https://tymm.meb.gov.tr/assets/img/muzik-kulturu-dersi-3sinif-ders-kitabi_20260905_230658_332.webp",
+    "pdf": "https://meb.ai/T11yck",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/318/muzik-kulturu-dersi-3sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 209,
+    "title": "Müzik Tarihi 5.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "5.Sınıf",
+    "ders": "Müzik Tarihi Dersi",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 53,
+    "cover": "https://tymm.meb.gov.tr/assets/img/muzik-tarihi-5-ders-kitabi.webp",
+    "pdf": "https://meb.ai/ULMCLPm",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/209/muzik-tarihi-5sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 210,
+    "title": "Müzik Tarihi 6.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "6.Sınıf",
+    "ders": "Müzik Tarihi Dersi",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 53,
+    "cover": "https://tymm.meb.gov.tr/assets/img/muzik-tarihi-6-ders-kitabi.webp",
+    "pdf": "https://meb.ai/UTIIi3r",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/210/muzik-tarihi-6sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 326,
+    "title": "Müzik Tarihi 7.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "7.Sınıf",
+    "ders": "Müzik Tarihi Dersi",
+    "sinifIds": [
+      8
+    ],
+    "dersId": 53,
+    "cover": "https://tymm.meb.gov.tr/assets/img/muzik-tarihi-7sinif-ders-kitabi_20260906_013539_424.webp",
+    "pdf": "https://meb.ai/hXtVxI",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/326/muzik-tarihi-7sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 205,
+    "title": "Müziksel İşitme, Okuma Ve Yazma 1.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "1.Sınıf",
+    "ders": "Müziksel İşitme, Okuma ve Yazma Dersi",
+    "sinifIds": [
+      2
+    ],
+    "dersId": 50,
+    "cover": "https://tymm.meb.gov.tr/assets/img/muziksel-isitme-yazma-1.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/muziksel-isitme-yazma-1.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/205/muziksel-isitme-okuma-ve-yazma-1sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 206,
+    "title": "Müziksel İşitme, Okuma Ve Yazma 2.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "2.Sınıf",
+    "ders": "Müziksel İşitme, Okuma ve Yazma Dersi",
+    "sinifIds": [
+      3
+    ],
+    "dersId": 50,
+    "cover": "https://tymm.meb.gov.tr/assets/img/muziksel-isitme-yazma-2.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/muziksel-isitme-yazma-2.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/206/muziksel-isitme-okuma-ve-yazma-2sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 207,
+    "title": "Müziksel İşitme, Okuma Ve Yazma 5.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "5.Sınıf",
+    "ders": "Müziksel İşitme, Okuma ve Yazma Dersi",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 50,
+    "cover": "https://tymm.meb.gov.tr/assets/img/muziksel-isitme-yazma-5.webp",
+    "pdf": "https://meb.ai/4WdAuJ",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/207/muziksel-isitme-okuma-ve-yazma-5sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 208,
+    "title": "Müziksel İşitme, Okuma Ve Yazma 6.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "6.Sınıf",
+    "ders": "Müziksel İşitme, Okuma ve Yazma Dersi",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 50,
+    "cover": "https://tymm.meb.gov.tr/assets/img/muziksel-isitme-yazma-6.webp",
+    "pdf": "https://meb.ai/kBNhta",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/208/muziksel-isitme-okuma-ve-yazma-6sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 316,
+    "title": "Müziksel İşitme, Okuma Ve Yazma Dersi 3.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "3.Sınıf",
+    "ders": "Müziksel İşitme, Okuma ve Yazma Dersi",
+    "sinifIds": [
+      4
+    ],
+    "dersId": 50,
+    "cover": "https://tymm.meb.gov.tr/assets/img/muziksel-isitme-okuma-ve-yazma-dersi-3sinif-ders-kitabi_20260905_230322_721.webp",
+    "pdf": "https://meb.ai/0SXg4H",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/316/muziksel-isitme-okuma-ve-yazma-dersi-3sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 317,
+    "title": "Müziksel İşitme, Okuma Ve Yazma Dersi 7.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "7.Sınıf",
+    "ders": "Müziksel İşitme, Okuma ve Yazma Dersi",
+    "sinifIds": [
+      8
+    ],
+    "dersId": 50,
+    "cover": "https://tymm.meb.gov.tr/assets/img/muziksel-isitme-okuma-ve-yazma-dersi-7sinif-ders-kitabi_20260905_230509_820.webp",
+    "pdf": "https://meb.ai/8nZKGw",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/317/muziksel-isitme-okuma-ve-yazma-dersi-7sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 320,
+    "title": "TüRk MüZiğI Teori Ve Uygulaması Dersi 3.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "3.Sınıf",
+    "ders": "Türk Müziği Teori ve Uygulaması Dersi",
+    "sinifIds": [
+      4
+    ],
+    "dersId": 51,
+    "cover": "https://tymm.meb.gov.tr/assets/img/turk-muzigi-teori-ve-uygulamasi-dersi-3sinif-ders-kitabi_20260905_231138_762.webp",
+    "pdf": "https://meb.ai/UYSqqAk",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/320/turk-muzigi-teori-ve-uygulamasi-dersi-3sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 319,
+    "title": "TüRk MüZiğI Teori Ve Uygulaması Dersi 7.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "7.Sınıf",
+    "ders": "Türk Müziği Teori ve Uygulaması Dersi",
+    "sinifIds": [
+      8
+    ],
+    "dersId": 51,
+    "cover": "https://tymm.meb.gov.tr/assets/img/turk-muzigi-teori-ve-uygulamasi-dersi-7sinif-ders-kitabi_20260905_230941_290.webp",
+    "pdf": "https://meb.ai/MltRRd",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/319/turk-muzigi-teori-ve-uygulamasi-dersi-7sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 199,
+    "title": "Türk Müziği Teori Ve Uygulamaları 2.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "2.Sınıf",
+    "ders": "Türk Müziği Teori ve Uygulaması Dersi",
+    "sinifIds": [
+      3
+    ],
+    "dersId": 51,
+    "cover": "https://tymm.meb.gov.tr/assets/img/turk-muzigi-teori-uyg-2.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/turk-muzigi-teori-uyg-2.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/199/turk-muzigi-teori-ve-uygulamalari-2sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 211,
+    "title": "Türk Müziği Teori Ve Uygulamaları 5.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "5.Sınıf",
+    "ders": "Türk Müziği Teori ve Uygulaması Dersi",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 51,
+    "cover": "https://tymm.meb.gov.tr/assets/img/turk-muzigi-teori-5-ders-kitabi.webp",
+    "pdf": "https://meb.ai/8cHXxa",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/211/turk-muzigi-teori-ve-uygulamalari-5sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 212,
+    "title": "Türk Müziği Teori Ve Uygulamaları 6.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "6.Sınıf",
+    "ders": "Türk Müziği Teori ve Uygulaması Dersi",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 51,
+    "cover": "https://tymm.meb.gov.tr/assets/img/turk-muzigi-teori-6-ders-kitabi.webp",
+    "pdf": "https://meb.ai/o1Uq5b",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/212/turk-muzigi-teori-ve-uygulamalari-6sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 252,
+    "title": "Türk Müziği Teori Ve Uygulaması 1.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "1.Sınıf",
+    "ders": "Türk Müziği Teori ve Uygulaması Dersi",
+    "sinifIds": [
+      2
+    ],
+    "dersId": 51,
+    "cover": "https://tymm.meb.gov.tr/assets/img/turk-muzigi-teori-uygulamasi.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/turk-muzigi-teori-ve-uygulamasi-ders-kitabi_20260827_075054_585.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/252/turk-muzigi-teori-ve-uygulamasi-1sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 200,
+    "title": "Çalgı Toplulukları 5.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "5.Sınıf",
+    "ders": "Çalgı Toplulukları Dersi",
+    "sinifIds": [
+      6
+    ],
+    "dersId": 48,
+    "cover": "https://tymm.meb.gov.tr/assets/img/calgi-topluluklari-5-kitabi.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/calgi-topluluklari-5-kitabi.pdf",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/200/calgi-topluluklari-5sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 201,
+    "title": "Çalgı Toplulukları 6.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "6.Sınıf",
+    "ders": "Çalgı Toplulukları Dersi",
+    "sinifIds": [
+      7
+    ],
+    "dersId": 48,
+    "cover": "https://tymm.meb.gov.tr/assets/img/calgi-topluluklari-6-kitabi.webp",
+    "pdf": "https://tymm.meb.gov.tr/assets/pdf/calgi-topluluklari-6-kitabi.pdf",
+    "interactive": "/etkilesimli-kitap/_shared/index.html?kitap=201",
+    "detail": "https://tymm.meb.gov.tr/kitap/201/calgi-topluluklari-6sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 311,
+    "title": "Çalgı Toplulukları Dersi 3.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "3.Sınıf",
+    "ders": "Çalgı Toplulukları Dersi",
+    "sinifIds": [
+      4
+    ],
+    "dersId": 48,
+    "cover": "https://tymm.meb.gov.tr/assets/img/calgi-topluluklari-dersi-3sinif-ders-kitabi_20260905_225218_849.webp",
+    "pdf": "https://meb.ai/UiKgFQP",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/311/calgi-topluluklari-dersi-3sinif-ders-kitabi",
+    "qaCount": 0
+  },
+  {
+    "id": 313,
+    "title": "Çalgı Toplulukları Dersi 7.Sınıf Ders Kitabı",
+    "kademe": "Müzik Okulları",
+    "kademeId": 11,
+    "sinif": "7.Sınıf",
+    "ders": "Çalgı Toplulukları Dersi",
+    "sinifIds": [
+      8
+    ],
+    "dersId": 48,
+    "cover": "https://tymm.meb.gov.tr/assets/img/calgi-topluluklari-dersi-7sinif-ders-kitabi_20260905_225525_730.webp",
+    "pdf": "https://meb.ai/UkIfKv3",
+    "interactive": null,
+    "detail": "https://tymm.meb.gov.tr/kitap/313/calgi-topluluklari-dersi-7sinif-ders-kitabi",
+    "qaCount": 0
+  }
+]

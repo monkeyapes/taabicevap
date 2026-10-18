@@ -1,0 +1,61 @@
+{
+  "bookId": 20,
+  "title": "Fen Bilimleri 5.Sınıf Ders Kitabı (2.Kitap)",
+  "units": [
+    {
+      "name": "4. Ünite — Işığın Dünyası",
+      "questions": [
+        { "q": "Işık nasıl yayılır?", "a": "Işık doğrusal (düz) bir yol izleyerek yayılır.", "page": 47 },
+        { "q": "Boş bir odadaki lambanın odanın her yerini aydınlatması, ışığın hangi özelliği ile ilgilidir?", "a": "Işığın her yöne yayılması (kaynağından her yöne doğru yayılması) özelliği ile ilgilidir.", "page": 47 },
+        { "q": "Maddeleri ışık geçirme durumlarına göre sınıflandırınız.", "a": "Saydam maddeler, yarı saydam maddeler ve saydam olmayan (opak) maddeler.", "page": 47 },
+        { "q": "Saydam maddelere üç örnek veriniz.", "a": "Cam, temiz su ve hava (ayrıca temiz plastik, pencere camı).", "page": 47 },
+        { "q": "Bir cisim, kendisine gelen ışığı hiç geçirmiyorsa ışık geçirgenliği bakımından hangi sınıfta yer alır?", "a": "Saydam olmayan (opak) maddeler sınıfında yer alır.", "page": 47 },
+        { "q": "Buzlu cam, yağlı kâğıt gibi maddeler ışık geçirgenliği bakımından hangi sınıfta yer alır?", "a": "Yarı saydam maddeler sınıfında yer alır.", "page": 47 },
+        { "q": "Saydam bir cismin saydamlığını azaltmak için neler yapılabilir?", "a": "Yüzeyi pürüzlendirilebilir, boyanabilir, kalınlığı artırılabilir ya da üzeri yağlı kâğıt/ince bir tabaka ile kaplanabilir.", "page": 47 },
+        { "q": "Gölge nedir?", "a": "Işığın saydam olmayan bir cisim tarafından engellenmesi sonucu cisim arkasında oluşan karanlık bölgedir.", "page": 47 },
+        { "q": "Gölge büyüklüğüne etki eden faktörler nelerdir?", "a": "Işık kaynağı ile cisim arasındaki mesafe, cisim ile perde arasındaki mesafe ve ışık kaynağının büyüklüğü.", "page": 47 },
+        { "q": "Işık kaynağı ile cisim arasındaki mesafe azaltılırsa cismin gölge boyu nasıl değişir?", "a": "Gölge boyu büyür (artar).", "page": 47 }
+      ]
+    },
+    {
+      "name": "5. Ünite — Maddenin Doğası",
+      "questions": [
+        { "q": "Katı, sıvı ve gaz maddelerinden hangileri akışkan özelliğe sahiptir? Sebebini yazınız.", "a": "Sıvı ve gaz maddeler akışkandır. Tanecikleri arasındaki boşluk daha fazla olduğu için tanecikleri serbestçe hareket edip akabilir.", "page": 99 },
+        { "q": "Katı, sıvı ve gaz maddeleri tanecikler arasındaki boşluğa göre büyükten küçüğe doğru sıralayınız.", "a": "Gaz > Sıvı > Katı (gazda tanecikler arası boşluk en fazla, katıda en azdır).", "page": 99 },
+        { "q": "Isı alan bir maddenin tanecik hareketliliği nasıl değişir?", "a": "Madde ısı aldıkça taneciklerin hareketliliği artar.", "page": 99 },
+        { "q": "Isı ve sıcaklık kavramlarının farklı yönleri nelerdir? İki tanesini yazınız.", "a": "Isı bir enerji türüdür (birimi joule/kalori), sıcaklık ise bir ölçümdür (birimi °C). Isı akışı, sıcaklık farkı olduğu sürece gerçekleşir.", "page": 99 },
+        { "q": "İçerisinde su kaynayan tencerenin kapağında su damlalarının oluşması hangi olaya örnektir?", "a": "Yoğuşma (yoğunlaşma) olayına örnektir.", "page": 99 },
+        { "q": "Katı bir maddede hangi hâl değişimleri görülebilir?", "a": "Erime (katıdan sıvıya) ve süblimleşme (katıdan doğrudan gaza) görülebilir.", "page": 99 },
+        { "q": "Kaynama ve buharlaşma arasındaki farklar nelerdir?", "a": "Buharlaşma sıvının yüzeyinde ve her sıcaklıkta gerçekleşir; kaynama ise sıvının her yerinde ve belirli bir kaynama sıcaklığında gerçekleşir.", "page": 99 },
+        { "q": "Tencere, tava gibi araçlarda ısı iletkeni ve yalıtkanlarının bir arada kullanılmasının sebebi nedir?", "a": "Isı iletkeni (metal gövde) ısıyı yemeğe iletir; yalıtkan (plastik/tahta sap) ise ısının elimize geçmesini engelleyerek tutmayı kolaylaştırır.", "page": 99 },
+        { "q": "Binalarda ısı yalıtımı yapılmasının aile ekonomisine katkıları nelerdir?", "a": "Isıtma ve soğutma için harcanan enerji azalır, yakıt-elektrik masrafları düşer ve tasarruf sağlanır.", "page": 99 },
+        { "q": "Isı yalıtımlı bir bina tasarlarken yalıtım malzemelerini binanın hangi bölümlerine yerleştirebilirsiniz?", "a": "Dış duvarlara, çatıya, tavana, taban/döşemeye ve pencerelere yerleştirilebilir.", "page": 99 }
+      ]
+    },
+    {
+      "name": "6. Ünite — Yaşamımızdaki Elektrik",
+      "questions": [
+        { "q": "Devre elemanları neden sembollerle gösterilir?", "a": "Devrelerin herkesin anlayacağı ortak bir dille, basit ve anlaşılır biçimde çizilebilmesi için sembollerle gösterilir.", "page": 131 },
+        { "q": "Devre şemalarında sembol ile gösterilen devre elemanları nelerdir?", "a": "Pil, ampul, anahtar ve iletken tel (bağlantı kablosu).", "page": 131 },
+        { "q": "Bir elektrik devresinin devre elemanlarının sembolleri kullanılarak çizimle gösterilmesine ne denir?", "a": "Devre şeması denir.", "page": 131 },
+        { "q": "Basit bir elektrik devresindeki ampul parlaklığını etkileyen faktörler nelerdir?", "a": "Devredeki pil sayısı (gerilim) ve ampul sayısı.", "page": 131 },
+        { "q": "Bağımsız değişken nedir?", "a": "Deneyde araştırmacının kendi isteğiyle değiştirdiği değişkendir.", "page": 131 },
+        { "q": "Bağımlı değişken nedir?", "a": "Bağımsız değişkene bağlı olarak değişen ve ölçülen değişkendir.", "page": 131 },
+        { "q": "Pil sayısının bağımsız değişken olduğu bir devrede ampul sayısı hangi değişken grubunda yer almalıdır?", "a": "Kontrol (sabit tutulan) değişken grubunda yer almalıdır.", "page": 131 },
+        { "q": "Pil sayısının kontrol değişkeni olduğu bir devrede ampul sayısı artırılırsa ampul parlaklığı nasıl değişir?", "a": "Ampul parlaklığı azalır.", "page": 131 },
+        { "q": "Ampul sayısının kontrol değişkeni olduğu bir devrede pil sayısı artırılırsa ampul parlaklığı nasıl değişir?", "a": "Ampul parlaklığı artar.", "page": 131 }
+      ]
+    },
+    {
+      "name": "7. Ünite — Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "questions": [
+        { "q": "Atıkların kaynağında ayrıştırılmasının avantajları nelerdir?", "a": "Geri dönüşüm kolaylaşır, ayrıştırma maliyeti ve çevre kirliliği azalır, enerji ve zaman tasarrufu sağlanır.", "page": 157 },
+        { "q": "İleri dönüşüm ve geri dönüşüm uygulamaları arasındaki farklar nelerdir?", "a": "Geri dönüşümde atık tekrar hammaddeye dönüştürülür; ileri dönüşümde (upcycling) atık, ilk halinden daha değerli/kaliteli bir ürüne dönüştürülür.", "page": 157 },
+        { "q": "Kullanım dışı kalmış kızartma yağları evlerden nasıl uzaklaştırılmalıdır?", "a": "Lavaboya dökülmemeli; ayrı bir kapta toplanıp atık yağ toplama noktalarına veya bu konuda lisanslı işletmelere teslim edilmelidir.", "page": 157 },
+        { "q": "Yeniden kullanıma bir tane örnek veriniz.", "a": "Cam kavanozların saklama kabı olarak, eski kıyafetlerin temizlik bezi olarak kullanılması gibi.", "page": 157 },
+        { "q": "Sıfır Atık Projesi'nin israfın önlenmesine katkıları neler olabilir?", "a": "Bilinçli tüketimi artırır, atık oluşumunu azaltır, kaynağında ayrıştırma ve geri dönüşümü yaygınlaştırarak israfı önler.", "page": 157 },
+        { "q": "Geri dönüşümün sağladığı avantajlardan üç tanesini yazınız.", "a": "Doğal kaynakların korunması, enerji tasarrufu ve çevre kirliliğinin azalması (ayrıca ekonomiye katkı).", "page": 157 }
+      ]
+    }
+  ]
+}
