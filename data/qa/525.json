@@ -1,0 +1,106 @@
+{
+  "bookId": 525,
+  "title": "Kur'an-ı Kerim 9.Sınıf Ders Kitabı (Ortaöğretim)",
+  "units": [
+    {
+      "name": "1. Tema - Kur'an-ı Kerim'i Tanıyorum",
+      "questions": [
+        {
+          "q": "Kur'an-ı Kerim'i okumanın ve güzel okumanın önemi nedir?",
+          "a": "Kur'an okumak ibadettir; her harfine sevap vardır. Güzel okumak (tecvitli, tane tane) anlamı doğru kavramayı ve saygıyı sağlar.",
+          "image": "data/qa/img/525_sum0.png"
+        },
+        {
+          "q": "Kur'an-ı Kerim okumanın adabından bazılarını yazınız.",
+          "a": "Abdestli ve temiz olmak, kıbleye yönelmek, Eûzü-Besmele ile başlamak, tane tane (tertil) okumak, saygıyla dinlemek."
+        },
+        {
+          "q": "'İlah' kavramı ne anlama gelir?",
+          "a": "Kendisine ibadet edilen, yüce, tek yaratıcı olan Allah anlamına gelir."
+        },
+        {
+          "q": "'İhlas' kavramını açıklayınız.",
+          "a": "Allah'ı birlemek, ibadeti yalnızca Allah için yapmak ve O'na hiçbir şeyi ortak koşmamaktır."
+        },
+        {
+          "q": "İbrahim suresinin 40-41. ayetlerinin içeriği nedir?",
+          "a": "Hz. İbrahim'in namazı dosdoğru kılma, neslini de buna ulaştırma ve kendisinin, anne-babasının ve müminlerin bağışlanması için yaptığı duadır."
+        },
+        {
+          "q": "Kur'an-ı Kerim'in kültürümüzdeki yeri nasıl ifade edilebilir?",
+          "a": "Kur'an, dilimizi, edebiyatımızı, sanatımızı ve gündelik yaşantımızı etkileyen; doğumdan ölüme hayatımızın merkezinde yer alan kutsal kitabımızdır."
+        }
+      ]
+    },
+    {
+      "name": "2. Tema - Kur'an-ı Kerim'i Güzel Okuma Kuralları (Tecvit)",
+      "questions": [
+        {
+          "q": "Harflerin mahreçleri ne demektir?",
+          "a": "Harflerin, ses çıkarken ses yolunda çıktıkları özel noktalara mahreç denir; harfin doğru telaffuzu için mahreç bilinmelidir.",
+          "image": "data/qa/img/525_sum1.png"
+        },
+        {
+          "q": "Kalın ve ince sesli harfler hangileridir?",
+          "a": "Kalın okunanlar (a, ı, u ve kalın ünlülü harfler), ince okunanlar (e, i, ü, ö ve ince ünlülü harfler); örnek: ص 'sâ' kalın, س 'se' ince."
+        },
+        {
+          "q": "Hareke, cezim, şedde ve tenvin ne demektir?",
+          "a": "Hareke kısa ses (üstün, esre, ötre); cezim harfin sessiz okunması; şedde harfin ikizlenmesi; tenvin ise kelime sonunda 'en/an/ün' sesidir."
+        },
+        {
+          "q": "'Med' (uzatma) nedir; kaç birim uzatılır?",
+          "a": "Harfin bir elif miktarı veya daha fazla uzatılarak okunmasıdır; tabiî med bir elif (yaklaşık bir kısa ses) uzatılır."
+        },
+        {
+          "q": "Kur'an okurken harfleri doğru telaffuz etmek neden önemlidir?",
+          "a": "Yanlış telaffuz anlamın bozulmasına yol açar; doğru telaffuz Kur'an'ı hatasız (tecvitli) okumayı sağlar."
+        }
+      ]
+    },
+    {
+      "name": "3. Tema - Kur'an-ı Kerim'i Okuyorum",
+      "questions": [
+        {
+          "q": "Yüzünden okuma ile ezbere okuma arasındaki fark nedir?",
+          "a": "Yüzünden okumada mushafa bakılarak okunur; ezbere okumada ise mushafa bakılmadan, önceden ezberlenen ayetler okunur.",
+          "image": "data/qa/img/525_sum2.png"
+        },
+        {
+          "q": "Yüzünden okumada dikkat edilmesi gereken hususlar nelerdir?",
+          "a": "Tecvit kurallarına uymak, duraklama-işaretlerini (vakıf) gözetmek, tane tane ve akıcı okumak."
+        },
+        {
+          "q": "Al-i İmran suresi hakkında kısaca bilgi veriniz.",
+          "a": "Medine döneminde inmiş uzun surelerden olup tevhid, iman ve ehli kitap ile ilgili konuları ele alır."
+        },
+        {
+          "q": "Yasin suresinin ana konuları nelerdir?",
+          "a": "Allah'ın birliği, peygamberlik, öldükten sonra dirilme ve ahiret konularını işler; 'Kur'an'ın kalbi' olarak da anılır."
+        }
+      ]
+    },
+    {
+      "name": "4. Tema - Kur'an-ı Kerim'den Sureler ve Ayetler Ezberliyorum",
+      "questions": [
+        {
+          "q": "Fatiha suresinin anlamı ve önemi nedir?",
+          "a": "Hamd, Allah'a mahsustur; O rahmandır, rahimdir; bize doğru yolu göstermesini isteriz. Namazın her rekâtında okunan temel suredir.",
+          "image": "data/qa/img/525_sum0.png"
+        },
+        {
+          "q": "Kevser suresinin anlamı nedir?",
+          "a": "Allah'ın Peygamberimize bol hayır (Kevser) verdiğini bildirir; bu nimet için şükür ve namaz kılmaya teşvik eder."
+        },
+        {
+          "q": "İhlas suresinin anlamı nedir?",
+          "a": "Allah'ın bir olduğunu, hiçbir şeye muhtaç olmadığını, doğurmadığını ve doğurulmadığını, O'nun dengi bulunmadığını bildirir."
+        },
+        {
+          "q": "Fil ve Kureyş surelerinin anlamları hakkında kısaca bilgi veriniz.",
+          "a": "Fil suresi, Kâbe'yi yıkmaya gelen fil ordusunun helak edilişini; Kureyş suresi ise Kureyş'e verilen güven ve rızık nimetine şükrü anlatır."
+        }
+      ]
+    }
+  ]
+}

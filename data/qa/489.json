@@ -1,0 +1,106 @@
+{
+  "bookId": 489,
+  "title": "Kur'an-ı Kerim 9.Sınıf Ders Kitabı (AİHL)",
+  "units": [
+    {
+      "name": "1. Tema - Kur'an-ı Kerim'i Tanıma",
+      "questions": [
+        {
+          "q": "Kur'an-ı Kerim'i okumayı öğrenmenin ve güzel okumanın önemi nedir?",
+          "a": "Kur'an okumak bir ibadettir ve her harfine sevap vardır. Güzel okumak, ayetlerin anlamını doğru kavramayı ve Kur'an'a saygıyı ifade eder.",
+          "image": "data/qa/img/489_sum0.png"
+        },
+        {
+          "q": "Kur'an-ı Kerim'in iç düzeni (ayet, sure, cüz, hizip) nedir?",
+          "a": "Ayet Kur'an'ın en küçük birimi; sure ayetlerden oluşan bölüm; cüz Kur'an'ın yirmi eşit parçasından biri; hizip ise cüzün dört bölümünden her biridir."
+        },
+        {
+          "q": "Ayet nedir; Kur'an'da kaç ayet vardır?",
+          "a": "Ayet, Kur'an surelerini oluşturan cümle veya cümlelerdir; Kur'an'da toplam 6236 ayet bulunur."
+        },
+        {
+          "q": "Sure nedir; Kur'an'da kaç sure vardır?",
+          "a": "Ayetlerden oluşan bölümlere sure denir; Kur'an 114 sureden meydana gelir."
+        },
+        {
+          "q": "Cüz ve hizip ne anlama gelir?",
+          "a": "Kur'an 30 cüze ayrılmıştır; her cüz dört hizbe, her hizip de dörde bölünerek okumayı kolaylaştırır."
+        },
+        {
+          "q": "Kur'an-ı Kerim'in yazılması ve korunması nasıl gerçekleşmiştir?",
+          "a": "Vahiy kâtiplerince yazılmış, Hz. Ebû Bekir döneminde toplanmış, Hz. Osman döneminde çoğaltılarak tek mushaf haline getirilmiş ve nesilden nesile korunmuştur."
+        }
+      ]
+    },
+    {
+      "name": "2. Tema - Tecvit",
+      "questions": [
+        {
+          "q": "Tecvit nedir ve amacı nedir?",
+          "a": "Kur'an'ı harflerin mahreç ve sıfatlarına uygun, kurallı biçimde okuma ilmidir; amacı hatasız ve güzel okumaktır.",
+          "image": "data/qa/img/489_sum1.png"
+        },
+        {
+          "q": "Harflerin mahreçleri kaç gruptur, örnek veriniz.",
+          "a": "Harflerin çıkış yerlerine göre grupları vardır; örneğin boğaz harfleri (ء ه ع ح غ خ), dil harfleri ve dudak harfleri (ب م و ف)."
+        },
+        {
+          "q": "Kalın ve ince sesli harflerin okunuşu nasıldır?",
+          "a": "Kalın harfler kalın ünlülerle (a, ı, u) okunur; ince harfler ince ünlülerle (e, i, ü, ö). Örnek: ط kalın, ت ince."
+        },
+        {
+          "q": "Şedde, cezim ve tenvin kurallarını örnekle açıklayınız.",
+          "a": "Şedde harfi ikizleyerek okutur; cezim harfi sessiz kılar; tenvin kelime sonuna en/an/ün sesi katar."
+        },
+        {
+          "q": "Med (uzatma) harfleri hangileridir?",
+          "a": "Elif (ا), vav (و) ve ya (ي) med harfleridir; kendinden önceki harekeli harfi uzatır."
+        }
+      ]
+    },
+    {
+      "name": "3. Tema - Yüzünden Okuma",
+      "questions": [
+        {
+          "q": "Yüzünden okuma çalışmalarında hangi sureler okunur?",
+          "a": "Fatiha suresi, Bakara suresi, ardından Duha'dan Hümeze suresine kadar olan kısa sureler yüzünden okunur.",
+          "image": "data/qa/img/489_sum2.png"
+        },
+        {
+          "q": "Fatiha suresinin içeriği nedir?",
+          "a": "Allah'a hamd, O'nun rahman ve rahim oluşu, hesap gününün sahibi oluşu ve doğru yola hidayet talebini içerir."
+        },
+        {
+          "q": "Bakara suresinin genel özelliği nedir?",
+          "a": "Kur'an'ın en uzun suresidir; Medine'de inmiş olup iman, hukuk, ibadet ve toplumsal konuları ele alır."
+        },
+        {
+          "q": "Duha ila Hümeze sureleri arasında hangi konular işlenir?",
+          "a": "Şükür, yetim ve yoksula iyilik, malın ve servetin imtihan oluşu, cimrilik ve dedikodunun kötülüğü gibi ahlaki konular."
+        }
+      ]
+    },
+    {
+      "name": "4. Tema - Ezbere Okuma",
+      "questions": [
+        {
+          "q": "Namaz dualarından Sübhaneke'nin anlamı nedir?",
+          "a": "'Sen her türlü eksiklikten uzaksın Allah'ım, rahmetin ve bereketin seninledir; sen yücesin, ismini tesbih ederim' anlamındadır.",
+          "image": "data/qa/img/489_sum0.png"
+        },
+        {
+          "q": "Tahiyyat duasının anlamı nedir?",
+          "a": "Allah için her türlü sözlü, bedeni ve malî ibadetler sunulur; Peygambere, ona ve salih kullara selam ve rahmet dilenir."
+        },
+        {
+          "q": "Salli ve Barik dualarının anlamı nedir?",
+          "a": "Peygamberimize ve ailesine rahmet, bereket ve şeref duasıdır; namazda okunan dualardandır."
+        },
+        {
+          "q": "Fatiha, Fil ila Nâs sureleri arasında hangi kısa sureler ezberlenir?",
+          "a": "Fatiha ile birlikte Fil, Kureyş, Maun, Kevser, Kâfirun, Nasr, Tebbet, İhlas, Felak ve Nâs sureleri ezberlenir."
+        }
+      ]
+    }
+  ]
+}

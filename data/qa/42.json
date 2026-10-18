@@ -1,0 +1,98 @@
+{
+  "bookId": 42,
+  "title": "Matematik 9.Sınıf Ders Kitabı (2.Kitap)",
+  "units": [
+    {
+      "name": "5. Tema - Algoritma ve Bilişim",
+      "questions": [
+        {
+          "q": "Algoritma nedir?",
+          "a": "Bir problemin çözümü için belirli bir sırayla izlenen, adım adım, açık ve sonlu işlemler dizisidir.",
+          "image": "data/qa/img/42_sum0.png"
+        },
+        {
+          "q": "Bir algoritmanın taşıması gereken temel özellikler nelerdir?",
+          "a": "Sonluluk, kesinlik (belirginlik), girdi-çıktı bulunması, etkililik ve genellik."
+        },
+        {
+          "q": "Mantık bağlaçları hangileridir?",
+          "a": "Ve (∧), veya (∨), değil (¬), ise (⇒) ve ancak ve ancak (⇔) bağlaçlarıdır."
+        },
+        {
+          "q": "Bir önermenin doğruluk değeri ne demektir?",
+          "a": "Önermenin doğru ya da yanlış olma durumudur; doğru 'D (1)', yanlış 'Y (0)' ile gösterilir."
+        },
+        {
+          "q": "Bileşik önerme nedir?",
+          "a": "İki veya daha fazla önermenin mantık bağlaçlarıyla birleştirilmesiyle elde edilen önermedir."
+        },
+        {
+          "q": "K ve L önermeleri için 'K ∧ L' bağlacının doğruluk tablosunu açıklayınız.",
+          "a": "'Ve' bağlacında bileşik önerme, ancak K ile L'nin her ikisi de doğruyken doğru; diğer tüm durumlarda yanlıştır."
+        },
+        {
+          "q": "'Her' ve 'bazı' niceleyicilerinin anlamı nedir?",
+          "a": "'Her (∀)' tüm elemanları kapsar, 'bazı (∃)' en az bir elemanı belirtir. Bu sözcükler önermenin doğruluk değerini etkiler."
+        },
+        {
+          "q": "Koşullu önermenin (K ⇒ L) karşıtı ve karşıt tersi nasıl bulunur?",
+          "a": "Karşıtı L ⇒ K; tersi ¬K ⇒ ¬L; karşıt tersi ¬L ⇒ ¬K'dır. Koşullu önerme ile karşıt tersi denktir."
+        },
+        {
+          "q": "Mantık bağlaçları algoritmik problemlerde nasıl kullanılır?",
+          "a": "Koşul ve karar adımlarında 'eğer-ise' kararlarını, birden çok koşulun birlikte/ayrı ayrı denetimini ifade etmek için kullanılır."
+        },
+        {
+          "q": "Algoritma gösteriminde akış şeması (diyagram) ne işe yarar?",
+          "a": "Bir algoritmanın adımlarını, karar noktalarını ve akışını sembollerle görsel olarak gösterir."
+        }
+      ]
+    },
+    {
+      "name": "6. Tema - İstatistiksel Araştırma Süreci",
+      "questions": [
+        {
+          "q": "Veri nedir; nicel ve nitel veri arasındaki fark nedir?",
+          "a": "Veri, araştırmayla toplanan bilgilerdir. Nicel veri sayısal (yaş, boy); nitel veri sayısal olmayan, sınıflandırılan (renk, cinsiyet) veridir.",
+          "image": "data/qa/img/42_sum1.png"
+        },
+        {
+          "q": "Bir istatistiksel araştırma sürecinin aşamaları nelerdir?",
+          "a": "Problemin belirlenmesi, veri toplama, verilerin düzenlenip analiz edilmesi ve sonuçların yorumlanması."
+        },
+        {
+          "q": "Anakütle (evren) ve örneklem nedir?",
+          "a": "Anakütle, hakkında bilgi toplanan tüm bireylerin kümesidir; örneklem, anakütleyi temsil eden alt gruptur."
+        },
+        {
+          "q": "Veri toplama yöntemlerine örnekler veriniz.",
+          "a": "Anket, gözlem, deney ve görüşme (mülakat) yöntemleri kullanılır."
+        },
+        {
+          "q": "Merkezî eğilim ölçüleri hangileridir?",
+          "a": "Aritmetik ortalama, ortanca (medyan) ve tepe değer (mod)."
+        },
+        {
+          "q": "Aritmetik ortalama ile ortanca arasındaki fark nedir?",
+          "a": "Aritmetik ortalama tüm değerlerin toplamının veri sayısına bölümü; ortanca ise sıralı veride ortadaki değerdir."
+        },
+        {
+          "q": "Açıklık (ranı) ve çeyrekler açıklığı nasıl hesaplanır?",
+          "a": "Açıklık = en büyük değer − en küçük değer; çeyrekler açıklığı = üçüncü çeyrek − birinci çeyrek."
+        },
+        {
+          "q": "Standart sapma neyi ölçer?",
+          "a": "Verilerin aritmetik ortalama etrafındaki yayılımını (dağılım genişliğini) ölçer; büyük değer verilerin ortalamadan uzak olduğunu gösterir."
+        },
+        {
+          "q": "Tek nicel değişkenli veri dağılımı hangi grafiklerle gösterilir?",
+          "a": "Sütun/dikdörtgen grafiği (histogram), nokta grafiği, kutu grafiği (box-plot) ve dağılım grafikleri ile gösterilir."
+        },
+        {
+          "q": "Bir veri dağılımını incelerken hangi ölçütler kullanılır?",
+          "a": "Merkezî eğilim ölçüleri (ortalama, ortanca, mod), yayılım ölçüleri (açıklık, standart sapma) ve grafik gösterimleri kullanılır."
+        }
+      ]
+    }
+  ]
+}

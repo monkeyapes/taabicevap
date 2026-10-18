@@ -1,0 +1,138 @@
+{
+  "bookId": 539,
+  "title": "Peygamberimizin Hayatı 9.Sınıf Ders Kitabı",
+  "units": [
+    {
+      "name": "1. Ünite - Peygamberimizin Hayatında Önemli Bir Şehir: Mekke",
+      "questions": [
+        {
+          "q": "Hz. Muhammed (s.a.v.) hangi şehirde ve hangi yılda doğmuştur?",
+          "a": "Mekke'de, 571 yılında (Fil Vakası'nın üzerinden yaklaşık 50 gün sonra) doğmuştur.",
+          "image": "data/qa/img/539_sum0.png"
+        },
+        {
+          "q": "Mekke'nin dinî ve ticari açıdan önemi nedir?",
+          "a": "Kâbe'nin bulunduğu kutsal bir hac merkezidir; ayrıca ticaret kervanlarının uğradığı, Arap Yarımadası'nın önemli bir ticaret ve panayır şehridir."
+        },
+        {
+          "q": "Kâbe'yi kimler inşa etmiştir?",
+          "a": "Hz. İbrahim ve oğlu Hz. İsmail tarafından inşa edilmiştir; Allah'ın emriyle tevhid inancının merkezi olmuştur."
+        },
+        {
+          "q": "Hz. Muhammed'e 'Muhammedü'l-Emin' sıfatı neden verilmiştir?",
+          "a": "Toplumda dürüstlüğü, sözüne güvenilirliği ve emaneti koruması nedeniyle kendisine 'güvenilir Muhammed' anlamında bu sıfat verilmiştir."
+        },
+        {
+          "q": "İlk vahiy nerede ve nasıl gelmiştir?",
+          "a": "610 yılı Ramazan ayında, Nur Dağı'ndaki Hira Mağarası'nda Cebrail (a.s.) aracılığıyla Alak suresinin ilk beş ayeti indirilmiştir."
+        },
+        {
+          "q": "Hz. Muhammed'in önce gizli, sonra açık davet dönemlerini açıklayınız.",
+          "a": "İlk üç yıl İslam'a davet gizli yürütülmüş, yakın çevresi Müslüman olmuş; ardından aldığı emirle davet açıkça yapılmıştır."
+        },
+        {
+          "q": "Mekkeli müşriklerin baskısı üzerine Müslümanların ilk hicret ettiği yer neresidir?",
+          "a": "Habeşistan'dır (Necaşi'nin ülkesi); buraya iki kez hicret edilmiştir."
+        },
+        {
+          "q": "Haşimoğullarına uygulanan boykot hangi amaçla, ne kadar sürmüştür?",
+          "a": "Müşrikler Müslümanlara ve Haşimoğullarına sosyal-ticari baskı uygulamak için yaklaşık üç yıl boykot uygulamıştır."
+        },
+        {
+          "q": "'Hüzün Yılı' hangi olaylardan dolayı bu adı almıştır?",
+          "a": "Hz. Hatice ile amcası Ebû Tâlib'in aynı yılda vefat ettiği, Peygamberimizin derin üzüntü yaşadığı yıldır."
+        }
+      ]
+    },
+    {
+      "name": "2. Ünite - Peygamberimizin Hayatında Önemli Bir Şahsiyet: Hz. Hatice",
+      "questions": [
+        {
+          "q": "Hz. Hatice kimdir; soyu ve ailesi hakkında bilgi veriniz.",
+          "a": "Kureyş'in saygın ailelerinden birine mensup, ticaretle uğraşan, iffet ve ahlakıyla tanınan bir hanımdır; Peygamberimizin ilk eşidir.",
+          "image": "data/qa/img/539_sum1.png"
+        },
+        {
+          "q": "Hz. Hatice ile Hz. Muhammed arasındaki ticari ilişki nasıl başlamıştır?",
+          "a": "Hz. Hatice ticaret kervanını yönetmesi için Hz. Muhammed'i görevlendirmiş, onun dürüstlüğüne ve başarısına tanık olmuştur."
+        },
+        {
+          "q": "İslam'a ilk inanan kişi kimdir?",
+          "a": "Hz. Hatice'dir; ilk Müslüman olma şerefini taşır."
+        },
+        {
+          "q": "Hz. Hatice ilk vahiy sonrası Peygamberimize nasıl destek olmuştur?",
+          "a": "Onu teselli edip sakinleştirmiş, sözlerine inanmış ve maddi-manevi her türlü desteği vermiştir."
+        },
+        {
+          "q": "Hz. Hatice'nin Peygamberimize destekleri hangi yönleriyle öne çıkar?",
+          "a": "İnancında sabit durması, servetiyle İslam'a ve Müslümanlara destek olması, sıkıntılı günlerde yanında yer alması."
+        },
+        {
+          "q": "Hz. Hatice'nin vefatı Müslümanlar için neden önemlidir?",
+          "a": "İslam'a büyük emek vermiş ilk Müslüman ve en sadık destekçi vefat etmiş; bu yıl 'Hüzün Yılı' olarak anılmıştır."
+        }
+      ]
+    },
+    {
+      "name": "3. Ünite - Peygamberimizin Hayatında Önemli Bir Hadise: Hicret",
+      "questions": [
+        {
+          "q": "Hicret nedir ve ne zaman gerçekleşmiştir?",
+          "a": "Peygamberimizin ve Mekkeli Müslümanların 622 yılında Mekke'den Medine'ye göç etmesidir.",
+          "image": "data/qa/img/539_sum2.png"
+        },
+        {
+          "q": "Akabe Biatları'nın önemi nedir?",
+          "a": "Medineli Müslümanların Peygamberimize bağlılık sözü verdiği görüşmelerdir; hicretin ve Medine'de İslam devletinin zeminini hazırlamıştır."
+        },
+        {
+          "q": "Medine'nin eski adı nedir?",
+          "a": "Yesrib'dir; hicretten sonra 'Medinetü'n-Nebi' (Peygamber şehri) olarak anılmıştır."
+        },
+        {
+          "q": "Hicret yolculuğunda Peygamberimiz ve Hz. Ebû Bekir nerede saklanmıştır?",
+          "a": "Mekke yakınlarındaki Sevr Mağarası'nda üç gün saklanmışlardır."
+        },
+        {
+          "q": "Hicretin başlıca sonuçları nelerdir?",
+          "a": "İslam devletinin temeli atılmış, Medine İslam toplumunun merkezi olmuş, hicri takvim başlangıç kabul edilmiştir."
+        },
+        {
+          "q": "Mescid-i Nebevî ve Suffe'nin işlevi nedir?",
+          "a": "Mescid-i Nebevî ibadet, eğitim ve idari merkez olmuş; Suffe ise mescitte eğitim gören öğrencilerin barındığı yerdir."
+        },
+        {
+          "q": "Medine Sözleşmesi'nin önemi nedir?",
+          "a": "Müslümanlar ile Medine'deki diğer topluluklar arasında yapılan, birlikte yaşama esaslarını belirleyen ilk yazılı anlaşma/sözleşmedir."
+        }
+      ]
+    },
+    {
+      "name": "4. Ünite - En Yüce Dosta",
+      "questions": [
+        {
+          "q": "Veda Haccı nedir ve önemi nedir?",
+          "a": "Peygamberimizin 632 yılında yaptığı son hacdır; burada Veda Hutbesi'ni okumuş, evrensel ilkeleri duyurmuştur.",
+          "image": "data/qa/img/539_sum0.png"
+        },
+        {
+          "q": "Veda Hutbesi'nde vurgulanan temel ilkeler nelerdir?",
+          "a": "Can, mal ve namusun dokunulmazlığı; eşitlik, adalet, kadın hakları, emanete riayet ve tevhid inancı."
+        },
+        {
+          "q": "Hz. Muhammed (s.a.v.) ne zaman ve nerede vefat etmiştir?",
+          "a": "632 yılında Medine'de vefat etmiş ve Mescid-i Nebevî'deki odasına defnedilmiştir."
+        },
+        {
+          "q": "Peygamberimizin vefatı Müslümanları nasıl etkilemiştir?",
+          "a": "Büyük üzüntü yaşanmış; Hz. Ebû Bekir'in hatırlatmasıyla Müslümanlar Peygamberin ölümlü, Allah'ın ise ebedî olduğunu idrak etmiştir."
+        },
+        {
+          "q": "Peygamberimizin emanetleri arasında neler yer alır?",
+          "a": "Ümmetine bıraktığı en büyük emanet Kur'an-ı Kerim ve sünnetidir; ayrıca adalet, ahlak ve kardeşlik ilkeleridir."
+        }
+      ]
+    }
+  ]
+}

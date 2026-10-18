@@ -1,0 +1,122 @@
+{
+  "bookId": 499,
+  "title": "Temel Dinî Bilgiler 9.Sınıf Ders Kitabı (AİHL)",
+  "units": [
+    {
+      "name": "1. Ünite - Kendimi, Kâinatı ve Allah'ı Tanıyorum",
+      "questions": [
+        {
+          "q": "İnsanın yaratılışının temel amacı nedir?",
+          "a": "İnsan, Allah'ı tanımak, O'na ibadet etmek ve yeryüzünü imar ederek iyi bir kul olmak üzere yaratılmıştır.",
+          "image": "data/qa/img/499_sum0.png"
+        },
+        {
+          "q": "Evrenin/kâinatın yaratılışında gözlenen düzen ve ölçü bize neyi gösterir?",
+          "a": "Evrendeki hassas düzen ve uyum, her şeyi bilen, kudretli bir Yaratıcı'nın varlığını ve birliğini gösterir."
+        },
+        {
+          "q": "Allah'ın varlığını ve birliğini gösteren delillerden bazılarını yazınız.",
+          "a": "Kâinattaki düzen (nizam), insanın yaratılışı, canlılığın oluşumu, aklî ve fıtrî deliller Allah'ın varlığına ve birliğine işaret eder."
+        },
+        {
+          "q": "Esma-i hüsna ne demektir?",
+          "a": "Allah'ın güzel isimleri anlamına gelir; O'nun sıfatlarını ve sonsuz kemalini yansıtır."
+        },
+        {
+          "q": "'Tevhid' kavramını açıklayınız.",
+          "a": "Allah'ın bir olduğunu, eşi ve benzeri bulunmadığını kabul etmek; ibadette yalnızca O'na yönelmektir."
+        }
+      ]
+    },
+    {
+      "name": "2. Ünite - Yaratılışın Gayesi: Allah'a İman",
+      "questions": [
+        {
+          "q": "İmanın esasları (imanın şartları) nelerdir?",
+          "a": "Allah'a, meleklere, kitaplara, peygamberlere, ahiret gününe ve kadere (hayır ve şerrin Allah'tan olduğuna) iman etmektir.",
+          "image": "data/qa/img/499_sum1.png"
+        },
+        {
+          "q": "Allah'a iman etmek neyi gerektirir?",
+          "a": "Allah'ın varlığına, birliğine, sıfatlarına ve isimlerine inanmayı; O'nu hiçbir şeye benzetmemeyi gerektirir."
+        },
+        {
+          "q": "Meleklere imanın mahiyeti nedir?",
+          "a": "Melekler; nurdan yaratılmış, gözle görülmeyen, Allah'ın emirlerini yerine getiren varlıklardır. Büyük meleklerden bazıları Cebrail, Azrail, Mikail, İsrafil'dir."
+        },
+        {
+          "q": "Kitaplara iman nedir; ilahi kitaplar hangileridir?",
+          "a": "Allah'ın peygamberlerine gönderdiği ilahi kitaplara inanmaktır. Başlıcaları Tevrat, Zebur, İncil ve Kur'an-ı Kerim'dir."
+        },
+        {
+          "q": "Peygamberlere iman neyi ifade eder?",
+          "a": "Allah'ın, insanları doğru yola iletmek için seçtiği peygamberlere ve onların getirdiklerine inanmaktır. İlk peygamber Hz. Âdem, son peygamber Hz. Muhammed'dir."
+        },
+        {
+          "q": "Ahiret gününe iman ne demektir?",
+          "a": "Ölümden sonra dirilişin, hesabın ve cennet-cehennemin gerçek olduğuna inanmaktır."
+        },
+        {
+          "q": "Kadere ve kazaya imanı kısaca açıklayınız.",
+          "a": "Kader, Allah'ın ezelî ilmiyle her şeyi belirlemesi; kaza ise bunların zamanı gelince gerçekleşmesidir."
+        }
+      ]
+    },
+    {
+      "name": "3. Ünite - İmanın Meyvesi: İbadetler",
+      "questions": [
+        {
+          "q": "İbadet nedir ve amacı nedir?",
+          "a": "Allah'ın rızasını kazanmak için yapılan davranışlardır; amacı kulluk bilincini güçlendirmek ve ahlakı güzelleştirmektir.",
+          "image": "data/qa/img/499_sum2.png"
+        },
+        {
+          "q": "İslam'ın temel ibadetleri (İslam'ın şartları) nelerdir?",
+          "a": "Kelime-i şehadet, namaz, oruç, zekât ve hac (bunlara iman ile birlikte İslam'ın esasları denir)."
+        },
+        {
+          "q": "Namazın dinimizdeki önemi nedir?",
+          "a": "Namaz, günde beş vakit kılınan, kişiyi kötülüklerden alıkoyan ve Allah ile bağını güçlendiren temel ibadettir."
+        },
+        {
+          "q": "Oruç ibadeti hangi ilkeleri kazandırır?",
+          "a": "Sabır, irade gücü, nimetlere şükür ve empati duygusunu geliştirir."
+        },
+        {
+          "q": "Zekât nedir; kimlere verilir?",
+          "a": "Belirli bir zenginliğe sahip Müslümanların malının kırkta birini vermesidir; Kur'an'da belirtilen sekiz sınıfa verilir."
+        },
+        {
+          "q": "Hac ibadetinin anlamı ve şartları nedir?",
+          "a": "Ömründe bir kez, imkânı olan Müslümanların Kâbe'yi ziyaret etmesidir; Müslümanların birlik ve kardeşliğini güçlendirir."
+        }
+      ]
+    },
+    {
+      "name": "4. Ünite - İslam'ın Özü: Güzel Ahlak",
+      "questions": [
+        {
+          "q": "Ahlak nedir; güzel ahlakın kaynağı nedir?",
+          "a": "Ahlak, kişinin davranışlarını yönlendiren değerler bütünüdür; güzel ahlakın kaynağı Kur'an ve Peygamberimizin sünnetidir.",
+          "image": "data/qa/img/499_sum0.png"
+        },
+        {
+          "q": "Dürüstlük ve güvenilirliğin günlük hayattaki önemi nedir?",
+          "a": "Dürüstlük, bireyler arası güveni ve toplumsal huzuru sağlar; güvenilir insan sözünde durur, emaneti korur."
+        },
+        {
+          "q": "Adalet ilkesinin toplumsal yaşamdaki rolü nedir?",
+          "a": "Adalet, hakların gözetilmesini ve barışın korunmasını sağlar; liyakate ve hakkaniyete dayanır."
+        },
+        {
+          "q": "Hoşgörü ve kardeşlik anlayışını örneklerle açıklayınız.",
+          "a": "İnsanların inanç ve görüş farklılıklarına saygı göstermek, yardımlaşmak ve ötekini anlamaya çalışmak kardeşlik ve hoşgörünün gereğidir."
+        },
+        {
+          "q": "İslam ahlakında kanaat ve tasarruf (israf etmemek) nasıl yer alır?",
+          "a": "Kişinin elindekiyle yetinmesi (kanaat) ve kaynakları ölçülü kullanıp israftan kaçınması övülen ahlaki davranışlardır."
+        }
+      ]
+    }
+  ]
+}
