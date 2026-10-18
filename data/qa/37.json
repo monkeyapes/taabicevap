@@ -1,0 +1,40 @@
+{
+  "bookId": 37,
+  "title": "Coğrafya Dersi 9.Sınıf Ders Kitabı",
+  "units": [
+    {
+      "name": "1. Ünite — Coğrafyanın Doğası",
+      "questions": [
+        { "q": "Coğrafya biliminin tanımını yapınız ve konusunu yazınız.", "a": "Coğrafya; insan ile doğal çevre arasındaki ilişkiyi ve bu ilişkinin mekâna dağılışını inceleyen bilimdir. İki ana dalı fiziki ve beşerî coğrafyadır.", "page": 29, "image": "data/qa/img/37_p29.png" },
+        { "q": "Coğrafyanın ilkelerini yazınız.", "a": "Dağılış (mekân), nedensellik (sebep-sonuç) ve karşılıklı ilişki (bağlantı) ilkeleridir." },
+        { "q": "Haritalarda ölçek ve lejant (harita anahtarı) ne işe yarar?", "a": "Ölçek, haritadaki uzunlukların gerçek uzunluğa oranını gösterir; lejant ise haritadaki sembol ve işaretlerin ne anlama geldiğini açıklar." },
+        { "q": "Haritaların kullanım alanlarına üç örnek veriniz.", "a": "Yol bulma ve ulaşım, askerî planlama, şehir ve imar planlaması, doğal kaynak araştırmaları gibi." }
+      ]
+    },
+    {
+      "name": "2. Ünite — Dünya'nın Şekli ve Hareketleri",
+      "questions": [
+        { "q": "Dünya'nın kendi ekseni etrafında dönmesinin sonuçları nelerdir?", "a": "Gece ve gündüz oluşur, günlük sıcaklık farkları meydana gelir, yerel saat farkları ortaya çıkar ve merkezkaç kuvveti oluşur." },
+        { "q": "Dünya'nın Güneş çevresinde dönmesinin sonuçlarını yazınız.", "a": "Mevsimler oluşur, gece-gündüz süreleri değişir ve Güneş ışınlarının düşme açısı yıl boyunca değişir." },
+        { "q": "Dünya'nın şeklinin (geoit olmasının) sonuçlarından üç tanesini yazınız.", "a": "Güneş ışınlarının farklı açılarla gelmesi, ekvatordan kutuplara sıcaklığın azalması ve yerçekiminin kutuplarda daha fazla olması." },
+        { "q": "21 Mart ve 23 Eylül tarihlerinin özelliği nedir?", "a": "Ekinoks (gece ile gündüzün eşit olduğu) tarihlerdir; 21 Mart ilkbahar, 23 Eylül sonbahar başlangıcıdır." }
+      ]
+    },
+    {
+      "name": "3. Ünite — Atmosfer, İklim ve Beşerî Sistemler",
+      "questions": [
+        { "q": "Atmosferin katmanlarını ve özelliklerini yazınız.", "a": "Troposfer (hava olayları burada olur), stratosfer (ozon tabakası), mezosfer, termosfer ve ekzosfer." },
+        { "q": "İklim ile hava durumu arasındaki farkı açıklayınız.", "a": "Hava durumu kısa süreli, değişken atmosfer olaylarıdır; iklim ise geniş bir sahada uzun yıllar boyunca görülen ortalama hava koşullarıdır." },
+        { "q": "Nüfus politikalarına iki ülke örneği vererek sonuçlarını yazınız.", "a": "Nüfus artışını azaltmaya çalışan ülkeler (Japonya gibi) yaşlanma sorunuyla karşılaşır; artırmaya çalışan ülkeler daha genç nüfusa sahip olur." }
+      ]
+    },
+    {
+      "name": "4. Ünite — Afetler ve Sürdürülebilir Çevre",
+      "questions": [
+        { "q": "Bütüncül afet yönetiminin aşamalarını yazınız.", "a": "Afet öncesi (hazırlık-önleme), afet esnası (müdahale) ve afet sonrası (iyileştirme-yeniden yapılanma) aşamalarıdır." },
+        { "q": "Doğal afetlere üç örnek veriniz.", "a": "Deprem, sel, heyelan, çığ, kuraklık, orman yangını ve fırtına." },
+        { "q": "Sürdürülebilir çevre için alınabilecek önlemlere üç örnek veriniz.", "a": "Geri dönüşüm, yenilenebilir enerji kullanımı ve doğal kaynakların tasarruflu kullanımı." }
+      ]
+    }
+  ]
+}

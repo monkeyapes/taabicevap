@@ -1,0 +1,32 @@
+{
+  "bookId": 60,
+  "title": "Türkçe 6.Sınıf Ders Kitabı (1.Kitap)",
+  "units": [
+    {
+      "name": "1. Tema — Dilimizin Zenginliği",
+      "questions": [
+        { "q": "\"Vatan\" kelimesinin size çağrıştırdığı üç kavramı yazınız.", "a": "Bayrak, toprak, bağımsızlık, millet ve vatan sevgisi kavramlarını çağrıştırır.", "page": 66, "image": "data/qa/img/60_p66.png" },
+        { "q": "Deyimlerin atasözlerinden farkı nedir?", "a": "Deyimler en az iki kelimeden oluşur ve genellikle bir durumu anlatır; atasözleri ise tam bir yargı (öğüt) bildirir ve cümle hâlindedir." },
+        { "q": "\"Ağzı kulaklarına varmak\" deyiminin anlamı nedir? Cümlede kullanınız.", "a": "Çok sevinmek demektir. \"Sınavı kazandığını duyunca ağzı kulaklarına vardı.\"" },
+        { "q": "Somut ve soyut anlamlı kelimelere ikişer örnek veriniz.", "a": "Somut: masa, ağaç (duyularla algılanır). Soyut: sevgi, umut (duyularla algılanamaz)." }
+      ]
+    },
+    {
+      "name": "2. Tema — Millî Kültürümüz ve Okuma",
+      "questions": [
+        { "q": "Metnin başlığından ve görsellerinden yararlanarak konuyu tahmin etmek neden yararlıdır?", "a": "Okuma öncesi tahmin, okuduğumuzu daha iyi anlamamızı ve dikkatimizi toplamamızı sağlar." },
+        { "q": "Bir metinde \"5N1K\" soruları hangileridir?", "a": "Ne, nerede, ne zaman, nasıl, neden, kim sorularıdır; metni anlamlandırmamıza yardım eder." },
+        { "q": "Öznel ve nesnel yargı arasındaki farkı örnekle açıklayınız.", "a": "Nesnel yargı kanıtlanabilir (Ankara Türkiye'nin başkentidir); öznel yargı kişisel görüş bildirir (Bu kitap çok güzel)." },
+        { "q": "Şiirde \"dize\", \"kıta\" ve \"redif\" ne demektir?", "a": "Dize, şiirin her bir satırıdır; kıta, dört dizeden oluşan bölümdür; redif, dize sonlarında tekrarlanan aynı anlamlı sözcük ya da eklerdir." }
+      ]
+    },
+    {
+      "name": "3. Tema — Dil Bilgisi",
+      "questions": [
+        { "q": "İsim (ad) ve fiil (eylem) arasındaki fark nedir?", "a": "İsimler varlıkları, kavramları karşılar; fiiller iş, oluş ve hareketi bildirir. \"Kitap\" isim, \"okumak\" fiildir." },
+        { "q": "Varlıklara çoğul eki getirerek iki örnek yazınız.", "a": "Kitap → kitaplar, çocuk → çocuklar (çoğul eki \"-lar/-ler\")." },
+        { "q": "Sıfat (ön ad) nedir? İki örnek yazınız.", "a": "İsmi niteleyen ya da belirten sözcüklerdir. Örnek: \"kırmızı\" elma, \"üç\" kitap." }
+      ]
+    }
+  ]
+}

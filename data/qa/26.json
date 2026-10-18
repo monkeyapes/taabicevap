@@ -1,0 +1,39 @@
+{
+  "bookId": 26,
+  "title": "Matematik 5.Sınıf Ders Kitabı (2.Kitap)",
+  "units": [
+    {
+      "name": "Kesirler ve Ondalık Gösterim",
+      "questions": [
+        { "q": "Bir kesrin sadeleştirilmesi ne demektir? Örnek yapınız.", "a": "Pay ve paydayı aynı sayıya bölerek kesri en basit hâline getirmektir. 12/18 kesrini 6'ya bölersek 2/3 olur." },
+        { "q": "3/4 kesrini ondalık gösterim olarak yazınız.", "a": "3 ÷ 4 = 0,75 olduğundan 3/4 = 0,75'tir." },
+        { "q": "1/2 + 1/4 işleminin sonucunu bulunuz.", "a": "Paydalar eşitlenir: 1/2 = 2/4, 2/4 + 1/4 = 3/4." },
+        { "q": "Ondalık gösterimde basamak değerlerini açıklayınız.", "a": "Virgülün sağındaki ilk basamak onda birler, ikincisi yüzde birler, üçüncüsü binde birler basamağıdır. 3,45'te 4 onda birler, 5 yüzde birler basamağındadır." }
+      ]
+    },
+    {
+      "name": "Yüzdeler",
+      "questions": [
+        { "q": "Bir sayının %40'ını bulmak için nasıl işlem yaparsınız?", "a": "Sayıyı 40 ile çarpıp 100'e bölerim (ya da 0,40 ile çarparım). Örneğin 200'ün %40'ı: 200 × 40 ÷ 100 = 80." },
+        { "q": "50 sayısının %25'i kaçtır?", "a": "50 × 25 ÷ 100 = 12,5'tir." },
+        { "q": "\"Bir ürün 80 TL'den 64 TL'ye düştü. Yüzde kaç indirim yapılmıştır?\" problemini çözünüz.", "a": "İndirim: 80 − 64 = 16 TL. 16 ÷ 80 × 100 = %20 indirim yapılmıştır." }
+      ]
+    },
+    {
+      "name": "Geometrik Cisimler ve Alan",
+      "questions": [
+        { "q": "Dikdörtgenler prizmasının özelliklerini yazınız.", "a": "6 yüzü, 12 ayrıtı ve 8 köşesi vardır; karşılıklı yüzleri birbirine eşittir." },
+        { "q": "Karenin alanını nasıl hesaplarsınız?", "a": "Karenin alanı bir kenar uzunluğunun kendisiyle çarpımıdır: Alan = kenar × kenar. Örneğin kenarı 5 cm ise alan 25 cm²'dir." },
+        { "q": "Dikdörtgenin çevresi ile alanı arasındaki farkı açıklayınız.", "a": "Çevre, kenarların uzunlukları toplamıdır (2 × (uzun kenar + kısa kenar)); alan ise kapladığı yüzey miktarıdır (uzun kenar × kısa kenar)." }
+      ]
+    },
+    {
+      "name": "Ölçme ve Veri",
+      "questions": [
+        { "q": "3 saat 25 dakika toplam kaç dakikadır?", "a": "3 saat = 3 × 60 = 180 dakika; 180 + 25 = 205 dakikadır." },
+        { "q": "Bir sütun grafiği hangi durumlarda kullanılır?", "a": "Farklı kategorilerdeki verileri karşılaştırmak ve en çok/en az olan değerleri kolayca görmek için kullanılır." },
+        { "q": "2,5 litre meyve suyu, 200 mL'lik bardaklara kaç bardak doldurur?", "a": "2,5 litre = 2500 mL; 2500 ÷ 200 = 12,5 olduğundan 12 tam bardak dolar, biraz meyve suyu artar." }
+      ]
+    }
+  ]
+}
