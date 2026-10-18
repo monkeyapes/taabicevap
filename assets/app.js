@@ -127,35 +127,79 @@ async function openBook(id) {
     try {
       const r = await fetch(`data/qa/${b.id}.json`);
       const qa = await r.json();
-      renderQa(qa);
+      renderQa(qa, b);
     } catch (e) {
       $("#qaArea").innerHTML = `<div class="noqa">Sorular yüklenemedi.</div>`;
     }
   }
 }
 
-function renderQa(qa) {
+let viewCtx = null;
+
+function renderQa(qa, book) {
   const area = $("#qaArea");
   if (!area) return;
   const units = qa.units || [];
   if (!units.length && !qa.questions?.length) { area.innerHTML = `<div class="noqa">Soru bulunamadı.</div>`; return; }
   const blocks = units.length ? units : [{ name: "Sorular", questions: qa.questions }];
-  area.innerHTML = blocks.map((u) => `<section class="unit">
+  viewCtx = { book, blocks };
+  area.innerHTML = blocks.map((u, ui) => `<section class="unit">
       <h4>${esc(u.name)}</h4>
-      ${(u.questions || []).map((x) => `<div class="qa">
-          ${x.image ? `<img loading="lazy" src="${esc(x.image)}" alt="">` : ""}
+      ${(u.questions || []).map((x, qi) => `<div class="qa">
+          ${x.image ? `<img class="qa-img" loading="lazy" data-u="${ui}" data-q="${qi}" src="${esc(x.image)}" alt="">` : ""}
           <p class="q">${esc(x.q)}</p>
           <p class="a"><b>Cevap:</b> ${esc(x.a)}</p>
-          ${x.page ? `<div class="tag">Sayfa ${x.page}</div>` : ""}
+          <div class="qa-foot">
+            ${x.page ? `<span class="tag">Sayfa ${x.page}</span>` : `<span></span>`}
+            <button class="btn open-full" data-u="${ui}" data-q="${qi}">Tam ekran</button>
+          </div>
         </div>`).join("")}
     </section>`).join("");
+  area.querySelectorAll(".open-full").forEach((el) =>
+    el.addEventListener("click", () => openViewer(+el.dataset.u, +el.dataset.q)));
+  area.querySelectorAll(".qa-img").forEach((el) =>
+    el.addEventListener("click", () => openViewer(+el.dataset.u, +el.dataset.q)));
+}
+
+function openViewer(ui, qi) {
+  if (!viewCtx) return;
+  const unit = viewCtx.blocks[ui];
+  const x = (unit.questions || [])[qi];
+  if (!x) return;
+  const title = [viewCtx.book?.title, unit.name].filter(Boolean).join(" · ");
+  $("#viewerTitle").textContent = title;
+  $("#viewerStage").innerHTML = `<div class="viewer-page">
+      ${x.image ? `<img class="viewer-img" src="${esc(x.image)}" alt="">` : ""}
+      <div class="viewer-text">
+        <p class="vq">${esc(x.q)}</p>
+        <p class="va"><b>Cevap:</b> ${esc(x.a)}</p>
+        ${x.page ? `<div class="tag">Sayfa ${x.page}</div>` : ""}
+      </div>
+    </div>`;
+  $("#viewer").hidden = false;
+  document.body.style.overflow = "hidden";
+  $("#viewerClose").onclick = closeViewer;
+  $("#viewer").onclick = (e) => { if (e.target.id === "viewer") closeViewer(); };
+}
+
+function closeViewer() {
+  const v = $("#viewer");
+  if (!v || v.hidden) return false;
+  v.hidden = true;
+  if ($("#modal").hidden) document.body.style.overflow = "";
+  return true;
 }
 
 function closeModal() {
+  closeViewer();
   $("#modal").hidden = true;
   document.body.style.overflow = "";
   document.removeEventListener("keydown", escClose);
 }
-function escClose(e) { if (e.key === "Escape") closeModal(); }
+function escClose(e) {
+  if (e.key !== "Escape") return;
+  if (closeViewer()) return;
+  closeModal();
+}
 
 load();
