@@ -1,0 +1,1888 @@
+{
+ "bookId": 490,
+ "done": true,
+ "pages": {
+  "3": [
+   {
+    "q": "Bu sayfadaki sorular ve etkinlikler nelerdir?",
+    "a": "Sayfada soru veya etkinlik yok; yalnızca \"Hadis İlmine Giriş\" başlığı ve Mehmet Âkif Ersoy'un İstiklal Marşı metni yer alıyor."
+   }
+  ],
+  "8": [
+   {
+    "q": "Namazlarda hangi dualar okunur?",
+    "a": "Sübhâneke, Ettehiyyâtü, Allâhümme salli, Allâhümme bârik, Rabbenâ âtinâ, Rabbenâğfirlî ve Kunut duaları; ayrıca Fatiha ile Fil–Nâs sureleri okunur."
+   },
+   {
+    "q": "Namazda okuduğunuz surelerin anlamlarını merak ettiğinizde hangi kaynaklara başvuruyorsunuz?",
+    "a": "Kur'an-ı Kerim meali, tefsirler ve Diyanet İşleri Başkanlığı gibi güvenilir dinî kaynaklara."
+   },
+   {
+    "q": "Günlük hayatta karşılaştığınız zorluklar karşısında dua etmenin size ne gibi katkıları olur?",
+    "a": "Sabır, ümit, huzur ve manevi güç verir; Allah'a sığınma ve teslimiyet duygusu kazandırır."
+   },
+   {
+    "q": "Namazda okuduğunuz sureler ve dualar size hangi duyguları hissettiriyor?",
+    "a": "Huzur, güven, şükür, yakınlık ve Allah'a teslimiyet duyguları."
+   },
+   {
+    "q": "Günlük hayatta sözlerinizin bağlamından koparılarak yanlış yorumlanması ile ayetlerin anlamı bilinmeden okunmasının yol açacağı hatalar arasında nasıl bir benzerlik vardır?",
+    "a": "Her ikisinde de bağlam ve anlam bilinmediğinden yanlış yorum ve hata ortaya çıkar; doğru anlam için bağlam gereklidir."
+   }
+  ],
+  "9": [
+   {
+    "q": "Sıra Sizde — Kâfirun suresinin verdiği mesajı düşünerek günlük hayatta doğru olduğunu düşündüğünüz bir değerden vazgeçmeniz istenirse nasıl davranırsınız?",
+    "a": "Doğru bildiğim değerden vazgeçmem; inancıma ve ilkelerime bağlı kalarak saygılı ama kararlı bir şekilde reddederim."
+   },
+   {
+    "q": "ETKİNLİK-22 (30 dk.) — \"Kâfirun Suresini Tilavet Ediyorum\" etkinliğini uygulama adımlarına göre yapınız.",
+    "a": "Sureyi öğretmen ve karekoddan dinlerim; mahreç, hareke ve tecvit kurallarına dikkat ederek yüzünden okur, bireysel/koro hâlinde talim eder, ezberler ve öğretmen dönütleriyle hatalarımı düzeltirim."
+   },
+   {
+    "q": "Değerlendirme — Aşağıdaki kelimelerde yer alan tecvit kurallarını belirleyerek yazınız: وَلَا أَنَا / عَابِدُونَ / وَلَا أَنْتُمْ / عَابِدٌ مَا عَبَدْتُمْ",
+    "a": "وَلَا أَنَا: medd-i munfasıl; عَابِدُونَ: medd-i tabii; وَلَا أَنْتُمْ: medd-i munfasıl; عَابِدٌ مَا عَبَدْتُمْ: idgam-ı maal gunne (tenvin + mim)."
+   }
+  ],
+  "10": [
+   {
+    "q": "Telaffuz Edelim etkinliği: Harflerin iki esre harekesiyle okunuşunu öğretmeninizden dinleyip telaffuz ediniz.",
+    "a": "Harfler \"in\" (ince) veya \"ın-in\" arası sesle, sona sakin nun eklenerek okunur; karekoddan tekrar edilir."
+   },
+   {
+    "q": "Uygulama Tablosu etkinliği: Örnekleri karekoddan dinleyerek telaffuz özelliklerine uygun seslendiriniz.",
+    "a": "Örnekler iki esre kuralına göre (beytin, şehrin, baha'in vb.) tenvinli şekilde seslendirilir."
+   },
+   {
+    "q": "Ezbere Okuma etkinliği: Sübhaneke duasını ezberden okuyunuz.",
+    "a": "\"Sübhânakellâhümme ve bihamdike ve tebârakesmüke ve teâlâ ceddüke ve celle senâükе ve lâ ilâhe gayruk\" şeklinde ezberden okunur."
+   },
+   {
+    "q": "Sübhaneke ne anlama gelir ve ne için kullanılır?",
+    "a": "Allah'ı tespih ifadesidir; O'nu her türlü eksiklik ve noksanlıktan tenzih etmek için kullanılır."
+   },
+   {
+    "q": "Tenzih nedir?",
+    "a": "Allah'ın noksanlıklardan uzak olduğunu ifade eder."
+   },
+   {
+    "q": "Hamt nedir?",
+    "a": "Allah'a yönelen övgü ve şükür anlamına gelir."
+   },
+   {
+    "q": "Tevhit nedir?",
+    "a": "Allah'tan başka ilah olmadığını vurgular."
+   },
+   {
+    "q": "Dua nedir?",
+    "a": "Kulun Allah'a yönelip O'ndan dilek ve istekte bulunmasıdır."
+   },
+   {
+    "q": "Sübhaneke duası namazda ne zaman ve nasıl okunur?",
+    "a": "Namazların ilk rekâtında, ikindinin sünneti ve yatsının ilk sünnetinin üçüncü rekâtında Fatiha'dan önce okunur; cenaze namazının birinci tekbirinden sonra \"Ve celle senâük\" eklenir."
+   },
+   {
+    "q": "Mahreç nedir?",
+    "a": "Ses yolunda harflerin çıktığı yerdir."
+   },
+   {
+    "q": "Kur'an harflerinin çıkış yerleri (mahreç bölgeleri) nerelerdir?",
+    "a": "Boğaz, dil ve dudak olmak üzere üç temel bölgedir."
+   },
+   {
+    "q": "Fem-i muhsin kime denir?",
+    "a": "Kur'an tilavetini kurallarına uygun icra eden, uzman hocadan ders alarak yetişen, mükemmel üslupla okuyan ve okutan kimsedir."
+   },
+   {
+    "q": "Tecvit ilminin yönleri nelerdir?",
+    "a": "Nazarî (teorik) ve amelî (pratik) olmak üzere iki yönü vardır."
+   }
+  ],
+  "11": [
+   {
+    "q": "1. Verilen ayetlerde geçen med çeşitlerinden birer örnek bulup altını çiziniz.",
+    "a": "Medditabii: \"اَلصَّلٰوةَ، يُؤْمِنُوَن\"، Meddimuttasıl: \"اُولٰٓئِكَ\"، Meddimunfasıl: \"بِمَآ اُنْزِلَ\"، Meddiarız: ayet sonundaki \"يُوْقِنُوَن\" (vakıfta), Meddilazım ve Meddilin: bu ayetlerde yok."
+   },
+   {
+    "q": "2. Bulduğunuz med çeşitlerinden en az birer tanesini aşağıdaki ilgili kutucuklara yazınız.",
+    "a": "Medditabii: \"يُؤْمِنُوَن\" — Meddimuttasıl: \"اُولٰٓئِكَ\" — Meddimunfasıl: \"بِمَآ اُنْزِلَ\" — Meddiarız: \"يُوْقِنُوَن\" — Meddilazım: (yok) — Meddilin: (yok)."
+   },
+   {
+    "q": "Uygulama Tablosu'ndaki örnekleri kurallarına uygun telaffuz ediniz.",
+    "a": "Medditabii örnekleri (bir elif): \"مَا، قِيْلَ، كَانَا، جِبَال، صَام، جَوَاب\"; med harfi bir elif uzatılarak okunur."
+   },
+   {
+    "q": "Performans Görevi — Medditabii, meddimuttasıl, meddimunfasıl, meddiarız, meddilazım ve meddilin örneklerini tespit edip sunabilme.",
+    "a": "Fatiha veya Bakara 1-169. sayfalar arasından seçilen üç sayfada bu med çeşitlerine örnekler bulunup kurallarına uygun yüzünden okunarak sunulur."
+   },
+   {
+    "q": "Öz değerlendirme formu — Med çeşitlerini yüzünden okuma becerinizi değerlendiriniz.",
+    "a": "Her ölçüt için kendi durumunuza göre \"Evet / Kısmen / Hayır\" işaretlenir."
+   }
+  ],
+  "12": [
+   {
+    "q": "13. Bu metne uygun bir başlık yazınız.",
+    "a": "\"Kur'an-ı Kerim'in Türk Milletinin Hayatındaki Yeri\" (veya \"Vatan, Millet ve Kur'an\")."
+   },
+   {
+    "q": "14. Bu metinden yararlanarak Kur'an-ı Kerim'in kültürümüzdeki yeri ile ilgili iki cümle yazınız.",
+    "a": "Kur'an, bu milletin varlık sebebi olmuş ve onu tarihteki seçkin yerine oturtmuştur. Anadolu'da her evin başköşesinde bir Mushaf bulunur, kızların çeyizine bile Mushaf konur."
+   },
+   {
+    "q": "15. Kur'an-ı Kerim hakkında verilen bilgilerden hangisi doğru değildir?",
+    "a": "C) Kur'an'ın okunması ezber yoluyla yapılmalıdır."
+   },
+   {
+    "q": "16. Boşluklara sırasıyla hangisi getirilmelidir?",
+    "a": "C) cüz – hizip – ayet"
+   }
+  ],
+  "16": [
+   {
+    "q": "Kur'an-ı Kerim okumayı öğrenmek Müslümanlar için neden önemlidir?",
+    "a": "İslam'ı doğru anlayıp hayata aktarmak, Allah'ın emir ve yasaklarını bilmek, şifa ve rahmet kaynağı olan vahye ulaşmak için gereklidir."
+   },
+   {
+    "q": "Kur'an-ı Kerim okurken dikkat edilmesi gereken hususlar nelerdir?",
+    "a": "Abdest ve temizlik, usulüne uygun (tecvidli) okuma, saygı gösterme, harflerin mahrecine dikkat ve ihlas ile okuma."
+   },
+   {
+    "q": "Doğum, düğün, kandil geceleri, cenaze gibi merasimlerde neden Kur'an-ı Kerim okunur?",
+    "a": "Bereket, rahmet ve şifa kaynağı olduğu; sevap kazanmak, ölüye dua ve manevi huzur için okunur."
+   },
+   {
+    "q": "Kur'an-ı Kerim'in iç düzeni ile ilgili hangi kavramları biliyorsunuz?",
+    "a": "Sure, ayet, cüz, mushaf, hatim, Fatiha suresiyle başlayıp Nas suresiyle bitmesi gibi kavramlar."
+   },
+   {
+    "q": "Karekodla verilen videodaki bilgileri kendi tecrübelerinizle ilişkilendirerek değerlendiriniz.",
+    "a": "Video, Kur'an okumanın önemi ve usulünü anlatır; edindiğim bilgi ve gözlemlerle uyumludur, Kur'an'ı doğru ve saygıyla okumanın gerekliliğini pekiştirir."
+   },
+   {
+    "q": "Köprü Kurma — Kur'an-ı Kerim'i usulüne uygun okumak ve ona saygı göstermek bütün Müslümanlar için önemlidir.",
+    "a": "Görme engelliler için Braille Kur'an örneği, Allah'ın kelamına herkesin ulaşabileceğini; okuma ve saygının tüm Müslümanlar için ortak sorumluluk olduğunu gösterir."
+   }
+  ],
+  "18": [
+   {
+    "q": "Öğrendiklerimi davranışlarıma nasıl yansıtabilirim?",
+    "a": "Kur'an'ı okuyup anladıklarımı günlük hayatımda ahlaklı davranışlara ve ibadetlere dönüştürerek."
+   },
+   {
+    "q": "Öğrendiklerimden yola çıkarak sormak istediğim sorular nelerdir?",
+    "a": "Kur'an'ı nasıl daha iyi okuyup anlayabilirim ve hayatıma nasıl uygulayabilirim?"
+   },
+   {
+    "q": "Ramazan ayı, kandil geceleri, düğünler, cenaze merasimleri ve asker uğurlama törenlerinde Kur'an-ı Kerim okunması benim için ne anlam ifade ediyor?",
+    "a": "Bu anlarda Kur'an, birlik ve manevi huzur sağlayan, kültürümüzü yaşatan kutsal bir değerdir."
+   },
+   {
+    "q": "Kur'an-ı Kerim okumanın önemiyle ilgili öğrendiklerinizi ve düşüncelerinizi yazınız.",
+    "a": "Kur'an okumak, doğumdan ölüme hayatın her alanında yer alan ve kültürümüzü nesillere aktaran önemli bir ibadettir."
+   },
+   {
+    "q": "Kur'an-ı Kerim okumanın kişisel hayata etkileri hakkında neler düşünüyorum?",
+    "a": "İnsana manevi huzur, doğru davranış ve ahlaki sorumluluk kazandırır."
+   },
+   {
+    "q": "Kur'an-ı Kerim okumanın ibadetlerdeki yeri ve önemi ile ilgili düşüncelerim nelerdir?",
+    "a": "Namaz başta olmak üzere birçok ibadetin temelini oluşturur ve ibadetlere anlam katar."
+   },
+   {
+    "q": "Öğrendiklerim beni nasıl etkiledi?",
+    "a": "Kur'an'a ve onu okumaya karşı ilgimi artırdı, günlük yaşamımda daha dikkatli olmamı sağladı."
+   }
+  ],
+  "19": [
+   {
+    "q": "Ramazan ayında mukabele okumak sünnettir.",
+    "a": "D (Doğru)"
+   },
+   {
+    "q": "Kur'an-ı Kerim günümüze kadar değişikliğe uğramadan gelmiştir.",
+    "a": "D (Doğru)"
+   },
+   {
+    "q": "Müslüman, hayatını Kur'an'a göre şekillendirmelidir.",
+    "a": "D (Doğru)"
+   },
+   {
+    "q": "Kur'an-ı Kerim'i dinlemek ibadettir.",
+    "a": "D (Doğru)"
+   },
+   {
+    "q": "Hafızlık her Müslüman'a farzdır.",
+    "a": "Y (Yanlış)"
+   },
+   {
+    "q": "Kur'an \"örtmek, mühürlemek\" anlamlarına gelir.",
+    "a": "Y (Yanlış)"
+   },
+   {
+    "q": "Kur'an, İslam dininin temel kaynağıdır.",
+    "a": "D (Doğru)"
+   },
+   {
+    "q": "Etkinlik sonunda beni en çok etkileyen düşünce",
+    "a": "Kur'an'ı öğrenip hayatına yansıtmanın önemi (serbest/kişisel cevap)"
+   }
+  ],
+  "20": [
+   {
+    "q": "Performans görevinin amacı nedir?",
+    "a": "Kur'an-ı Kerim'i okumayı öğrenme ve güzel okumanın önemini müşahede edebilmek."
+   },
+   {
+    "q": "Performans görevinin ürünü nedir?",
+    "a": "Kur'an okumayı öğrenme ve güzel okumanın önemiyle ilgili sunum hazırlamak."
+   },
+   {
+    "q": "Ön hazırlık olarak ne yapmalısınız?",
+    "a": "Derse gelmeden önce geçerli ve güvenilir basılı/dijital kaynaklardan bilgi toplamak."
+   },
+   {
+    "q": "Sunumu hazırlarken hangi uygulama adımlarını izlemelisiniz?",
+    "a": "Çalışma planı oluşturmak, kaynak belirtmek, sınırları belirlemek, materyal kullanmak, araştırma sürecini izlemek, günlük hayattan örnek vermek."
+   },
+   {
+    "q": "Öz değerlendirme formunda hazırladığınız çalışma planına uygun hareket ettiniz mi?",
+    "a": "Evet."
+   },
+   {
+    "q": "Araştırma sürecinde en az iki farklı güvenilir kaynaktan araştırma yapıp veri topladınız mı?",
+    "a": "Evet."
+   },
+   {
+    "q": "Konuyla ilgili kavramları doğru bir şekilde belirlediniz mi?",
+    "a": "Evet."
+   },
+   {
+    "q": "İncelediğiniz bilgilerden çıkarım yaptınız mı?",
+    "a": "Evet."
+   },
+   {
+    "q": "Kur'an-ı Kerim okumayı öğrenmenin ve güzel okumanın önemini müşahede ettiniz mi?",
+    "a": "Evet."
+   },
+   {
+    "q": "Performans göreviniz nasıl değerlendirilecektir?",
+    "a": "Karekodla verilen \"Dereceli Puanlama Anahtarı\" ile değerlendirilecektir."
+   }
+  ],
+  "22": [
+   {
+    "q": "Etkinlik-2, 1. adım – Ayet, sure, hizip ve cüz kavramlarını tespit ediniz.",
+    "a": "Ayet: Sureleri oluşturan, özel işaretlerle ayrılan vahiy cümleleri. Sure: Ayetlerin bir araya gelmesiyle oluşan, Kur'an'da 114 tane bulunan bölümler. Cüz: Kur'an'ın 30 eşit parçasından her biri (berkenar mushafta 20 sayfa). Hizip: Cüzün daha küçük bölümü (mushaflarda cüzün yarısı)."
+   },
+   {
+    "q": "Etkinlik-2, 2. adım – Bu kavramların Kur'an-ı Kerim'deki yeri ve önemi nedir?",
+    "a": "Ayet Kur'an'ın temel birimi, sure 114 bölümü, cüz 30 parçası, hizip ise cüz içindeki küçük bölümlerdir; hepsi okumayı, ezberlemeyi ve takibi kolaylaştırır."
+   },
+   {
+    "q": "Etkinlik-2, 3. adım – Fetih suresi: ayet, cüz ve hizip sayısı?",
+    "a": "29 ayet, 26. cüz, 51-52. hizip"
+   },
+   {
+    "q": "Etkinlik-2, 3. adım – Bakara suresi: ayet, cüz ve hizip sayısı?",
+    "a": "286 ayet, 1-3. cüz, 1-5. hizip"
+   },
+   {
+    "q": "Etkinlik-2, 3. adım – Lokman suresi: ayet, cüz ve hizip sayısı?",
+    "a": "34 ayet, 21. cüz, 41-42. hizip"
+   },
+   {
+    "q": "Etkinlik-2, 3. adım – Mülk suresi: ayet, cüz ve hizip sayısı?",
+    "a": "30 ayet, 29. cüz, 57. hizip"
+   },
+   {
+    "q": "Kontrol Noktası 1 – Kur'an-ı Kerim'in beş sayfalık bölümüne verilen isimdir.",
+    "a": "hizip"
+   },
+   {
+    "q": "Kontrol Noktası 2 – Surelerin içinde yer alan ve özel işaretlerle ayrılan vahiy cümleleridir.",
+    "a": "ayet"
+   },
+   {
+    "q": "Kontrol Noktası 3 – Ayetlerin bir araya getirilmesiyle oluşan ve Kur'an-ı Kerim'de 114 tane bulunan bölümlerdir.",
+    "a": "sure"
+   },
+   {
+    "q": "Kontrol Noktası 4 – Kur'an-ı Kerim'in yirmi sayfadan oluşan her bir bölümüdür.",
+    "a": "cüz"
+   },
+   {
+    "q": "Değerlendirme – Kur'an-ı Kerim'in cüz, hizip gibi bölümlere ayrılması, öğrenmeyi ve anlamayı nasıl etkiler?",
+    "a": "Metni küçük ve düzenli parçalara böler; okumayı, ezberlemeyi, hatmi ve ayetlere ulaşmayı kolaylaştırarak öğrenmeyi ve anlamayı artırır."
+   }
+  ],
+  "23": [
+   {
+    "q": "1. Kur’an-ı Kerim’in iç düzeni ile ilgili numaralandırılmış bölümlerin kavramları",
+    "a": "1. Mushaf, 2. Cüz, 3. Sure, 4. Ayet"
+   },
+   {
+    "q": "2.a. Hicret’ten önce indirilen ayet ve surelere verilen isim",
+    "a": "Mekkî"
+   },
+   {
+    "q": "2.b. Kur’an’da ayetlerin anlam bütünlüğü içinde oluşan bölümlere verilen isim",
+    "a": "Sure"
+   },
+   {
+    "q": "2.c. Hicret’ten sonra indirilen ayet ve surelere verilen isim",
+    "a": "Medenî"
+   },
+   {
+    "q": "3. Hadiste vurgulanan konu ile ilgili çıkarımınız",
+    "a": "Kur’an’ı her gün düzenli ve belirli bir miktar okumaya özen göstermek, okumayı yarıda bırakmamak gerekir."
+   },
+   {
+    "q": "4. Verilen hadislerden yararlanarak Kur’an-ı Kerim okumanın önemini açıklayınız",
+    "a": "Kur’an okumak ve onunla amel etmek büyük sevaptır; onu ezberleyip düşünerek okumak ve hükümlerini yaşamak insanı yükseltir, unutmamak için sürekli tekrar etmek ve ona sımsıkı sarılmak gerekir."
+   }
+  ],
+  "24": [
+   {
+    "q": "5. Aşağıda verilen kavramlardan metinde bahsedilen konu ile ilgili olanları işaretleyiniz.",
+    "a": "Cüz, Hizip, Kıraat, Sure"
+   },
+   {
+    "q": "6. İşaretlediğiniz kavramlardan ikisini kısaca açıklayınız.",
+    "a": "Cüz: Kur'an'ın yirmi sayfadan oluşan otuz bölümünden her biridir. Sure: Ayetlerin bir araya gelmesiyle oluşan bölümlerdir."
+   },
+   {
+    "q": "7. Buna göre birinci ve üçüncü öğrencinin tanımladığı kavramlar nelerdir?",
+    "a": "Birinci öğrenci: Sure; üçüncü öğrenci: Cüz."
+   },
+   {
+    "q": "8. Buna göre ikinci öğrencinin tanımladığı kavramı kısaca açıklayınız.",
+    "a": "Hizip: Her cüzde beş sayfadan oluşan dört bölümden her birine verilen isimdir."
+   },
+   {
+    "q": "9. Dördüncü öğrencinin tanımladığı kavramı yazarak bu kavrama bir örnek veriniz.",
+    "a": "Ayet. Örnek: \"Güneş ve Ay bir hesaba göre hareket eder.\" (Rahman suresi, 5. ayet)"
+   }
+  ],
+  "25": [
+   {
+    "q": "10. Bu metin, verilen ayet ve hadislerden hangileriyle desteklenebilir?",
+    "a": "a, b, d ve e (Fatır 29, Müzzemmil 4, İsra 82, İbni Mace hadisi)"
+   },
+   {
+    "q": "11. Verilen kavramları (ilahi kitap, mukaddes, mütevatir, vahiy) kullanarak Kur'an-ı Kerim'in tanımını yapınız.",
+    "a": "Kur'an-ı Kerim, Allah (cc) tarafından Cebrail (as) aracılığıyla Hz. Muhammed'e vahiy yoluyla indirilen, mütevatir olarak nakledilen, ilahi ve mukaddes bir kitaptır."
+   },
+   {
+    "q": "12. Bu metinden hareketle doğru olan çıkarımları işaretleyiniz.",
+    "a": "b"
+   }
+  ],
+  "26": [
+   {
+    "q": "13. Bu metne uygun bir başlık yazınız.",
+    "a": "Kur'an'ın Kültürümüzdeki Yeri ve Türk Milleti"
+   },
+   {
+    "q": "14. Bu metinden yararlanarak Kur'an-ı Kerim'in kültürümüzdeki yeri ile ilgili iki cümle yazınız.",
+    "a": "Kur'an, bu milletin varlık sebebi olmuş ve onu tarihteki seçkin yerine oturtmuştur. Anadolu'da her evin başköşesinde ve kızların çeyizlerinde mutlaka bir Kur'an mushafı bulunur."
+   },
+   {
+    "q": "15. Kur'an-ı Kerim hakkında aşağıda verilen bilgilerden hangisi doğru değildir?",
+    "a": "C) Kur'an'ın okunması ezber yoluyla yapılmalıdır."
+   },
+   {
+    "q": "16. Bu metinde verilen boşluklara sırasıyla aşağıdakilerden hangisi getirilmelidir?",
+    "a": "C) cüz - hizip - ayet"
+   }
+  ],
+  "30": [
+   {
+    "q": "1. Aşağıdaki harfleri ve ayetleri okuyunuz; her tablo için okuma düzeyinizi \"Evet/Kısmen/Hayır\" ile işaretleyiniz.",
+    "a": "Okuma düzeyi kişiye göre değişir; harf ve ayetleri doğru okuyabildiğin ölçüde uygun seçenek işaretlenir."
+   },
+   {
+    "q": "2. Aşağıda verilen öz değerlendirme formunu doldurunuz.",
+    "a": "Form, ölçütlere göre (Evet/Kısmen/Hayır) dürüstçe doldurulur."
+   },
+   {
+    "q": "Köprü Kurma - Bakara suresinin 1-5. ayetlerinin örnek okuyuşunu dinleyerek/izleyerek: 1. Bu okuyuşu güzelleştiren unsurlar nelerdir?",
+    "a": "Mahreçlere uygun telaffuz, tecvid kuralları (med, idgam, ihfa vb.), doğru tonlama, ahenk ve sesin güzelliği."
+   },
+   {
+    "q": "Köprü Kurma - 2. Güzel ve kuralına uygun okunan Kur'an-ı Kerim ayetlerini dinlediğinizde neler hissediyorsunuz?",
+    "a": "Huzur, coşku, manevi haz ve huşu; Allah'a yakınlık ve saygı hissi duyarım."
+   },
+   {
+    "q": "1. Kur'an alfabesindeki harfleri mahreçlerine uygun telaffuz ediyorum.",
+    "a": "Evet."
+   },
+   {
+    "q": "2. Harflerin başta, ortada ve sonda yazılışlarını tanıyorum.",
+    "a": "Evet."
+   },
+   {
+    "q": "3. Harflerin okunmasını sağlayan hareke, cezim ve şeddeyi tanıyorum.",
+    "a": "Evet."
+   },
+   {
+    "q": "4. Harfleri hareke, cezim ve şedde ile birlikte okuyabiliyorum.",
+    "a": "Evet."
+   },
+   {
+    "q": "5. Harflerin okunuşuyla ilgili özel durumları (elif lâm takısı, hurufımukattaa, zamir ve okunuşu, med ve kasır işaretleri) biliyorum.",
+    "a": "Kısmen."
+   },
+   {
+    "q": "6. Med harflerini tanıyorum ve bu harflerin işlevlerini biliyorum.",
+    "a": "Evet."
+   },
+   {
+    "q": "7. Med çeşitlerini (medditabii, meddimuttasıl, meddimunfasıl, meddilazım, meddiarız, meddilin) biliyorum.",
+    "a": "Kısmen."
+   },
+   {
+    "q": "8. Kur'an-ı Kerim'i yüzünden okuyabiliyorum.",
+    "a": "Evet."
+   }
+  ],
+  "31": [
+   {
+    "q": "Alfabedeki her harfin hangi özellikleri vardır?",
+    "a": "Her harfin bir ismi, bir resmi (şekli) ve hareke ile kazandığı sesi vardır. Harfler isimleriyle anılır, resimleriyle yazılır, sesleriyle okunur."
+   },
+   {
+    "q": "Kur'an-ı Kerim nedir ve hangi alfabeyle yazılmıştır?",
+    "a": "Yüce Allah'ın Hz. Muhammed'e (sav) vahiy yoluyla indirdiği Arapça bir kitaptır; kendine has özellikleri ve kuralları olan Arap alfabesiyle yazıya geçirilmiştir."
+   },
+   {
+    "q": "Arap alfabesi nasıl yazılır ve okunur?",
+    "a": "Harfler sessiz olup sağdan sola doğru yazılır ve okunur."
+   },
+   {
+    "q": "Harflerin doğru tanınması ve isimlerinin usulüne uygun telaffuz edilmesi neden önemlidir?",
+    "a": "Kur'an okumayı öğrenme sürecinin temelini oluşturur; telaffuzdaki küçük bir farklılık kelimenin yapısını ve anlamını değiştirebilir."
+   },
+   {
+    "q": "Harf bilgisi neden vazgeçilmez bir aşamadır?",
+    "a": "Sadece alfabetik bir tanıma süreci değil, aynı zamanda doğru okuma becerisinin kazanılmasında vazgeçilmez bir aşamadır."
+   },
+   {
+    "q": "Kur'an alfabesindeki harfleri isimleriyle yazınız.",
+    "a": "ا elif, ب be, ت te, ث se, ج cim, ح ha, خ hı, د dal, ذ zel, ر ra, ز ze, س sin, ش şın, ص sad, ض dad, ط tı, ظ zı, ع ayn, غ gayn, ف fe, ق kaf, ك kef, ل lam, م mim, ن nun, و vav, ه he, ى ye."
+   },
+   {
+    "q": "Yukarıdaki karekoddan harflerin isimlerini öğretmeninizin rehberliğinde tekrar ediniz.",
+    "a": "Harflerin isimleri öğretmen rehberliğinde sesli olarak tekrar edilir (etkinlik)."
+   },
+   {
+    "q": "Kur'an alfabesindeki harfleri ve isimlerini tanıtan videoya nasıl ulaşılır?",
+    "a": "Sayfadaki karekod okutularak ulaşılır."
+   },
+   {
+    "q": "Harflerin isimleriyle ilgili \"dinle ve bul\" etkinliğine nasıl ulaşılır?",
+    "a": "Sayfadaki karekod okutularak ulaşılır."
+   }
+  ],
+  "32": [
+   {
+    "q": "Tecvit nedir?",
+    "a": "Kur'an-ı Kerim'i harflerin mahreçlerine, sıfatlarına ve tilavet kurallarına uygun, güzel ve hatasız okumayı öğreten ilimdir."
+   },
+   {
+    "q": "Türkçede bire bir karşılığı bulunmayan peltek harfler hangileridir?",
+    "a": "ث ve ذ harfleridir."
+   },
+   {
+    "q": "Boğazdan çıkarılan harf hangisidir?",
+    "a": "خ harfidir."
+   },
+   {
+    "q": "Türkçede olup Kur'an alfabesinde bulunmayan harflere örnek veriniz.",
+    "a": "ç, j, o, ö, p harfleri."
+   },
+   {
+    "q": "(Değerlendirme) Pelteklik özelliğine sahip harfleri örneklendiriniz.",
+    "a": "ث (se) ve ذ (zel)."
+   },
+   {
+    "q": "(Değerlendirme) İncelik özelliğine sahip harfleri örneklendiriniz.",
+    "a": "ب، ت، س، ش، ك، ل، م، ن، ه، و، ي gibi ince okunan harfler."
+   },
+   {
+    "q": "(Değerlendirme) Kalınlık özelliğine sahip harfleri örneklendiriniz.",
+    "a": "خ، ص، ض، ط، ظ، غ، ق harfleri."
+   }
+  ],
+  "35": [
+   {
+    "q": "Harflerin mahreç bölgelerine uygun telaffuz edilmesinin Kur'an-ı Kerim okuyuşunuza etkileri nelerdir?",
+    "a": "Harfler doğru ve güzel telaffuz edilir, okuyuş hatasız ve ahenkli olur, kelimelerin anlamı korunur."
+   },
+   {
+    "q": "Kalın okunan harfler hangileridir?",
+    "a": "خ ص ض ط ظ غ ق"
+   },
+   {
+    "q": "İnce okunan harfler hangileridir?",
+    "a": "ا ب ت ث ج ح د ذ ر ز س ش ع ف ك ل م ن و ه ي"
+   },
+   {
+    "q": "Peltek okunan harfler hangileridir?",
+    "a": "ث ذ ظ (ث ve ذ ince, ظ kalın)"
+   },
+   {
+    "q": "Dil (diş-damak) bölgesi harfleri hangileridir?",
+    "a": "ق ك ج ش ي ض ل ن ر ط د ت ص ز س ظ ذ ث"
+   },
+   {
+    "q": "Boğaz bölgesi harfleri hangileridir?",
+    "a": "ء ه ع ح غ خ"
+   },
+   {
+    "q": "Dudak bölgesi harfleri hangileridir?",
+    "a": "ف ب م و"
+   },
+   {
+    "q": "ETKİNLİK-2 (Harfleri Telaffuz Ediyorum) adımlarını uygulayınız.",
+    "a": "Harfler incelenir, mahreçleri dinlenir, telaffuz özellikleri belirlenir, tablo doldurulur ve tekrar çalışılır."
+   }
+  ],
+  "36": [
+   {
+    "q": "Sayfadaki sorular ve etkinlikler nelerdir?",
+    "a": "Bu sayfada açıkça sorulmuş bir soru veya etkinlik yoktur; sayfa yalnızca harflerin yazılış şekillerini anlatan bilgi metni, \"Not Edelim\" bölümü ve ب harfinin konumlarına göre yazılışını gösteren bir tablo içerir."
+   },
+   {
+    "q": "(Sayfadan çıkarılabilecek temel bilgi) Kur'an harfleri kelime içinde nasıl yazılır?",
+    "a": "Genel olarak önceki ve sonraki harfle bitişik yazılır; harfin asli yapısı korunur, tali unsurları kullanılmaz."
+   },
+   {
+    "q": "(Temel bilgi) Bir harf kelime içindeki konumuna göre kaç yazım şekline sahip olabilir?",
+    "a": "Tek başına, başta, ortada ve sonda olmak üzere dört farklı yazım şekline sahip olabilir."
+   },
+   {
+    "q": "(Temel bilgi) Hangi harfler kendinden sonraki harfle bitişmez ve ortada-sondaki yazılışları aynıdır?",
+    "a": "ا د ذ ر ز و harfleri."
+   }
+  ],
+  "40": [
+   {
+    "q": "1. و ز ن harflerini birleştirerek yazınız.",
+    "a": "وزن"
+   },
+   {
+    "q": "2. د ر س harflerini birleştirerek yazınız.",
+    "a": "درس"
+   },
+   {
+    "q": "3. ا د ب harflerini birleştirerek yazınız.",
+    "a": "ادب"
+   },
+   {
+    "q": "4. ح س ن harflerini birleştirerek yazınız.",
+    "a": "حسن"
+   },
+   {
+    "q": "5. ط ل ب harflerini birleştirerek yazınız.",
+    "a": "طلب"
+   },
+   {
+    "q": "6. ك ت ب harflerini birleştirerek yazınız.",
+    "a": "كتب"
+   },
+   {
+    "q": "7. خ ل ق harflerini birleştirerek yazınız.",
+    "a": "خلق"
+   },
+   {
+    "q": "8. ذ ه ب harflerini birleştirerek yazınız.",
+    "a": "ذهب"
+   },
+   {
+    "q": "9. ث ل ج harflerini birleştirerek yazınız.",
+    "a": "ثلج"
+   },
+   {
+    "q": "10. ن ز ل harflerini birleştirerek yazınız.",
+    "a": "نزل"
+   },
+   {
+    "q": "11. ر ز ق harflerini birleştirerek yazınız.",
+    "a": "رزق"
+   },
+   {
+    "q": "12. ى ق ظ harflerini birleştirerek yazınız.",
+    "a": "يقظ"
+   },
+   {
+    "q": "13. خ ت م harflerini birleştirerek yazınız.",
+    "a": "ختم"
+   },
+   {
+    "q": "14. ن ص ر harflerini birleştirerek yazınız.",
+    "a": "نصر"
+   },
+   {
+    "q": "15. ف ع ل harflerini birleştirerek yazınız.",
+    "a": "فعل"
+   },
+   {
+    "q": "16. س ج د harflerini birleştirerek yazınız.",
+    "a": "سجد"
+   },
+   {
+    "q": "17. ف ت ح harflerini birleştirerek yazınız.",
+    "a": "فتح"
+   },
+   {
+    "q": "18. ع ل م harflerini birleştirerek yazınız.",
+    "a": "علم"
+   },
+   {
+    "q": "19. ح ض ر harflerini birleştirerek yazınız.",
+    "a": "حضر"
+   },
+   {
+    "q": "20. ش ر ب harflerini birleştirerek yazınız.",
+    "a": "شرب"
+   },
+   {
+    "q": "21. ج ه د harflerini birleştirerek yazınız.",
+    "a": "جهد"
+   },
+   {
+    "q": "22. غ ض ب harflerini birleştirerek yazınız.",
+    "a": "غضب"
+   },
+   {
+    "q": "23. ا م ر harflerini birleştirerek yazınız.",
+    "a": "امر"
+   },
+   {
+    "q": "24. ز ر ع harflerini birleştirerek yazınız.",
+    "a": "زرع"
+   },
+   {
+    "q": "25. ف س د harflerini birleştirerek yazınız.",
+    "a": "فسد"
+   },
+   {
+    "q": "26. ن ظ ر harflerini birleştirerek yazınız.",
+    "a": "نظر"
+   },
+   {
+    "q": "27. ف ق ه harflerini birleştirerek yazınız.",
+    "a": "فقه"
+   },
+   {
+    "q": "28. ش ك ر harflerini birleştirerek yazınız.",
+    "a": "شكر"
+   },
+   {
+    "q": "Değerlendirme: Harfleri kelime içindeki konumuna göre yazarken nelere dikkat ettiniz? Gerekçesi ile yazınız.",
+    "a": "Harflerin başta, ortada ve sondaki biçimlerine ve kendinden sonraki harfe birleşip birleşmediğine dikkat ettim; çünkü harflerin şekli konuma göre değişir ve ا، د، ذ، ر، ز، و sonraki harfe birleşmez."
+   }
+  ],
+  "41": [
+   {
+    "q": "“قدر” kelimesinin harflerini ayrı yazınız.",
+    "a": "ق د ر"
+   },
+   {
+    "q": "“سبح” kelimesinin harflerini ayrı yazınız.",
+    "a": "س ب ح"
+   },
+   {
+    "q": "“امل” kelimesinin harflerini ayrı yazınız.",
+    "a": "ا م ل"
+   },
+   {
+    "q": "“فكر” kelimesinin harflerini ayrı yazınız.",
+    "a": "ف ك ر"
+   },
+   {
+    "q": "“درك” kelimesinin harflerini ayrı yazınız.",
+    "a": "د ر ك"
+   },
+   {
+    "q": "“خرج” kelimesinin harflerini ayrı yazınız.",
+    "a": "خ ر ج"
+   },
+   {
+    "q": "“جدل” kelimesinin harflerini ayrı yazınız.",
+    "a": "ج د ل"
+   },
+   {
+    "q": "“جمل” kelimesinin harflerini ayrı yazınız.",
+    "a": "ج م ل"
+   },
+   {
+    "q": "“اكل” kelimesinin harflerini ayrı yazınız.",
+    "a": "ا ك ل"
+   },
+   {
+    "q": "“مجد” kelimesinin harflerini ayrı yazınız.",
+    "a": "م ج د"
+   },
+   {
+    "q": "“عظم” kelimesinin harflerini ayrı yazınız.",
+    "a": "ع ظ م"
+   },
+   {
+    "q": "“عبد” kelimesinin harflerini ayrı yazınız.",
+    "a": "ع ب د"
+   },
+   {
+    "q": "“ضرب” kelimesinin harflerini ayrı yazınız.",
+    "a": "ض ر ب"
+   },
+   {
+    "q": "“ثبت” kelimesinin harflerini ayrı yazınız.",
+    "a": "ث ب ت"
+   },
+   {
+    "q": "“تبع” kelimesinin harflerini ayrı yazınız.",
+    "a": "ت ب ع"
+   },
+   {
+    "q": "“حكم” kelimesinin harflerini ayrı yazınız.",
+    "a": "ح ك م"
+   },
+   {
+    "q": "“ظلم” kelimesinin harflerini ayrı yazınız.",
+    "a": "ظ ل م"
+   },
+   {
+    "q": "“بعث” kelimesinin harflerini ayrı yazınız.",
+    "a": "ب ع ث"
+   },
+   {
+    "q": "“غفر” kelimesinin harflerini ayrı yazınız.",
+    "a": "غ ف ر"
+   },
+   {
+    "q": "“سهل” kelimesinin harflerini ayrı yazınız.",
+    "a": "س ه ل"
+   },
+   {
+    "q": "“صبر” kelimesinin harflerini ayrı yazınız.",
+    "a": "ص ب ر"
+   },
+   {
+    "q": "“فهم” kelimesinin harflerini ayrı yazınız.",
+    "a": "ف ه م"
+   },
+   {
+    "q": "“ملك” kelimesinin harflerini ayrı yazınız.",
+    "a": "م ل ك"
+   },
+   {
+    "q": "“شغل” kelimesinin harflerini ayrı yazınız.",
+    "a": "ش غ ل"
+   },
+   {
+    "q": "“جمع” kelimesinin harflerini ayrı yazınız.",
+    "a": "ج م ع"
+   },
+   {
+    "q": "“بسح” kelimesinin harflerini ayrı yazınız.",
+    "a": "ب س ح"
+   },
+   {
+    "q": "“حمد” kelimesinin harflerini ayrı yazınız.",
+    "a": "ح م د"
+   },
+   {
+    "q": "“سلم” kelimesinin harflerini ayrı yazınız.",
+    "a": "س ل م"
+   },
+   {
+    "q": "Harfleri ayrı ayrı yazarken ve telaffuz ederken nelere dikkat ettiniz?",
+    "a": "Harflerin doğru yazımına, sırasına, mahreçlerine ve doğru telaffuzuna dikkat ettim."
+   }
+  ],
+  "43": [
+   {
+    "q": "Telaffuz Edelim – Harfleri üstün harekesiyle telaffuz ediniz.",
+    "a": "İnce harfler “e”, kalın harfler “a” sesiyle okunur: ا e/a, ب be, ت te, ث se, ج ce, ح ha, خ hı, د de, ذ ze, ر re, ز ze, س se, ش şe, ص sa, ض da, ط ta, ظ za, ع a, غ ga, ف fe, ق ka, ك ke, ل le, م me, ن ne, ه he, و ve, ي ye."
+   },
+   {
+    "q": "Üstün (fetha) hangi sesleri verir?",
+    "a": "İnce harflere “e”, kalın harflere “a” sesi verir."
+   },
+   {
+    "q": "Esre hangi sesleri verir?",
+    "a": "Kalın harfe “ı” ile başlayıp “i” ile biten ses, ince harfe “i” sesi verir."
+   },
+   {
+    "q": "Ötre hangi sesleri verir?",
+    "a": "Kalın harfe “u”, ince harfe “ü-u” arası bir ses verir."
+   }
+  ],
+  "44": [
+   {
+    "q": "Esre (kesra) nedir ve nasıl okunur?",
+    "a": "Harfin altında bulunan harekedir; kelime anlamı \"kırmak\"tır. Okunurken ağız açıklığı biraz daraltılır, üst çene alt çeneye baskın olur; örn. س \"si\", ص \"sı\" okunur."
+   },
+   {
+    "q": "Uygulama Tablosu'ndaki örnekleri telaffuz özelliklerine uygun şekilde seslendiriniz.",
+    "a": "Kelimeler harflerin harekelerine göre hecelenerek okunur; örn. دَرَسَ (derase), طَلَبَ (talabe), سَجَدَ (secede), ذَهَبَ (zehebe), شَكَرَ (şekera), تَرَكَ (terake)."
+   },
+   {
+    "q": "Harfleri esre harekesiyle telaffuz ediniz.",
+    "a": "ا i, ب bi, ت ti, ث si, ج ci, ح hi, خ hı, د di, ذ zi, ر ri, ز zi, س si, ش şi, ص sı, ض dı, ط tı, ظ zı, ع i, غ ğı, ف fi, ق kı, ك ki, ل li, م mi, ن ni, و vi, هـ hi, ی yi."
+   }
+  ],
+  "45": [
+   {
+    "q": "Harflerin telaffuzunu öğretmeninizden dinledikten sonra aşağıdaki harfleri ötre harekesiyle telaffuz ediniz.",
+    "a": "اُ، بُ، تُ، ثُ، جُ، حُ، خُ، دُ، ذُ، رُ، زُ، سُ، شُ، صُ، ضُ، طُ، ظُ، عُ، غُ، فُ، قُ، كُ، لُ، مُ، نُ، وُ، هُ، یُ (her harf ötre sesiyle, dudaklar öne büzülerek okunur)."
+   },
+   {
+    "q": "Uygulama Tablosundaki örnekleri karekoddan dinleyerek telaffuz özelliklerine uygun şekilde seslendiriniz.",
+    "a": "Tablodaki harf birleşimleri ötre (damme) harekesine dikkat edilerek, dudaklar öne doğru uzatılıp büzülerek seslendirilir."
+   }
+  ],
+  "46": [
+   {
+    "q": "Telaffuz Edelim etkinliğinde cezimli harfler nasıl okunur?",
+    "a": "Mahreçlerine uygun, bir önceki harfin harekesi uzatılmadan cezim ile okunur."
+   },
+   {
+    "q": "Uygulama Tablosu etkinliğinde örnekler ne yapılmalıdır?",
+    "a": "Karekoddan dinlenip telaffuz özelliklerine uygun şekilde seslendirilir."
+   },
+   {
+    "q": "Cezim (sükûn) nedir?",
+    "a": "Harflerin harekesiz hâlidir; kelime oluşturmak için gereklidir."
+   },
+   {
+    "q": "Cezim ne işe yarar?",
+    "a": "Harfi kendinden önceki harfe bağlar."
+   },
+   {
+    "q": "Şedde ne işe yarar?",
+    "a": "Üzerinde bulunduğu harfin iki defa okunmasını sağlar."
+   },
+   {
+    "q": "Cezimli harflerin okunuşuna nereden ulaşılır?",
+    "a": "Yan taraftaki karekoddan."
+   }
+  ],
+  "47": [
+   {
+    "q": "Şedde nedir?",
+    "a": "Harfin üzerine yazılan ters \"m\" şekline benzeyen, üzerine geldiği harfin iki defa okunmasını sağlayan işarettir."
+   },
+   {
+    "q": "Şeddeli harf nasıl oluşur?",
+    "a": "Birincisi cezimli, ikincisi harekeli olan aynı iki harfin yan yana gelmesiyle oluşur."
+   },
+   {
+    "q": "Şeddeli harf kelimenin başında bulunur mu?",
+    "a": "Hayır, bulunmaz."
+   },
+   {
+    "q": "Metinde bu duruma benzeyen Türkçe kelimeler hangileridir?",
+    "a": "dikkat ve kulluk kelimeleri."
+   },
+   {
+    "q": "Uygulama Tablosu'ndaki örnekleri nasıl seslendirmeliyiz?",
+    "a": "Karekoddan dinleyerek telaffuz özelliklerine uygun şekilde."
+   },
+   {
+    "q": "Telaffuz Edelim etkinliğinde harfleri nasıl telaffuz etmeliyiz?",
+    "a": "Bütün harfleri mahreçlerine uygun olarak cezim ile telaffuz etmeliyiz."
+   },
+   {
+    "q": "Şeddeli harfler nasıl okunur?",
+    "a": "Bir önceki harfin harekesini uzatmadan okunur."
+   }
+  ],
+  "48": [
+   {
+    "q": "Uygulama Tablosu'ndaki örnekleri telaffuz özelliklerine uygun seslendiriniz.",
+    "a": "Örnekler tenvin kurallarına göre okunur: iki üstün (ً) ince harfte \"en\", kalın harfte \"an\"; iki esre (ٍ) ince harfte \"in\", kalın harfte \"ın-in\" arası; iki ötre (ٌ) ince harfte \"un-ün\" arası, kalın harfte \"un\" sesiyle."
+   },
+   {
+    "q": "Tenvin nedir?",
+    "a": "\"Nunlamak\" anlamına gelir; harfin üstüne ya da altına çift hareke olarak yazılır, harekenin sesine \"nun\" sesi ekler; bu nun sesi sadece telaffuzda vardır, yazıda gösterilmez ve Arapçada yalnızca isimlerin sonunda bulunur."
+   },
+   {
+    "q": "İki üstün (ً) nasıl okunur?",
+    "a": "İnce harfleri \"en\", kalın harfleri \"an\" sesiyle okutur."
+   },
+   {
+    "q": "İki esre (ٍ) nasıl okunur?",
+    "a": "İnce harfleri \"in\", kalın harfleri \"ın-in\" arası bir sesle okutur."
+   },
+   {
+    "q": "İki ötre (ٌ) nasıl okunur?",
+    "a": "İnce harfleri \"un-ün\" arası bir sesle, kalın harfleri \"un\" sesiyle okutur."
+   }
+  ],
+  "49": [
+   {
+    "q": "Uygulama Tablosu'ndaki örnekleri karekoddan dinleyerek telaffuz özelliklerine uygun şekilde seslendiriniz.",
+    "a": "Örnekler iki üstün (tenvin) ile okunur; kelime sonuna sakin nun eklenir, ince sesliden sonra \"en\", kalın sesliden sonra \"an\" denir."
+   },
+   {
+    "q": "Harflerin telaffuzunu öğretmeninizden dinledikten sonra aşağıdaki harfleri iki üstün harekesiyle telaffuz ediniz.",
+    "a": "اً=en, بً=ben, تً=ten, ثً=sen, جً=cen, حً=han, خً=han, دً=den, ذً=zen, رً=ren, زً=zen, سً=sen, شً=şen, صً=san, ضً=dan, طً=tan, ظً=zan, عً=an, غً=gan, فً=fen, قً=kan, كً=ken, لً=len, مً=men, نً=nen, وً=ven, هً=hen, يً=yen"
+   }
+  ],
+  "50": [
+   {
+    "q": "Harflerin iki esre harekesiyle telaffuzunu dinleyip seslendiriniz (Telaffuz Edelim).",
+    "a": "لٍ مٍ نٍ وٍ هٍ يٍ بٍ تٍ ثٍ جٍ حٍ خٍ دٍ ذٍ رٍ زٍ سٍ شٍ صٍ ضٍ طٍ ظٍ عٍ غٍ فٍ قٍ كٍ اٍ harfleri sonuna \"in/ın\" sesi eklenerek okunur."
+   },
+   {
+    "q": "Uygulama Tablosundaki örnekleri telaffuz özelliklerine uygun seslendiriniz; ek örnekleri karekoddan dinleyiniz.",
+    "a": "İki esre (kesratayn) alan kelimeler \"in/ın\" sesiyle okunur; ör. شَيْءٍ (şey'in), مَثَلٍ (meselin), بَعْضٍ (ba'zın), عِنَبٍ (inebin), عَدَسٍ (adesin), طَرَفٍ (tarafin)."
+   }
+  ],
+  "51": [
+   {
+    "q": "İki ötre nedir?",
+    "a": "Kelimelerin sonuna gelen, harfin üzerine (ٌ) şeklinde yazılan bir tenvin işaretidir."
+   },
+   {
+    "q": "İki ötre nasıl okunur?",
+    "a": "Ötre ile biten kelimenin sonuna sakin nun eklenerek okunur; harf ince sesliyse \"ün-un\", kalınsa \"un\" şeklinde söylenir."
+   },
+   {
+    "q": "Harfleri iki ötre harekesiyle telaffuz ediniz.",
+    "a": "اٌ(un), بٌ(bun), تٌ(tun), ثٌ(sun), جٌ(cun), حٌ(hun), خٌ(hun), دٌ(dun), ذٌ(zun), رٌ(run), زٌ(zun), سٌ(sun), شٌ(şun), صٌ(sun), ضٌ(dun), طٌ(tun), ظٌ(zun), عٌ(un), غٌ(ğun), فٌ(fun), قٌ(kun), كٌ(kün), لٌ(lün), مٌ(mün), نٌ(nün), هٌ(hün), وٌ(vün), يٌ(yün) diye okunur."
+   },
+   {
+    "q": "Uygulama Tablosu'ndaki örnekleri seslendiriniz.",
+    "a": "Örnekler karekoddan dinlenip telaffuz özelliklerine uygun şekilde okunur."
+   },
+   {
+    "q": "Med harfleri nelerdir?",
+    "a": "Elif, vav ve ya olmak üzere üç tanedir."
+   },
+   {
+    "q": "Med ne demektir?",
+    "a": "\"Arttırmak, ziyade etmek\" anlamına gelir; harfin sesinin, med harflerinden biriyle harekesi yönünde uzatılmasıdır."
+   },
+   {
+    "q": "Med harfinin kendinden önceki harfi uzatması için ne gerekir?",
+    "a": "Med harfinin harekeli (sakin) olması gerekir."
+   },
+   {
+    "q": "Med harfleri ne kadar uzatılır?",
+    "a": "Bir elif miktarı, yani \"bir parmak kaldıracak süre kadar\" uzatılır."
+   },
+   {
+    "q": "Med harfinden önceki harfin harekesi ne olmalıdır?",
+    "a": "Eliften önceki harfin harekesi üstün, vavdan önceki ötre, yadan önceki esre olmalıdır."
+   }
+  ],
+  "52": [
+   {
+    "q": "Uygulama Tablosu'ndaki örnekleri nasıl seslendirmelisiniz?",
+    "a": "Karekoddan dinleyerek telaffuz özelliklerine uygun şekilde seslendirmeliyim."
+   },
+   {
+    "q": "Elif, kendinden önceki üstün harekeli harfe ne yapar?",
+    "a": "Uzatılarak okunmasını sağlar; ince harfleri \"e-a\" arası, kalın harfleri \"a\" sesiyle uzatır."
+   },
+   {
+    "q": "Telaffuz Edelim etkinliğinde harfler ne ile telaffuz edilir?",
+    "a": "Med harfi olan elif ile telaffuz edilir."
+   },
+   {
+    "q": "Med harfleri hangileridir?",
+    "a": "Elif, Vav, Ya."
+   },
+   {
+    "q": "Elif nasıl okutur?",
+    "a": "Kendinden önceki üstün harekeli harfi uzatarak okutur."
+   },
+   {
+    "q": "Vav nasıl okutur?",
+    "a": "Kendinden önceki ötre harekeli harfi uzatarak okutur."
+   },
+   {
+    "q": "Ya nasıl okutur?",
+    "a": "Kendinden önceki esre harekeli harfi uzatarak okutur."
+   }
+  ],
+  "53": [
+   {
+    "q": "Telaffuz Edelim etkinliğinde ne yapılacak?",
+    "a": "Harflerin telaffuzu öğretmenden dinlendikten sonra harfler med harfi olan vav ile (u/ü sesiyle uzatarak) okunur."
+   },
+   {
+    "q": "Uygulama Tablosu etkinliğinde ne yapılacak?",
+    "a": "Örnekler karekoddan dinlenerek telaffuz özelliklerine uygun şekilde seslendirilir."
+   },
+   {
+    "q": "Med harfi olan vav ne işe yarar?",
+    "a": "Kendisinden önceki ötreli harfin uzatılarak okunmasını sağlar."
+   },
+   {
+    "q": "Med harfi olan vav kalınlık ve incelik bakımından neye tabidir?",
+    "a": "Elif gibi öncesindeki harfe tabidir."
+   },
+   {
+    "q": "Vav kendinden önceki ince harfleri nasıl uzatır?",
+    "a": "\"u-ü\" arası bir sesle uzatır."
+   },
+   {
+    "q": "Vav kendinden önceki kalın harfleri nasıl uzatır?",
+    "a": "\"u\" sesiyle uzatır."
+   }
+  ],
+  "54": [
+   {
+    "q": "Ya harfinin med harfi olarak görevi nedir?",
+    "a": "Kendisinden önceki esreli harfin uzatılarak okunmasını sağlar."
+   },
+   {
+    "q": "Esre harekeli harf ve med harfi olan \"ye\" nasıl okunur?",
+    "a": "Her zaman ince okunur."
+   },
+   {
+    "q": "Kalın harfler esreyle veya \"ye\" ile uzatıldığında nasıl okunur?",
+    "a": "Kalınlıkları korunarak \"ı-i\" arası bir sesle okunur."
+   },
+   {
+    "q": "\"Telaffuz Edelim\" etkinliğinde ne yapılır?",
+    "a": "Harflerin telaffuzu öğretmenden dinlendikten sonra harfler med harfi ya ile telaffuz edilir."
+   },
+   {
+    "q": "\"Uygulama Tablosu\" etkinliğinde ne yapılır?",
+    "a": "Örnekler karekoddan dinlenerek telaffuz özelliklerine uygun şekilde seslendirilir."
+   },
+   {
+    "q": "Harflerin med harfi ya ile okunuşuna nereden ulaşılır?",
+    "a": "Sayfadaki karekoddan ulaşılır."
+   }
+  ],
+  "55": [
+   {
+    "q": "Elif harfi Kur'an-ı Kerim'de kaç farklı biçimde bulunur?",
+    "a": "Üç biçimde."
+   },
+   {
+    "q": "1. Med harfi olan elif nedir?",
+    "a": "Uzatma görevi yapan asıl elif; örnek: كَانَ."
+   },
+   {
+    "q": "2. Vav şeklinde yazılan elif nedir?",
+    "a": "Vav (و) biçiminde yazılıp okunuşta elif gibi uzatan elif; örnek: حَيٰوة، صَلٰوة."
+   },
+   {
+    "q": "3. Ya şeklinde yazılan elif nedir?",
+    "a": "Ya (ى) biçiminde yazılıp okunuşta elif gibi uzatan elif; örnek: مُوسَى، عِيسَى."
+   },
+   {
+    "q": "Uygulama Tablosu etkinliğinde ne yapılır?",
+    "a": "Örnekler karekoddan dinlenerek telaffuz özelliklerine uygun (uzatılarak) seslendirilir."
+   }
+  ],
+  "56": [
+   {
+    "q": "Âsar nedir?",
+    "a": "Harfin üzerine konan ve bir elif miktarı uzatmayı sağlayan işarettir."
+   },
+   {
+    "q": "Çeker nedir?",
+    "a": "Harfin altına konan ve bir elif miktarı uzatmayı sağlayan işarettir."
+   },
+   {
+    "q": "Âsar-Çeker ne işe yarar?",
+    "a": "İlgili harfin bir elif miktarı uzatılarak okunmasını sağlar."
+   },
+   {
+    "q": "Âsar işaretli harften sonra hangi gizli harf kabul edilir?",
+    "a": "Gizli bir elif (ا) harfi."
+   },
+   {
+    "q": "Çeker işaretinden sonra hangi gizli harf kabul edilir?",
+    "a": "Gizli bir ى harfi."
+   },
+   {
+    "q": "Uygulama tablosundaki örnekleri nasıl seslendirmeliyiz?",
+    "a": "Karekoddan dinleyerek telaffuz özelliklerine uygun şekilde seslendirmeliyiz."
+   }
+  ],
+  "57": [
+   {
+    "q": "Etkinlik-5'te yapılacak iş nedir?",
+    "a": "Verilen kelimelerdeki cezim, şedde, tenvin, med harfleri ve âsar-çeker işaretlerini tespit edip harflerin telaffuz özelliklerini belirleyerek doğru seslendirmek."
+   },
+   {
+    "q": "Harflerin telaffuz özellikleri nasıl belirlenip işaretlenir?",
+    "a": "Harfin mahreç ve sıfatına bakılarak ilgili kutucuk işaretlenir; birden fazla seçenek işaretlenebilir."
+   },
+   {
+    "q": "Harfleri okunuşları ile telaffuz ederken dikkat ettiğiniz hususlar nelerdir? Yazınız.",
+    "a": "Mahreç ve sıfata, harekelerin (üstün, esre, ötre) doğru çıkışına, cezim, şedde, tenvin, med ve âsar-çeker işaretlerine, harfin kalın-ince okunuşuna ve uzatma süresine dikkat ederim."
+   }
+  ],
+  "58": [
+   {
+    "q": "Aşağıda verilen Bakara suresinin 185. ayetini okuyunuz; üstün, esre, ötre harekeleri ile cezim, şedde, tenvin, med harfleri ve âsar-çeker işaretlerini kurallarına uygun telaffuz ediniz.",
+    "a": "Ayet, tecvid kurallarına uygun olarak; harekeler, cezim, şedde, tenvin, med ve âsar-çeker işaretlerinin hakkı verilerek okunur."
+   },
+   {
+    "q": "1. Üstün, esre ve ötre harekelerinin telaffuz özelliklerini algılarım.",
+    "a": "Evet."
+   },
+   {
+    "q": "2. Üstün, esre ve ötre harekelerinin telaffuz özelliklerini belirlerim.",
+    "a": "Evet."
+   },
+   {
+    "q": "3. Üstün, esre ve ötre harekelerini doğru bir şekilde telaffuz ederim.",
+    "a": "Evet."
+   },
+   {
+    "q": "4. Cezim, şedde ve tenvinin telaffuz özelliklerini algılarım.",
+    "a": "Evet."
+   },
+   {
+    "q": "5. Cezim, şedde ve tenvinin telaffuz özelliklerini belirlerim.",
+    "a": "Evet."
+   },
+   {
+    "q": "6. Cezim, şedde ve tenvini doğru bir şekilde telaffuz ederim.",
+    "a": "Evet."
+   },
+   {
+    "q": "7. Med harflerinin telaffuz özelliklerini algılarım.",
+    "a": "Evet."
+   },
+   {
+    "q": "8. Med harflerinin telaffuz özelliklerini belirlerim.",
+    "a": "Evet."
+   },
+   {
+    "q": "9. Med harflerini doğru bir şekilde telaffuz ederim.",
+    "a": "Evet."
+   },
+   {
+    "q": "10. \"Vav\" ve \"ya\" şeklinde yazılan elifin telaffuz özelliklerini algılarım.",
+    "a": "Evet."
+   },
+   {
+    "q": "11. \"Vav\" ve \"ya\" şeklinde yazılan elifin telaffuz özelliklerini belirlerim.",
+    "a": "Evet."
+   },
+   {
+    "q": "12. \"Vav\" ve \"ya\" şeklinde yazılan elifi doğru bir şekilde telaffuz ederim.",
+    "a": "Evet."
+   },
+   {
+    "q": "13. Âsar-çeker bulunan kelimelerin telaffuz özelliklerini algılarım.",
+    "a": "Evet."
+   },
+   {
+    "q": "14. Âsar-çeker bulunan kelimelerin telaffuz özelliklerini belirlerim.",
+    "a": "Evet."
+   },
+   {
+    "q": "15. Âsar-çeker bulunan kelimeleri doğru bir şekilde telaffuz ederim.",
+    "a": "Evet."
+   }
+  ],
+  "60": [
+   {
+    "q": "2.3.3 Uygulama Tablosu — Aşağıda verilen örnekleri kurallarına uygun olarak telaffuz ediniz.",
+    "a": "Altında med ibaresi olan harfler uzatılarak, kasır ibaresi olan harfler uzatılmadan okunur."
+   },
+   {
+    "q": "Sıra Sizde — Bakara suresinin 2. sayfasında bulunan med ve kasır kelimelerini bularak okuyunuz.",
+    "a": "Sayfadaki kelimeler taranır; med ibareli harfler uzatılarak, kasır ibareli harfler uzatılmadan okunur."
+   },
+   {
+    "q": "2.3.4 Uygulama Tablosu — Aşağıda verilen örnekleri kurallarına uygun olarak telaffuz ediniz.",
+    "a": "Harekesiz elif okunmaz (kendinden önceki harfi uzatır); elif lâm takısındaki ا, öncesinde harf geldiğinde okunmaz."
+   }
+  ],
+  "63": [
+   {
+    "q": "Etkinlik-6'da örnek kelimelerin okunuşunu kimden dinleyeceksiniz?",
+    "a": "Öğretmenimden."
+   },
+   {
+    "q": "Okunuşla ilgili özel durumlarda karşılaştığınız zorlukları nasıl aşacaksınız?",
+    "a": "Öğretmenle çözüm yolları geliştirip sınıfça tekrar edeceğiz."
+   },
+   {
+    "q": "Doğru telaffuz için çalışmayı nasıl sürdüreceksiniz?",
+    "a": "Bireysel ve koro hâlinde tekrar edeceğiz."
+   },
+   {
+    "q": "Özel durumların hangi konuya ait olduğunu belirleyince ne yapacaksınız?",
+    "a": "Yanındaki kutucuğu işaretleyeceğiz."
+   },
+   {
+    "q": "Yönergeye göre ne yapacaksınız?",
+    "a": "Her özel duruma Kur'an'dan birer örnek bulup kutucuklara yazacağız."
+   },
+   {
+    "q": "Elif Lâm Takısı'na bir örnek?",
+    "a": "اَلْحَمْدُ (Fâtiha 2)"
+   },
+   {
+    "q": "Zamire bir örnek?",
+    "a": "رَبِّهِ"
+   },
+   {
+    "q": "Med ve Kasır'a örnekler?",
+    "a": "Med: قَالَ — Kasır: قُلْ"
+   },
+   {
+    "q": "Kelimeleri okunmayan elife bir örnek?",
+    "a": "لٰكِنَّا"
+   },
+   {
+    "q": "Hurufımukattaaya bir örnek?",
+    "a": "الٓمٓ (Bakara 1)"
+   }
+  ],
+  "64": [
+   {
+    "q": "Aşağıdaki kelimeleri kuralına uygun bir şekilde seslendiriniz.",
+    "a": "Kelimeler, okunuşla ilgili özel durumlar (izhar, idgam, ihfa, iklab, kalkale, med) kurallarına uygun seslendirilir."
+   },
+   {
+    "q": "1. Çalışma sırasında okunuşla ilgili özel durumların kavramlarını öğrendim.",
+    "a": "Evet"
+   },
+   {
+    "q": "2. Okunuşla ilgili özel durumların telaffuz özelliklerini belirledim.",
+    "a": "Evet"
+   },
+   {
+    "q": "3. Okunuşla ilgili özel durumları telaffuz özelliklerine göre tekrarladım.",
+    "a": "Evet"
+   },
+   {
+    "q": "4. Okunuşla ilgili özel durumları doğru bir şekilde telaffuz ettim.",
+    "a": "Evet"
+   }
+  ],
+  "66": [
+   {
+    "q": "Aşağıdaki karekod üzerinden medditabii ile ilgili örnekleri öğretmeninizin rehberliğinde telaffuz ediniz.",
+    "a": "Karekoddaki örnekler medditabii olduğundan, med harfi bir elif miktarı uzatılarak telaffuz edilir."
+   },
+   {
+    "q": "Uygulama Tablosu — Aşağıda verilen örnekleri kurallarına uygun olarak telaffuz ediniz.",
+    "a": "Tablodaki kelimelerde med harfinden sonra hemze veya sükûn gelmediği için medditabii kuralı uygulanır; med harfleri bir elif miktarı uzatılarak okunur."
+   }
+  ],
+  "67": [
+   {
+    "q": "Meddimuttasıl ile ilgili örnekleri nasıl telaffuz edersiniz?",
+    "a": "Karekoddaki örnekleri öğretmen rehberliğinde, meddimuttasıl kuralına uygun (bir kelimede med + hemze) okuyarak."
+   },
+   {
+    "q": "Meddimunfasıl ile ilgili örnekleri nasıl telaffuz edersiniz?",
+    "a": "Karekoddaki örnekleri öğretmen rehberliğinde, ayrı kelimelerde med harfinden sonra hemze gelerek oluşan meddimunfasıl kuralına uygun okuyarak."
+   },
+   {
+    "q": "Uygulama Tablosu (1. tablo): Verilen örnekleri kurallarına uygun telaffuz ediniz.",
+    "a": "Örnekler meddimunfasıl kuralına göre, sonu med harfiyle biten kelimeden sonra hemzeyle başlayan kelime geldiğinde dört elif miktarına kadar uzatılarak okunur."
+   },
+   {
+    "q": "Uygulama Tablosu (2. tablo): Verilen örnekleri kurallarına uygun telaffuz ediniz.",
+    "a": "Örnekler aynı meddimunfasıl kuralına göre; hızlı okuyuşta bir elif, normalde dört elif miktarı uzatılarak telaffuz edilir."
+   }
+  ],
+  "68": [
+   {
+    "q": "Uygulama Tablosu'ndaki örnekleri kurallarına uygun telaffuz ediniz.",
+    "a": "Örnekler meddilazım ve meddiarız kurallarına göre (dört elif miktarı uzatarak) telaffuz edilir."
+   },
+   {
+    "q": "Karekod üzerinden meddilazım örneklerini öğretmeninizin rehberliğinde telaffuz ediniz.",
+    "a": "Karekoddaki meddilazım örnekleri dinlenip öğretmen rehberliğinde tekrar edilir."
+   },
+   {
+    "q": "Meddiarız nedir?",
+    "a": "Bir kelimede harfimedden sonra arızisükûn gelmesidir."
+   },
+   {
+    "q": "Arızisükûn nedir?",
+    "a": "Kelime sonunda durulunca ortaya çıkan, geçilerek okununca kalkan geçici sükûndur."
+   },
+   {
+    "q": "Meddiarızda uzatma miktarı ve hükmü nedir?",
+    "a": "Dört elif miktarı uzatılır; hızlı okuyuşta en az bir elif. Hükmü caizdir."
+   },
+   {
+    "q": "Meddilazım nedir?",
+    "a": "Bir kelimede harfimedden sonra lazımisükûn gelmesidir."
+   },
+   {
+    "q": "Lazımisükûn nedir?",
+    "a": "Durulduğunda da geçildiğinde de sabit olan sükûndur; cezim ve şeddeli harf demektir."
+   },
+   {
+    "q": "Meddilazımın hükmü ve uzatma miktarı nedir?",
+    "a": "Meddi vaciptir; dört elif miktarı uzatılır."
+   },
+   {
+    "q": "Meddimuttasıl ve meddimunfasıl kurallarının olduğu yerde hangi işaret bulunur?",
+    "a": "ٓ (meddi lazım) işareti bulunur."
+   },
+   {
+    "q": "Şeddeli harflerdeki sükûn hangi sükûn türüdür?",
+    "a": "Lazımisükûndur."
+   },
+   {
+    "q": "Hurufımukattaa olan ٓسٰٰي örneğinde neden meddilazım olur?",
+    "a": "Med harfi ى'den sonra sakin ن gelir; harflerin isimlerindeki sükûn lazımisükûn olduğu için."
+   },
+   {
+    "q": "Tecvit ilminde vakıf nedir?",
+    "a": "Okumaya yeniden başlama niyetiyle nefes alacak kadar sesi kesmektir."
+   }
+  ],
+  "69": [
+   {
+    "q": "Medd-i lin nedir?",
+    "a": "\"Med\" (uzatma) ile \"lin\" (yumuşak) kelimelerinin birleşmesinden oluşan, harfin mahrecine fazla baskı yapmadan yumuşak ve akıcı sesle yapılan uzatmadır."
+   },
+   {
+    "q": "Harf-i lin hangi harflerdir?",
+    "a": "Kendisinden önceki harfin harekesi üstün olan sâkin vav (و) ile ya (ى) harfleridir."
+   },
+   {
+    "q": "Tahkik (yavaş) okuyuşta uzatma miktarı nedir?",
+    "a": "Dört elif."
+   },
+   {
+    "q": "Tedvir (orta) okuyuşta uzatma miktarı nedir?",
+    "a": "İki-üç elif."
+   },
+   {
+    "q": "Hadr (hızlı) okuyuşta uzatma miktarı nedir?",
+    "a": "Bir elif."
+   },
+   {
+    "q": "Karekod üzerinden meddiarız ile ilgili örnekleri telaffuz ediniz.",
+    "a": "Örnekler öğretmen rehberliğinde, medd-i lin harfleri okuma hızına uygun süreyle uzatılarak telaffuz edilir."
+   },
+   {
+    "q": "Uygulama tablosundaki örnekleri kurallarına uygun telaffuz ediniz.",
+    "a": "İçinde sâkin vav veya ya (üstün harekeden sonra) bulunan kelimeler, tahkikte dört, tedvirde iki-üç, hadrda bir elif uzatılarak okunur."
+   }
+  ],
+  "70": [
+   {
+    "q": "Karekod üzerinden medd-i lin ile ilgili örnekleri telaffuz ediniz.",
+    "a": "Örnekler medd-i lin kuralına uygun, uzatarak telaffuz edilir: فْخَوْ، شَيْقُر gibi."
+   },
+   {
+    "q": "Grafik Bilgi 2.13'e göre sükûn çeşitleri ve durumları nelerdir?",
+    "a": "Arızî sükûn: durulduğunda son harf sükûnlu olur. Lâzımî sükûn: harfin aslında bulunan sükûndur, durmaya bağlı değildir."
+   },
+   {
+    "q": "Medd-i lin nasıl meydana gelir?",
+    "a": "Lin harfinden sonra sebeb-i med olarak sükûn gelirse medd-i lin meydana gelir."
+   },
+   {
+    "q": "Uygulama Tablosu'ndaki örnekleri kurallarına uygun telaffuz ediniz.",
+    "a": "Örnekler medd-i lin hükmüne göre, lin harfinden sonraki sükûna dikkat edilerek uzatılıp telaffuz edilir."
+   },
+   {
+    "q": "Kur'an-ı Kerim'de lin harfinden sonra lâzımî sükûn gelen kaç yer vardır?",
+    "a": "İki yer: Meryem suresi 1. ayet ve Şûrâ suresi 2. ayet."
+   },
+   {
+    "q": "ع harfinin açılımı nasıldır?",
+    "a": "عَ ْنْي (ayn) şeklindedir."
+   },
+   {
+    "q": "ع harfindeki sükûnun çeşidi nedir?",
+    "a": "Durulsa da geçilse de değişmeyen lâzımî sükûndur."
+   },
+   {
+    "q": "Medd-i linin uzatma miktarı ve hükmü nedir?",
+    "a": "Dört elif miktarı uzatılır; hızlı okuyuşta bir elif miktarına inilebilir. Hükmü caizdir."
+   },
+   {
+    "q": "Medd-i lin ile diğer med çeşitleri arasındaki uzatma farkı nedir?",
+    "a": "Diğer medlerde uzatma harfin harekesinde yapılırken medd-i linde uzatma bizzat و veya ى harflerinin kendi mahreçlerinde ses akıtılarak yapılır."
+   },
+   {
+    "q": "Lin harfinden sonraki harf arızî sükûnlu veya lâzımî sükûnlu ise hüküm ne olur?",
+    "a": "Arızî sükûnlu ise medd-i ârız, lâzımî sükûnlu ise medd-i lâzım gibi olur."
+   }
+  ],
+  "71": [
+   {
+    "q": "Etkinliğin adı nedir?",
+    "a": "Med Çeşitlerini Öğreniyorum"
+   },
+   {
+    "q": "Etkinliğin süresi nedir?",
+    "a": "20 dakika"
+   },
+   {
+    "q": "Etkinlik kaç uygulama adımından oluşur?",
+    "a": "6 adım"
+   },
+   {
+    "q": "Yönergeye göre her kelime için tabloya hangi bilgiler yazılır?",
+    "a": "Med çeşidi, uzatma miktarı, uzatılan harf ve hüküm"
+   },
+   {
+    "q": "Med harfleri hangileridir?",
+    "a": "Elif (ا), vav (و) ve ya (ي)"
+   },
+   {
+    "q": "Med sebebi kaç tanedir ve nelerdir?",
+    "a": "İki tanedir: hemze ve sükûn"
+   },
+   {
+    "q": "Med çeşitleri nelerdir?",
+    "a": "Medditabii, meddimuttasıl, meddimunfasıl, meddilazım, meddiarız ve meddilin"
+   },
+   {
+    "q": "Medditabii nasıl oluşur; uzatma miktarı, uzatılan harf ve hükmü nedir?",
+    "a": "Med harfinden sonra med sebebi gelmezse oluşur; 1 elif uzatılır; uzatılan harf ا/و/ي; hükmü vacip (örn. يُقُولُ, الصَّلَاة)"
+   },
+   {
+    "q": "Meddimuttasıl nasıl oluşur; uzatma miktarı, uzatılan harf ve hükmü nedir?",
+    "a": "Med harfi ile hemze aynı kelimede bulunursa oluşur; 4 elif uzatılır; uzatılan harf med harfi; hükmü vacip (örn. جَاءَ)"
+   },
+   {
+    "q": "Meddimunfasıl nasıl oluşur; uzatma miktarı, uzatılan harf ve hükmü nedir?",
+    "a": "Med harfi ile hemze ayrı kelimelerde bulunursa oluşur; 4 elif uzatılır, hızlı okuyuşta en az 1 elif; hükmü caiz (örn. وَمَا أَدْرَاكَ)"
+   },
+   {
+    "q": "Meddilazım nasıl oluşur; uzatma miktarı, uzatılan harf ve hükmü nedir?",
+    "a": "Med harfinden sonra lâzımî sükûn (cezim veya şedde) gelirse oluşur; 4 elif uzatılır; uzatılan harf med harfi; hükmü vacip (örn. الضَّالِّينَ)"
+   },
+   {
+    "q": "Meddiarız nasıl oluşur; uzatma miktarı, uzatılan harf ve hükmü nedir?",
+    "a": "Med harfinden sonra ârızî (geçici) sükûn gelirse oluşur; okuyuşa göre 1-4 elif uzatılır; hükmü caiz (örn. يَعْلَمُونَ üzerinde durulunca)"
+   },
+   {
+    "q": "Meddilin nasıl oluşur; uzatma miktarı, uzatılan harf ve hükmü nedir?",
+    "a": "Üstünden sonra gelen cezimli و/ي (harf-i lin) ardından sükûn gelirse oluşur; lâzımî sükûnda 2-3, ârızî sükûnda 1-4 elif; hükmü caiz (örn. خَوْفٍ üzerinde durulunca)"
+   },
+   {
+    "q": "يُقُولُ kelimesinin med çeşidi, uzatma miktarı, uzatılan harfi ve hükmü nedir?",
+    "a": "Medditabii — 1 elif — و — vacip"
+   },
+   {
+    "q": "الصَّلَاة kelimesinin med çeşidi, uzatma miktarı, uzatılan harfi ve hükmü nedir?",
+    "a": "Medditabii — 1 elif — ا — vacip"
+   },
+   {
+    "q": "بِالْغَيْبِ kelimesinde durulduğunda oluşan med ve hükmü nedir?",
+    "a": "Meddilin — 1-4 elif — ي — caiz"
+   }
+  ],
+  "72": [
+   {
+    "q": "1. Verilen ayetlerde geçen med çeşitlerinden birer örnek bulup altını çiziniz.",
+    "a": "الٓمٓ (meddilazım), بِمَا أُنزِلَ (meddimunfasıl), أُولَٰئِكَ (meddimuttasıl), لَا رَيْبَ (medditabii), يُوقِنُونَ (meddiarız, vakıfta), رَيْبَ/بِالْغَيْبِ (meddilin, vakıfta)."
+   },
+   {
+    "q": "2. Bulduğunuz med çeşitlerinden en az birer tanesini ilgili kutucuklara yazınız.",
+    "a": "Aşağıdaki kutucuklara yazılmıştır."
+   },
+   {
+    "q": "Medditabii",
+    "a": "لَا (لَا رَيْبَ)"
+   },
+   {
+    "q": "Meddimuttasıl",
+    "a": "أُولَٰئِكَ"
+   },
+   {
+    "q": "Meddimunfasıl",
+    "a": "بِمَا أُنزِلَ"
+   },
+   {
+    "q": "Meddilazım",
+    "a": "الٓمٓ"
+   },
+   {
+    "q": "Meddiarız",
+    "a": "يُوقِنُونَ (durulunca)"
+   },
+   {
+    "q": "Meddilin",
+    "a": "رَيْبَ (durulunca)"
+   }
+  ],
+  "73": [
+   {
+    "q": "1. Öz değerlendirme formunu doldurarak çalışmanızla ilgili kendinizi değerlendiriniz.",
+    "a": "Form, 6 ölçüt için Evet/Kısmen/Hayır işaretlenerek doldurulur."
+   },
+   {
+    "q": "2. Tarsia yapbozundaki med çeşitlerinin özelliklerini doğru temsil ettim.",
+    "a": "Evet."
+   },
+   {
+    "q": "3. Med çeşitlerinin kural-örnek eşleştirme doğruluğuna dikkat ettim.",
+    "a": "Evet."
+   },
+   {
+    "q": "4. Örnek kelime üzerinden med türünü doğru belirledim.",
+    "a": "Evet."
+   },
+   {
+    "q": "5. Tarsia yapbozunun yapısındaki mantıksal bütünlüğü analiz ettim.",
+    "a": "Evet."
+   },
+   {
+    "q": "6. Med çeşitlerinin okunuş farkındalığını doğru bir telaffuz ile sundum.",
+    "a": "Evet."
+   },
+   {
+    "q": "7. Açık, anlaşılır, akıcı, dikkat çekici ve seviyeye uygun bir sunum yaptım.",
+    "a": "Evet."
+   },
+   {
+    "q": "Performans görevi hangi anahtarla değerlendirilecektir?",
+    "a": "Karekodla verilen Dereceli Puanlama Anahtarı ile."
+   },
+   {
+    "q": "Adım 1. Meddi tabii, meddi muttasıl, meddi munfasıl, meddi lazım, meddi arız ve meddi lin ile ilgili soru ve cevapları oluşturunuz.",
+    "a": "Meddi tabii: aslî med, 2 hareke (قَالَ, يَقُولُ). Meddi muttasıl: aynı kelimede hemze, 4-5 hareke (جَاءَ). Meddi munfasıl: kelime sonunda med + sonraki kelime başında hemze, 4-5 hareke (يَا أَيُّهَا). Meddi lazım: medden sonra lâzımî sukûn, 6 hareke (الضَّالِّينَ). Meddi arız: vakıf sebebiyle ârızî sukûn, 2-6 hareke (الرَّحِيمْ). Meddi lin: fethadan sonra sukûnlu vav/ye, 2-6 hareke (خَوْفٍ, بَيْتٍ)."
+   },
+   {
+    "q": "Adım 2. Tarsia yapbozunu oluşturmak için ne yapılır?",
+    "a": "Üçgen parçalardan oluşan bir şablon seçilir."
+   },
+   {
+    "q": "Adım 3. Her parça neye karşılık gelir?",
+    "a": "Bir soruya ve bir cevaba."
+   },
+   {
+    "q": "Adım 4. Sorular ve cevaplar ne yapılır?",
+    "a": "Oluşturulan Tarsia şablonuna yerleştirilir."
+   },
+   {
+    "q": "Adım 5. Şablondaki parçalarla ne sağlanır?",
+    "a": "Parçalar düzenlenerek doğru eşleşme sağlanır."
+   },
+   {
+    "q": "Adım 6. Neyden emin olunmalıdır?",
+    "a": "Parçaların doğru birleştiğinden ve yapbozun mantıklı bir bütün oluşturduğundan."
+   },
+   {
+    "q": "Adım 7. Yapboz hazırlanırken hangi aşamalar takip edilir?",
+    "a": "Kuralı doğru temsil etme, kural–örnek eşleştirme doğruluğu, mantıksal bütünlük, okunuş farkındalığı ve sunma."
+   },
+   {
+    "q": "Adım 8. Hazırlanan yapbozla ne yapılır?",
+    "a": "Arkadaşlara sunulur."
+   }
+  ],
+  "74": [
+   {
+    "q": "2. Tabloda yer alan kalın sesli harfleri yazınız.",
+    "a": "ض، ظ، ق"
+   },
+   {
+    "q": "3. Tabloda yer alan boğaz harflerini yazınız.",
+    "a": "ا، ح، ع، ه"
+   },
+   {
+    "q": "4. Tabloda yer alan dil (diş/damak) harflerini yazınız.",
+    "a": "ث، ج، د، ر، ز، ش، ض، ظ، ق، ك، ل، ن"
+   },
+   {
+    "q": "5. Tabloda yer alan ince sesli harfleri yazınız.",
+    "a": "ا، ب، ث، ج، ح، د، ر، ز، ش، ع، ف، ك، ل، م، ن، ه، و"
+   },
+   {
+    "q": "6. Tabloda verilen kelimeleri cezim, şedde, tenvin, med gibi konulara göre gruplandırdığınızda hangi kelime dışta kalır?",
+    "a": "خَرَجَ"
+   },
+   {
+    "q": "7. Konularına göre ayırdığınız gruplardan birini kelimeleri ile beraber yazınız.",
+    "a": "Tenvin grubu: صَبْرًا، نَهَرًا"
+   }
+  ],
+  "75": [
+   {
+    "q": "Aşağıdaki tabloya meddimuttasıl ve meddimunfasılın benzerliklerini ve farklılıklarını yazınız.",
+    "a": "Benzerlik: Her ikisinde de med harfinden sonra hemze gelir ve 4-5 elif miktarı uzatılır. Fark: Meddimuttasıl'da med harfi ile hemze aynı kelimededir; meddimunfasıl'da med harfi bir kelimenin sonunda, hemze ise sonraki kelimenin başında bulunur."
+   },
+   {
+    "q": "Bu ayetlerde iki ötre bulunan kaç kelime bulunmaktadır?",
+    "a": "4 kelime (savâün, ğişâvetün, azâbün, azîmün)."
+   },
+   {
+    "q": "Bu ayetlerde geçen cezimli kelimelere iki örnek yazınız.",
+    "a": "لَمْ (lem) ve أَمْ (em); ayrıca عَلَيْهِمْ، سَمْعِهِمْ."
+   },
+   {
+    "q": "Altı çizili kelimelerdeki işareti kısaca açıklayınız.",
+    "a": "Med (uzatma) işaretidir; harfin bir-iki hareke miktarı uzatılarak okunmasını bildirir."
+   },
+   {
+    "q": "Aşağıdaki tabloda verilen tanımların karşılığı olan kavramları ilgili alanlara işaretleyiniz.",
+    "a": "İnce harfleri \"un-ün\", kalın harfleri \"un\" sesiyle okutan hareke → İki ötre; kelime sonundaki harfe çift hareke yazılıp \"n\" sesi ekleyen işaret → Tenvin; harfin üstünde küçük vav şeklinde olup \"u\" sesi veren hareke → Ötre; sükûn alameti anlamına gelen hareke → Cezim; harfin üstünde bulunup \"e/a\" sesi veren hareke → Üstün."
+   }
+  ],
+  "76": [
+   {
+    "q": "13. Meddiarız ile ilgili tablodaki boşlukları uygun şekilde doldurunuz.",
+    "a": "Med harfinden (elif/vav/ya) sonra sükûn-ı ârız gelince medd-i ârız olur. Geçildiğinde kelime medd-i tabiî olur (bir elif), durulduğunda uzatılır: Tahkik'te dört elif, Tedvir'de iki-üç elif, Hadr'de bir elif miktarı. Vakıf hâlinde son harf cezimli (sakin) okunur."
+   },
+   {
+    "q": "a. 1 numaralı kelimede kamerî harflerden biri bulunmaktadır.",
+    "a": "Doğru."
+   },
+   {
+    "q": "b. 2 numaralı kelimede kasır işareti bulunmaktadır.",
+    "a": "Yanlış; kelimede kasır değil, med (uzatma) işareti bulunmaktadır."
+   },
+   {
+    "q": "c. 3 numaralı kelime hurufımukattaa olarak isimlendirilir.",
+    "a": "Yanlış; hurufımukattaa sûre başlarındaki kesik harflerdir (elif-lâm-mîm gibi), bu kelime normal bir kelimedir."
+   },
+   {
+    "q": "ç. 6 numaralı kelimede zamir olan harf uzatılmadan okunur.",
+    "a": "Doğru; zamirden önceki harf sakin ise zamir uzatılmadan okunur."
+   },
+   {
+    "q": "d. 5 numaralı kelimede şemsî harflerden biri bulunmaktadır.",
+    "a": "Doğru."
+   },
+   {
+    "q": "e. 4 numaralı kelimede zamir olan harf bulunmaktadır.",
+    "a": "Doğru.## Objective"
+   }
+  ],
+  "77": [
+   {
+    "q": "15. Med çeşitleri ile örnekleri eşleştiriniz.",
+    "a": "1-Medd-i muttasıl → طَائِفَةٌ; 2-Medd-i munfasıl → iki ayrı kelimede med + hemze (ör. بِمَا أُنْزِلَ); 3-Medd-i lâzım → وَالضَّالِّينَ; 4-Medd-i ârız → تَتَذَكَّرُونَ (durulduğunda); 5-Medd-i lîn → خَوْفٌ / بَيْتٌ."
+   },
+   {
+    "q": "16. Bulmacadan Kur'an harfleri ve özellikleriyle ilgili bir kavram bulup açıklayınız.",
+    "a": "ŞEDDE: Aynı harfin biri sakin, biri harekeli olmak üzere iki kez okunmasını sağlayan işaret."
+   },
+   {
+    "q": "17. Harflerin ağız, boğaz ve dudakta çıktığı yeri ifade eden kavramı bulunuz.",
+    "a": "MAHREÇ."
+   },
+   {
+    "q": "18. Cümledeki boşluğa getirilecek kelimeyi bulunuz.",
+    "a": "FEM-İ MUHSİN."
+   },
+   {
+    "q": "19. Hem kalın hem peltek olan harf hangisidir?",
+    "a": "D) ظ."
+   },
+   {
+    "q": "20. Kendisinden sonra gelen harfle birleşmeyen harf hangisidir?",
+    "a": "C) د."
+   },
+   {
+    "q": "21. soru",
+    "a": "Sayfa metninde yer almıyor."
+   },
+   {
+    "q": "22. soru",
+    "a": "Sayfa metninde yer almıyor."
+   }
+  ],
+  "78": [
+   {
+    "q": "Bakara suresinin 1-5. ayetleri ile ilgili verilen bilgilerden hangisi yanlıştır?",
+    "a": "D (Dördüncü ayette medd-i lin yoktur; bu ayette medd-i munfasıl vardır.)"
+   },
+   {
+    "q": "Verilen ayetlerde med çeşitlerini bularak yazınız.",
+    "a": "1. Ayet: medd-i lazım — 2. Ayet: medd-i tabii ve medd-i arız — 3. Ayet: medd-i tabii ve medd-i arız — 4. Ayet: medd-i munfasıl (ayrıca medd-i tabii ve medd-i arız) — 5. Ayet: medd-i muttasıl (ayrıca medd-i tabii ve medd-i arız)."
+   },
+   {
+    "q": "Aşağıda verilen bilgilerden hangisi yanlıştır?",
+    "a": "D (Harflerin uzatılarak okunmasına \"med\" denir, \"sükûn\" değil.)"
+   }
+  ],
+  "82": [
+   {
+    "q": "Harfleri mahreçlerine uygun telaffuz ettim mi?",
+    "a": "Evet"
+   },
+   {
+    "q": "Yüzünden okuduğum ayetlerdeki medditabiileri tespit ettim mi?",
+    "a": "Evet"
+   },
+   {
+    "q": "Medditabii tecvit kuralını açıkladım mı?",
+    "a": "Evet (Bir elif veya hemzeden sonra gelen uzatma harfiyle bir elif miktarı uzatılır.)"
+   },
+   {
+    "q": "Medditabiileri kuralına uygun uyguladım mı?",
+    "a": "Evet"
+   },
+   {
+    "q": "Meddimuttasılları tespit ettim mi?",
+    "a": "Evet"
+   },
+   {
+    "q": "Meddimuttasıl tecvit kuralını açıkladım mı?",
+    "a": "Evet (Bir kelimede medd harfiyle hemze yan yana gelince 4-5 elif uzatılır.)"
+   },
+   {
+    "q": "Meddimuttasılları kuralına uygun uyguladım mı?",
+    "a": "Evet"
+   },
+   {
+    "q": "Meddimunfasılları tespit ettim mi?",
+    "a": "Evet"
+   },
+   {
+    "q": "Meddimunfasıl tecvit kuralını açıkladım mı?",
+    "a": "Evet (Medd harfi kelime sonunda, hemze sonraki kelimenin başında olunca 4-5 elif uzatılır.)"
+   },
+   {
+    "q": "Meddimunfasılları kuralına uygun kullandım mı?",
+    "a": "Evet"
+   },
+   {
+    "q": "Meddiarızı tespit ettim mi?",
+    "a": "Evet"
+   },
+   {
+    "q": "Meddiarız tecvit kuralını açıkladım mı?",
+    "a": "Evet (Medd harfinden sonra vakıf sebebiyle cezm gelince 1-4 elif uzatılır.)"
+   },
+   {
+    "q": "Meddiarızı kuralına uygun uyguladım mı?",
+    "a": "Evet"
+   },
+   {
+    "q": "Meddilazımı tespit ettim mi?",
+    "a": "Evet"
+   },
+   {
+    "q": "Meddilazım tecvit kuralını açıkladım mı?",
+    "a": "Evet (Medd harfinden sonra şedde veya sükûn gelince 4 elif uzatılır.)"
+   },
+   {
+    "q": "Meddilazımı kuralına uygun uyguladım mı?",
+    "a": "Evet"
+   },
+   {
+    "q": "Meddilini tespit ettim mi?",
+    "a": "Evet"
+   },
+   {
+    "q": "Meddilin tecvit kuralını açıkladım mı?",
+    "a": "Evet (Medd harfinden sonra sükûn gelince 4 elif uzatılır.)"
+   },
+   {
+    "q": "Meddilini kuralına uygun uyguladım mı?",
+    "a": "Evet"
+   },
+   {
+    "q": "Kur'an-ı Kerim'i usulüne uygun yüzünden okudum mu?",
+    "a": "Evet"
+   },
+   {
+    "q": "Güçlü yönlerim",
+    "a": "Mahreçlere dikkat etmem ve tecvit kurallarını uygulamam."
+   },
+   {
+    "q": "Geliştirilmesi gereken yönlerim",
+    "a": "Medd çeşitlerini ayırt etme ve uzatma sürelerini tutturmada hız."
+   },
+   {
+    "q": "Önerilen çalışma yöntemim",
+    "a": "Her gün tecvitli bir bölüm okumak ve medd örneklerini işaretleyerek tekrar etmek."
+   }
+  ],
+  "83": [
+   {
+    "q": "Hazırladığım çalışma planına uygun hareket ettim.",
+    "a": "Evet"
+   },
+   {
+    "q": "Fatiha suresi veya Bakara suresinin 1-169. sayfaları arasından öğretmenimin rehberliğinde üç sayfa belirledim.",
+    "a": "Evet"
+   },
+   {
+    "q": "Medditabii, meddimuttasıl, meddimunfasıl, meddiarız, meddilazım ve meddilin tecvit kuralları ile ilgili konuları gözden geçirdim.",
+    "a": "Evet"
+   },
+   {
+    "q": "Performans görevi için belirlediğim sayfaları, tecvit kurallarına uygun olarak yüzünden okudum.",
+    "a": "Evet"
+   },
+   {
+    "q": "Yüzünden okuma çalışmalarımda medditabii, meddimuttasıl, meddimunfasıl, meddiarız, meddilazım ve meddilin tecvit kuralları ile ilgili örnekleri tespit ettim.",
+    "a": "Evet"
+   },
+   {
+    "q": "Medditabii, meddimuttasıl, meddimunfasıl, meddiarız, meddilazım ve meddilin tecvit kuralları ile ilgili tespit ettiğim örneklerin sunumunu uygulamalı olarak yaptım.",
+    "a": "Evet"
+   },
+   {
+    "q": "Açık, anlaşılır, akıcı, dikkat çekici ve seviyeye uygun bir sunum yaptım.",
+    "a": "Evet"
+   },
+   {
+    "q": "Çalışmalarım süresince üzerime düşen sorumlulukları yerine getirdim.",
+    "a": "Evet"
+   }
+  ],
+  "84": [],
+  "110": [],
+  "111": [],
+  "112": [],
+  "116": [],
+  "118": [],
+  "120": [],
+  "122": [],
+  "123": [],
+  "124": [],
+  "125": [],
+  "126": [],
+  "128": [],
+  "129": [],
+  "133": [],
+  "135": [],
+  "136": [],
+  "138": [],
+  "139": [],
+  "140": [],
+  "141": [],
+  "143": [],
+  "144": [],
+  "145": [],
+  "146": [],
+  "147": [],
+  "148": [],
+  "149": [],
+  "150": [],
+  "151": [],
+  "152": [],
+  "153": [],
+  "154": [],
+  "155": [],
+  "157": [],
+  "158": [],
+  "159": [],
+  "160": [],
+  "161": [],
+  "162": [],
+  "163": [],
+  "164": [],
+  "165": [],
+  "166": [],
+  "170": [],
+  "172": []
+ }
+}
