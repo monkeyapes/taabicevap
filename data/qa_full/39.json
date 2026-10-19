@@ -4,12 +4,18 @@
  "pages": {
   "3": [
    {
+<<<<<<< Updated upstream
     "q": "(Sayfada soru/etkinlik var mı?)",
     "a": "Verilen sayfa metninde yalnızca Mehmet Âkif Ersoy'un İstiklal Marşı şiiri yer alıyor; hiçbir soru veya etkinlik bulunmuyor."
+=======
+    "q": "Sayfadaki sorular/etkinlikler nelerdir?",
+    "a": "Sayfada hiçbir soru veya etkinlik yok; sadece Mehmet Âkif Ersoy'un İstiklâl Marşı yer alıyor."
+>>>>>>> Stashed changes
    }
   ],
   "18": [
    {
+<<<<<<< Updated upstream
     "q": "Görselde verilen başlıklarla ilgili bildiklerinizi başlık altındaki uygun boşluklara yazınız.",
     "a": "Aşağıdaki başlıkların her biri için kısa bilgiler yazılır."
    },
@@ -36,11 +42,36 @@
    {
     "q": "Eksiklerinizin olduğunu düşündüğünüz konuları daire içine işaretleyiniz.",
     "a": "Bu, öğrencinin kendi eksiklerine göre işaretlemesi gereken bireysel bir etkinliktir."
+=======
+    "q": "Görselde verilen \"Temel Güvenlik Uyarı İşaretleri\" başlığıyla ilgili bildiklerinizi yazınız.",
+    "a": "Laboratuvarda tehlike kaynaklarını belirten sembollerdir; yanıcı, yakıcı, zehirli (toksik), aşındırıcı, patlayıcı, radyoaktif ve biyolojik tehlike işaretleri gibi."
+   },
+   {
+    "q": "\"Fiziksel ve Kimyasal Değişimler\" başlığıyla ilgili bildiklerinizi yazınız.",
+    "a": "Fiziksel değişimde maddenin kimliği değişmez (erime, donma, buharlaşma); kimyasal değişimde yeni madde oluşur (yanma, paslanma, çürüme)."
+   },
+   {
+    "q": "\"Asitler ve Bazlar\" başlığıyla ilgili bildiklerinizi yazınız.",
+    "a": "Asitler turnusol kâğıdını kırmızıya çevirir, pH < 7; bazlar maviye çevirir, pH > 7. Asit-baz tepkimesi nötrleşme ile tuz ve su verir."
+   },
+   {
+    "q": "\"İletken ve Yalıtkan Madde\" başlığıyla ilgili bildiklerinizi yazınız.",
+    "a": "Elektrik akımını ileten maddeler iletken (metaller, grafit, tuzlu su); iletmeyen maddeler yalıtkandır (plastik, cam, kauçuk)."
+   },
+   {
+    "q": "\"Madde ve Özellikleri\" başlığıyla ilgili bildiklerinizi yazınız.",
+    "a": "Maddenin kütle, hacim, yoğunluk, erime/donma noktası, kaynama noktası, çözünürlük ve iletkenlik gibi ayırt edici ve ortak özellikleri vardır."
+   },
+   {
+    "q": "Eksik olduğunuzu düşündüğünüz konuları işaretleyip bölüme başlamadan önce tamamlayınız.",
+    "a": "Bu, öğrencinin kendi durumuna göre dolduracağı kişisel bir etkinliktir; her başlık için bilgi düzeyinizi değerlendirip eksik konuları çalışınız."
+>>>>>>> Stashed changes
    }
   ],
   "19": [
    {
     "q": "Doğada kamp yaparken metinde bahsedilen ısınma ve su elde etme süreçlerinde daha önce edindiğiniz bilgilerden hangilerini kullanabilirsiniz?",
+<<<<<<< Updated upstream
     "a": "Ateş yakma (sürtünme, odun dizilimi), suyu kaynatma, yoğuşma, filtreleme ve katmanlı malzeme kullanımı bilgilerini kullanabilirim."
    },
    {
@@ -50,20 +81,81 @@
    {
     "q": "Kimya biliminin doğada hayatta kalma becerilerinizi geliştirmedeki rolünü örneklerle açıklayınız.",
     "a": "Yanma, buharlaşma-yoğuşma, filtrasyon ve suyun kaynama noktası gibi kimya bilgileriyle ateş yakma, su elde etme ve arıtma becerileri geliştirilir."
+=======
+    "a": "Isınma için yanma/ateş yakma bilgisi, su elde etme için yoğuşma, filtreleme ve kaynatma bilgileri kullanılabilir."
+   },
+   {
+    "q": "Bitkilerden elde edilen su ile günlük hayatta tüketilen su arasında sizce ne gibi farklar vardır? Bu farkların insan sağlığına etkileri neler olabilir?",
+    "a": "Bitkiden elde edilen su, yoğuşma suyu olup mineral içeriği düşüktür; ambalajlı sular ise etikette belirtilen mineralleri içerir. Mineral eksikliği uzun vadede sağlığı olumsuz etkileyebilir; ayrıca bitkisel suyun temizliğinden emin olunmalıdır."
+   },
+   {
+    "q": "Kimya biliminin doğada hayatta kalma becerilerinizi geliştirmedeki rolünü örneklerle açıklayınız.",
+    "a": "Yanma tepkimeleriyle ateş yakma, kaynatma ve yoğuşma ile su arıtma, filtrasyon ve odun kömürünün adsorplayıcı özelliğiyle su temizleme kimyanın sağladığı bilgilerdir."
+>>>>>>> Stashed changes
    }
   ],
   "20": [
    {
+<<<<<<< Updated upstream
     "q": "1. Yönerge: Aşağıdaki maddeler hangi alanlarda kullanılabilir?",
     "a": "Limon tuzu → Yiyecek/içecek, Kireç çözücü; Sıvı sabun → Öz bakım, Genel temizlik; Sirke → Yiyecek/içecek, Kireç çözücü, Genel temizlik; Karbonat → Yiyecek/içecek, Öz bakım, Genel temizlik; Gazlı içecek → Yiyecek/içecek; Diş macunu → Öz bakım; Antiasit mide tableti → İlaç."
    },
    {
     "q": "2. Yönerge: Laboratuvar kurallarına uyarak deneyi yapınız ve soruları cevaplayınız (maddelerin pH değerleri).",
     "a": "Sirke, limon tuzu ve gazlı içecek asidik (pH<7); sıvı sabun, diş macunu, karbonat ve antiasit mide tableti bazik (pH>7); saf su nötr (pH=7) olup pH kâğıdının rengine göre sınıflandırılır."
+=======
+    "q": "1. Yönerge – Limon tuzu hangi alanlarda kullanılabilir?",
+    "a": "Yiyecek/içecek, kireç çözücü, genel temizlik."
+   },
+   {
+    "q": "1. Yönerge – Sıvı sabun hangi alanlarda kullanılabilir?",
+    "a": "Öz bakım, dezenfektan, genel temizlik."
+   },
+   {
+    "q": "1. Yönerge – Sirke hangi alanlarda kullanılabilir?",
+    "a": "Yiyecek/içecek, öz bakım, kireç çözücü, genel temizlik."
+   },
+   {
+    "q": "1. Yönerge – Karbonat hangi alanlarda kullanılabilir?",
+    "a": "Yiyecek/içecek, öz bakım, kireç çözücü, genel temizlik."
+   },
+   {
+    "q": "1. Yönerge – Gazlı içecek hangi alanlarda kullanılabilir?",
+    "a": "Yiyecek/içecek, kireç çözücü, genel temizlik."
+   },
+   {
+    "q": "1. Yönerge – Diş macunu hangi alanlarda kullanılabilir?",
+    "a": "Öz bakım."
+   },
+   {
+    "q": "1. Yönerge – Antiasit mide tableti hangi alanlarda kullanılabilir?",
+    "a": "İlaç."
+   },
+   {
+    "q": "2. Yönerge – Deneyin amacı nedir?",
+    "a": "Günlük hayattaki bazı kimyasal maddelerin pH değerini belirlemek."
+   },
+   {
+    "q": "Deneyde pH kâğıdı neden kullanılır?",
+    "a": "Maddelerin asitlik/bazlık (pH) derecesini ölçmek için."
+   },
+   {
+    "q": "Hangi maddeler asidik özellik gösterir?",
+    "a": "Limon tuzu, sirke, gazlı içecek."
+   },
+   {
+    "q": "Hangi maddeler bazik özellik gösterir?",
+    "a": "Karbonat, sıvı sabun, diş macunu, antiasit mide tableti."
+   },
+   {
+    "q": "Nötr madde hangisidir ve pH değeri kaçtır?",
+    "a": "Saf su; pH değeri 7'dir."
+>>>>>>> Stashed changes
    }
   ],
   "21": [
    {
+<<<<<<< Updated upstream
     "q": "Deney tüplerine saf su ilave edildiğinde maddelerin pH değeri nasıl değişti?",
     "a": "Seyrelme olduğu için tüm maddelerin pH'ı nötr değer olan 7'ye yaklaştı; asitlerin pH'ı arttı, bazların pH'ı azaldı."
    },
@@ -90,10 +182,39 @@
    {
     "q": "Tabloyu doldurunuz (Kimyasal Madde – pH – Saf Su İlavesi Sonrası pH).",
     "a": "Limon tuzu: asidik (~3) → 7'ye yaklaşır; Sıvı sabun: bazik (~9-10) → 7'ye yaklaşır; Gazlı içecek: asidik (~3-4) → 7'ye yaklaşır; Karbonat: bazik (~8-9) → azalır; Sirke: asidik (~2-3) → artar; Diş macunu: bazik (~8-9) → azalır; Antiasit tablet: bazik (~9-10) → azalır."
+=======
+    "q": "1. Deney tüplerine saf su ilave edildiğinde maddelerin pH değeri nasıl değişti?",
+    "a": "Seyrelme nedeniyle tüm pH değerleri nötre (7'ye) yaklaşır; asidiklerin pH'ı yükselir, baziklerin pH'ı düşer."
+   },
+   {
+    "q": "2. Diş macununun pH değeri saf su eklendiğinde nasıl değişti? Bazik özelliği arttı mı yoksa azaldı mı? \"Diş fırçanızı ıslatmayın!\" uyarısının nedenini açıklayınız.",
+    "a": "Diş macunu baziktir (pH ~8-9); su eklenince seyrelerek pH'ı 7'ye yaklaşır, bazik özelliği azalır. Fırça ıslatılınca macun seyrelip bazikliği düştüğü için temizleme etkinliği azalır."
+   },
+   {
+    "q": "3. Antiasit tabletler asidik mi yoksa bazik midir? Antiasit tabletlerin pH değeri su eklendiğinde nasıl değişti? Bu tabletlerin çiğneme tableti olmasını ve su ile içilmemesinin nedenini deney sonuçlarından elde ettiğiniz verileri kullanarak nasıl açıklarsınız?",
+    "a": "Baziktir (pH >7); mide asidini nötralize eder. Su eklenince seyrelip pH'ı 7'ye yaklaşır, bazikliği azalır. Su ile içilirse seyrelerek etkisi azalacağından, etkili bazik derişim için çiğnenerek alınır."
+   },
+   {
+    "q": "4. Çaydanlıkta biriken kireci (kalsiyum karbonat) çözmek için limon tuzunun tercih edilme nedenini açıklayınız? Günlük hayatta kullandığınız ve içerisine kireç biriken kapların kirecini gidermek için limon tuzu dışında başka hangi maddeler kullanılabilir?",
+    "a": "Limon tuzu (sitrik asit) asidik olduğundan bazik kalsiyum karbonatla nötralleşme tepkimesi verip kireci çözer. Sirke, limon suyu ve ticari kireç çözücüler de kullanılabilir."
+   },
+   {
+    "q": "5. Limon tuzunun mermer mutfak tezgâhına ve tebeşire yaptığı etki ile karbonatın bu maddelere etkisi aynı olur mu? Neden?",
+    "a": "Aynı olmaz. Limon tuzu asidik olduğundan bazik yapıdaki mermer ve tebeşiri (kalsiyum karbonat) aşındırır; karbonat ise bazik olduğundan bu maddelerle tepkime vermez, aşındırmaz."
+   },
+   {
+    "q": "6. Gazlı içeceklerin pas temizleme işleminde kullanılma nedenini açıklayınız. Paslanmış metalleri temizlemek için gazlı içecekler dışında hangi maddeler kullanılabilir?",
+    "a": "Gazlı içecekler asidik (karbonik/fosforik asit) olduğundan pas (demir oksit) ile tepkime verip çözer. Sirke, limon suyu, tuz+asetik asit karışımı ve ticari pas sökücüler kullanılabilir."
+   },
+   {
+    "q": "Tablo (Kimyasal Madde – pH Değeri – Saf Su İlavesi Sonrasında pH Değeri)",
+    "a": "Limon tuzu ~2 → 7'ye yaklaşır; Sıvı sabun ~9-10 → düşer; Gazlı içecek ~3 → yükselir; Karbonat ~9 → düşer; Sirke ~3 → yükselir; Diş macunu ~8-9 → düşer; Antiasit mide tableti ~9-10 → düşer."
+>>>>>>> Stashed changes
    }
   ],
   "22": [
    {
+<<<<<<< Updated upstream
     "q": "Folyonun parlak ya da mat tarafının dışa gelmesi etin pişmesini etkiler mi?",
     "a": "Hayır, belirgin şekilde etkilemez; ısı iletimi ve yansıma farkı pişme üzerinde anlamlı bir değişiklik yapmaz."
    },
@@ -112,10 +233,47 @@
    {
     "q": "Deneyde hangi laboratuvar güvenlik kurallarına dikkat edilir?",
     "a": "Önlük, gözlük ve eldiven kullanılmalı; sıcak fırın ve yüzeylere eldivenle dokunulmalı; deney gözetim altında yapılmalıdır."
+=======
+    "q": "Sizce alüminyum folyonun parlak veya mat tarafının dışa gelmesi etin pişmesini etkiler mi?",
+    "a": "Hayır, etkilemez; folyonun parlak/mat yüzü ısı yansıtma açısından pratikte önemli bir fark oluşturmaz."
+   },
+   {
+    "q": "1. Yönerge: Alüminyum folyonun görsellerdeki numaralanmış kullanım amaçları nelerdir? (1)",
+    "a": "Yiyecekleri paketleyip saklamak (sarma/kaplama)."
+   },
+   {
+    "q": "2. Yönerge: Alüminyum folyonun kullanım amacı? (2)",
+    "a": "Fırında pişirme sırasında kabı kaplayarak ısıyı yansıtmak ve yemeği korumak."
+   },
+   {
+    "q": "3. Yönerge: Alüminyum folyonun kullanım amacı? (3)",
+    "a": "Izgara/fırında yiyeceklerin yanmasını önlemek için üzerini örtmek."
+   },
+   {
+    "q": "4. Yönerge: Alüminyum folyonun kullanım amacı? (4)",
+    "a": "Yiyecekleri dondurucuda/havayla temastan koruyarak taze tutmak."
+   },
+   {
+    "q": "2. Yönerge: Etin sağlıklı ve hızlı pişmesi sorununun çözümü için nasıl bir deney tasarlarsınız?",
+    "a": "Aynı büyüklükte iki et parçasını, biri parlak biri mat tarafı dışa gelecek şekilde folyoyla sarıp aynı fırında eşit süre ve sıcaklıkta pişirip iç sıcaklıklarını termometreyle karşılaştırırım (bağımsız değişken: sarım yönü; sabit değişkenler: sıcaklık, süre, et miktarı)."
+   },
+   {
+    "q": "Deneyin bağımlı değişkeni nedir?",
+    "a": "Etin pişme hızı/derecesi (iç sıcaklığı ve pişme süresi)."
+   },
+   {
+    "q": "Deneyin kontrol (sabit tutulan) değişkenleri nelerdir?",
+    "a": "Fırın sıcaklığı, pişirme süresi, et miktarı ve büyüklüğü, folyo kalınlığı."
+   },
+   {
+    "q": "Deneyin sonucunda ne beklenir?",
+    "a": "İki düzenekte de pişmenin benzer olduğu, parlak/mat yönünün belirgin fark yaratmadığı görülür."
+>>>>>>> Stashed changes
    }
   ],
   "23": [
    {
+<<<<<<< Updated upstream
     "q": "1. Deneyden elde ettiğiniz verilere dayanarak sonuçlarınızı özetleyiniz.",
     "a": "Parlak yüzey ısıyı yansıtır, mat yüzey ısıyı emer; bu nedenle folyonun yönü sıcaklık değişimini etkiler."
    },
@@ -134,11 +292,32 @@
    {
     "q": "5. Deneyde alüminyum folyo yerine kullanılabilecek farklı ürünler öneriniz.",
     "a": "Bakır folyo, parlak metal levha, cam kapak veya seramik kap gibi yansıtıcı/yalıtıcı ürünler."
+=======
+    "q": "Deneyden elde ettiğiniz verilere dayanarak sonuçlarınızı özetleyiniz.",
+    "a": "Süre ve sıcaklık ölçümleri, alüminyum folyonun parlak ve mat yüzeylerinin ısıyı iletme/soğutma hızını büyük ölçüde değiştirmediğini gösterir."
+   },
+   {
+    "q": "Sizce aşçı zamandan tasarruf sağlayabilmek için alüminyum folyonun hangi tarafını kullanmalıdır? Deney sonuçlarından elde ettiğiniz verileri kullanarak açıklayınız.",
+    "a": "Folyonun yönü zaman açısından belirgin fark yaratmadığı için her iki taraf da kullanılabilir; folyo yiyeceği sararak buharlaşmayı azalttığı için esas zaman tasarrufu sağlanır."
+   },
+   {
+    "q": "Alüminyum folyonun parlak ya da mat tarafını kullanmak enerji tasarrufu açısından fark oluşturdu mu? Bunu deneydeki hangi verilerden anladınız?",
+    "a": "Belirgin bir fark oluşmadı. Isınma/soğuma süreleri ile sıcaklık değişimlerinin her iki yüzeyde yaklaşık aynı olması bunu gösterir."
+   },
+   {
+    "q": "Alüminyum folyonun parlak ve mat tarafları arasında ısı iletkenliği farkı var mıdır?",
+    "a": "İletkenlik farkı yoktur; iki taraf da alüminyumdur, sadece yüzey pürüzlülüğü (ışıma yansıtma/emme oranı) farklıdır."
+   },
+   {
+    "q": "Deneyde alüminyum folyo yerine kullanılabilecek farklı ürünler öneriniz.",
+    "a": "Bakır folyo, yağlı kâğıt, streç film, cam kapak, yalıtım örtüsü veya seramik/temperli cam kapak kullanılabilir."
+>>>>>>> Stashed changes
    }
   ],
   "24": [
    {
     "q": "Marinasyonda kullanılan sosun asitliği ile yiyecekte biriken alüminyum miktarı arasında nasıl bir ilişki vardır?",
+<<<<<<< Updated upstream
     "a": "Ters ilişki vardır; sosun asitliği arttıkça (pH azaldıkça) yiyeceğe geçen alüminyum artar. En asidik olan B (pH 5,23) en fazla alüminyumu (0,125) biriktirmiştir."
    },
    {
@@ -152,10 +331,30 @@
    {
     "q": "Pastanelerde bazı sütlü tatlılar alüminyum kaplarda satılmaktadır. Bu tatlıları almak istemediğinizi gören birine bu kararınızın nedenini nasıl açıklarsınız?",
     "a": "Alüminyum kapların, özellikle asitli ve sıcak gıdalarda yiyeceğe alüminyum geçişine neden olduğunu, bunun da sağlığa zararlı olup Alzheimer ve Parkinson riskini artırabileceğini söylerim."
+=======
+    "a": "Sosun asitliği arttıkça (pH azaldıkça) yiyeceğe bulaşan alüminyum miktarı artar. En asidik olan Marinasyon B'de (pH 5,23) alüminyum 0,125 mg ile en yüksektir."
+   },
+   {
+    "q": "Sıcaklık ile yiyecekte biriken alüminyum miktarı arasında nasıl bir ilişki vardır? Alüminyum folyoyla pişirirken enerji tasarrufu ve metal bulaşmasını önlemek için ne gibi önlemler alınabilir?",
+    "a": "Sıcaklık arttıkça yiyeceğe bulaşan alüminyum miktarı artar (doğru orantılı). Düşük sıcaklıkta ve kısa sürede pişirmeli, asitli (limon, sirke, domates) gıdalar folyoya doğrudan temas ettirilmemeli, alüminyum yerine cam/seramik/paslanmaz çelik kaplar tercih edilmelidir."
+   },
+   {
+    "q": "Yiyecekleri pişirirken alüminyum folyo ya da hazır alüminyum kaplar kullanma konusundaki kararınızı verilerden yola çıkarak belirtiniz.",
+    "a": "Alüminyum folyo/kapları kullanmamaya karar veririm; çünkü asitlik ve sıcaklık arttıkça gıdaya alüminyum bulaşması artmakta ve bu metalin uzun süreli alımı Alzheimer ve Parkinson gibi hastalıklar için risk oluşturmaktadır."
+   },
+   {
+    "q": "Pastanelerde alüminyum kaplarda satılan sütlü tatlıları almak istemediğinizi gören birine kararınızın nedenini nasıl açıklarsınız?",
+    "a": "Bu tatlıların asitli ve nemli yapısı nedeniyle alüminyum kabın gıdaya metal bulaştırdığını, bunun da sağlığa zararlı olabileceğini, bu yüzden alüminyum yerine cam veya uygun kaplarda satılan tatlıları tercih ettiğimi söylerim."
+   },
+   {
+    "q": "3. Yönerge: Aşağıdaki metinden ve tablolardan faydalanarak soruları cevaplayınız.",
+    "a": "Metne göre alüminyum içeren malzemelerin uzun süre kullanımı Alzheimer ve Parkinson riski taşır; tablolar da asitlik ve sıcaklık arttıkça gıdaya alüminyum bulaşmasının arttığını göstermektedir."
+>>>>>>> Stashed changes
    }
   ],
   "25": [
    {
+<<<<<<< Updated upstream
     "q": "1. Bu çalışmadan/deneyden neler öğrendim?",
     "a": "Kimyanın alt disiplinlerini, analitik kimya ile nitel-nicel analiz ayrımını ve biyokimyanın canlılardaki kimyasal süreçleri incelediğini öğrendim."
    },
@@ -178,16 +377,65 @@
    {
     "q": "Öz Değerlendirme Formu",
     "a": "Etkinliklere katılımımı, öğrendiklerimi ve eksiklerimi değerlendirerek formu dürüstçe doldurdum."
+=======
+    "q": "Bu çalışmadan/deneyden neler öğrendim?",
+    "a": "Kimyanın alt disiplinlerini ve analitik kimya ile biyokimyanın inceleme alanlarını öğrendim."
+   },
+   {
+    "q": "Bu çalışmada/deneyde başarılı olduğum bölümler hangileridir?",
+    "a": "Alt disiplinlerin tanımlarını ve aralarındaki farkları ayırt etmede başarılı oldum."
+   },
+   {
+    "q": "Bu çalışmada en çok hangi bölümlerde zorlandım?",
+    "a": "Nitel ve nicel analiz kavramlarını birbirinden ayırmada zorlandım."
+   },
+   {
+    "q": "Hangi alanda kendimi daha çok geliştirmeliyim?",
+    "a": "Analitik kimya ve biyokimyanın günlük yaşamdaki uygulama alanları konusunda kendimi geliştirmeliyim."
+   },
+   {
+    "q": "Daha sonraki çalışmalarda neleri farklı yapacağım?",
+    "a": "Konuları örneklerle ve görsellerle destekleyerek daha kalıcı öğreneceğim."
+   },
+   {
+    "q": "Öz Değerlendirme Formu nedir?",
+    "a": "Öğrencinin kendi öğrenme sürecini ve eksiklerini değerlendirdiği formdur."
+   },
+   {
+    "q": "1.1.2. Kimyanın Alt Disiplinleri bölümünde hangi alt disiplinler tanıtılmıştır?",
+    "a": "Analitik Kimya ve Biyokimya."
+   },
+   {
+    "q": "Analitik kimya nedir?",
+    "a": "Maddelerin hangi bileşenlerden oluştuğunu ve miktarlarını inceleyen kimya disiplinidir."
+   },
+   {
+    "q": "Nitel (kalitatif) analiz nedir?",
+    "a": "Bir maddenin hangi element ve bileşiklerden oluştuğunu bulmaya yarayan analiz türüdür."
+   },
+   {
+    "q": "Nicel (kantitatif) analiz nedir?",
+    "a": "Bileşenlerden her birinin miktarını belirlemeyi hedefleyen analiz türüdür."
+   },
+   {
+    "q": "Biyokimya nedir?",
+    "a": "Canlı organizmalardaki kimyasal bileşikleri ve yaşam sürecindeki kimyasal tepkimeleri inceleyen disiplindir."
+>>>>>>> Stashed changes
    }
   ],
   "26": [
    {
     "q": "Bu sayfada yanıtlanacak soru veya etkinlik var mı?",
+<<<<<<< Updated upstream
     "a": "Hayır; sayfa yalnızca konu anlatımı içeriyor, soru veya etkinlik bulunmuyor."
+=======
+    "a": "Hayır. Sayfa metni yalnızca organik kimya, anorganik kimya, fizikokimya, polimer kimyası ve kimya alanında kariyer olanaklarını açıklayan bilgi metninden oluşuyor; numaralı soru veya etkinlik yönergesi içermiyor."
+>>>>>>> Stashed changes
    }
   ],
   "28": [
    {
+<<<<<<< Updated upstream
     "q": "Aziz Sancar ile Oktay Sinanoğlu'nun çalışmalarında başarılı olmalarını sağlayan özellikleri nelerdir? Tartışınız.",
     "a": "Çalışkanlık, azim, zekâ, merak, disiplin, alçak gönüllülük, hedefe odaklanma, ülkesine ve insanlığa hizmet etme inancı."
    },
@@ -198,10 +446,19 @@
    {
     "q": "Etkinlik-1.3 Kariyer Planım: Oktay Sinanoğlu örneğinden hareketle kariyer planınız için hangi özellikleri belirlersiniz?",
     "a": "Çok çalışmak, donanımlı olmak, bir adım daha ileri gitmeyi ilke edinmek, ülkesine faydalı olmayı amaçlamak."
+=======
+    "q": "Aziz Sancar ile Oktay Sinanoğlu'nun çalışmalarında başarılı olmalarını sağlayan özellikleri tartışınız.",
+    "a": "Azim, çok çalışkanlık, zekâ, merak, disiplin, alçak gönüllülük ve ülkesine-insanlığa hizmet inancı."
+   },
+   {
+    "q": "Etkinlik-1.3 \"Kariyer Planım\" — Aziz Sancar ve Oktay Sinanoğlu'ndan yola çıkarak kendi kariyer planınızı yapınız.",
+    "a": "İlgi ve yeteneğime uygun bir alan seçip çok çalışarak, disiplinli ve alçak gönüllü biçimde kendimi geliştirip ülkeme faydalı olmayı hedeflerim."
+>>>>>>> Stashed changes
    }
   ],
   "29": [
    {
+<<<<<<< Updated upstream
     "q": "Kimya dersi ve onun günlük yaşantımıza katkılarıyla ilgili değişen fikirlerim nelerdir?",
     "a": "Kimyanın sadece laboratuvar dersi değil, temizlik, gıda, ilaç ve enerji gibi günlük yaşamın her alanında olduğunu fark ettim."
    },
@@ -240,10 +497,43 @@
    {
     "q": "Başarıya ulaşmak için başka hangi özelliklere ihtiyacınız olduğunu düşünüyorsunuz?",
     "a": "Düzenli çalışma, özgüven, iş birliği, yaratıcılık ve hedefe odaklanma."
+=======
+    "q": "Aşağıdaki ifadelerde istenenlere yönelik düşüncelerinizi yazınız — Kimya dersi ve günlük yaşamımıza katkıları: Değişen fikirlerim",
+    "a": "Kimyanın yalnızca formüllerden ibaret olmadığını, temizlikten sağlığa, gıdadan enerjiye kadar her alanda işe yaradığını düşünmeye başladım."
+   },
+   {
+    "q": "Fark ettiğim şeyler",
+    "a": "Kimyanın günlük hayatta kullandığımız ilaç, deterjan, gıda katkı maddesi ve pil gibi ürünlerde doğrudan rol aldığını fark ettim."
+   },
+   {
+    "q": "Beni şaşırtan durumlar",
+    "a": "Suyun, havanın ve hatta vücudumuzdaki olayların bile kimyasal tepkimelerle açıklanabilmesi beni şaşırttı."
+   },
+   {
+    "q": "Bundan sonraki süreçte yapacaklarım",
+    "a": "Kimya dersine daha çok önem verip öğrendiğim bilgileri günlük yaşamda ve kariyer seçimimde kullanacağım."
+   },
+   {
+    "q": "Aşağıdaki kariyer planlama döngüsündeki bölümleri doldurunuz.",
+    "a": "Kişisel Özelliklerini Tanı (Öz Farkındalık) → Özelliklerim; Kariyer Fırsatlarını Araştır → Fırsatlar; Karar Ver ve Planlama Yap → Kararım ve Planlarım; Planlarını Uygula → Nasıl Uygularım?"
+   },
+   {
+    "q": "Birinci yönergedeki bilim insanları ile ortak özellikleriniz nelerdir?",
+    "a": "Meraklı, araştırmacı, gözlemci, sabırlı ve kararlı olma gibi özelliklerde onlarla benzeşiyorum."
+   },
+   {
+    "q": "Başarıya ulaşmak için başka hangi özelliklere ihtiyacınız olduğunu düşünüyorsunuz?",
+    "a": "Disiplinli çalışma, düzenli not tutma, eleştirel düşünme, denemekten vazgeçmeme ve iş birliği yapma özelliklerine ihtiyacım var."
+   },
+   {
+    "q": "Etkinlik-1.4",
+    "a": "Kariyer planlama döngüsünü doldurup ortak özellikleri ve geliştirilmesi gereken özellikleri belirledim."
+>>>>>>> Stashed changes
    }
   ],
   "32": [
    {
+<<<<<<< Updated upstream
     "q": "1a) Kimyager analiz ve sentezlerini yaparken hangi kimya disiplinlerinden yararlanmıştır?",
     "a": "Numunelerin bileşim ve miktar tayininde analitik kimya, ilaç sentezinde organik kimya, idrar ve kan analizinde ise biyokimya disiplinlerinden yararlanmıştır."
    },
@@ -266,11 +556,36 @@
    {
     "q": "2ç) Deney sonuçları, metal kaplarda turşu saklama ile ilgili hangi sonuçları ortaya koymaktadır?",
     "a": "Asit metal kabı aşındırır; hem kap zarar görür hem de gıdaya metal karışır. Bu nedenle turşu metal kaplarda saklanmamalıdır."
+=======
+    "q": "Kimyager, analiz ve sentezlerini yaparken hangi kimya disiplinlerinden yararlanmıştır?",
+    "a": "Bileşim ve etken madde miktarını belirlemede analitik kimya, bitkisel kökenli ilaç sentezinde organik kimya (farmasötik kimya), idrar/kan örneklerinin analizinde ise analitik kimya ve biyokimya."
+   },
+   {
+    "q": "Kimyager, etken maddenin suda ve portakal suyunda çözünme hızını inceleseydi hangi kimya disiplininden yararlanmış olurdu?",
+    "a": "Fizikokimya (kimyasal kinetik)."
+   },
+   {
+    "q": "Öğrenci, deneyinde asidik çözelti ile magnezyum metalini hangi amaçla kullanmıştır?",
+    "a": "Turşunun asidinin metal kaba etkisini modellemek; asit–metal tepkimesini ve gaz çıkışını gözlemlemek."
+   },
+   {
+    "q": "Deney hangi hipotezi test etmek üzere tasarlanmıştır?",
+    "a": "Asidik turşunun metal ile tepkimeye girerek kabı aşındırdığı ve bu nedenle metal kapta saklanamayacağı hipotezini."
+   },
+   {
+    "q": "Balonun şişmesi neyi ifade etmektedir? Bu gözlem, turşu ve metal kap ile ilgili hangi sonuca işaret etmektedir?",
+    "a": "Asit–metal tepkimesiyle hidrojen gazı (H₂) açığa çıktığını gösterir; asidin metalle tepkimeye girdiği sonucuna işaret eder."
+   },
+   {
+    "q": "Deney sonuçları, metal kaplarda turşu saklama ile ilgili hangi sonuçları ortaya koymaktadır?",
+    "a": "Turşu metal kaplarda saklanmamalıdır; asit metalle tepkimeye girip gaz açığa çıkarır, kabı aşındırır ve ürünü bozar."
+>>>>>>> Stashed changes
    }
   ],
   "33": [
    {
     "q": "Buna göre hangi grubun ya da grupların kimya disiplinlerinin uygulama alanlarına verdikleri örnekler doğrudur?",
+<<<<<<< Updated upstream
     "a": "III. ve IV. grup (I'de \"güneş pili sistemi\" organik kimyaya, II'de \"suda Ca²⁺ tayini\" fizikokimyaya uygun değildir)."
    },
    {
@@ -288,11 +603,35 @@
    {
     "q": "Web tasarım araçlarını kullanarak bir sunum hazırlayınız.",
     "a": "Canva, Google Slaytlar gibi araçlarla görsel bir sunum hazırlarım."
+=======
+    "a": "Yalnız IV. grup (kontakt lens-polimer kimyası, metaller-anorganik kimya, buzdolabının çalışması-fizikokimya, karbon bileşikleri-organik kimya)."
+   },
+   {
+    "q": "Günlük hayatınızda sıkça kullandığınız bir kimyasalı araştırabilmek için gereken araçları belirleyiniz.",
+    "a": "Ders kitabı, güvenilir web siteleri ve bilimsel kaynaklar, ürün etiketi ile resmî kurum yayınları."
+   },
+   {
+    "q": "Belirlediğiniz aracı kullanarak ilgili kimyasal hakkındaki bilgilere ulaşınız ve bu bilgileri doğrulayınız.",
+    "a": "Örnek olarak yemek tuzu (NaCl) seçilir; bilgiler en az iki güvenilir kaynaktan karşılaştırılarak doğrulanır."
+   },
+   {
+    "q": "Araştırmalarınızın sonuçlarını bir rapor hâline getiriniz.",
+    "a": "Kimyasalın özellikleri, kullanım alanları, toplum ve çevre sağlığına etkileri ile kaynakça bölümlerini içeren rapor yazılır."
+   },
+   {
+    "q": "Web tasarım araçlarını kullanarak bir sunum hazırlayınız.",
+    "a": "Rapor; maddenin özellikleri, kullanımı ve etkileri başlıklarıyla, görsellerle desteklenerek web tabanlı sunuma dönüştürülür."
+   },
+   {
+    "q": "Performans görevi çalışması hangi ölçütlere göre değerlendirilir?",
+    "a": "Gözlem ortamı oluşturma, maddelerin nitelik farklarını ortaya çıkarma, veri toplama-kaydetme, kimya ile günlük hayatı ilişkilendirme ve kaynakça belirtme."
+>>>>>>> Stashed changes
    }
   ],
   "34": [
    {
     "q": "Günlük hayatınızda görseldeki temel güvenlik uyarı işaretlerinin herhangi biri ile nerelerde karşılaşabilirsiniz?",
+<<<<<<< Updated upstream
     "a": "Okul, hastane, fabrika, laboratuvar, benzin istasyonu, kimyasal depo, metro/otobüs, inşaat alanları ve hastane/eczane gibi yerlerde karşılaşabiliriz."
    },
    {
@@ -302,11 +641,23 @@
    {
     "q": "AFAD tarafından geliştirilen bu proje kapsamında öğrencilerin farkındalık düzeylerini artırmak için hangi konularda bilinçlendirilmeleri gerektiğini düşünüyorsunuz? Bu çalışmaların ülke ve toplum üzerindeki etkileri neler olabilir?",
     "a": "KBRN tehditleri, maruz kalma durumunda korunma/tahliye, gıda-tarım güvenliği, sağlık yönetimi, çocuk hakları ve atık bertarafı konularında bilinçlendirilmelidirler. Bu çalışmalar toplum sağlığını ve gıda güvenliğini korur, afetlere hazırlıklı bir ülke oluşturur ve zararları en aza indirir."
+=======
+    "a": "Okul, hastane, fabrika, laboratuvar, kimyasal depo, benzin istasyonu ve yol kenarlarında karşılaşılabilir."
+   },
+   {
+    "q": "Görseldeki temel güvenlik uyarı işaretlerinin benzerlerini daha önce hangi derste ne amaçla kullandınız?",
+    "a": "Fen bilimleri/kimya dersinde; laboratuvarda güvenliği sağlamak ve tehlikeli maddelere karşı uyarmak amacıyla kullandım."
+   },
+   {
+    "q": "AFAD tarafından geliştirilen bu proje kapsamında öğrencilerin farkındalık düzeylerini artırmak için hangi konularda bilinçlendirilmeleri gerektiğini düşünüyorsunuz? Bu çalışmaların ülke ve toplum üzerindeki etkileri neler olabilir?",
+    "a": "KBRN nedir, korunma yolları, hijyen, doğru bilgi kaynağı, acil durum planı ve çocuk hakları konularında bilinçlendirilmelidir. Etkileri: toplum direnci artar, can ve mal kaybı azalır, gıda/tarım güvenliği korunur, ülke ekonomisi ve güvenliği güçlenir."
+>>>>>>> Stashed changes
    }
   ],
   "35": [
    {
     "q": "İki öğrenciden hangisinin çalışma tekniğinin doğru olduğunu nedeniyle açıklayınız.",
+<<<<<<< Updated upstream
     "a": "Önlük, gözlük ve eldiven takıp deneyi ayakta, dikkatli yapan öğrencinin tekniği doğrudur; çünkü kendini ve çevresini koruyarak güvenli çalışmaktadır."
    },
    {
@@ -324,6 +675,25 @@
    {
     "q": "Etkinlik-1.5 Laboratuvarda Nasıl Davranmalıyım?",
     "a": "Laboratuvarda koruyucu ekipman kullanılmalı, düzenli ve dikkatli çalışılmalı, yeme-içme ve şakalaşma yapılmamalı, kimyasallar etiketine göre kullanılmalı, talimatlara uyulmalıdır."
+=======
+    "a": "Önlük, gözlük ve eldiven gibi koruyucu ekipmanı kullanan ve deneyi kurallara uygun yapan öğrencinin tekniği doğrudur; çünkü kendini ve çevresini riske atmaz."
+   },
+   {
+    "q": "Görseldeki iki öğrencinin laboratuvar ortamındaki hatalı davranışlarını yazınız.",
+    "a": "Koruyucu gözlük/önlük takmamak, eldiven kullanmamak, laboratuvarda yemek-içmek, kimyasalı gelişigüzel karıştırmak, koklamak veya tüpün ağzını kendine çevirmek."
+   },
+   {
+    "q": "Görseldeki iki öğrencinin laboratuvar ortamında çalışırken uyulması gereken güvenlik kurallarından hangilerine uymadıklarını belirleyiniz ve deneyi nasıl güvenli hâle getirebileceğinizi açıklayınız.",
+    "a": "Kişisel koruyucu ekipman kullanma, güvenli çalışma ve temizlik/atık kurallarına uymamışlardır. Deney; önlük, gözlük ve eldiven giyilerek, talimatlara ve öğretmen gözetimine uyularak, kimyasallar dikkatli karıştırılıp ortam temiz tutularak güvenli hâle getirilebilir."
+   },
+   {
+    "q": "Görseldeki öğrencilerin laboratuvar ortamında çalışırken uyulması gereken kurallardan hangilerini doğru uyguladıklarını yazınız.",
+    "a": "Çalışma masasında düzenli ve dikkatli çalışma, malzemeleri amacına uygun kullanma ve deney sırasında öğretmeni dinleme kurallarını doğru uygulamışlardır."
+   },
+   {
+    "q": "Etkinlik-1.5 Laboratuvarda Nasıl Davranmalıyım?",
+    "a": "Laboratuvara önlük ve gözlükle girilmeli, eldiven kullanılmalı, yemek-içmek yasak olmalı, kimyasallar koklanmamalı/tadılmamalı, deney talimatlarına ve güvenlik kurallarına uyulmalı, atıklar uygun şekilde bertaraf edilmelidir."
+>>>>>>> Stashed changes
    }
   ],
   "38": [
@@ -332,6 +702,7 @@
     "a": "Karekodu okutarak."
    },
    {
+<<<<<<< Updated upstream
     "q": "Risk piktogramı nedir?",
     "a": "Kimyasal maddelerin etiketlerinde bulunan sağlık ve güvenlik amaçlı işaretlerdir."
    },
@@ -382,20 +753,78 @@
    {
     "q": "Tıbbi atık nedir?",
     "a": "Sağlık ünitelerindeki işlemler sırasında ortaya çıkan, enfeksiyon riski taşıyan patolojik veya kesici-delici atıklardır."
+=======
+    "q": "Kimyasal bir maddeyi kullanmadan önce ne yapılmalıdır?",
+    "a": "Etiketi dikkatle okunmalı ve gerekli tedbirler alınmalıdır."
+   },
+   {
+    "q": "Risk piktogramı nedir?",
+    "a": "Kimyasal etiketlerdeki sağlık ve güvenlik amaçlı işaretlerdir."
+   },
+   {
+    "q": "Patlayıcı madde işareti neyi belirtir?",
+    "a": "Patlama riski taşıyan maddeleri."
+   },
+   {
+    "q": "Korozif madde işareti neyi belirtir?",
+    "a": "Aşındırıcı (yakıcı) maddeleri."
+   },
+   {
+    "q": "Zehirli madde işareti neyi belirtir?",
+    "a": "Zehirli (toksik) maddeleri."
+   },
+   {
+    "q": "Çevreye zararlı madde işareti neyi belirtir?",
+    "a": "Doğaya zarar veren maddeleri."
+   },
+   {
+    "q": "Oksitleyici madde işareti neyi belirtir?",
+    "a": "Yanmayı artıran oksitleyici maddeleri."
+   },
+   {
+    "q": "Tahriş edici madde işareti neyi belirtir?",
+    "a": "Deri, göz ve solunumu tahriş eden maddeleri."
+   },
+   {
+    "q": "Yanıcı, parlayıcı madde işareti neyi belirtir?",
+    "a": "Kolay tutuşan maddeleri."
+   },
+   {
+    "q": "Sağlık etkisi işareti kapsamında hangi gazlar bulunur?",
+    "a": "Basınç altında gaz içeren, soğuk olabilen ve ısıtıldığında patlayabilen gazlar; deriye ve göze temas ettirilmemelidir."
+   },
+   {
+    "q": "Radyoaktif madde işareti ne anlama gelir?",
+    "a": "Radyasyon yayar, canlı dokularda kalıcı hasar yapabilir; koruyucu giysi kullanılmalı, bölgede dolaşılmamalıdır."
+   },
+   {
+    "q": "Tıbbi atık nedir?",
+    "a": "Sağlık ünitelerinde oluşan, enfeksiyon riski taşıyan patolojik veya kesici-delici atıklardır."
+>>>>>>> Stashed changes
    }
   ],
   "39": [
    {
+<<<<<<< Updated upstream
     "q": "Örnek Olay: Banyo temizliğinde tuz ruhu kullanıldıktan sonra yüzeye çamaşır suyu dökülürse ne olur?",
     "a": "Tuz ruhu (HCl) ile çamaşır suyu (NaClO) tepkimeye girerek klor gazı (Cl2) açığa çıkarır; solunması nefes darlığı, öksürük, göğüs ağrısı, bulantı, kusma ve baş ağrısına yol açan ciddi zehirlenmeye neden olur."
    },
    {
     "q": "Etkinlik-1.6: Örnek olaylar sonucunda meydana gelebilecek durumları kimyasal maddelerin özelliklerine göre tamamlayınız.",
     "a": "Tuz ruhu ile çamaşır suyunun karıştırılması klor gazı oluşturarak zehirlenmeye; tuz ruhunun derz/çimento ile teması tepkime ve tahribata; yağ çözücü (NaOH) ve klorun cilt/göz teması tahrişe; sodyumun su ile teması patlamaya; cıva teması ise toksik etki ve Minamata hastalığına yol açabilir."
+=======
+    "q": "Etkinlik-1.6 – Örnek Olay: Banyo yüzeyine tuz ruhu döküldükten sonra durulanmadan çamaşır suyu eklenirse ne olur?",
+    "a": "Tuz ruhu (HCl) ile çamaşır suyu (NaClO) tepkimeye girip klor gazı (Cl2) açığa çıkarır; solunduğunda nefes darlığı, öksürük, göğüste ağrı, bulantı, kusma ve baş ağrısı gibi zehirlenme belirtileri görülür."
+   },
+   {
+    "q": "Etkinlik-1.6 – Bu olayda alınması gereken önlem nedir?",
+    "a": "Tuz ruhu ile çamaşır suyu kesinlikle karıştırılmamalı, aralarında su ile durulama yapılmalı ve ortam havalandırılmalıdır."
+>>>>>>> Stashed changes
    }
   ],
   "40": [
    {
+<<<<<<< Updated upstream
     "q": "Örnek olaylarda ortaya çıkabilecek sağlık ve çevre sorunları nelerdir?",
     "a": "Sağlık: kimyasal yanık, zehirlenme, göz/solunum tahrişi, cıva zehirlenmesi; çevre: su-toprak kirliliği, deniz canlılarının zarar görmesi ve cıvanın besin zincirinde birikmesi."
    },
@@ -414,20 +843,53 @@
    {
     "q": "Örnek olaylarda kullanılan kimyasal maddelerin sebep olabileceği kazaları düşünerek kimyasal maddeler için genel bir etiket tasarlayınız.",
     "a": "Etikette ürün adı; piktogramlar (aşındırıcı, toksik, oksitleyici, çevreye zararlı); tehlike ve önlem uyarıları (P ifadeleri); kimyasal depolama matrisine uygun depolama bilgisi; üretici ile acil iletişim bilgileri bulunur."
+=======
+    "q": "2. Örnek olaylarda ortaya çıkabilecek sağlık ve çevre sorunları nelerdir?",
+    "a": "1) Kireç çözücü buharı/deri teması ile solunum yolu tahrişi, kimyasal yanık; 2) Cıva denize karışınca su canlılarında birikim, nörolojik zehirlenme (Minamata benzeri) ve ekolojik kirlilik; 3) Na'nın suyla şiddetli tepkimesiyle patlama/yangın ve yanık; 4) Yağ çözücü sıçraması ile göz/deri yanıkları ve solunum rahatsızlığı; hepsinde çevre kirliliği."
+   },
+   {
+    "q": "3. Örnek olaylardaki ortak problemi özetleyerek yazınız.",
+    "a": "Kimyasal maddelerin güvenlik kurallarına uyulmadan, bilinçsizce ve kontrolsüz kullanılması; kişisel koruyucu ekipman ve uygun önlemlerin ihmal edilmesi."
+   },
+   {
+    "q": "4. 1 ve 4. örnek olaylarda gerçekleşen tepkimeleri araştırarak yazınız. Bu olaylarda kazaya neden olan maddeleri belirtiniz.",
+    "a": "1) Kireç (CaCO₃) + asit → Ca²⁺ + CO₂ + H₂O; kazaya neden olan madde güçlü asitli kireç çözücüdür. 4) 2Na + 2H₂O → 2NaOH + H₂↑ (ekzotermik); kazaya neden olan maddeler sodyum metali ve sudur."
+   },
+   {
+    "q": "5. Örnek olaylardaki kazalar hangi laboratuvar güvenlik kurallarının ihmali sonucu oluşmuştur? Bu kazaların yaşanmaması için alınabilecek önlemler nelerdir? Bu önlemleri çok yönlü bakış açısıyla değerlendiriniz.",
+    "a": "İhmaller: KKD (eldiven, gözlük, önlük) kullanmama, kimyasalı sulandırmadan/etiket bilgisini okumadan kullanma, atıkları uygun toplamama, tepkime ve madde miktarını kontrol etmeme, havalandırma ve kapalı alan önlemi almama. Önlemler: Etiket ve güvenlik veri formu okuma, kimyasalı talimatına göre seyreltme ve az miktarda kullanma, KKD giyme, göz duşu/havalandırma bulundurma, atıkları ayrı toplama, deney öncesi risk değerlendirmesi; bunlar bireysel, kurumsal ve çevresel açıdan değerlendirilir."
+   },
+   {
+    "q": "6. Örnek olaylarda kullanılan kimyasal maddelerin sebep olabileceği kazaları düşünerek kimyasal maddeler için genel bir etiket tasarlayınız.",
+    "a": "Etikette: madde adı ve formülü, üretici/iletişim, uyarı kelimesi, GHS piktogramları (alev, aşındırıcı, toksik, çevre), H/P ifadeleri, depolama matris kodları (asit-baz-oksitleyici-alev alıcı ayrımı), ilk yardım ve dökülme talimatı, acil telefon (112/ZEHİR DANIŞMA) bulunur; T.C. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı düzenlemelerine (SEA/KKDİK) uygun hazırlanır."
+   },
+   {
+    "q": "Etkinlik: Örnek olayları inceleyerek sağlık ve çevre risklerini değerlendirme (1. Tema/Etkileşim – s.40)",
+    "a": "Dört olay da kimyasalın bilinçsiz kullanımından kaynaklanır; her biri doğru etiketleme, seyreltme, KKD ve atık yönetimi ile önlenebilir."
+>>>>>>> Stashed changes
    }
   ],
   "41": [
    {
     "q": "7. Sınıf arkadaşlarınız ile etiketlerinizi paylaşarak en uygun etiketi belirleyiniz. Kendi tasarladığınız etiket ile belirlenen etiketi karşılaştırarak etiketinizi problemin çözümüne uygunluk açısından değerlendiriniz.",
+<<<<<<< Updated upstream
     "a": "Etiketler paylaşılır, probleme en uygun olan ortak etiket seçilir; kendi etiketimle karşılaştırıp eksik/fazla yönlerini belirterek çözüme uygunluğunu değerlendiririm."
    },
    {
     "q": "8. Günlük hayatınızda kimyasal malzemeleri hatalı kullandığınız bir durum yaşadınız mı? Bu durumun neden kaynaklandığını düşünüyorsunuz ve oluşan problemi nasıl çözdünüz?",
     "a": "Evet; etiketi okumadan ve eldiven/maske kullanmadan çamaşır suyunu başka bir temizlik maddesiyle karıştırdım. Bilgisizlik ve dikkatsizlik neden oldu; ortamı havalandırıp karışımı bol suyla seyrelterek çözdüm, bir daha etiket talimatlarına uydum."
+=======
+    "a": "Etiketler paylaşılır, sınıfça en uygun etiket seçilir; kendi etiketim seçilenle karşılaştırılır ve problem çözümüne uygunluğu belirtilir."
+   },
+   {
+    "q": "8. Günlük hayatınızda kimyasal malzemeleri hatalı kullandığınız bir durum yaşadınız mı? Bu durumun neden kaynaklandığını düşünüyorsunuz ve oluşan problemi nasıl çözdünüz?",
+    "a": "Evet, çamaşır suyunu tuz ruhuyla karıştırdım; etiketi okumadığım için oldu, ortamı havalandırıp hemen uzaklaşarak çözdüm."
+>>>>>>> Stashed changes
    }
   ],
   "43": [
    {
+<<<<<<< Updated upstream
     "q": "1.a) Maddelerin seçiminde hangi öğrencinin düşüncesi doğrudur?",
     "a": "\"Etikete bakalım\" diyen öğrencinin düşüncesi doğrudur; çünkü kimyasallar koklanarak ya da tadılarak değil, üzerindeki etiketten tanınır."
    },
@@ -441,12 +903,28 @@
    },
    {
     "q": "3) Etkileşimli içeriğe nasıl ulaşılır?",
+=======
+    "q": "1.a) Laboratuvarda çözelti hazırlarken madde seçiminde hangi öğrencinin düşüncesi doğrudur?",
+    "a": "\"Üzerindeki etikete bakalım, maddenin ne olduğunu etiketten anlayabiliriz.\" diyen öğrencinin düşüncesi doğrudur; kimyasal maddeler yalnızca etiketindeki bilgilerden tanınmalıdır."
+   },
+   {
+    "q": "1.b) Görseldeki öğrenciler laboratuvar kurallarından hangilerini dikkate almamıştır?",
+    "a": "Kimyasal maddelerin tadına bakılmaması ve kokusunun doğrudan içe çekilmemesi kurallarını dikkate almamışlardır."
+   },
+   {
+    "q": "2) Güvenlik uyarı işaretlerini ifadelerle eşleştiriniz.",
+    "a": "\"Canlı dokuyu tahrip eden ya da demiri aşındıran\" → Aşındırıcı (korozif); \"Havasız ortamda bile alev alabilen veya yanabilen\" → Kendiliğinden yanıcı; \"Tahriş edici, deriye ve göze zarar veren\" → Tahriş edici; \"İnsan sağlığına kısa veya uzun dönemli hasar veren\" → Toksik (zehirli); \"Yanıcı ve parlayıcı\" → Yanıcı (alevlenebilir)."
+   },
+   {
+    "q": "3) Laboratuvar kuralları ile ilgili etkileşimli içeriğe nasıl ulaşılır?",
+>>>>>>> Stashed changes
     "a": "Yandaki karekod akıllı cihaza okutularak ulaşılır."
    }
   ],
   "44": [
    {
     "q": "Atom numarası, kütle numarası, proton, elektron, nötron ve çekirdek kavramlarını hatırlayınız.",
+<<<<<<< Updated upstream
     "a": "Atom numarası = proton sayısı; kütle numarası = proton + nötron; proton (+) ve nötron (0) çekirdekte, elektron (–) katmanlarda bulunur."
    },
    {
@@ -472,10 +950,34 @@
    {
     "q": "Bu bölüme başlamadan önce eksik olduğunu düşündüğünüz konuları işaretleyip tamamlayınız.",
     "a": "Eksik görülen başlıklar daire içine işaretlenir ve önceden tekrar edilerek giderilir."
+=======
+    "a": "Atom numarası = proton sayısı; kütle numarası = proton + nötron sayısı; proton (+) ve nötron yüksüz olup çekirdekte, elektron (−) katmanlarda bulunur; çekirdek proton ve nötronu içeren merkezdir."
+   },
+   {
+    "q": "Kinetik ve potansiyel enerji kavramlarını hatırlayınız.",
+    "a": "Kinetik enerji hareketten (Ek=½mv²), potansiyel enerji konum/yükseklikten (Ep=mgh) kaynaklanır."
+   },
+   {
+    "q": "Atomların katman elektron dağılımıyla periyodik tabloda yerini bulmayı hatırlayınız.",
+    "a": "Elektron dizilimindeki son katman sayısı periyodu (yatay sıra), son katmandaki elektron sayısı grup numarasını verir."
+   },
+   {
+    "q": "Metal, ametal, yarı metal ve soy gazların periyodik tablodaki konumları ve özelliklerini hatırlayınız.",
+    "a": "Metaller sol ve ortada (ısyı ve elektriği iletir), ametaller sağ üstte, yarı metaller metal-ametal sınırında (yarı iletken), soy gazlar en sağ sütunda (kararlı, tepkimeye girmez)."
+   },
+   {
+    "q": "İyon, parçacık, tanecik, atom, molekül, element ve bileşik kavramlarını hatırlayınız.",
+    "a": "Atom en küçük yapı taşı; molekül iki veya daha çok atomun birleşimi; element tek tür atomdan, bileşik farklı atomlardan oluşur; parçacık/tanecik maddenin küçük birimi; iyon yüklü atom veya gruptur."
+   },
+   {
+    "q": "Elektrik yükleri arasındaki itme ve çekme kuvvetlerini hatırlayınız.",
+    "a": "Aynı yükler birbirini iter, zıt yükler birbirini çeker."
+>>>>>>> Stashed changes
    }
   ],
   "45": [
    {
+<<<<<<< Updated upstream
     "q": "CERN’de yapılan araştırmalar sonucunda atomla ilgili modellemelerde değişiklik olabilir mi? Cevabınızı metindeki bilgileri kullanarak gerekçesiyle paylaşınız.",
     "a": "Evet, olabilir. Metinde CERN’in Higgs bozonunu bulduğu ve yeni parçacıkların ortaya çıkarıldığı belirtilmiştir; yeni keşifler maddenin temel yapısına dair bilgileri değiştirerek atom modellerinin güncellenmesine yol açabilir."
    },
@@ -486,10 +988,23 @@
    {
     "q": "TENMAK’ın “ülkemizin rekabet gücünü artırmak ve sürdürmek” amacı ile ülke bağımsızlığının korunması arasında nasıl bir ilişki kurulabilir? Düşüncelerinizi açıklayınız.",
     "a": "Bilimsel araştırma ve teknoloji üretiminde güçlenen ülke, dışa bağımlılığı azaltır. TENMAK’ın enerji, nükleer ve maden alanlarındaki çalışmaları yerli üretim ve bilgi birikimini artırarak ekonomik ve teknolojik bağımsızlığa katkı sağlar."
+=======
+    "q": "CERN'de yapılan araştırmalar sonucunda atomla ilgili modellemelerde değişiklik olabilir mi? Cevabınızı metindeki bilgileri kullanarak gerekçesiyle paylaşınız.",
+    "a": "Evet, olabilir. Metne göre CERN'de ışık hızına yakın parçacıklar çarpıştırılarak yeni parçacıklar ortaya çıkarılmakta ve Higgs bozonu gibi tanecikler keşfedilmektedir; maddenin temel yapısı araştırıldıkça atom modelleri güncellenebilir."
+   },
+   {
+    "q": "Gelecekte CERN'de çalışan bir Türk bilim insanı olmak ister misiniz? Kendinizi hangi görevde hayal ediyorsunuz?",
+    "a": "Evet, isterdim. Metne göre Türk bilim insanları CERN projelerine katılıp araştırma yapabildiğinden kendimi dedektörleri inceleyen veya parçacık hızlandırıcıları üzerinde çalışan bir araştırmacı olarak hayal ediyorum."
+   },
+   {
+    "q": "TENMAK'ın \"ülkemizin rekabet gücünü artırmak ve sürdürmek\" amacı ile ülke bağımsızlığının korunması arasında nasıl bir ilişki kurulabilir? Düşüncelerinizi açıklayınız.",
+    "a": "Bilimsel araştırma ve teknolojide güçlenen ülke, enerji ve nükleer teknoloji gibi stratejik alanlarda dışa bağımlılığı azaltır; bu da ekonomik ve teknolojik bağımsızlığı, dolayısıyla ülke bağımsızlığını güçlendirir."
+>>>>>>> Stashed changes
    }
   ],
   "46": [
    {
+<<<<<<< Updated upstream
     "q": "Richard Feynman'ın \"Elektron, bir teoriden ibarettir ancak doğanın nasıl çalıştığını anlamamızı o kadar kolaylaştırır ki gerçek olduğunu bile söyleyebiliriz.\" ifadesiyle neyi anlatmak istediğini ve bu ifadeyi ne amaçla söylemiş olabileceğini açıklayınız.",
     "a": "Elektronun doğrudan gözlenemeyen bir bilimsel model/kavram olduğunu, ancak doğayı açıklamadaki başarısı sayesinde gerçekmiş gibi kabul edildiğini anlatır. Amaç, bilimsel teori ve modellerin açıklayıcı ve öngörücü gücüne dikkat çekmektir."
    },
@@ -512,11 +1027,32 @@
    {
     "q": "1913 — Bohr Atom Teorisi'nin adı, modeli ve varsayımları nedir?",
     "a": "Bohr Atom Teorisi (yörüngeli / katmanlı model). Varsayımlar: Elektronlar çekirdek çevresinde belirli, kesikli enerji seviyelerindeki yörüngelerde hareket eder; her yörüngenin belirli bir enerjisi vardır; elektron ancak enerji alıp vererek yörüngeler arası geçiş yapar (ışıma/soğurma)."
+=======
+    "q": "Richard Feynman'ın \"Elektron bir teoriden ibarettir...\" ifadesiyle ne anlatmak istediğini ve bu ifadeyi ne amaçla söylemiş olabileceğini paylaşınız.",
+    "a": "Elektron doğrudan görülemese de doğayı açıklamada mükemmel işlediğini; model/teorinin gerçeğe çok yakın bir açıklama aracı olduğunu vurgulamak için söylemiştir."
+   },
+   {
+    "q": "Atom teorilerinin rastgele verilen modellerini zaman çizelgesine (1803, 1897, 1911, 1913) kronolojik olarak sıralayınız.",
+    "a": "1803 Dalton (içi dolu küre) → 1897 Thomson (üzümlü kek) → 1911 Rutherford (çekirdekli/güneş sistemi) → 1913 Bohr (yörüngeli/katmanlı)."
+   },
+   {
+    "q": "Atom Teorisinin Adı (tabloya yazınız)?",
+    "a": "Dalton, Thomson, Rutherford, Bohr."
+   },
+   {
+    "q": "Atom Modelinin Görseli (harfleri sıralayınız)?",
+    "a": "Verilen IV, II, III, I etiketleri kronolojik olarak Dalton, Thomson, Rutherford, Bohr modellerine karşılık gelecek şekilde yerleştirilir."
+   },
+   {
+    "q": "Atom Teorisinin Varsayımları (tabloya yazınız)?",
+    "a": "Dalton: Atom içi dolu, bölünemez küredir. Thomson: Atomda negatif elektronlar pozitif yüklü küre içine gömülüdür (üzümlü kek). Rutherford: Atomun merkezinde pozitif çekirdek, çevresinde büyük boşlukta elektronlar. Bohr: Elektronlar çekirdek çevresinde belirli enerji katmanlarında (yörüngelerde) döner."
+>>>>>>> Stashed changes
    }
   ],
   "47": [
    {
     "q": "Modern atom teorisi ile Bohr atom teorisi arasındaki benzerlik ve farklılıklar nelerdir?",
+<<<<<<< Updated upstream
     "a": "Benzerlik: Her ikisi de elektronun çekirdek çevresinde bulunduğunu ve enerji seviyelerini kabul eder. Farklılık: Bohr elektronu belirli yörüngelerde tanımlarken modern teori elektronun yörüngesinden değil, bulunma olasılığından (orbital) söz eder."
    },
    {
@@ -534,10 +1070,30 @@
    {
     "q": "ç) Heisenberg'ün belirsizlik ilkesi, Bohr atom teorisinin hangi özelliği veya varsayımı ile çelişmektedir?",
     "a": "Bohr'un elektronun belirli bir yörüngede, konumu ve hızı aynı anda kesin olarak bilinecek şekilde hareket ettiği varsayımıyla çelişir; belirsizlik ilkesine göre konum ve hız aynı anda kesin belirlenemez."
+=======
+    "a": "Benzerlik: Her ikisi de elektronun çekirdek çevresinde bulunduğunu ve enerji seviyelerinin varlığını kabul eder. Fark: Bohr'da elektron belirli yörüngelerde kesin konumda hareket eder; modern teoride elektronun yeri orbital ile olasılık olarak belirtilir."
+   },
+   {
+    "q": "a) Thomson atom teorisi ile önceki atom teorisinin hangi varsayımları geçerliliğini yitirmiştir?",
+    "a": "Atomun bölünemez ve içi dolu küre olduğu varsayımı geçerliliğini yitirmiştir; elektronların varlığı ve atomun yapısında negatif yüklü taneciklerin bulunduğu anlaşılmıştır."
+   },
+   {
+    "q": "b) Rutherford alfa saçılma deneyinden elde ettiği hangi verilere dayanarak atom teorisini geliştirmiştir? Geliştirdiği atom teorisinde günümüzde hâlâ geçerli olan kavramlar nelerdir?",
+    "a": "Çoğu alfa tanesinin sapmadan geçmesi, azının büyük açıyla sapması ve bazılarının geri dönmesi verilerine dayanmıştır. Günümüzde hâlâ geçerli olan: atomun büyük boşluk içerdiği, pozitif yüklü küçük çekirdeğin varlığı."
+   },
+   {
+    "q": "c) Rutherford atom teorisinin açıklayamadığı olgular nelerdir? Bu olgular, Bohr atom teorisi ile nasıl açıklanmıştır?",
+    "a": "Açıklayamadığı: elektronun çekirdeğe düşmesi, atomun kararlılığı, atomların çizgi spektrumları. Bohr, elektronların belirli enerji seviyelerinde ışıma yapmadan dolanması ve seviyeler arası geçişte ışıma/soğurma ile açıklamıştır."
+   },
+   {
+    "q": "ç) Heisenberg'ün belirsizlik ilkesi, Bohr atom teorisinin hangi özelliği veya varsayımı ile çelişmektedir?",
+    "a": "Bohr'un elektronun belirli, kesin yörüngelerde ve hem konumu hem hızı bilinecek şekilde hareket ettiği varsayımıyla çelişir; belirsizlik ilkesine göre konum ve hız aynı anda kesin belirlenemez."
+>>>>>>> Stashed changes
    }
   ],
   "48": [
    {
+<<<<<<< Updated upstream
     "q": "3) Manyetizma teorisi ve çubuk mıknatıs modeli ile ilgili metinden ne anlıyorsunuz?",
     "a": "Manyetizma, mıknatıs ve manyetik alanı inceleyen fizik teorisidir; çubuk mıknatıs modeli bu teoriyi basitleştirerek kuzey-güney kutupları, çekme ve itme etkileşimlerini açıklar."
    },
@@ -552,10 +1108,27 @@
    {
     "q": "4c) Modelleme kullanmanın avantaj ve dezavantajları nelerdir?",
     "a": "Avantajı soyut olayları basitleştirip görselleştirmesidir; dezavantajı basitleştirmenin gerçekliği tam yansıtmaması ve yanlış genellemelere yol açabilmesidir."
+=======
+    "q": "3. Aşağıdaki metinden yararlanarak soruları cevaplayınız (manyetizma teorisi ve çubuk mıknatıs modeli).",
+    "a": "Metin, manyetizma teorisini ve çubuk mıknatıs modelini tanımlar; mıknatısların kuzey-güney kutupları ile çekim/itme etkileşimlerini açıklar. (Sayfada 3. maddeye ait alt soru verilmemiştir.)"
+   },
+   {
+    "q": "4.a) Teori ve model terimlerinin atom konusunda kullanılma nedeni ile ilgili düşüncelerinizi yazınız.",
+    "a": "Atom doğrudan gözlenemediği için, görünen olayları açıklamak üzere teoriler geliştirilir ve bu teorileri somutlaştırmak, anlaşılır kılmak için modeller kullanılır."
+   },
+   {
+    "q": "4.b) Fenomen ile fenomenin ilgili olduğu teori ve bilimsel model arasında bire bir örtüşme var mıdır? Açıklayınız.",
+    "a": "Hayır, bire bir örtüşme yoktur. Modeller ve teoriler gerçeğin basitleştirilmiş temsilleridir; fenomeni açıklamaya yaklaşır ancak tam olarak yansıtmaz, zamanla değişebilir."
+   },
+   {
+    "q": "4.c) Modelleme kullanmanın avantaj ve dezavantajları nelerdir?",
+    "a": "Avantaj: Karmaşık olayları basitleştirir, anlamayı ve tahmin etmeyi kolaylaştırır. Dezavantaj: Gerçeği tam yansıtmaz, eksik/yanıltıcı olabilir ve sınırlılıkları yanlış yorumlanabilir."
+>>>>>>> Stashed changes
    }
   ],
   "49": [
    {
+<<<<<<< Updated upstream
     "q": "5. Atomun yapısındaki en küçük taneciklere ilişkin oluşturulan görüşler son buldu mu?",
     "a": "Hayır, son bulmadı; günümüzde 300'ün üzerinde atom altı parçacık bilinmekte ve araştırmalar sürmektedir."
    },
@@ -662,10 +1235,58 @@
    {
     "q": "Görsel 1.15'te gösterilen orbital türleri hangileridir?",
     "a": "1s, 2s ve 2p (2pz) orbitalleri."
+=======
+    "q": "Atomun yapısındaki en küçük taneciklere ilişkin görüşler son buldu mu? Proton, nötron ve elektron ile ilgili güncel bilgileri araştırarak soruyu cevaplayınız.",
+    "a": "Hayır, son bulmadı; araştırmalar sürüyor. Günümüzde 300'ün üzerinde atom altı parçacık bilinmektedir; atomun temel tanecikleri proton, nötron ve elektrondur."
+   },
+   {
+    "q": "a) Proton, nötron ve elektronun keşif tarihlerini zaman çizelgesine yazınız. Keşif süreci atom modellerine nasıl yansımıştır?",
+    "a": "Elektron 1897 (Thomson), proton 1918 (Rutherford), nötron 1932 (Chadwick). Her keşif, atom modelinin (Thomson, Rutherford, Bohr, modern) gelişmesini sağlamıştır."
+   },
+   {
+    "q": "b) 1850 ve 2000 yıllarında yaşayan iki insanın atomun yapısı ve maddedeki en küçük taneciklere ilişkin söyleyebileceği en doğru bilgiler neler olabilir?",
+    "a": "1850: Atom bölünemez küçük bir taneciktir (Dalton). 2000: Atom; proton ve nötronlu bir çekirdek ile çevresindeki elektronlardan oluşur."
+   },
+   {
+    "q": "c) Atomdaki parçacıkları kütlelerine göre büyükten küçüğe sıralayınız.",
+    "a": "Nötron ≈ Proton > Elektron."
+   },
+   {
+    "q": "ç) Sizce nötronun keşfi diğer taneciklere göre neden daha geç gerçekleşmiştir?",
+    "a": "Nötron yüksüz olduğu için elektrik ve manyetik alanlarda sapmadığından diğer tanecikler kadar kolay tespit edilememiştir."
+   }
+  ],
+  "50": [],
+  "52": [
+   {
+    "q": "Çizimlerdeki atom modelleri hangi atom teorilerine aittir (kronolojik sırayla)?",
+    "a": "Dalton (içi dolu küre), Thomson (üzümlü kek), Rutherford (çekirdekli/boşluklu), Bohr (yörüngeli), Modern (orbital/bulut) modeli."
+   },
+   {
+    "q": "Geçen zaman diliminde proton hakkında değişen bilgileri listeleyiniz.",
+    "a": "Başta bilinmiyordu; Rutherford ile çekirdekte pozitif yük olarak tanımlandı, kütlesi ve yükü belirlendi."
+   },
+   {
+    "q": "Geçen zaman diliminde nötron hakkında değişen bilgileri listeleyiniz.",
+    "a": "Uzun süre bilinmiyordu; Chadwick tarafından keşfedilerek çekirdekte yüksüz (nötr) tanecik olduğu belirlendi."
+   },
+   {
+    "q": "Geçen zaman diliminde elektron hakkında değişen bilgileri listeleyiniz.",
+    "a": "Thomson ile keşfedildi; başta atom içine dağılmış kabul edildi, Rutherford ile çekirdeğin çevresinde, Bohr ile belirli yörüngelerde olduğu, modern modelde ise orbitallerde olasılıklı bulunduğu anlaşıldı."
+   },
+   {
+    "q": "Atomda negatif yüklerin varlığı hangi atom teorisinden sonra ortaya konmuştur?",
+    "a": "Thomson atom teorisinden sonra (elektronun keşfiyle)."
+   },
+   {
+    "q": "Hangi atom teorisinden itibaren maddede atomdan daha küçük taneciklerin de var olduğu kabul edilmiştir?",
+    "a": "Thomson atom teorisinden itibaren."
+>>>>>>> Stashed changes
    }
   ],
   "53": [
    {
+<<<<<<< Updated upstream
     "q": "1-ç) Rutherford, yaptığı deney sonucunda Thomson atom teorisindeki hangi varsayımları nasıl değiştirmiştir ve ulaştığı yeni varsayımlar nelerdir?",
     "a": "Thomson'da pozitif yük atomun tümüne yayılmıştı; Rutherford'un altın levha deneyinde alfa taneciklerinin çoğu geçti, azı saptı, bir kısmı geri döndü. Böylece pozitif yükün tüm atomda homojen dağıldığı varsayımı geçersiz oldu; pozitif yükün atomun merkezinde küçük, yoğun bir çekirdekte toplandığı ve atomun büyük ölçüde boşluk olduğu varsayımı geldi."
    },
@@ -688,16 +1309,45 @@
    {
     "q": "5) Atom altı taneciklerinin keşfi ile ilgili etkileşimli içerik (karekod) etkinliği.",
     "a": "Karekod akıllı cihazla okutularak ilgili etkileşimli içeriğe ulaşılır (basılı sayfada yanıtlanacak soru içermez)."
+=======
+    "q": "Rutherford, yaptığı deney sonucunda Thomson atom teorisindeki hangi varsayımları nasıl değiştirmiştir ve ulaştığı yeni varsayımlar nelerdir?",
+    "a": "Thomson'un pozitif yükün atom içine homojen dağıldığı varsayımını değiştirdi; alfa parçacıklarının çoğunun sapmadan geçmesi atomun büyük kısmının boş olduğunu, azının büyük açıyla sapması ise pozitif yükün küçük ve yoğun bir çekirdekte toplandığını gösterdi. Yeni varsayımlar: atomun merkezinde küçük, yoğun, pozitif yüklü çekirdek vardır; atomun büyük bölümü boşluktur; elektronlar çekirdeğin çevresinde bulunur."
+   },
+   {
+    "q": "Verilen atom teorilerinde atom altı taneciklerden hangisinin varlığı tam olarak açıklanamamıştır?",
+    "a": "Nötronun varlığı (Thomson, Rutherford ve Bohr modelleri nötrondan söz etmez)."
+   },
+   {
+    "q": "Atom teorilerinde elektronun bulunduğu yer konusundaki farklılık bilimsel bilginin hangi özelliğini ifade eder? Farklı bir örnekle açıklayınız.",
+    "a": "Bilimsel bilginin değişebilir (dinamik) olması özelliğini ifade eder. Örnek: Dünya'nın düz olduğu sanılırken küre şeklinde olduğunun anlaşılması gibi, yeni gözlem ve deneylerle bilgi değişir."
+   },
+   {
+    "q": "Tüm atom teorilerinin günümüzde de geçerliliğini koruyan varsayımlarına birer örnek yazınız.",
+    "a": "Dalton: maddenin atomlardan oluşması. Thomson: atomda negatif yüklü elektronların varlığı. Rutherford: atomun çekirdekli ve boşluklu yapısı. Bohr: elektronların çekirdek çevresinde düzenli bulunması."
+   },
+   {
+    "q": "Bilimsel bilginin zaman ve bilgi birikimiyle değişmesi, bilginin doğruluğunu sorgulamanıza neden olabilir mi? Atom teorilerini kullanarak açıklayınız.",
+    "a": "Evet; atom teorilerinin Dalton'dan modern teoriye kadar değişmesi bilimsel bilginin sorgulanabilir olduğunu gösterir. Ancak bu, bilginin değersiz olduğu anlamına gelmez; gözlem ve deneyle desteklenen bilgi daha doğruya yaklaşır."
+   },
+   {
+    "q": "Atom altı taneciklerinin keşfi ile ilgili etkileşimli içeriğe ulaşmak için yandaki karekodu akıllı cihazınıza okutunuz.",
+    "a": "Karekod akıllı cihazla okutularak atom altı taneciklerinin keşfi içeriğine ulaşılır."
+>>>>>>> Stashed changes
    }
   ],
   "54": [
    {
     "q": "Bir atomdaki elektronların bulunduğu bölgeler, bu bölgelerin enerjileri ve bu bölgelerdeki elektronların enerjileri hakkında ne düşünüyorsunuz? Düşüncelerinizi arkadaşlarınızla paylaşınız.",
+<<<<<<< Updated upstream
     "a": "Elektronlar çekirdeğin çevresindeki belirli enerji seviyelerinde (orbitallerde) bulunur; çekirdeğe yakın seviyelerin enerjisi düşük, uzaklaştıkça enerji artar. Her temel enerji seviyesi alt seviyelere (s, p, d, f) ayrılır ve çekirdekten uzaklaştıkça orbital sayısı ve enerji artar."
+=======
+    "a": "Elektronlar çekirdekten uzaklığa göre temel enerji seviyelerinde (n=1,2,3...) bulunur; bu seviyeler alt seviyelere (s, p, d, f) ayrılır. Çekirdeğe en yakın seviyenin enerjisi en düşüktür, uzaklaştıkça enerji artar; elektronlar önce en düşük enerjili orbitallere yerleşir."
+>>>>>>> Stashed changes
    }
   ],
   "55": [
    {
+<<<<<<< Updated upstream
     "q": "Aynı orbital türünün farklı enerji seviyelerindeki (1s, 2s, 3s, 4s) enerjileri nasıl karşılaştırılır?",
     "a": "Baş kuantum sayısı (n) arttıkça enerji artar: 1s < 2s < 3s < 4s."
    },
@@ -716,10 +1366,27 @@
    {
     "q": "Görsellerdeki tüm orbitalleri bağıl enerjilerine göre sıralayınız.",
     "a": "Temel olarak 1s < 2s < 2p < 3s < 3p < 4s < 3d < 4p ...; aynı n'de s < p < d, perdeleme nedeniyle 4s bazı atomlarda 3d'den önce dolar."
+=======
+    "q": "Aynı orbital türünün (s, p, d) farklı enerji seviyelerindeki bağıl enerjileri nasıl değişir?",
+    "a": "Baş kuantum sayısı (n) arttıkça enerji artar: 1s < 2s < 3s < 4s; 2p < 3p; 3d < 4d."
+   },
+   {
+    "q": "Aynı enerji seviyesindeki farklı orbital türlerinin enerjileri nasıl karşılaştırılır?",
+    "a": "Aynı n için enerji s < p < d sırasıyla artar (2s < 2p; 3s < 3p < 3d)."
+   },
+   {
+    "q": "Aynı enerji seviyesindeki eş tür orbitallerin (px, py, pz ve dxy, dyz, dxz vb.) enerjileri eşit midir?",
+    "a": "Evet, eş enerjilidir (dejenere orbitaller)."
+   },
+   {
+    "q": "Orbitallerin bağıl enerjilerini belirleyen genel kural nedir?",
+    "a": "n + ℓ değeri küçük olan orbitalin enerjisi düşüktür; n + ℓ eşitse küçük n'li orbital daha düşük enerjilidir (örn. 4s < 3d)."
+>>>>>>> Stashed changes
    }
   ],
   "56": [
    {
+<<<<<<< Updated upstream
     "q": "Enerji seviyesi artışına bağlı olarak atom orbitallerinin bağıl enerjileri nasıl değişmektedir? Bu soruya verdiğiniz yanıtı gerekçelendirerek önerme şeklinde yazınız.",
     "a": "Enerji seviyesi (n) arttıkça orbitallerin bağıl enerjisi artar. Çünkü elektron çekirdekten uzaklaştıkça potansiyel enerjisi yükselir (örn. 1s < 2s < 3s < 4s < 5s)."
    },
@@ -746,10 +1413,31 @@
    {
     "q": "Geçersiz Önermelerim",
     "a": "Aynı enerji seviyesindeki bütün orbitallerin enerjisinin eşit olduğu önermesi."
+=======
+    "q": "1. Enerji seviyesi artışına bağlı olarak atom orbitallerinin bağıl enerjileri nasıl değişmektedir? Gerekçelendirerek önerme şeklinde yazınız.",
+    "a": "Enerji seviyesi (n) arttıkça elektron çekirdekten uzaklaşır ve orbitalin bağıl enerjisi artar; bu nedenle 1s < 2s < 3s < 4s < 5s olur."
+   },
+   {
+    "q": "2. Aynı enerji seviyesindeki farklı tür orbitallerin enerjileri aynı mıdır? Bağıl enerji seviyeleri hakkındaki önermenizi yazınız.",
+    "a": "Hayır, aynı değildir. Aynı n için l büyüdükçe enerji artar: ns < np < nd < nf; örneğin 2p > 2s."
+   },
+   {
+    "q": "3. Önermelerinizden yola çıkarak 3. enerji seviyesindeki orbitallerin bağıl enerjilerini düşükten yükseğe sıralayınız.",
+    "a": "3s < 3p < 3d"
+   },
+   {
+    "q": "4. Önermelerinizi arkadaşlarınızın önermeleriyle karşılaştırıp bilimsel verilere dayananları tartışınız; önermenizin zayıf ve güçlü taraflarını belirleyip zayıf tarafları nasıl geliştirebileceğinizi yazınız.",
+    "a": "Bilimsel veriye dayanan önermeler güçlü, sadece tahmine dayananlar zayıftır; zayıf taraflar bağıl enerji diyagramı ve deneysel değerlerle karşılaştırılarak düzeltilir."
+   },
+   {
+    "q": "5. Verilen bağıl enerji diyagramını inceleyerek önermelerinizi diyagramdaki verilerle karşılaştırınız; geçerli ve geçersiz önermelerinizi listeleyiniz.",
+    "a": "Geçerli: n arttıkça enerji artar (1s<2s<3s<4s<5s) ve ns<np<nd<nf. Geçersiz: aynı seviyedeki orbitallerin enerjilerinin eşit olduğu önermesi."
+>>>>>>> Stashed changes
    }
   ],
   "57": [
    {
+<<<<<<< Updated upstream
     "q": "Atom orbitallerinin bağıl enerjilerine ilişkin çıkarımlarınızı yazınız (6).",
     "a": "Aynı enerji seviyesinde s < p < d < f şeklinde; farklı seviyelerde 1s < 2s < 2p < 3s < 3p < 4s < 3d < 4p ... (n+l kuralına göre) enerji artar."
    },
@@ -796,32 +1484,80 @@
    {
     "q": "Karekoddaki içeriğe ulaşma etkinliği (4).",
     "a": "Karekod okutularak atom orbitallerinin enerjileri konulu dijital içerik incelenir (uygulama etkinliği)."
+=======
+    "q": "Geçersiz önermeleri ayıklayarak atom orbitallerinin bağıl enerjilerine ilişkin çıkarımlarınızı yazınız.",
+    "a": "Aynı enerji seviyesinde orbitaller n büyüdükçe enerjisi artar; çok elektronlu atomlarda aynı n için s<p<d<f; 4s, 3d'den daha düşük enerjilidir."
+   },
+   {
+    "q": "Atom orbitallerinin bağıl enerji diyagramını kullanarak bir atomun orbital enerjilerini düşükten yükseğe sıralayınız.",
+    "a": "1s < 2s < 2p < 3s < 3p < 4s < 3d < 4p."
+   },
+   {
+    "q": "İlk 4 enerji seviyesindeki orbitalleri yazarak her enerji seviyesindeki toplam orbital sayısını belirleyiniz.",
+    "a": "1. seviye: 1s (1); 2. seviye: 2s, 2p (4); 3. seviye: 3s, 3p, 3d (9); 4. seviye: 4s, 4p, 4d, 4f (16)."
+   },
+   {
+    "q": "Bir orbital en fazla iki elektron alabilir. Buna göre ilk 4 enerji seviyesi için en fazla elektron sayısını belirleyiniz.",
+    "a": "1. seviye: 2; 2. seviye: 8; 3. seviye: 18; 4. seviye: 32."
+   },
+   {
+    "q": "Enerji seviyelerindeki orbital sayısıyla en fazla elektron sayısı arasındaki örüntüyü yazınız ve karşılaştırınız.",
+    "a": "Orbital sayısı n², en fazla elektron sayısı 2n² (yani orbitallerin 2 katı); bu örüntü herkes için aynıdır, benzerlik bu orandır."
+   },
+   {
+    "q": "Atom orbitallerinin enerjileri ile ilgili içeriğe ulaşmak için karekodu okutunuz.",
+    "a": "Etkinlik yönergesidir; karekod okutularak ilgili içeriğe ulaşılır."
+>>>>>>> Stashed changes
    }
   ],
   "58": [
    {
+<<<<<<< Updated upstream
     "q": "(Bu sayfada soru/etkinlik bulunmuyor)",
     "a": "Sayfa metni yalnızca konu anlatımı içeriyor; üzerinde yanıtlanacak herhangi bir soru veya etkinlik yok."
+=======
+    "q": "Bu sayfada yanıtlanacak soru veya etkinlik var mı?",
+    "a": "Hayır, sayfa metninde numaralanmış soru ya da etkinlik bulunmuyor; yalnızca konu anlatımı ve görseller yer alıyor."
+>>>>>>> Stashed changes
    }
   ],
   "59": [
    {
+<<<<<<< Updated upstream
     "q": "Etkinlik-1.9 — Çok elektronlu atomlarda elektronların orbitallere yerleşme ilkelerini (Aufbau, Pauli, Hund) belirlemek için verilen örnekleri inceleyip Aufbau ilkesinin örüntüsünü gerekçeleriyle yazınız.",
     "a": "Aufbau ilkesi: Elektronlar en düşük enerjili orbitalden başlayarak artan enerji sırasına göre (1s < 2s < 2p < 3s < 3p < 4s ...) yerleşir; bir orbital tam dolmadan daha yüksek enerjili orbitale geçilmez. Uyan örnekler: 1H (1s¹), 2He (1s²), 11Na (1s²2s²2p⁶3s¹). Uymayan örnekler: 1s⁰2s¹ ve 1s¹2s¹ → 1s orbitali tam dolmadan 2s'ye elektron konulduğu için Aufbau ilkesine aykırıdır."
+=======
+    "q": "1. Aufbau ilkesine uyan ve uymayan örnekleri inceleyerek bu ilkeyi veren örüntüyü gerekçeleriyle açıklayınız.",
+    "a": "Elektronlar en düşük enerjili orbitalden başlanarak doldurulur. Uyan örneklerde 1s önce, sonra 2s, sonra 2p sırasıyla dolar; uymayan örneklerde ise 2s dolmadan 1s'in üstüne veya daha yüksek enerjili orbitale elektron konulmuştur. Yani örüntü: \"En düşük enerjili orbital önce dolar.\""
+   },
+   {
+    "q": "Etkinlik-1.9 Elektronlar Orbitallere Nasıl Yerleşir?",
+    "a": "Aufbau ilkesi (en düşük enerjili orbital önce dolar), Pauli dışlama ilkesi (bir orbitalde en fazla iki elektron ve zıt spinli) ve Hund kuralı (eş enerjili orbitallere önce birer birer, aynı spinli) uygulanarak."
+>>>>>>> Stashed changes
    }
   ],
   "60": [
    {
+<<<<<<< Updated upstream
     "q": "Pauli dışlama ilkesine uyan ve uymayan örnekleri inceleyerek bu ilkeyi veren örüntüyü gerekçeleriyle belirleyiniz.",
     "a": "Aynı atomdaki iki elektronun dört kuantum sayısı (n, ℓ, mℓ, ms) birden aynı olamaz; bir orbital en fazla iki elektron alır ve bu iki elektronun spinleri zıt yönde (biri +1/2, diğeri −1/2) olur. Aynı orbitalde aynı spinli iki elektron bulunursa ilkeye uymaz."
    },
    {
     "q": "Hund kuralına uyan ve uymayan örnekleri inceleyerek bu kuralı veren örüntüyü gerekçeleriyle belirleyiniz.",
     "a": "Eş enerjili orbitallere elektronlar önce birer birer ve aynı spin yönünde yerleşir; bütün orbitaller yarım dolduktan sonra kalan elektronlar zıt spinle yerleşir. Örneğin 2p³'te üç elektron tek tek aynı yönde dağılırsa kurala uyar; elektronlar önce eşleşirse uymaz."
+=======
+    "q": "Pauli dışlama ilkesine uyan ve uymayan örnekleri inceleyerek ilkeyi veren örüntüyü belirleyiniz.",
+    "a": "Aynı orbitalde en fazla iki elektron bulunabilir; bu iki elektronun spinleri (ms) zıt yönlü olmak zorundadır. Aynı orbitalde aynı spinli iki elektron olamaz."
+   },
+   {
+    "q": "Hund kuralına uyan ve uymayan örnekleri inceleyerek kuralı veren örüntüyü belirleyiniz.",
+    "a": "Eş enerjili orbitallere elektronlar önce birer birer ve aynı spin yönünde yerleşir; her orbitala bir elektron konduktan sonra ikinci elektronlar zıt spinle gelir."
+>>>>>>> Stashed changes
    }
   ],
   "61": [
    {
+<<<<<<< Updated upstream
     "q": "Aufbau ilkesi, Pauli dışlama ilkesi ve Hund kuralına yönelik oluşturduğunuz örüntüler doğrultusunda bu kural ve ilkelerle ilgili genellemelerinizi yazınız.",
     "a": "Aufbau ilkesi: Elektronlar en düşük enerjili orbitalden başlanarak yüksek enerjiliye doğru yerleşir."
    },
@@ -840,10 +1576,31 @@
    {
     "q": "7N, 8O ve 11Na atomlarında elektronların atom orbitallerine yerleşimini inceleyiniz.",
     "a": "7N: 1s²2s²2p³. 8O: 1s²2s²2p⁴. 11Na: 1s²2s²2p⁶3s¹."
+=======
+    "q": "Aufbau ilkesi, Pauli dışlama ilkesi ve Hund kuralına yönelik genellemelerinizi yazınız.",
+    "a": "Aufbau ilkesine göre elektronlar önce düşük enerjili, sonra yüksek enerjili orbitallere yerleşir; Pauli dışlama ilkesine göre bir orbitalde zıt spinli en fazla iki elektron bulunur; Hund kuralına göre ise eş enerjili orbitallere önce tek tek, aynı yönlü spinlerle yerleşirler."
+   },
+   {
+    "q": "25Mn ve 26Fe atomlarının elektron dizilimlerini Hund kuralına uygunluk bakımından değerlendiriniz.",
+    "a": "25Mn: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁵ (Hund kuralına uyar, 3d yarı dolu); 26Fe: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁶ (Hund kuralına uyar, 4 elektron tek ve 1 çift)."
+   },
+   {
+    "q": "7N atomunda elektronların atom orbitallerine yerleşimini inceleyiniz.",
+    "a": "7N: 1s² 2s² 2p³; Aufbau ve Pauli'ye göre yerleşir, 2p orbitallerine 3 elektron Hund kuralına uygun tek tek yerleşir."
+   },
+   {
+    "q": "8O atomunda elektronların atom orbitallerine yerleşimini inceleyiniz.",
+    "a": "8O: 1s² 2s² 2p⁴; 2p orbitallerine altı yerleşirken Hund kuralına uygun olarak önce tek tek, sonra kalan elektron eşleşir."
+   },
+   {
+    "q": "11Na atomunda elektronların atom orbitallerine yerleşimini inceleyiniz.",
+    "a": "11Na: 1s² 2s² 2p⁶ 3s¹; elektronlar enerji sırasına göre yerleşir, 3s orbitalinde tek elektron bulunur."
+>>>>>>> Stashed changes
    }
   ],
   "62": [
    {
+<<<<<<< Updated upstream
     "q": "4Be atomunun elektron dağılımı ve orbital şeması nedir?",
     "a": "1s² 2s²"
    },
@@ -874,10 +1631,47 @@
    {
     "q": "Neden bazı atomlar diğerlerinden daha kararlıdır? (Etkinlik-1.10)",
     "a": "Orbitalleri tam dolu ya da yarı dolu olan, yani küresel simetriye sahip atomlar daha kararlıdır."
+=======
+    "q": "1. Yönerge: Tabloda yer alan boşlukları örnekteki gibi doldurarak soruları cevaplayınız (atomların elektron dağılımı, valans elektronlarının orbital dağılımı ve küresel simetri durumu).",
+    "a": "1H → 1s¹; 1s: ↑; küresel simetri: var."
+   },
+   {
+    "q": "1.a) Son enerji seviyesindeki orbitalleri tam dolu olan atomlar hangileridir?",
+    "a": "Be, Ne ve Ar."
+   },
+   {
+    "q": "1.b) Son enerji seviyesindeki orbitalleri yarı dolu olan atomlar hangileridir?",
+    "a": "H, N ve P."
+   },
+   {
+    "q": "1.c) Orbital şemalarında iki farklı renk kullanılmasının sebebi nedir?",
+    "a": "Tam dolu ve yarı dolu orbitalleri birbirinden ayırt etmek için."
+   },
+   {
+    "q": "2. Elektronların orbitallere dağılımı ile orbitallerin doluluğu ve küresel simetri arasındaki örüntü nedir?",
+    "a": "Son katmanındaki orbitalleri tam veya yarı dolu olan atomlar küresel simetri gösterir."
+   },
+   {
+    "q": "3. Tablodaki atomlardan hangileri daha kararlıdır?",
+    "a": "H, Be, N, Ne, P ve Ar."
+   },
+   {
+    "q": "4. Kararlılık ile küresel simetri özelliği arasındaki örüntü nedir?",
+    "a": "Küresel simetri gösteren atomlar daha kararlıdır."
+   },
+   {
+    "q": "5. Küresel simetri özelliği için genel bir tanım yazınız.",
+    "a": "Valans orbitalleri tam veya yarı dolu olduğundan çekirdeğin çekim gücünün orbitallere dengeli dağılmasıdır."
+   },
+   {
+    "q": "Etkinlik-1.10: Neden bazı atomlar diğerlerinden daha kararlıdır?",
+    "a": "Valans orbitalleri tam/yarı dolu olup küresel simetri gösterdiklerinden çekirdek çekimi orbitallere dengeli dağılır ve kararlılık artar."
+>>>>>>> Stashed changes
    }
   ],
   "64": [
    {
+<<<<<<< Updated upstream
     "q": "1) Yarı ve tam dolu atom orbitallerine ait şemaların incelenmesi (etkinlik yönergesi).",
     "a": "Şemalarda yarı dolu orbitaller tek elektron, tam dolu orbitaller iki elektron içerir; her ikisi de küresel simetri sağlar."
    },
@@ -912,11 +1706,48 @@
    {
     "q": "Cr atomunun beklenen ve gözlenen elektron dağılımı arasındaki fark nedir, gözlenen dağılım neden tercih edilir?",
     "a": "Beklenen dağılım 4s2 3d4 iken gözlenen 4s1 3d5'tir; yarı dolu 3d5 orbitali küresel simetri sağlayıp daha kararlı olduğu için bir 4s elektronu 3d'ye geçer."
+=======
+    "q": "1. Aşağıda yarı ve tam dolu atom orbitallerine ait şemalar verilmiştir.",
+    "a": "Şemalar, orbitallerin yarı dolu (s¹, p³, d⁵, f⁷) ve tam dolu (s², p⁶, d¹⁰, f¹⁴) hâllerini gösterir."
+   },
+   {
+    "q": "2. Elektronların orbitallere dağılımı ile atom orbitallerinin doluluğu ve küresel simetri özelliği arasındaki örüntüyü belirleyiniz.",
+    "a": "Elektronlar eş enerjili orbitallere önce birer birer (paralel spinli) yerleşir; orbitaller yarı dolu ya da tam dolu olduğunda atom küresel simetri kazanır ve kararlılık artar."
+   },
+   {
+    "q": "3. Bu bilgiye göre tablodaki atomlardan hangileri daha kararlıdır?",
+    "a": "Son enerji seviyesindeki orbitalleri yarı dolu veya tam dolu olan, yani küresel simetriye sahip atomlar daha kararlıdır (ör. Cr)."
+   },
+   {
+    "q": "4. Kararlılık ve küresel simetri özelliği arasındaki örüntüyü belirleyiniz.",
+    "a": "Küresel simetri arttıkça kararlılık artar; çünkü elektronlar çekirdek tarafından dengeli çekilir ve yarı/tam dolu orbitaller daha düşük enerjilidir."
+   },
+   {
+    "q": "5. Küresel simetri özelliği için genel bir tanım yazınız.",
+    "a": "Bir atomun son enerji seviyesindeki orbitallerinin yarı dolu ya da tam dolu olması durumuna küresel simetri denir."
+   },
+   {
+    "q": "a) Tabloda hangi atomların son enerji seviyesindeki orbitalleri tam doludur?",
+    "a": "Soy gazlar (He, Ne, Ar, Kr, Xe, Rn)."
+   },
+   {
+    "q": "b) Tabloda hangi atomların son enerji seviyesindeki orbitalleri yarı doludur?",
+    "a": "Küresel simetriye sahip atomlar; ör. Cr (3d⁵ 4s¹) ve N gibi atomlar."
+   },
+   {
+    "q": "c) Tabloda orbital şekillerinde iki farklı renk kullanılmasının sebebi nedir?",
+    "a": "Zıt (farklı yönlü) spinli elektronları ayırt etmek için."
+   },
+   {
+    "q": "2. Yönerge: Cr atomunun gözlenen elektron dağılımı neden beklenenden farklıdır?",
+    "a": "3d⁵ (yarı dolu) ve 4s¹ orbitalleri küresel simetri ile daha kararlı olduğundan gözlenen dağılım 4s¹ 3d⁵ şeklindedir."
+>>>>>>> Stashed changes
    }
   ],
   "65": [
    {
     "q": "Tabloda Cr atomuna ait hangi dağılımda çekirdeğin çekim gücü dengelenmiştir?",
+<<<<<<< Updated upstream
     "a": "Elektronların yarı dolu orbitallere simetrik yerleştiği 3d⁵ 4s¹ dağılımında."
    },
    {
@@ -946,11 +1777,43 @@
    {
     "q": "Dokuz tam dolu ve altı yarı dolu orbitali bulunan X atomunun elektron dağılımını Aufbau ilkesi, Pauli dışlama ilkesi ve Hund kuralına uygunluğu açısından değerlendiriniz.",
     "a": "1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁵ 4s¹ (Z=24, Cr); dokuz tam dolu ve altı yarı dolu orbital vardır. Pauli (her orbitalde en çok 2 zıt spinli e⁻) ve Hund (3d⁵'te elektronlar önce tek tek yerleşir) kurallarına uyar. Aufbau'ya göre 4s² 3d⁴ beklenirken, yarı dolu d⁵'in ek kararlılığı nedeniyle bir 4s elektronu 3d'ye geçer (istisna)."
+=======
+    "a": "3d⁵ 4s¹ dağılımında (küresel simetrik olduğu için yük her yöne dengeli dağılır)."
+   },
+   {
+    "q": "Cr atomu hangi dağılımda daha kararlıdır?",
+    "a": "3d⁵ 4s¹ dağılımında; yarı dolu d orbitali ve yarı dolu 4s kararlılık sağlar."
+   },
+   {
+    "q": "Cr atomunun küresel simetri özelliği gösterip göstermediğini gerekçeleriyle açıklayınız.",
+    "a": "Gösterir; 3d⁵ ve 4s¹ orbitalleri yarı dolu olduğundan elektron dağılımı küresel simetriktir."
+   },
+   {
+    "q": "29Cu atomunun küresel simetri özelliği gösterip göstermediğini gerekçeleriyle açıklayınız.",
+    "a": "Gösterir; 3d¹⁰ tam dolu, 4s¹ yarı dolu olduğundan küresel simetriktir."
+   },
+   {
+    "q": "Çekirdekten uzaklaştıkça aynı tür orbitallerin bağıl enerjisinde ve hacminde meydana gelen değişimin nedenleri nelerdir?",
+    "a": "Baş kuantum sayısı (n) büyür; elektron çekirdekten uzaklaşıp perdeleme arttığı için enerji yükselir ve orbital hacmi büyür."
+   },
+   {
+    "q": "Bir atomda aynı enerjiye sahip orbitaller bulunabilir mi?",
+    "a": "Evet; aynı alt kabuktaki orbitaller (örn. 2pₓ, 2p_y, 2p_z) ve hidrojen gibi tek elektronlu atomlarda aynı n'li orbitaller eş enerjilidir."
+   },
+   {
+    "q": "Çok elektronlu bir atomda aynı enerji seviyesine sahip iki farklı tür orbital bulunabilir mi?",
+    "a": "Hayır; perdeleme ve geçirgenlik farkı nedeniyle farklı tür orbitallerin (s, p, d, f) enerjileri farklıdır (n+l kuralı)."
+   },
+   {
+    "q": "Dokuz tam dolu ve altı yarı dolu orbitali bulunan X atomunun elektron dağılımını Aufbau, Pauli ve Hund kuralına uygunluğu açısından değerlendiriniz.",
+    "a": "9·2 + 6·1 = 24 elektron → X = Cr: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁵ 4s¹; Pauli ve Hund'a uyar, yarı dolu kararlılığı için Aufbau'dan sapma gösterir."
+>>>>>>> Stashed changes
    }
   ],
   "66": [
    {
     "q": "Sizce farklı periyodik tablo tasarımlarına ihtiyaç duyulmasının sebepleri nelerdir?",
+<<<<<<< Updated upstream
     "a": "Elementlerin farklı özelliklerini (atom numarası, kütle, elektron dizilimi, kimyasal davranış vb.) öne çıkarmak, öğretimi kolaylaştırmak ve yeni keşfedilen elementleri daha uygun biçimde göstermek için."
    },
    {
@@ -960,11 +1823,27 @@
    {
     "q": "Alternatif periyodik tabloların benzerlik ve farklılıkları nelerdir?",
     "a": "Benzerlik: Tümü elementleri atom numarasına ve benzer özelliklerine göre sınıflandırır. Farklılık: Biçim, yerleşim düzeni ve öne çıkarılan özellikler (kütle, elektron dizilimi, kimyasal özellik vb.) bakımından farklıdır."
+=======
+    "a": "Elementlerin özelliklerini, elektron dizilimlerini ve periyodik eğilimleri daha doğru ve anlaşılır gösterme ihtiyacı; element sayısının artması ve bazı gruplardaki tutarsızlıklar."
+   },
+   {
+    "q": "Oksijen (O) elementini iki farklı tabloda bulunuz ve oksijenden sonra gelen kükürt (S) ve selenyum (Se) elementlerinin nasıl konumlandığını belirtiniz.",
+    "a": "Oksijen 16. grupta yer alır; kükürt ve selenyum oksijenin altında aynı grupta (16. grup) alt alta konumlanır."
+   },
+   {
+    "q": "Alternatif periyodik tabloların benzerlik ve farklılıkları nelerdir?",
+    "a": "Benzerlik: elementleri atom numarası ve benzer kimyasal özelliklere göre gruplama. Farklılık: şekil, diziliş (spiral, daire, üç boyutlu) ve grupların yerleşimi."
+   },
+   {
+    "q": "Konuya Başlarken — Soy gazlar, grup ve periyot kavramları neyi ifade eder?",
+    "a": "Soy gazlar 18. gruptaki kararlı elementlerdir; grup düşey sütunları, periyot yatay satırları gösterir."
+>>>>>>> Stashed changes
    }
   ],
   "68": [
    {
     "q": "Bir elementin periyodik tablodaki yerini bulmak için gereken periyot ve grup numarası nasıl belirlenir?",
+<<<<<<< Updated upstream
     "a": "Periyot, elektron dizilimindeki en büyük baş kuantum sayısı (en yüksek enerji düzeyi) ile; grup ise değerlik elektronlarına göre belirlenir."
    },
    {
@@ -998,10 +1877,46 @@
    {
     "q": "Etkinlik-1.11 Periyodik Tabloda Yer Bulma: Tablodaki örnekleri inceleyerek periyodik tablodaki yer belirleme kuralını açıklayınız.",
     "a": "Elektron dizilimindeki en büyük baş kuantum sayısı periyodu; son düzeydeki s+p (A grubu) veya (n−1)d+ns (B grubu) elektron toplamı grup numarasını verir."
+=======
+    "a": "Periyot, elektron dizilimindeki en büyük baş kuantum sayısından (en yüksek enerji düzeyi n) bulunur. Grup ise değerlik (son yörünge) elektronlarına göre belirlenir: s/p blokunda değerlik elektron sayısı, d blokunda (n-1)d + ns elektron toplamı kullanılır."
+   },
+   {
+    "q": "A grubu elementlerinin periyot ve gruplarını belirleyen kurallara yönelik bir örüntü oluşturunuz.",
+    "a": "Periyot = en büyük n. Grup = son yörüngedeki ns + np elektron sayısı: 1→1A, 2→2A, 3→3A, 4→4A, 5→5A, 6→6A, 7→7A, 8→8A (soy gaz). (Helyum 1s² olmasına rağmen 8A/18. gruptadır.)"
+   },
+   {
+    "q": "B grubu elementlerinin periyot ve gruplarını belirleyen kurallara yönelik bir örüntü oluşturunuz.",
+    "a": "Periyot = en büyük n. Grup numarası = (n-1)d + ns elektron toplamı: 3→3B, 4→4B, 5→5B, 6→6B, 7→7B, 8/9/10→8B (üç sütun), 11→1B, 12→2B."
+   },
+   {
+    "q": "Oluşturduğunuz örüntüye göre 20Ca atomunun periyodik tablodaki yerini belirleyiniz.",
+    "a": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² = [Ar]4s² → 4. periyot, 2A grubu."
+   },
+   {
+    "q": "Oluşturduğunuz örüntüye göre 16S atomunun periyodik tablodaki yerini belirleyiniz.",
+    "a": "[Ne]3s² 3p⁴ → 3. periyot, 6A grubu."
+   },
+   {
+    "q": "Oluşturduğunuz örüntüye göre 25Mn atomunun periyodik tablodaki yerini belirleyiniz.",
+    "a": "[Ar]4s² 3d⁵ → 4. periyot, 7B grubu."
+   },
+   {
+    "q": "Oluşturduğunuz örüntüye göre 33As atomunun periyodik tablodaki yerini belirleyiniz.",
+    "a": "[Ar]4s² 3d¹⁰ 4p³ → 4. periyot, 5A grubu."
+   },
+   {
+    "q": "Elementlerin periyodik tablodaki yerlerini belirleyen kurallara ilişkin genelleme oluşturunuz.",
+    "a": "Bir elementin periyodu en büyük baş kuantum sayısıdır. A grubu (s ve p bloku) elementlerinde grup numarası son yörüngedeki değerlik elektron sayısına eşittir; B grubu (d bloku) elementlerinde ise grup numarası (n-1)d ve ns orbitallerindeki elektron toplamına eşittir (8B üç sütunu kapsar)."
+   },
+   {
+    "q": "Etkinlik-1.11 (Periyodik Tabloda Yer Bulma) tablosundaki örneklerden çıkarılan sonuç nedir?",
+    "a": "Verilen örneklerde periyot en büyük n ile, grup ise değerlik elektronlarıyla (A grubunda ns+np, B grubunda ns+(n-1)d) bulunur; Li 2/1A, Be 2/2A, C 2/4A, Se 4/6A, Sc 4/3B, Fe-Co-Ni 4/8B, Cu 4/1B, Zn 4/2B olarak doğrulanır."
+>>>>>>> Stashed changes
    }
   ],
   "69": [
    {
+<<<<<<< Updated upstream
     "q": "Elementin periyot numarasını ne belirler?",
     "a": "Elektron dizilimindeki en yüksek temel enerji düzeyi."
    },
@@ -1040,10 +1955,51 @@
    {
     "q": "1s²2s²2p⁶3s²3p⁶4s²3d⁷ elementinin grubu ve periyodu nedir?",
     "a": "4. periyot; d orbitali → B grubu; 4s²+3d⁷ = 9 → 9 (8B)."
+=======
+    "q": "Periyodik tabloda periyot numarası nasıl bulunur?",
+    "a": "Elektron dizilimindeki en yüksek temel enerji düzeyi periyot numarasını verir."
+   },
+   {
+    "q": "A grubu elementleri nasıl belirlenir?",
+    "a": "Elektron dizilimi s veya p orbitali ile bitenler A grubudur; en yüksek enerji düzeyindeki toplam elektron sayısı grubu verir."
+   },
+   {
+    "q": "B grubu elementleri nasıl belirlenir?",
+    "a": "Elektron dizilimi d orbitali ile bitenler B grubudur; en son s ve d orbitallerindeki toplam elektron sayısı B grup numarasını verir."
+   },
+   {
+    "q": "ns²(n−1)d⁶, ns²(n−1)d⁷, ns²(n−1)d⁸ ile biten elementler hangi gruptadır?",
+    "a": "8B grubunda yer alırlar."
+   },
+   {
+    "q": "En son s ve d orbitallerindeki toplam elektronu 11 ve 12 olan elementler hangi gruptadır?",
+    "a": "11 olanlar 1B, 12 olanlar 2B grubundadır."
+   },
+   {
+    "q": "1s²2s¹ dizilimli elementin periyodu, grubu ve bloğu nedir?",
+    "a": "2. periyot, 1A grubu, s bloğu."
+   },
+   {
+    "q": "1s²2s²2p⁶3s²3p⁵ dizilimli elementin periyodu, grubu ve bloğu nedir?",
+    "a": "3. periyot, 7A grubu, p bloğu."
+   },
+   {
+    "q": "1s²2s²2p⁶3s²3p⁶4s²3d¹⁰ dizilimli elementin periyodu, grubu ve bloğu nedir?",
+    "a": "4. periyot, 2B grubu, d bloğu."
+   },
+   {
+    "q": "1s²2s²2p⁶3s²3p⁶4s²3d³ dizilimli elementin periyodu, grubu ve bloğu nedir?",
+    "a": "4. periyot, 5B grubu, d bloğu."
+   },
+   {
+    "q": "1s²2s²2p⁶3s²3p⁶4s²3d⁷ dizilimli elementin periyodu, grubu ve bloğu nedir?",
+    "a": "4. periyot, 8B grubu (9. grup), d bloğu."
+>>>>>>> Stashed changes
    }
   ],
   "70": [
    {
+<<<<<<< Updated upstream
     "q": "Periyodik tabloda valans elektron sayısı ile grup numarası uyuşmayan element var mıdır?",
     "a": "Evet. Helyumun valans elektron sayısı 2 olmasına rağmen 8A grubunda yer alır; ayrıca B grubu (geçiş) elementlerinde grup numarası valans elektron sayısıyla doğrudan uyuşmaz."
    },
@@ -1058,11 +2014,32 @@
    {
     "q": "Genellemelerinizi Oluştururken Fark Edemediğiniz Noktalar",
     "a": "Valans elektron sayısının B grubu elementlerinde ns ve (n−1)d orbitallerini birlikte kapsadığı ve helyumun istisnai durumu fark edilmemişti."
+=======
+    "q": "Periyodik tabloda valans elektron sayısı ile grup numarası uyuşmayan element var mıdır? Düşüncelerinizi arkadaşlarınızla paylaşınız.",
+    "a": "Evet. Helyumun valans elektronu 2 olmasına rağmen 8A (18.) grupta yer alır. Ayrıca B grubu (geçiş) elementlerinde grup numarası ile valans elektron sayısı her zaman uyuşmaz."
+   },
+   {
+    "q": "Periyodik Tabloda Yer Bulma Kurallarına Yönelik Oluşturduğunuz Genellemeler",
+    "a": "A grubunda grup numarası = en dış kabuktaki (s veya s+p) valans elektron sayısı; periyot numarası = en büyük baş kuantum sayısı (n); blok = dizilimin bittiği orbital türü."
+   },
+   {
+    "q": "Bilimsel Bilgiler Sonucunda Değişen Genellemeniz",
+    "a": "\"Grup numarası her zaman valans elektron sayısına eşittir\" genellemem, helyum (2 valans, 8A) ve B grubu elementleri nedeniyle değişti."
+   },
+   {
+    "q": "Genellemelerinizi Oluştururken Fark Edemediğiniz Noktalar",
+    "a": "Helyumun s bloğunda olmasına rağmen p bloğunda gösterilmesi ve B grubunda ns ile (n−1)d orbitallerinin birlikte değerlendirilmesi gerektiğini başta fark edemedim."
+   },
+   {
+    "q": "Elementlerin periyodik tablodaki yerleri ile ilgili etkileşimli içeriğe ulaşmak için karekodu okutunuz.",
+    "a": "Karekod okutularak ilgili dijital/etkileşimli içeriğe ulaşılır."
+>>>>>>> Stashed changes
    }
   ],
   "72": [
    {
     "q": "a) Alkali metaller grubunda bulunan elementler:",
+<<<<<<< Updated upstream
     "a": "11Na (❶) ve 19K (❾)"
    },
    {
@@ -1100,10 +2077,50 @@
    {
     "q": "h) Geçiş metalleri:",
     "a": "28Ni (❸), 22Ti (❿), 25Mn (⓬)"
+=======
+    "a": "❶ (11Na) ve ❾ (19K)"
+   },
+   {
+    "q": "b) 2A grubunda bulunan elementler:",
+    "a": "❹ (12Mg) ve ❻ (4Be)"
+   },
+   {
+    "q": "c) 3Li ile benzer kimyasal özellik gösterenler:",
+    "a": "❶ (11Na) ve ❾ (19K) — aynı grupta (1A) yer alırlar."
+   },
+   {
+    "q": "ç) 2. periyot elementleri:",
+    "a": "❻ (4Be) ve ❼ (9F)"
+   },
+   {
+    "q": "d) Halojenler grubunda bulunan elementler:",
+    "a": "❺ (17Cl) ve ❼ (9F)"
+   },
+   {
+    "q": "e) Toprak metalleri grubunda bulunan elementler:",
+    "a": "❹ (12Mg) ve ❻ (4Be)"
+   },
+   {
+    "q": "f) 3. periyot elementleri:",
+    "a": "❶ (11Na), ❹ (12Mg), ⓫ (13Al), ❺ (17Cl), ❷ (18Ar)"
+   },
+   {
+    "q": "g) Soy gazlar grubunda bulunan elementler:",
+    "a": "❷ (18Ar) ve ❽ (2He)"
+   },
+   {
+    "q": "ğ) p bloku elementleri:",
+    "a": "❷ (18Ar), ❺ (17Cl), ❼ (9F), ⓫ (13Al)"
+   },
+   {
+    "q": "h) Geçiş metalleri:",
+    "a": "❸ (28Ni), ❿ (22Ti), ⓬ (25Mn)"
+>>>>>>> Stashed changes
    }
   ],
   "73": [
    {
+<<<<<<< Updated upstream
     "q": "Tablodaki boşlukları doldurunuz; nötr ve iyon hâlinin elektron sayısı farkı ile elektron dizilimindeki değişimi inceleyerek anyon ve katyon oluşum örüntüsünü belirleyiniz.",
     "a": "Proton/elektron sayıları: 9F (p9,e9), 9F⁻ (p9,e10), 16S (p16,e16), 16S²⁻ (p16,e18), 7N (p7,e7), 7N³⁻ (p7,e10), 11Na (p11,e11), 11Na⁺ (p11,e10), 20Ca (p20,e20), 20Ca²⁺ (p20,e18), 13Al (p13,e13), 13Al³⁺ (p13,e10). Anyonlar elektron alır (yük = eksi), katyonlar elektron verir (yük = artı). Ametal elektron alıp anyon, metal elektron verip katyon oluşturur."
    },
@@ -1118,10 +2135,23 @@
    {
     "q": "Etkinlik-1.12 \"İyon Oluşumu\" — iyon oluşumunu açıklayınız.",
     "a": "Nötr atom elektron alırsa anyon (negatif), elektron verirse katyon (pozitif) oluşur; amaç soy gaz elektron düzenine (oktet/duet) ulaşmaktır. Örnek: Na → Na⁺ + e⁻, Cl + e⁻ → Cl⁻."
+=======
+    "q": "Tablodaki boşlukları doldurunuz. Nötr ve iyon hâlinin elektron sayıları arasındaki fark ile elektron dizilimlerindeki değişimi inceleyerek anyon ve katyon oluşumuna yönelik örüntüyü belirleyiniz.",
+    "a": "9F: 9p, 9e⁻, 1s²2s²2p⁵ | 9F⁻: 9p, 10e⁻, 1s²2s²2p⁶ | 16S: 16p, 16e⁻, 1s²2s²2p⁶3s²3p⁴ | 16S²⁻: 16p, 18e⁻, 1s²2s²2p⁶3s²3p⁶ | 7N: 7p, 7e⁻, 1s²2s²2p³ | 7N³⁻: 7p, 10e⁻, 1s²2s²2p⁶ | 11Na: 11p, 11e⁻, 1s²2s²2p⁶3s¹ | 11Na⁺: 11p, 10e⁻, 1s²2s²2p⁶ | 20Ca: 20p, 20e⁻, 1s²2s²2p⁶3s²3p⁶4s² | 20Ca²⁺: 20p, 18e⁻, 1s²2s²2p⁶3s²3p⁶ | 13Al: 13p, 13e⁻, 1s²2s²2p⁶3s²3p¹ | 13Al³⁺: 13p, 10e⁻, 1s²2s²2p⁶. Örüntü: Anyon oluşurken elektron alınır (elektron sayısı artar, dizilime elektron eklenir); katyon oluşurken elektron verilir (elektron sayısı azalır, dizilimden elektron çıkarılır)."
+   },
+   {
+    "q": "Tablodaki her bir atomun nötr ve iyon hâlinin en yüksek enerji düzeyini ve bu düzeydeki elektron sayısını inceleyerek anyon ve katyon oluşumuna yönelik örüntüyü belirleyiniz.",
+    "a": "Anyon oluşumunda atom, en yüksek enerji düzeyine elektron alarak o düzeyi 8 elektrona (soy gaz düzenine) tamamlar; en yüksek enerji düzeyi değişmez. Katyon oluşumunda atom, en yüksek enerji düzeyindeki (değerlik) elektronlarını verir; bu düzey boşalır ve en yüksek enerji düzeyi bir alt düzeye iner."
+   },
+   {
+    "q": "Tablodaki iyonların elektron diziliminin hangi soy gaz atomlarının elektron dizilimine benzediğini belirleyiniz; iyon oluşumu ile soy gaz düzeni arasındaki ilişkiye yönelik örüntü oluşturunuz. (2He, 10Ne, 18Ar, 36Kr)",
+    "a": "9F⁻, 7N³⁻, 11Na⁺, 13Al³⁺ → 10Ne; 16S²⁻, 20Ca²⁺ → 18Ar. Örüntü: Atomlar elektron alarak ya da vererek en yakın soy gazın kararlı elektron dizilimine (en dış düzeyde 8 veya 2 elektron) ulaşır; bu nedenle iyon yükleri o soy gaza ulaşacak şekilde belirlenir."
+>>>>>>> Stashed changes
    }
   ],
   "74": [
    {
+<<<<<<< Updated upstream
     "q": "Tablodaki her bir iyonun proton ve elektron sayısı arasındaki fark ile iyon yükü arasındaki örüntüyü belirleyiniz.",
     "a": "Proton sayısı − elektron sayısı farkı iyon yükünü verir (K: 19−19=0; K⁺: 19−18=+1)."
    },
@@ -1136,10 +2166,31 @@
    {
     "q": "5.b) 8O atomundan iyon oluşturunuz.",
     "a": "8O: 1s²2s²2p⁴ → 2 elektron alır → O²⁻ (1s²2s²2p⁶, Ne dizilimi), yük −2."
+=======
+    "q": "Etkinlik: Verilen bilimsel bilgilerden yararlanarak iyon oluşumu tablosunu doldurunuz.",
+    "a": "K atomu: 19 p⁺, 19 e⁻, yük 0. K⁺ iyonu: 19 p⁺, 18 e⁻, iyon yükü +1."
+   },
+   {
+    "q": "Tablodaki her bir iyonun proton ve elektron sayısı arasındaki fark ile iyon yükü arasındaki örüntüyü belirleyiniz.",
+    "a": "İyon yükü = proton sayısı − elektron sayısı. (K⁺ için 19 − 18 = +1.)"
+   },
+   {
+    "q": "a) Belirlediğiniz örüntüleri kullanarak anyon ve katyon oluşumuna ilişkin genel bir kural oluşturunuz; proton sayısı, elektron sayısı, en yüksek enerji düzeyi elektronları ve orbitalleriyle ilişkilendirerek açıklayınız.",
+    "a": "Katyon: Atom en yüksek enerji düzeyindeki (valans) elektronlarını verir; proton sayısı > elektron sayısı olur, iyon yükü + olur ve dizilim bir önceki soy gaza benzer. Anyon: Atom en yüksek enerji düzeyindeki orbitallerine elektron alır; elektron sayısı > proton sayısı olur, iyon yükü − olur ve dizilim bir sonraki soy gaza benzer."
+   },
+   {
+    "q": "b) İyon oluşumuna dair genel kurallara dayanarak 4Be atomundan iyon oluşturunuz.",
+    "a": "4Be: 1s²2s² → 2 valans elektronu verir → Be²⁺ (1s²), proton 4, elektron 2, yük +2."
+   },
+   {
+    "q": "b) İyon oluşumuna dair genel kurallara dayanarak 8O atomundan iyon oluşturunuz.",
+    "a": "8O: 1s²2s²2p⁴ → 2 elektron alır → O²⁻ (1s²2s²2p⁶), proton 8, elektron 10, yük −2."
+>>>>>>> Stashed changes
    }
   ],
   "75": [
    {
+<<<<<<< Updated upstream
     "q": "Cl atomu nasıl Cl⁻ iyonuna dönüşür ve neden kararlı hâle gelir?",
     "a": "Son katmanındaki elektron sayısını 8'e tamamlamak için 1 elektron alır; elektron sayısı 18 olur ve 1s²2s²2p⁶3s²3p⁶ (Ar) soy gaz düzenine ulaşarak kararlı hâle gelir."
    },
@@ -1166,10 +2217,31 @@
    {
     "q": "Etkinlik-1.13 – İzoelektronik Tanecikleri Tanıyalım: Hangi tanecikler izoelektroniktir?",
     "a": "10 elektronlu grup: F⁻, Ne, Al³⁺; 18 elektronlu grup: K⁺, Cl⁻, S²⁻, Ar."
+=======
+    "q": "İyon oluşumuna yönelik genellemeleriniz nelerdir?",
+    "a": "Atomlar son katmanını 8 elektrona tamamlamak için elektron alarak ya da vererek soy gaz elektron düzenine ulaşır ve kararlı hâle gelir."
+   },
+   {
+    "q": "Bilimsel bilgiler sonucunda değişen genellemeleriniz nelerdir?",
+    "a": "Elektron alan atomun yarıçapı büyür, proton sayısı değişmez; oluşan anyonun yükü elektron fazlalığına eşittir."
+   },
+   {
+    "q": "Genellemelerinizi oluştururken fark edemediğiniz noktalar nelerdir?",
+    "a": "İzoelektronik taneciklerin elektron dizilimlerinin aynı, proton sayı ve özelliklerinin farklı olabileceği."
+   },
+   {
+    "q": "Etkinlik-1.13: İzoelektronik tanecikleri tanıyalım tablosunu doldurunuz.",
+    "a": "9F⁻: p=9, e=10, 1s²2s²2p⁶ | 10Ne: p=10, e=10, 1s²2s²2p⁶ | 13Al³⁺: p=13, e=10, 1s²2s²2p⁶ | 19K⁺: p=19, e=18, 1s²2s²2p⁶3s²3p⁶ | 17Cl⁻: p=17, e=18, 1s²2s²2p⁶3s²3p⁶ | 16S²⁻: p=16, e=18, 1s²2s²2p⁶3s²3p⁶ | 18Ar: p=18, e=18, 1s²2s²2p⁶3s²3p⁶."
+   },
+   {
+    "q": "Aynı renkle yazılmış taneciklerin izoelektronik olmasından hareketle izoelektronik kavramını tanımlayınız.",
+    "a": "Elektron sayısı ve elektron dizilimi aynı olan taneciklere izoelektronik tanecikler denir (F⁻, Ne, Al³⁺ 10 elektron; K⁺, Cl⁻, S²⁻, Ar 18 elektron)."
+>>>>>>> Stashed changes
    }
   ],
   "76": [
    {
+<<<<<<< Updated upstream
     "q": "12Mg atomunun elektron dizilimini yazınız; iyon oluşumunda elektron hangi orbitalden verilir/alınır?",
     "a": "1s² 2s² 2p⁶ 3s². Elektron en yüksek enerjili 3s orbitalinden verilir (alınmaz)."
    },
@@ -1208,20 +2280,73 @@
    {
     "q": "19K⁺ ve 20Ca²⁺ izoelektronik midir?",
     "a": "Evet; ikisi de 18 elektronlu, 1s² 2s² 2p⁶ 3s² 3p⁶."
+=======
+    "q": "12Mg atomunun elektron dizilimini yazınız ve iyon oluşumunda elektronların hangi orbitalden verilebileceğini/alınabileceğini belirtiniz.",
+    "a": "1s²2s²2p⁶3s²; en dış (en yüksek enerjili) 3s orbitalinden elektron verilir."
+   },
+   {
+    "q": "12Mg iyon yükünü belirleyiniz, iyon hâlinin elektron dizilimini yazınız ve iyon türünü tespit ediniz.",
+    "a": "2 elektron verir; yük +2 (Mg²⁺), dizilim 1s²2s²2p⁶, katyon."
+   },
+   {
+    "q": "15P³⁻ iyonunun elektron dizilimini yazınız ve orbital şemasının hangi soy gaz atomuna benzediğini belirtiniz.",
+    "a": "1s²2s²2p⁶3s²3p⁶; 18Ar'ın orbital şemasına benzer."
+   },
+   {
+    "q": "3Li⁺ iyonunun elektron dizilimini yazınız ve hangi soy gaz atomuna benzediğini belirtiniz.",
+    "a": "1s²; 2He'nin orbital şemasına benzer."
+   },
+   {
+    "q": "7N³⁻ iyonunun elektron dizilimini yazınız ve hangi soy gaz atomuna benzediğini belirtiniz.",
+    "a": "1s²2s²2p⁶; 10Ne'nin orbital şemasına benzer."
+   },
+   {
+    "q": "9F⁻ ve 11Na⁺ taneciklerinin elektron dizilimini yazınız ve izoelektronik olup olmadıklarını belirleyiniz.",
+    "a": "İkisi de 1s²2s²2p⁶; izoelektroniktir."
+   },
+   {
+    "q": "3Li⁺ ve 2He taneciklerinin elektron dizilimini yazınız ve izoelektronik olup olmadıklarını belirleyiniz.",
+    "a": "İkisi de 1s²; izoelektroniktir."
+   },
+   {
+    "q": "16S²⁻ ve 15P³⁻ taneciklerinin elektron dizilimini yazınız ve izoelektronik olup olmadıklarını belirleyiniz.",
+    "a": "İkisi de 1s²2s²2p⁶3s²3p⁶; izoelektroniktir."
+   },
+   {
+    "q": "7N³⁻ ve 11Na taneciklerinin elektron dizilimini yazınız ve izoelektronik olup olmadıklarını belirleyiniz.",
+    "a": "N³⁻ 10 elektron (1s²2s²2p⁶), Na 11 elektron (1s²2s²2p⁶3s¹); izoelektronik değildir."
+   },
+   {
+    "q": "19K⁺ ve 20Ca²⁺ taneciklerinin elektron dizilimini yazınız ve izoelektronik olup olmadıklarını belirleyiniz.",
+    "a": "İkisi de 1s²2s²2p⁶3s²3p⁶; izoelektroniktir."
+   },
+   {
+    "q": "Kontrol Noktası 1.7 (iyon oluşumu etkileşimli içerik) için ne yapılmalıdır?",
+    "a": "Karekod okutularak iyon oluşumu ile ilgili etkileşimli içeriğe ulaşılır."
+>>>>>>> Stashed changes
    }
   ],
   "77": [
    {
     "q": "Mendeleyev'in tellür ve iyodun yerini değiştirmesinin sebebi nedir?",
+<<<<<<< Updated upstream
     "a": "Atom kütlesine göre iyot tellürün üstünde olması gerekirken, iyodun kimyasal özellikleri flor, klor ve broma benzediği için Mendeleyev kimyasal özellikleri atom kütlesinden önde tutup ikisinin yerini değiştirdi."
    },
    {
     "q": "Bir üstteki periyodik tablo kesitinden yararlanarak galyum elementinin kaynama noktasını tahmin ediniz.",
     "a": "Galyumun komşuları alüminyum (2519 °C) ve indiyum (2072 °C) olduğundan kaynama noktası ~2000–2200 °C olarak tahmin edilir (gerçek değer 2204 °C)."
+=======
+    "a": "Elementleri atom kütlesine göre değil, benzer kimyasal özelliklerine göre gruplandırmak istediği için (tellür oksijen grubuna, iyot ise flor/klor/brom grubuna aittir)."
+   },
+   {
+    "q": "Periyodik tablo kesitinden yararlanarak galyum elementinin kaynama noktasını tahmin ediniz.",
+    "a": "Aynı grupta alüminyumun (2519 °C) altında, indiyumun (2072 °C) üstünde olduğundan yaklaşık 2400 °C olarak tahmin edilir."
+>>>>>>> Stashed changes
    }
   ],
   "78": [
    {
+<<<<<<< Updated upstream
     "q": "Aynı grupta yer alan atomların yarıçaplarındaki değişimin sebebini gruplardan birini seçerek açıklayınız. Açıklamanızı diğer gruplardaki durumlarla destekleyiniz.",
     "a": "Aynı grupta yukarıdan aşağı inildikçe atom yarıçapı artar. Çünkü aşağı doğru katman (kabuk) sayısı artar ve değerlik elektronlarına etki eden çekirdek yükü, yeni katmanların perdeleme etkisiyle yeterince hissedilmez; elektronlar çekirdekten uzaklaşır. Örnek: 1A grubunda Li(152) < Na(186) < K(227) < Rb(248); 7A grubunda F(72) < Cl(99) < Br(114) < I(133). Tüm gruplarda aşağı inildikçe yarıçap büyür."
    },
@@ -1232,10 +2357,23 @@
    {
     "q": "Etkinlik-1.14 Atom Yarıçapı (periyodik tablodaki verilerden yararlanma)",
     "a": "Verilen tabloda aynı grupta yarıçap yukarıdan aşağı artar, aynı periyotta soldan sağa azalır; bu sonuç atom yarıçapının katman sayısı ve çekirdek yüküne bağlı olarak değiştiğini gösterir."
+=======
+    "q": "Aynı grupta yer alan atomların yarıçaplarındaki değişimin sebebini bir grup seçerek açıklayınız. Açıklamanızı diğer gruplarla destekleyiniz.",
+    "a": "1A grubunda yukarıdan aşağıya (H:37 pm → Rb:248 pm) yarıçap artar; çünkü aşağı inildikçe baş kuantum sayısı ve katman (periyot) sayısı artar, elektronlar çekirdekten uzaklaşır. Aynı eğilim 2A (Be:112 → Sr:215), 3A (B:85 → In:166) ve 7A (F:70 → I:133) gruplarında da görülür."
+   },
+   {
+    "q": "Aynı periyotta yer alan atomların yarıçaplarındaki değişimin sebebini bir periyot seçerek açıklayınız. Açıklamanızı diğer periyotlarla destekleyiniz.",
+    "a": "3. periyotta soldan sağa (Na:186 → Ar:98) yarıçap azalır; çünkü çekirdek yükü artarken elektronlar aynı katmana eklendiğinden çekirdeğin çekim kuvveti artar ve atom büzülür. Aynı eğilim 2. periyot (Li:152 → Ne:70) ve 4. periyot (K:227 → Kr:112) için de geçerlidir."
+   },
+   {
+    "q": "Etkinlik-1.14 Atom Yarıçapı etkinliğinde ne yapılmalıdır?",
+    "a": "Periyodik tablodaki veriler incelenerek atom yarıçapının bir grupta yukarıdan aşağıya arttığı, bir periyotta soldan sağa azaldığı belirlenip bu değişimlerin nedenleri (katman sayısı ve çekirdek yükü) yorumlanır."
+>>>>>>> Stashed changes
    }
   ],
   "79": [
    {
+<<<<<<< Updated upstream
     "q": "3. Atom yarıçapı en büyük ve en küçük atomlar periyodik tabloda hangi periyot ve grupta yer alır? Bu durumun nedenini açıklayınız.",
     "a": "En büyük yarıçap 7. periyot 1. grupta (Fr), en küçük yarıçap 1. periyot 18. grupta (He). Aşağı inildikçe enerji düzeyi (katman) sayısı arttığı için yarıçap büyür; soldan sağa gidildikçe proton (çekirdek yükü) sayısı arttığı için elektronlar daha sıkı çekilir ve yarıçap küçülür."
    },
@@ -1258,10 +2396,35 @@
    {
     "q": "Etkinlik-1.15: İyon yarıçaplarını büyükten küçüğe sıralayınız.",
     "a": "Anyonlar: I⁻ > Br⁻ > Cl⁻ > F⁻; katyonlar: K⁺ > Ca²⁺ > Na⁺ > Mg²⁺ > Li⁺ > Be²⁺."
+=======
+    "q": "3. Atom yarıçapı en büyük ve en küçük atomlar periyodik tabloda hangi periyot ve grupta yer alır? Neden?",
+    "a": "En büyük yarıçap 7. periyot 1A grubunda (Fr, sol-alt köşe), en küçük yarıçap 1. periyot 8A grubunda (He, sağ-üst köşe). Periyot arttıkça enerji düzeyi (katman) sayısı artar → yarıçap artar; aynı periyotta soldan sağa proton (çekirdek yükü) artarken elektron aynı katmanda kaldığından çekim güçlenir → yarıçap azalır."
+   },
+   {
+    "q": "4. Aynı grupta ve aynı periyotta atom yarıçapını belirleyen etmenler nelerdir?",
+    "a": "Aynı grupta: enerji düzeyi (katman) sayısı; aşağı indikçe katman sayısı artar, yarıçap büyür. Aynı periyotta: proton (çekirdek yükü) ve elektron sayısı; sağa doğru proton sayısı artıp elektron da aynı katmanda çekildiğinden yarıçap küçülür."
+   },
+   {
+    "q": "5. 20Ca, 14Si, 15P, 12Mg, 9F, 17Cl elektron dağılımlarını yazınız ve yarıçapları büyükten küçüğe sıralayınız.",
+    "a": "20Ca: 2-8-8-2; 14Si: 2-8-4; 15P: 2-8-5; 12Mg: 2-8-2; 9F: 2-7; 17Cl: 2-8-7. Sıralama: Ca > Mg > Si > P > Cl > F."
+   },
+   {
+    "q": "6. 19K ve 20Ca ile 1H ve 2He atomlarını yarıçap ilişkisini gösterecek biçimde modelleyiniz; neye dayandığınızı açıklayınız.",
+    "a": "Aynı periyotta proton sayısı arttıkça yarıçap azalır. K ve Ca 4. periyotta olup Ca'nın protonu fazladır → rK > rCa. H ve He 1. periyotta olup He'nin protonu fazladır → rH > rHe. Model bu iki eşlemede soldaki atomu büyük, sağdakini küçük çizecek biçimde kurulur."
+   },
+   {
+    "q": "Etkinlik-1.15 İyon Yarıçapı: Nötr atom ile iyon yarıçapları arasındaki örüntü nedir?",
+    "a": "Kalyon (katyon) oluşturan metaller (Li, Be, Na, Mg, K, Ca) elektron verir; katman/elektron sayısı azalır, aynı proton yükü daha az elektronu daha güçlü çeker → iyon yarıçapı nötr atomdan küçüktür (rLi+ < rLi, rNa+ < rNa, rCa2+ < rCa). Anyon oluşturan ametaller (F, Cl, Br, I) elektron alır; elektron sayısı artar, çekim zayıflar ve elektronlar arası itme artar → iyon yarıçapı nötr atomdan büyüktür (rF- > rF, rCl- > rCl, rI- > rI)."
+   },
+   {
+    "q": "Etkinlik-1.15: Aynı elektron dizilimine sahip iyonlarda (ör. F- ve Na+) yarıçapı belirleyen nedir?",
+    "a": "Proton (çekirdek yükü) sayısı. Proton sayısı büyük olan iyon elektronları daha güçlü çeker, yarıçapı daha küçüktür → rNa+ < rF-."
+>>>>>>> Stashed changes
    }
   ],
   "80": [
    {
+<<<<<<< Updated upstream
     "q": "Nötr bir atomdan katyon oluşumu sırasında atom yarıçapında nasıl bir değişim olmaktadır?",
     "a": "Yarıçap küçülür. Elektron kaybedilir, proton sayısı değişmez; çekirdeğin elektron başına çekimi artar, elektron bulutu çekirdeğe yaklaşır."
    },
@@ -1288,10 +2451,39 @@
    {
     "q": "ç) ₁₀Ne, ₉F⁻, ₁₂Mg²⁺ yarıçapları büyükten küçüğe sıralanışı ve nedeni?",
     "a": "₉F⁻ > ₁₀Ne > ₁₂Mg²⁺; çünkü izoelektronik olup proton sayısı arttıkça yarıçap küçülür."
+=======
+    "q": "Nötr bir atomdan katyon oluşumu sırasında atom yarıçapında nasıl bir değişim olmaktadır? Proton ve elektron sayısı ile ilişkilendirerek açıklayınız.",
+    "a": "Yarıçap küçülür. Proton sayısı değişmez, elektron sayısı azalır; çekirdeğin kalan elektronları çekimi artar, bu yüzden yarıçap küçülür."
+   },
+   {
+    "q": "Nötr bir atomdan anyon oluşumu sırasında atom yarıçapında nasıl bir değişim olmaktadır? Proton ve elektron sayısı ile ilişkilendirerek açıklayınız.",
+    "a": "Yarıçap büyür. Proton sayısı değişmez, elektron sayısı artar; elektron-elektron itmesi ve elektron başına düşen çekim azalır, bu yüzden yarıçap büyür."
+   },
+   {
+    "q": "1 ve 2. görseldeki atom ve iyonların hangileri izoelektroniktir? İzoelektronik tanecikleri ve yarıçaplarını yazarak yarıçap farkının nedenini proton ve elektron sayısı ile açıklayınız.",
+    "a": "Elektron sayısı eşit olan tanecikler izoelektroniktir (ör. 10Ne, 9F⁻, 12Mg²⁺; hepsi 10 elektron). İzoelektronik taneciklerde proton sayısı arttıkça yarıçap küçülür: F⁻ > Ne > Mg²⁺."
+   },
+   {
+    "q": "a) Bir ................ yarıçapı oluştuğu atomun yarıçapından büyüktür çünkü ................",
+    "a": "a) anyonun; elektron sayısı arttığı için elektron-elektron itmesi ve elektron başına düşen çekim azalır, yarıçap büyür."
+   },
+   {
+    "q": "b) Bir ................ yarıçapı oluştuğu atomun yarıçapından küçüktür çünkü ................",
+    "a": "b) katyonun; elektron sayısı azaldığı için çekirdeğin kalan elektronları çekimi artar, yarıçap küçülür."
+   },
+   {
+    "q": "c) İzoelektronik atom ve iyonlarda proton sayısı büyük olanın yarıçapı ................ olur.",
+    "a": "c) daha küçük"
+   },
+   {
+    "q": "ç) 10Ne, 9F⁻, 12Mg²⁺ atom ve iyonlarının yarıçapları büyükten küçüğe nasıl sıralanır ve neden?",
+    "a": "ç) F⁻ > Ne > Mg²⁺; proton sayısı arttıkça çekirdeğin elektronları çekimi artar, yarıçap küçülür."
+>>>>>>> Stashed changes
    }
   ],
   "81": [
    {
+<<<<<<< Updated upstream
     "q": "1. Periyodik tablonun aynı grubunda iyonlaşma enerjisi değerinin değişimine neden olan etmenler nelerdir? İyonlaşma enerjisi değerinin değişim nedenini atomun yarıçapı, proton ve elektron sayıları ile ilişkilendirerek açıklayınız.",
     "a": "Aynı grupta yukarıdan aşağıya atom yarıçapı ve elektron sayısı artar, iç elektronların perdelemesi çoğalır; değerlik elektronu çekirdeğe daha zayıf bağlanır, bu yüzden iyonlaşma enerjisi azalır."
    },
@@ -1306,10 +2498,31 @@
    {
     "q": "4. Periyodik tabloda 2. grup gibi iyonlaşma enerjisi değerinde düzensizliğe neden olan başka hangi grup bulunmaktadır? Bu gruptaki atomların iyonlaşma enerji değerlerinin daha yüksek olma nedenini açıklayınız.",
     "a": "5A (15.) grup. Değerlik dizilimi ns²np³ olup p orbitali yarı dolu kararlıdır; bu kararlılık nedeniyle iyonlaşma enerjisi beklenenden yüksektir."
+=======
+    "q": "Tabloyu inceleyiniz ve verilen soruları tartışarak cevaplayınız.",
+    "a": "Tabloda atom numarası, sembol, atom yarıçapı ve iyonlaşma enerjisi değerleri verilmiş; değişim eğilimleri incelenir."
+   },
+   {
+    "q": "1) Aynı grupta iyonlaşma enerjisinin değişimine neden olan etmenler nelerdir? Yarıçap, proton ve elektron sayılarıyla ilişkilendirerek açıklayınız.",
+    "a": "Aşağıdan yukarıya iyonlaşma enerjisi artar. Yukarı doğru atom yarıçapı azalır, proton sayısı (çekirdek yükü) etkisi ve elektronun çekirdeğe yakınlığı artar, çekim güçlenir. Aşağı inildikçe yarıçap ve perdeleme artar, çekim zayıflar, iyonlaşma enerjisi azalır."
+   },
+   {
+    "q": "2) Aynı periyotta 1. iyonlaşma enerjisinin değişimine neden olan etmenler nelerdir? Açıklayınız.",
+    "a": "Soldan sağa iyonlaşma enerjisi genellikle artar. Proton sayısı artarken yarıçap azalır, değerlik elektronları çekirdeğe daha güçlü çekilir; perdeleme aynı katmanda pek değişmez."
+   },
+   {
+    "q": "3) İyonlaşma enerjisinin periyottaki değişimi 2. gruptaki atomlar nedeniyle neden düzensizleşir? Elektron dizilimleriyle açıklayınız.",
+    "a": "2A (2. grup) atomlarının değerlik dizilimi ns² olup s orbitali tam doludur. Tam dolu orbital kararlılığı iyonlaşma enerjisini beklenenden yükseltir; 3A elementinde p orbitaline geçilir ve perdeleme nedeniyle enerji düşer, bu yüzden 3A < 2A olur ve düzensizlik görülür."
+   },
+   {
+    "q": "4) 2. grup gibi düzensizliğe neden olan başka hangi grup vardır? Bu grupta iyonlaşma enerjisinin yüksek olma nedenini açıklayınız.",
+    "a": "5A (azot) grubudur. Değerlik dizilimi ns² np³ olup p orbitali yarı doludur. Yarı dolu orbital kararlılığı iyonlaşma enerjisini beklenenden yükseltir; bu nedenle 5A > 6A olur ve düzensizlik oluşur."
+>>>>>>> Stashed changes
    }
   ],
   "82": [
    {
+<<<<<<< Updated upstream
     "q": "Verilerden faydalanarak atom numaralarına karşılık gelen iyonlaşma enerjisi değişimini gösteren grafiği çiziniz.",
     "a": "Grafikte x eksenine atom numarası (1-10), y eksenine İE (kJ/mol) yazılır; her element için çubuk/nokta işaretlenip birleştirilir. Tepe noktaları He, Be? hayır → tepe: He(2371), N(1402), Ne(2080); çukurlar: Li(520), B(800), O(1314)."
    },
@@ -1324,10 +2537,23 @@
    {
     "q": "Etkinlik-1.17 İyonlaşma Enerjisi II",
     "a": "Yukarıdaki grafik çizilir ve azalma noktaları (He→Li, Be→B, N→O) kararlı elektron dizilimi ile periyot başlangıcı esas alınarak yukarıdaki gibi açıklanır."
+=======
+    "q": "Atom numaralarına karşılık gelen iyonlaşma enerjisi değerlerinin değişimini gösteren grafiği çiziniz.",
+    "a": "Grafikte değerler (atom no–İE): 1H-1312, 2He-2371, 3Li-520, 4Be-900, 5B-800, 6C-1086, 7N-1402, 8O-1314, 9F-1681, 10Ne-2080 olup zigzag (inişli-çıkışlı) bir artış eğilimi gösterir."
+   },
+   {
+    "q": "Çizdiğiniz grafikte hangi atomların iyonlaşma enerjisinden sonra azalma gözlenmektedir?",
+    "a": "He'dan sonra (Li), Be'den sonra (B) ve N'den sonra (O) azalma gözlenir."
+   },
+   {
+    "q": "Bu azalmanın nedenini açıklayınız.",
+    "a": "2A grubu (Be) tam dolu s orbitaline, 5A grubu (N) yarı dolu p orbitaline sahip kararlı dizilimlerdir; kararlı atomdan elektron koparmak zor olduğundan İE yüksektir, sonraki gruba geçince düşer. He'dan Li'ye geçişte ise yeni periyot başlar, elektron çekirdekten uzaklaşır ve perdeleme artar, bu yüzden İE azalır."
+>>>>>>> Stashed changes
    }
   ],
   "83": [
    {
+<<<<<<< Updated upstream
     "q": "Tablodaki boşlukları doldurunuz. Bir elementin art arda verilen iyonlaşma enerjisi değerlerindeki artışın sebebi nedir? İlk elektronun koparılmasından sonra ikinci elektronun koparılması neden daha fazla enerji gerektirir?",
     "a": "Boşluklar (Oluşan İyonlar): Li → Li⁺, Li²⁺, Li³⁺; Be → Be⁺, Be²⁺, Be³⁺, Be⁴⁺; B → B⁺, B²⁺, B³⁺, B⁴⁺; Na → Na⁺, Na²⁺, Na³⁺, Na⁴⁺; Mg → Mg⁺, Mg²⁺, Mg³⁺, Mg⁴⁺; Al → Al⁺, Al²⁺, Al³⁺, Al⁴⁺. Artışın sebebi: elektronlar çıktıkça çekirdekteki proton/elektron oranı artar, kalan elektronlar çekirdeğe daha sıkı bağlanır ve elektronlar arası itme azalır; bu yüzden her bir sonraki elektronu koparmak daha fazla enerji gerektirir."
    },
@@ -1342,16 +2568,38 @@
    {
     "q": "Na, Mg ve Al elementlerinin aynı periyotta olduğunu göz önünde bulundurarak bu elementlerin atom yarıçaplarını karşılaştırınız.",
     "a": "Aynı periyotta soldan sağa gidildikçe atom yarıçapı azalır: Na > Mg > Al."
+=======
+    "q": "1. Tablodaki boşlukları doldurunuz. Bir elementin art arda verilen iyonlaşma enerjisi değerlerindeki artışın sebebi nedir? İlk elektronun koparılmasından sonra ikinci elektronun koparılması neden daha fazla enerji gerektirir?",
+    "a": "Elektron dizilimleri: Li=1s²2s¹, Be=1s²2s², B=1s²2s²2p¹, Na=1s²2s²2p⁶3s¹, Mg=1s²2s²2p⁶3s², Al=1s²2s²2p⁶3s²3p¹. Oluşan iyonlar: Li⁺,Li²⁺,Li³⁺; Be⁺,Be²⁺,Be³⁺,Be⁴⁺; B⁺,B²⁺,B³⁺,B⁴⁺; Na⁺,Na²⁺,Na³⁺,Na⁴⁺; Mg⁺,Mg²⁺,Mg³⁺,Mg⁴⁺; Al⁺,Al²⁺,Al³⁺,Al⁴⁺. Artışın sebebi: elektron koparıldıkça proton sayısı sabit kalırken elektron sayısı azalır; çekirdeğin kalan elektronları çekim gücü artar ve iyon pozitifleşir, bu yüzden her elektronu koparmak daha zor olur."
+   },
+   {
+    "q": "2. Bir elementin verilen iyonlaşma enerji değerleri arasındaki farkın en büyük olduğu değere kadar olan iyonlaşma enerjisi sayısı o atom ile ilgili hangi bilgiye ulaşılmasını sağlar?",
+    "a": "Atomun değerlik elektron sayısını, dolayısıyla periyodik tablodaki grup numarasını verir."
+   },
+   {
+    "q": "3. Verilen elementlerin periyodik tablodaki grup numaralarını iyonlaşma enerjisi değerlerinden yararlanarak bulunuz.",
+    "a": "En büyük artış öncesindeki elektron sayısı değerlik elektron sayısıdır: Li (520→7298) 1 değerlik e⁻ → 1A; Be (1757→14849) 2 → 2A; B (3660→25026) 3 → 3A; Na (496→4562) 1 → 1A; Mg (1451→7733) 2 → 2A; Al (2745→11578) 3 → 3A."
+   },
+   {
+    "q": "4. Na, Mg ve Al elementlerinin aynı periyotta olduğunu göz önünde bulundurarak bu elementlerin atom yarıçaplarını karşılaştırınız.",
+    "a": "Aynı periyotta soldan sağa gidildikçe atom yarıçapı azalır. Buna göre Na > Mg > Al."
+>>>>>>> Stashed changes
    }
   ],
   "84": [
    {
+<<<<<<< Updated upstream
     "q": "Element sembollerini periyodik tablo kesitine uygun olacak şekilde yerleştiriniz.",
     "a": "1. periyot: 1A: H, 8A: He | 2. periyot: 1A: Li, 2A: Be, 3A: B, 4A: C, 5A: N, 6A: O, 7A: F, 8A: Ne | 3. periyot: 1A: Na, 2A: Mg, 3A: Al, 4A: Si, 5A: P, 6A: S, 7A: Cl, 8A: Ar | 4. periyot: 1A: K, 2A: Ca"
+=======
+    "q": "Etkinlik-1.19 (Elektronegatiflik) 1. Element sembollerini verilen periyodik tablo kesitine uygun olacak şekilde yerleştiriniz.",
+    "a": "1. periyot → 1A: H, 8A: He. 2. periyot → 1A: Li, 2A: Be, 3A: B, 4A: C, 5A: N, 6A: O, 7A: F, 8A: Ne. 3. periyot → 1A: Na, 2A: Mg, 3A: Al, 4A: Si, 5A: P, 6A: S, 7A: Cl, 8A: Ar. 4. periyot → 1A: K, 2A: Ca."
+>>>>>>> Stashed changes
    }
   ],
   "85": [
    {
+<<<<<<< Updated upstream
     "q": "12Mg ve 16S atomları tepkimeye girerek MgS bileşiğini oluştururken atomların yarıçapları değişmektedir. Şekilde verilen görsellerin hangi atom ve iyona ait olduğunu belirleyiniz ve nedenini açıklayınız.",
     "a": "Küçülen görsel Mg ve Mg²⁺'ye, büyüyen görsel S ve S²⁻'ye aittir. Mg 2 elektron verip Mg²⁺ olur, proton sayısı aynı kalırken elektron azaldığı için çekim artar ve yarıçap küçülür; S 2 elektron alıp S²⁻ olur, elektron artışı çekimi azalttığı için yarıçap büyür."
    },
@@ -1374,10 +2622,35 @@
    {
     "q": "Metallerin, ametallerin ve soy gazların elektronegatiflik değeri karşılaştırıldığında hangi genellemelere ulaşılabilir?",
     "a": "Ametallerin elektronegatifliği metallerden yüksektir. Metaller düşük, ametaller yüksek elektronegatifliğe sahiptir; soy gazlar bağ yapmadıkları için elektronegatiflik değeri göstermez."
+=======
+    "q": "12Mg ve 16S atomları tepkimeye girerek MgS bileşiğini oluşturmaktadır. Şekildeki görsellerin hangi atom ve iyona ait olduğunu belirleyiniz ve nedenini açıklayınız.",
+    "a": "En büyük yarıçap 16S (nötr S), sonra 12Mg; en küçük yarıçap Mg²⁺ ve S²⁻ iyonlarıdır. Mg 2 elektron verip Mg²⁺ olur, yarıçapı küçülür (proton başına elektron azalır, çekim artar); S 2 elektron alıp S²⁻ olur, elektron-elektron itmesi nedeniyle yarıçapı büyür."
+   },
+   {
+    "q": "Periyodik tablonun aynı periyodundaki elektronegatiflik değişimine neden olan etmenler nelerdir? Elektrostatik çekim temelinde açıklayınız.",
+    "a": "Aynı periyotta soldan sağa gidildikçe proton sayısı (çekirdek yükü) artar, yarıçap azalır. Çekirdeğin değerlik elektronlarına uyguladığı elektrostatik çekim kuvveti artar, bu yüzden elektronegatiflik artar."
+   },
+   {
+    "q": "Periyodik tablonun aynı grubundaki elektronegatiflik değişimine neden olan etmenler nelerdir? Elektrostatik çekim temelinde açıklayınız.",
+    "a": "Aynı grupta yukarıdan aşağıya inildikçe katman sayısı ve yarıçap artar, değerlik elektronları çekirdekten uzaklaşır. Elektrostatik çekim kuvveti azalır, bu yüzden elektronegatiflik azalır."
+   },
+   {
+    "q": "Elektronegatiflik değeri periyotta soldan sağa ve grupta yukarıdan aşağıya nasıl değişir? Örnek vererek açıklayınız.",
+    "a": "Periyotta soldan sağa artar, grupta yukarıdan aşağıya azalır. Örnek: Na < Cl (aynı periyot); F > Cl > Br > I (aynı grup)."
+   },
+   {
+    "q": "Tablodaki en yüksek ve en düşük elektronegatiflik değerine sahip elementler hangileridir?",
+    "a": "En yüksek flor (F), en düşük sezyum (Cs) (veya fransiyum, Fr)."
+   },
+   {
+    "q": "Metallerin, ametallerin ve soy gazların elektronegatiflik değeri karşılaştırıldığında hangi genellemelere ulaşılabilir?",
+    "a": "Soy gazlar bağ yapmadıkları için elektronegatiflikleri yoktur. Ametallerin elektronegatifliği metallerden yüksektir; metaller düşük, ametaller yüksek elektronegatifliğe sahiptir."
+>>>>>>> Stashed changes
    }
   ],
   "86": [
    {
+<<<<<<< Updated upstream
     "q": "Periyodik tablodaki bazı elementlerin atom numarası–1. iyonlaşma enerjisi grafiğini çizerek iyonlaşma enerjisindeki azalmanın nedenini açıklayınız.",
     "a": "Grafik: Ne en yüksek (2080); Na'ya geçişte ani düşüş (496), sonra Mg(738)>Al(577), Si(786)<P(1012)>S(1000), Cl(1255)>Ar(1520), K'da tekrar düşüş (419). Azalmanın nedeni: Na ve K'da yeni bir enerji katmanına elektron girmesi; valans elektronu çekirdekten uzakta ve iç elektronlarca perdelendiğinden daha kolay kopar, bu yüzden iyonlaşma enerjisi düşer (Al'da 3p, S'te eşleşmiş 3p itmesi de yerel düşüşe yol açar)."
    },
@@ -1388,10 +2661,23 @@
    {
     "q": "Verilen özelliklerden hareketle X, Y, Z ve K elementlerini periyodik tablo kesitine yerleştiriniz; gerekçelerinizi yazınız.",
     "a": "X en sağ üstte (soy gaz; iyonlaşma enerjisi en büyük). Y en sol altta (atom yarıçapı en büyük; 1A'nın alt periyodu). K, Y ile aynı grupta ve onun üstünde (valans elektron sayısı Y'ye eşit). Z ise K ve X'ten hem farklı periyotta hem farklı valans elektron sayısında olacak bir yere (örneğin 2A grubu) gelir."
+=======
+    "q": "2. Verilen 1. iyonlaşma enerjisi değerlerinden yararlanarak atom numarası-iyonlaşma enerjisi grafiğini çiziniz ve iyonlaşma enerjisindeki azalmanın nedenini açıklayınız.",
+    "a": "Grafikte 10Ne en yüksek tepe (2080); 11Na'da keskin düşüş (496), sonra Mg<Al<Si<P<S<Cl<Ar biçiminde artarak 18Ar'da ikinci tepe (1520); 19K'da tekrar keskin düşüş (419). Azalma nedeni: Yeni periyot başladığında (Ne→Na, Ar→K) valans elektronu daha üst enerji seviyesine geçer, çekirdekten uzaklaşır ve iç elektronlarca perdelendiğinden etkin çekirdek yükü azalır; bu yüzden elektron kolay kopar. Ayrıca Mg→Al (3p elektronu) ve P→S (eşlenmiş p elektronlarının itmesi) küçük düşüşlere neden olur."
+   },
+   {
+    "q": "3. H, F ve Cl atomlarının elektronegatifliklerini karşılaştırınız ve elektronegatifliğin tanımını yazınız.",
+    "a": "Elektronegatiflik sırası F > Cl > H'dir. Elektronegatiflik: Bir moleküldeki atomun bağ elektronlarını kendine çekme eğilimidir (yeteneğidir)."
+   },
+   {
+    "q": "4. Verilen özelliklerden hareketle X, Y, Z ve K elementlerini periyodik tablo kesitine yerleştiriniz ve gerekçelerinizi yazınız.",
+    "a": "X: iyonlaşma enerjisi en büyük → periyodun en sağı/üstü (soy gaz bölgesi). Y: atom yarıçapı en büyük → sol alt köşe. K: valans elektron sayısı Y'ye eşit → Y ile aynı grupta, Y'nin üstünde. Z: valans elektron sayısı ve bulunduğu enerji seviyesi K ve X'ten farklı → farklı grup ve farklı periyotta. Gerekçe: İyonlaşma enerjisi periyotta soldan sağa, grupta aşağıdan yukarıya artar; atom yarıçapı soldan sağa azalır, yukarıdan aşağıya artar; aynı gruptaki elementlerin valans elektron sayısı eşittir."
+>>>>>>> Stashed changes
    }
   ],
   "87": [
    {
+<<<<<<< Updated upstream
     "q": "a) X, Y ve Z elementlerinin elektronegatifliklerini karşılaştırınız.",
     "a": "Na < Mg < Al (X < Y < Z)."
    },
@@ -1414,30 +2700,72 @@
    {
     "q": "e) X, Y ve Z elementlerinin birbirine göre konumlarını gösteren bir periyodik tablo kesiti çiziniz.",
     "a": "Aynı periyodun (3. periyot) ardışık grupları: X=1A (grup 1), Y=2A (grup 2), Z=3A (grup 13); yan yana aynı periyotta."
+=======
+    "q": "X, Y ve Z elementlerinin elektronegatifliklerini karşılaştırınız.",
+    "a": "X < Y < Z"
+   },
+   {
+    "q": "X, Y ve Z elementlerinin valans elektron sayılarını yazınız.",
+    "a": "X: 1, Y: 2, Z: 3"
+   },
+   {
+    "q": "X, Y ve Z elementlerinin atom yarıçaplarını karşılaştırınız.",
+    "a": "X > Y > Z"
+   },
+   {
+    "q": "X⁺, Y²⁺ ve Z³⁺ iyonlarının elektron dağılımındaki son orbitali ve bu orbitaldeki elektron sayısını yazınız.",
+    "a": "Üçü de 2p orbitali, 6 elektron (2p⁶)"
+   },
+   {
+    "q": "X, Y ve Z elementlerinin grup numaralarına karşılık gelen iyonlaşma enerjisi değerlerinin değişimini gösteren bir grafik çiziniz.",
+    "a": "İyonlaşma enerjisi X < Y < Z şeklinde artar (grup numarası arttıkça grafik yükselir)."
+   },
+   {
+    "q": "X, Y ve Z elementlerinin birbirine göre konumlarını gösteren bir periyodik tablo kesiti çiziniz.",
+    "a": "Aynı periyotta (3. periyot) yan yana: X 1A, Y 2A, Z 3A (X–Y–Z soldan sağa)."
+>>>>>>> Stashed changes
    }
   ],
   "88": [
    {
     "q": "1. Bu çalışmayla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+<<<<<<< Updated upstream
     "a": "B (Köpük bardak/PS'te kurşun 218,89 μg, yemek saklama kabı/PE'de 270,20 μg olduğundan PS'te daha azdır.)"
    },
    {
     "q": "2. Bu bilimsel çalışma aşağıdaki davranışları gösterenlerin hangisi veya hangileri için yapılmış olabilir? (I. Plastik şişeden süt, II. Plastik bardakta kahve, III. Plastik ambalajda sıvı sabun, IV. Yemek saklama kabında turşu)",
     "a": "C (II ve IV — ağır metal geçişi pH≤5 olan asidik gıdalarda (kahve, turşu) görülür; süt pH 6 ve sabun pH 12 olduğundan etkili değildir.)"
+=======
+    "a": "B — Köpük bardaktaki (PS) kurşun oranı (218,89) yemek saklama kabındaki (PE 04) kurşun oranından (270,20) azdır."
+   },
+   {
+    "q": "2. Bu bilimsel çalışma aşağıdaki davranışları gösterenlerin hangisi veya hangileri için yapılmış olabilir?",
+    "a": "C — II ve IV (çalışma pH≤5 asidik gıdalarla ilgilidir; kahve ve turşu asidik, süt ve sıvı sabun değildir)."
+>>>>>>> Stashed changes
    }
   ],
   "89": [
    {
+<<<<<<< Updated upstream
     "q": "Bu çalışmaya göre aşağıdaki genellemelerden hangisine ulaşılamaz?",
     "a": "C) Plastik maddenin içerdiği ağır metal ile gıdaya geçen ağır metal doğru orantılıdır."
    },
    {
     "q": "Anket sorularını laboratuvar güvenlik kuralları açısından kaç farklı kategoride gruplayabilirsiniz? Nedenini açıklayınız.",
     "a": "Dört kategoride: genel laboratuvar kuralları (1, 8); kimyasal maddelerle çalışma (2, 3, 5, 6); ölçüm araçlarıyla çalışma (4, 9); cam malzemelerle çalışma (7, 10)."
+=======
+    "q": "3. Bu çalışmaya göre aşağıdaki genellemelerden hangisine ulaşılamaz?",
+    "a": "D) Polietilen kaplar polistiren kaplara kıyasla daha fazla kurşun içerir."
+   },
+   {
+    "q": "4. Anket sorularını laboratuvar güvenlik kuralları açısından kaç farklı kategoride gruplayabilirsiniz? Nedenini açıklayınız.",
+    "a": "4 kategori: kişisel güvenlik ve davranış (1, 3), kimyasal madde kullanımı ve depolama (2, 5, 6), cam malzeme ve ölçüm işlemleri (4, 7, 9, 10), havalandırma/çeker ocak (8). Çünkü her grup laboratuvar güvenliğinin farklı bir kural alanını kapsar."
+>>>>>>> Stashed changes
    }
   ],
   "90": [
    {
+<<<<<<< Updated upstream
     "q": "1.a) I. cümle hangi anket sorusu/sorularıyla ilişkilidir?",
     "a": "Yanıcı ve yakıcı maddelerin kullanımdan sonra yan yana konulması davranışını sorgulayan anket sorusuyla ilişkilidir."
    },
@@ -1476,10 +2804,23 @@
    {
     "q": "6) Soru ve etkinlik nedir?",
     "a": "6. sorunun metni bu sayfada yer almamaktadır; içerik sonraki sayfadadır."
+=======
+    "q": "5.a) Her bir cümlenin hangi anket sorusu veya sorularıyla ilişkili olduğunu açıklayınız.",
+    "a": "I→6, II→8, III→5, IV→9, V→1, 2, 3, VI→10, VII→7."
+   },
+   {
+    "q": "5.b) Yukarıdaki cümlelerin anket verileri ile uyumlu olup olmadığını açıklayınız.",
+    "a": "I uyumlu (depolama %20). II uyumsuz (çeker ocak %25). IV uyumsuz (beher net hacim için uygun değil, %90 evet). VII uyumsuz (kayganlaştırıcı %35); III, V, VI kısmen uyumlu."
+   },
+   {
+    "q": "Bu çalışmadan öğrencilerle ilgili aşağıda verilen çıkarımlardan hangisine ulaşılabilir?",
+    "a": "D) Gaz çıkışı olan deneylerde risk oluşturabilecek davranışlar sergilemektedirler."
+>>>>>>> Stashed changes
    }
   ],
   "91": [
    {
+<<<<<<< Updated upstream
     "q": "Aşağıdaki önermelerden hangisi diyagramdan elde edilemez?",
     "a": "D"
    },
@@ -1490,6 +2831,18 @@
    {
     "q": "Aşağıdaki orbital geçişlerini, elektronun enerji alması veya enerji vermesi durumuna göre işaretleyiniz.",
     "a": "I. Enerji alır, II. Enerji verir, III. Enerji alır, IV. Enerji verir, V. Enerji alır, VI. Enerji verir"
+=======
+    "q": "7. Aşağıdaki önermelerden hangisi diyagramdan elde edilemez?",
+    "a": "B) \"Bir atomda enerji seviyesi arttıkça atom orbitallerinin enerjisi artar.\" (Diyagramda 4s orbitalinin enerjisi 3d orbitalinden düşüktür; bu önerme geçersizdir.)"
+   },
+   {
+    "q": "8. Aşağıdaki orbital geçişlerini, elektronun enerji alması veya enerji vermesi durumuna göre işaretleyiniz.",
+    "a": "I. 2s → 3p: Enerji alır. II. 3p → 3s: Enerji verir. III. 4s → 3d: Enerji alır. IV. 3d → 4s: Enerji verir. V. 2p → 3s: Enerji alır. VI. 3s → 2p: Enerji verir."
+   },
+   {
+    "q": "9. Orbital bağıl enerji diyagramından yararlanarak elektronların orbitallere yerleşme sırasını yazınız.",
+    "a": "1s → 2s → 2p → 3s → 3p → 4s → 3d → 4p → 5s → 4d"
+>>>>>>> Stashed changes
    }
   ],
   "92": [
@@ -1498,6 +2851,7 @@
     "a": "Evet."
    },
    {
+<<<<<<< Updated upstream
     "q": "Kullandığınız kimyasal ürünler hangileridir?",
     "a": "Tuz ruhu, çamaşır suyu ve yüzey temizleyici."
    },
@@ -1524,10 +2878,35 @@
    {
     "q": "Çamaşır suyu ile tuz ruhu birlikte kullanılır mı?",
     "a": "Hayır; birlikte kullanılırsa zehirli Cl2 gazı açığa çıkar."
+=======
+    "q": "Kullandığınız kimyasal ürünleri işaretleyiniz.",
+    "a": "Tuz ruhu, çamaşır suyu, yüzey temizleyici."
+   },
+   {
+    "q": "Bu deney düzeneğinde verilen temizleyici kimyasal ürünlerin yaklaşık pH değerlerini belirleyiniz ve her birini asidik, bazik veya nötr olarak değerlendiriniz.",
+    "a": "Tuz ruhu ~pH 1 (asidik), yüzey temizleyici ~pH 7 (nötr), çamaşır suyu ~pH 13 (bazik)."
+   },
+   {
+    "q": "Kullanılan temizlik kimyasallarının doğal taşın yüzey rengine etkisini en yüksekten en düşüğe sıralayınız. Neden böyle bir etki yapmış olabilir?",
+    "a": "Tuz ruhu > çamaşır suyu > yüzey temizleyici. Kimyasallar doğal taşın yapısındaki maddelerle tepkimeye girmiştir."
+   },
+   {
+    "q": "Aşağıdaki deney düzeneklerinde hangi temizlik kimyasalı kullanılmış olabilir? Nedenini açıklayınız.",
+    "a": "a) Çamaşır suyu, b) Tuz ruhu, c) Yüzey temizleyici."
+   },
+   {
+    "q": "Kullanılan tuz ruhu (HCl) doğal taşın (CaCO3) kütlesinde yüzde kaç aşınmaya neden olmuştur? Tepkime denklemini yorumlayarak açıklayınız.",
+    "a": "%2 aşınma. Tuz ruhu bazik CaCO3 ile tepkimeye girip CO2 gazı oluşturmuş, doğal taşın kütlesi azalmıştır."
+   },
+   {
+    "q": "Bu araştırmadan çıkardığınız sonuçlara göre doğal taş yüzeylerin temizliği için hangi özellikteki temizlik ürünlerini seçersiniz? Nedenlerini açıklayınız.",
+    "a": "Nötr ürünler seçilmelidir; asidik ve bazik ürünler doğal taşın yapısındaki maddelerle tepkimeye girer."
+>>>>>>> Stashed changes
    }
   ],
   "93": [
    {
+<<<<<<< Updated upstream
     "q": "Temizlik için kullanılan kimyasal ürünlerin doğal taşın yüzey rengine etkisini en yüksekten en düşüğe sıralayınız ve nedenini belirtiniz.",
     "a": "Tuz ruhu > çamaşır suyu > sirke/limon suyu > arap sabunu/su. Asidik ve bazik ürünler CaCO3 ile tepkimeye girip yüzeyi aşındırır; tuz ruhu (HCl) en güçlü aşındırıcıdır, nötr ürünler etki etmez."
    },
@@ -2353,6 +3732,146 @@
     "a": "Simetrik olmayan geometri (NH3 piramit, H2O açısal) ve ortaklanmamış elektron çiftleri nedeniyle dipol momentleri sıfırlanmaz."
    }
   ],
+=======
+    "q": "Temizlik için kullanılan kimyasal ürünlerin doğal taşın yüzey rengine etkisini en yüksekten en düşüğe doğru sıralayınız. Bu maddelerin neden böyle bir etki yapmış olabileceğini belirtiniz.",
+    "a": "Tuz ruhu (HCl) > sirke/limon suyu > çamaşır suyu > arap sabunu/deterjan > saf su. Asidik ürünler CaCO3'ü çözer, yüzeyi matlaştırıp rengini soldurur; etki asitlik arttıkça büyür."
+   },
+   {
+    "q": "Aşağıdaki deney düzeneklerinde temizlik için hangi kimyasal ürün ya da madde kullanılmış olabilir? Cevabınızın nedenini açıklayınız.",
+    "a": "Gaz (CO2) kabarcığı çıkan düzenekte asidik ürün (tuz ruhu/sirke), kabarcık çıkmayanlarda nötr veya bazik ürün (su, sabun, çamaşır suyu) vardır; asitler CaCO3 ile tepkime verip CO2 açığa çıkarır."
+   },
+   {
+    "q": "Kullanılan tuz ruhu (HCl) doğal taşın (CaCO3) kütlesinde yüzde kaç aşınmaya neden olmuştur? Tuz ruhunun neden böyle bir etki yaptığını tepkime denklemini yorumlayarak cevaplayınız.",
+    "a": "Yüzde = (azalan kütle / başlangıç kütlesi) × 100 ile bulunur (sayfada ölçüm verisi yok). Tepkimede CaCO3, HCl ile CaCl2, CO2 ve H2O'ya dönüşür; CO2 gaz olarak uzaklaştığından taş kütlesi azalır, yüzey aşınır."
+   },
+   {
+    "q": "Görsellerdeki doğal taş deney düzeneklerinde (a, b, c) meydana gelen değişimi açıklayınız.",
+    "a": "Sorunun metni sayfada yer almıyor; asitle temas eden taşlarda gaz çıkışı ve aşınma, nötr/bazik ürünle temas edenlerde belirgin değişim gözlenmez."
+   },
+   {
+    "q": "Bu araştırmadan çıkardığınız sonuçlara göre doğal taş yüzeylerin temizliği için hangi özellikteki temizlik ürünlerini seçersiniz? Nedenlerini açıklayınız.",
+    "a": "Nötr ya da çok zayıf bazik (pH ≈ 7) ve aşındırıcı olmayan ürünler seçilir; asidik ürünler CaCO3'ü çözerek doğal taşı aşındırdığı için uygun değildir."
+   },
+   {
+    "q": "Bu deney düzeneğindeki temizlik etkisi olan kimyasal ürünlerin yaklaşık pH değerlerini belirleyiniz ve her birini asidik, bazik veya nötr olarak değerlendiriniz.",
+    "a": "Tuz ruhu ≈ 1 (asidik), sirke ≈ 3 (asidik), saf su = 7 (nötr), arap sabunu ≈ 9–10 (bazik), çamaşır suyu ≈ 12–13 (bazik)."
+   }
+  ],
+  "94": [
+   {
+    "q": "15-21. soruların metni",
+    "a": "Verilen sayfa metninde yalnızca yönerge, tablo ve kaza örnekleri var; 15-21. soruların kendileri yer almıyor. Bu nedenle cevaplanamaz. Lütfen soru metinlerini ekleyin."
+   }
+  ],
+  "95": [
+   {
+    "q": "2000-2004 yılları arasındaki kaza sayısının çok az olma sebebini nasıl açıklayabilirsiniz?",
+    "a": "Bu dönemde laboratuvar/deney uygulamalarına az yer verilmesi, kayıtların düzenli tutulmaması ve deney etkinliklerinin sınırlı yapılması."
+   },
+   {
+    "q": "Sizce ilköğretim ikinci kademedeki öğrencilerin birinci kademelerdeki öğrencilerden daha fazla kaza yapmış olmalarının nedenleri nelerdir?",
+    "a": "Ergenlik döneminde hareketlilik ve dikkatsizliğin artması, deneyim ve güvenlik bilincinin yetersiz olması."
+   },
+   {
+    "q": "Değişen öğretim programlarıyla yıllara göre yaşanan laboratuvar kazaları arasında nasıl bir ilişki bulunmaktadır? Bu ilişkinin sebebi nedir ve bu durum hangi problemleri ortaya koymaktadır?",
+    "a": "Deney/laboratuvar ağırlığı arttıkça kazalar da artar; sebebi uygulamalı etkinliklerin çoğalmasıdır. Güvenlik eğitiminin yetersizliği problemi ortaya çıkar."
+   },
+   {
+    "q": "Lise ve üniversite düzeyinde kazaların daha az olma sebebi ne olabilir? Laboratuvar güvenliği konusu ile ilgili bilgilerinizin yıllara göre değişimini düşünerek cevaplayınız.",
+    "a": "Öğrencilerin daha olgun, bilinçli ve deneyimli olması; güvenlik bilgisinin yıllar içinde artması."
+   },
+   {
+    "q": "Bu laboratuvar kazalarına hangi güvenlik kurallarının ihlal edilmesi neden olabilir?",
+    "a": "Koruyucu gözlük/önlük kullanmama, kimyasalları gelişigüzel kullanma, yiyecek-içecek bulundurma, dikkatsizlik ve yetersiz eğitim."
+   },
+   {
+    "q": "İlköğretimin ikinci kademesinde 2013 ve 2016 yılları arasındaki kaza istatistiklerinin ilköğretimin birinci kademesinden ve liseden farklı olmasının sebebi ne olabilir?",
+    "a": "Bu dönemde müfredatta deney sayısının artması ve ortaokul öğrencilerinin gelişim dönemi özellikleri."
+   },
+   {
+    "q": "Kazaların önlenmesi için çözüm önerileriniz nelerdir?",
+    "a": "Düzenli güvenlik eğitimi vermek, eksik malzemeleri tamamlamak, kuralları uygulamak ve deneyleri öğretmen gözetiminde yapmak."
+   }
+  ],
+  "96": [
+   {
+    "q": "22.a) Sodyumun valans elektronunu üst enerji seviyelerine taşımak için gereken ışınların şekilleri arasında nasıl bir fark vardır? Bu farkın ışınların enerjileri ile ilişkisi nedir?",
+    "a": "Elektron daha üst orbitale çıkarıldıkça ışının frekansı/kıvrım sayısı artar, dalga boyu kısalır; yani gereken enerji artar."
+   },
+   {
+    "q": "22.b) Enerjileri arasındaki farkın sebebini açıklayan bir önerme yazınız.",
+    "a": "Bir atomda temel enerji düzeyi (n) arttıkça aynı tür orbitallerin enerjisi de artar."
+   },
+   {
+    "q": "23. Aynı enerji seviyesindeki farklı orbitallere geçiş için gereken ışın enerjileri arasında nasıl bir fark vardır? Sebebini açıklayan bir önerme yazınız.",
+    "a": "Aynı n düzeyinde orbitaller eşit enerjili değildir; 3s < 3p < 3d olduğundan 3s→3d geçişi 3s→3p geçişinden daha fazla enerji gerektirir."
+   },
+   {
+    "q": "24. Ekran görüntülerindeki verilerden ulaşılabilecek ifadeleri işaretleyiniz.",
+    "a": "1, 3, 6 ve 7. ifadeler işaretlenmelidir."
+   },
+   {
+    "q": "25. Verilen orbitallerin enerjilerini sıralayınız ve nedenini açıklayınız.",
+    "a": "1s < 2s < 3s ve 3s < 3p < 3d; n büyüdükçe enerji artar, aynı n'de s < p < d olur."
+   }
+  ],
+  "97": [
+   {
+    "q": "22.a) Sodyumun valans elektronunu üst enerji seviyesine taşımak için gereken ışınların şekilleri arasında nasıl bir fark vardır? Bu farkın ışınların enerjileri ile nasıl bir ilişkisi bulunmaktadır?",
+    "a": "Işınların kıvrım (dalga tepesi) sayısı farklıdır; elektronun taşındığı enerji seviyesi arttıkça ışının kıvrım sayısı ve dolayısıyla enerjisi artar."
+   },
+   {
+    "q": "22.b) Enerjileri arasındaki farkın sebebini açıklayan bir önerme yazınız.",
+    "a": "Atomda enerji seviyesi (n) arttıkça orbitallerin enerjisi de artar."
+   },
+   {
+    "q": "23) Sodyum atomunda aynı enerji seviyesindeki orbitallerde elektron geçişini sağlayan ışınların enerjileri arasında nasıl bir fark vardır? Bu farkın sebebini açıklayan bir önerme yazınız.",
+    "a": "3s→3d geçişini sağlayan ışının enerjisi 3s→3p geçişininkinden fazladır; çünkü aynı enerji seviyesindeki orbitallerin enerjileri farklıdır (3s < 3p < 3d)."
+   },
+   {
+    "q": "24) Ekran görüntüsündeki orbitallerin enerjilerini sıralayınız ve sıralamalarınızın sebeplerini ikinci ekran görüntüsündeki verileri kullanarak açıklayınız.",
+    "a": "1s < 2s < 3s (n arttıkça enerji artar) ve 3s < 3p < 3d (aynı n'de ℓ arttıkça enerji artar); 3s→4s ve 3s→5s geçişleri için gereken ışın enerjisinin artması bunu doğrular."
+   },
+   {
+    "q": "25) Ekran görüntülerindeki verilerden ulaşabileceğiniz ifadeleri işaretleyiniz.",
+    "a": "İşaretlenenler: (1) 5s orbitalinin enerjisi 4s orbitalininkinden fazladır. (3) Sodyumun valans elektronunu 6s orbitaline geçirmek için gereken enerji 5s orbitaline geçirmek için gerekliden fazladır. (6) 3d orbitallerinin enerjisi 4s orbitalinden fazladır. (7) 3d orbitaline uyarılmış valans elektronu 3s orbitaline geçiş yaptığında yayınlanan ışının rengi sarı ile mor arasındaki renklerden biri olur."
+   }
+  ],
+  "98": [],
+  "99": [],
+  "100": [],
+  "101": [],
+  "102": [],
+  "103": [],
+  "106": [],
+  "107": [],
+  "108": [],
+  "109": [],
+  "110": [],
+  "111": [],
+  "112": [],
+  "113": [],
+  "114": [],
+  "115": [],
+  "116": [],
+  "118": [],
+  "119": [],
+  "121": [],
+  "122": [],
+  "123": [],
+  "124": [],
+  "125": [],
+  "126": [],
+  "127": [],
+  "128": [],
+  "129": [],
+  "131": [],
+  "132": [],
+  "133": [],
+  "134": [],
+  "135": [],
+  "136": [],
+>>>>>>> Stashed changes
   "137": [],
   "138": [],
   "139": [],
