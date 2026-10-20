@@ -1,0 +1,2575 @@
+{
+ "bookId": 484,
+ "done": true,
+ "pages": {
+  "3": [
+   {
+    "q": "Sayfadaki sorular ve etkinlikler nelerdir?",
+    "a": "Sayfada soru veya etkinlik yok; yalnızca İstiklal Marşı metni yer alıyor."
+   }
+  ],
+  "13": [
+   {
+    "q": "İslam filozoflarının düşünsel faaliyetlerine yön veren sebepler neler olabilir? Tartışınız.",
+    "a": "İnsanın varoluşsal merakı ve sorgulama eğilimi, hakikati anlama isteği, dinî metinlerin düşünmeye teşviki, farklı kültürlerden yapılan çeviriler ve din ile felsefeyi uzlaştırma çabası."
+   },
+   {
+    "q": "İslam filozofları hakikate ulaşma konusunda nasıl bir yaklaşım benimsemiş olabilirler? Düşüncelerinizi ifade ediniz.",
+    "a": "Aklı ve vahyi birlikte kullanmış, felsefe ile din arasında temelde uyum olduğunu kabul ederek sistemli, eleştirel ve kanıta dayalı bir sorgulama yolu izlemişlerdir."
+   }
+  ],
+  "14": [
+   {
+    "q": "İslam felsefesi ifadesinden ne anlıyorsunuz? Düşüncelerinizi ifade ediniz.",
+    "a": "İslam medeniyeti içinde doğup gelişen, Kur’an ve sünnetten hareketle oluşturulan aklî ve felsefi düşünce geleneği."
+   },
+   {
+    "q": "Dinî ve kültürel şartlar, insanların düşünme biçimini nasıl etkileyebilir? Örneklerle açıklayınız.",
+    "a": "Sorulan soruları, kavramları ve çözüm yollarını biçimlendirir. Kelam tartışmaları, antik felsefenin çevirisi ve medrese kültürü buna örnektir."
+   },
+   {
+    "q": "İnsanların düşünme ve anlam arayışı çabasının, felsefe ortaya çıkmadan önce de var olması size ne düşündürüyor? Fikirlerinizi ifade ediniz.",
+    "a": "Felsefe, insanın doğal merak ve anlam arayışının sistemli ve eleştirel bir biçimidir; felsefe öncesi düşünce onun zeminini oluşturur."
+   }
+  ],
+  "15": [
+   {
+    "q": "İslam felsefesi, Müslüman filozofların özgün bir düşünce çabasını mı yoksa İslam medeniyet havzasında üretilen tüm entelektüel birikimi mi ifade eder?",
+    "a": "Tartışmalıdır; dar anlamda Müslüman filozofların özgün çabasını, geniş anlamda medeniyet havzasındaki tüm birikimi ifade eder."
+   },
+   {
+    "q": "İslam felsefesi, Antik Yunan felsefesinin Arapçaya tercümesiyle ortaya çıkan bir gelenek midir yoksa insanlık tarihiyle yaşıt evrensel hikmetin devamı mıdır?",
+    "a": "Her ikisidir; tercüme hareketinden beslenmiş, aynı zamanda evrensel hikmetin İslam düşüncesindeki devamı olmuştur."
+   },
+   {
+    "q": "İslam felsefesi, belirli bir döneme ait tarihsel bir olgu mudur yoksa zaman ve mekânı aşan evrensel bir çaba mıdır?",
+    "a": "Tarihsel koşullarda doğmuş olmakla birlikte evrensel sorunlara yönelen bir çabadır."
+   },
+   {
+    "q": "İslam felsefesi, kelam, tasavvuf ve fıkhı içeren kapsayıcı bir sistem mi yoksa sınırları belirli müstakil bir disiplin midir?",
+    "a": "Tartışmalıdır; dar anlamda müstakil bir disiplin, geniş anlamda bu alanlarla ilişkili kapsayıcı bir düşünce alanıdır."
+   },
+   {
+    "q": "a) Bir düşünce geleneğine verilen isim, o geleneğin özgün bir kimlik kazanmasında ve tarihsel bir süreklilik oluşturmasında nasıl bir rol oynar?",
+    "a": "İsim, geleneği tanımlayıp sınırlarını belirleyerek ortak kimlik ve aidiyet oluşturur; kuşaklar arası aktarımı kolaylaştırıp süreklilik sağlar, ancak bazı unsurları dışarıda bırakabilir."
+   }
+  ],
+  "16": [
+   {
+    "q": "b) “İslam felsefesi” kavramını belirli bir tarihsel dönem ve coğrafyayla sınırlamanın doğuracağı muhtemel sonuçlar neler olabilir?",
+    "a": "Gelenek daralır; farklı dönem, coğrafya ve filozoflar dışlanır; dinî ilimlerle etkileşim, önceki felsefi miras ve günümüzdeki devamlılık göz ardı edilir."
+   }
+  ],
+  "17": [
+   {
+    "q": "Bu sayfadaki sorular ve etkinlikler nelerdir?",
+    "a": "Sayfa metninde soru veya etkinlik bulunmamaktadır."
+   }
+  ],
+  "19": [
+   {
+    "q": "Üç grup ve sözcü seçimi nasıl yapılır?",
+    "a": "Öğretmen rehberliğinde üç grup oluşturulur; her grup bir sözcü seçer."
+   },
+   {
+    "q": "Din/inanç merkezli tanımın değerlendirilmesi ve gerekçesi nedir?",
+    "a": "Dardır ve dışlayıcıdır; Müslüman olmayan düşünürlerin katkılarını ve felsefenin eleştirel yönünü yok sayar."
+   },
+   {
+    "q": "Toplum/kültür merkezli tanımın değerlendirilmesi ve gerekçesi nedir?",
+    "a": "Kapsayıcıdır; dil, kültür ve tarihsel bağlamı dikkate alır, ancak dinî boyutu geri planda bırakabilir."
+   },
+   {
+    "q": "Dönem/tarih merkezli tanımın değerlendirilmesi ve gerekçesi nedir?",
+    "a": "Eksiktir; İslam felsefesini 8-12. yüzyılla sınırlar, oysa bu tarihten sonra da sürmüştür."
+   },
+   {
+    "q": "Tanımlarda vurgulanan kavramlar nelerdir?",
+    "a": "Din/inanç, toplum/dil/kültür, dönem/tarih, düşünce ve medeniyet."
+   },
+   {
+    "q": "Hangi tanım felsefeye daha akılcı, hangisi daha eleştirel yaklaşıyor?",
+    "a": "Toplum/kültür merkezli tanım daha akılcı ve kapsayıcı; dönem/tarih merkezli tanım ise daha eleştirel ve sorgulayıcıdır."
+   },
+   {
+    "q": "Bu tanımlar birbirini tamamlıyor mu yoksa birbiriyle çelişiyor mu?",
+    "a": "Kısmen tamamlar; din, kültür ve tarih boyutlarını birlikte sunar, ancak din merkezli tanımın dışlayıcılığı diğerleriyle çelişir."
+   },
+   {
+    "q": "Tartışmadan hareketle İslam felsefesinin ne olduğu hakkındaki çıkarımınız ve gerekçesi nedir?",
+    "a": "İslam medeniyetinde doğan, farklı inanç ve kültürlerin katkılarıyla gelişen, akla ve eleştiriye dayalı, tarihsel sürekliliği olan düşünce faaliyetidir; çünkü tek yönlü tanımlar dar kalır."
+   },
+   {
+    "q": "Çıkarımlar gerekçe, tutarlılık ve açıklık açısından nasıl değerlendirilir?",
+    "a": "Gerekçesi yeterli, kendi içinde tutarlı ve açık olan çıkarım başarılıdır; eksik ve çelişkili yönler düzeltilir."
+   },
+   {
+    "q": "Grup Değerlendirme Formu nasıl doldurulur?",
+    "a": "Karekoddan ulaşılan form; katılım, iş birliği ve grup sonuçları dikkate alınarak doldurulur."
+   }
+  ],
+  "20": [
+   {
+    "q": "Felsefi düşünceyi dinî düşünme biçimlerinden ayıran belirgin özellikler nelerdir?",
+    "a": "Akla, sorgulamaya, eleştirel tutuma ve mantıksal tutarlılığa dayanması; körü körüne taklidi reddetmesi."
+   },
+   {
+    "q": "İslam filozoflarına göre felsefenin amacı nedir?",
+    "a": "Hakikati ve hikmeti bilmek, insanı bilgi ve erdemle kemale ulaştırmaktır."
+   },
+   {
+    "q": "Felsefenin bir “hikmet arayışı” olarak görülmesi İslam düşüncesinde bilginin ahlak ve eylemle olan bağını nasıl açıklar?",
+    "a": "Bilgi, yalnızca kuramsal kalmaz; doğru inanç ve erdemli eyleme dönüşerek insanı olgunlaştırır."
+   },
+   {
+    "q": "İslam filozoflarının felsefeyi tanımlarken kullandıkları “hikmet”, “hakikat” ve “mutluluk” kavramları arasında nasıl bir ilişki vardır?",
+    "a": "Hikmet hakikatin bilgisidir; bu bilgi insanı erdeme ve nihai mutluluğa götürür."
+   },
+   {
+    "q": "İslam filozofları felsefe-din ilişkisini nasıl açıklamışlardır?",
+    "a": "İkisini aynı hakikate götüren yollar olarak görüp uzlaştırmaya çalışmışlardır; akıl, vahyi destekler."
+   },
+   {
+    "q": "İslam filozoflarına göre insanın kemale ulaşması hangi yollarla mümkün olur?",
+    "a": "Bilgi edinme, erdemli davranma, nefsi arındırma ve hakikate yönelmeyle."
+   },
+   {
+    "q": "İslam’da dinî sorumluluğun ön şartının akıl olması, Müslümanların düşünme ve sorgulama becerilerinin gelişmesini hangi yönlerden etkilemiş olabilir?",
+    "a": "Bağımsız düşünme, sorgulama, anlayarak inanma ve taklitten uzaklaşma becerilerini geliştirmiştir."
+   },
+   {
+    "q": "İslam’da düşünmeye verilen önemin İslam felsefesinin gelişimine etkileri hakkında tahminleriniz nelerdir?",
+    "a": "Akli sorgulamayı teşvik ederek felsefi tartışmaların, tercüme faaliyetlerinin ve sistematik düşüncenin gelişmesine katkı sağlamıştır."
+   },
+   {
+    "q": "İslam filozoflarının görüşleri, dinin temel kaynaklarından bağımsız olabilir mi? Niçin?",
+    "a": "Olamaz; akıl yürütmede özerk olsalar da temel inanç ilkeleriyle çelişmemeye özen göstermişlerdir."
+   }
+  ],
+  "21": [
+   {
+    "q": "Enfal suresi 22. ayete göre Allah katında canlıların en aşağı derecede olanları kimlerdir?",
+    "a": "Hakka karşı sağır, dilsiz ve düşünemez olanlar."
+   },
+   {
+    "q": "Kamer suresi 40. ayette ne vurgulanır?",
+    "a": "Kur'an'ın düşünülmesi için kolaylaştırıldığı ve düşünecek insanların olması gerektiği."
+   },
+   {
+    "q": "Bakara suresi 164. ayet hangi delilleri sıralar?",
+    "a": "Göklerin ve yerin yaratılışı, gece-gündüz, gemiler, yağmur, rüzgâr ve bulutlar; bunlar akleden topluluk için delildir."
+   },
+   {
+    "q": "Muaz bin Cebel'in cevabı hangi hüküm kaynaklarını gösterir?",
+    "a": "Önce Kur'an, sonra sünnet, orada bulunmazsa akıl; Hz. Peygamber bu sıralamayı onaylamıştır."
+   },
+   {
+    "q": "Tefekkürle ilgili hadisler ne öğütler?",
+    "a": "Allah'ın yarattıkları üzerinde düşünmeyi ve bir saat tefekkürün kırk gece nafile ibadetten üstün olduğunu."
+   }
+  ],
+  "22": [
+   {
+    "q": "Bir filozofun düşüncelerini şekillendiren kaynaklar nelerdir, dinî metinler bu kaynaklar arasında nasıl rol oynar?",
+    "a": "Filozofun düşüncelerini; yaşadığı dönem ve toplum, önceki filozofların eserleri, bilim ve sanat, kişisel tecrübe ile dinî metinler şekillendirir. Dinî metinler (Kur'an, hadis) ona ilham ve hareket noktası verir; kavram ve problemlerin oluşmasında yönlendirici olur, ama felsefe akıl ve delille yürütülür."
+   },
+   {
+    "q": "Düşünmeyi, tefekkürü ve ilim öğrenmeyi teşvik eden ayet ve hadisişeriflerden bildikleriniz nelerdir?",
+    "a": "\"Düşünmez misiniz?\", \"Akıl erdirmez misiniz?\", \"Göklerin ve yerin yaratılışında... ibretler vardır\" gibi ayetler; \"İlim öğrenmek her Müslümana farzdır\", \"Hikmet Müslümanın yitiğidir, nerede bulursa alır\" gibi hadisler."
+   },
+   {
+    "q": "Öğretmen rehberliğinde bu ayet ve hadisişeriflerin İslam filozoflarının çalışmalarına etkisini arkadaşlarınızla tartışınız.",
+    "a": "Bu ayet ve hadisler filozoflara düşünme, araştırma ve ilim öğrenme konusunda motivasyon vermiş; akıl-vahiy ilişkisi, bilgi edinme yöntemi ve ahlak gibi konuları ele almalarında yol gösterici olmuştur."
+   }
+  ],
+  "23": [
+   {
+    "q": "Beytülhikmenin çok kültürlü çalışma ortamı, günümüzdeki bilimsel iş birlikleri için nasıl bir model olabilir? Düşüncelerinizi ifade ediniz.",
+    "a": "Farklı kültürlerden bilginleri bir araya getiren, çeviri ve ortak araştırmayı destekleyen, bilgi paylaşımına ve kurumsal desteğe dayanan bir iş birliği modeli olabilir."
+   },
+   {
+    "q": "İslam filozoflarının felsefeyle din arasındaki uyumu ortaya koyma çabalarını İslam felsefesinin özgünlüğü bağlamında tartışınız.",
+    "a": "Filozoflar aklı vahiyle uzlaştırmaya çalışmış, Antik mirası İslami ilkelerle yeniden yorumlayarak özgün bir İslam felsefesi geleneği oluşturmuşlardır."
+   }
+  ],
+  "24": [
+   {
+    "q": "İslam felsefesinin gelişimine kaynaklık eden faktörler neler olabilir?",
+    "a": "Halifelerin ilmi desteklemesi, zengin kütüphaneler ve Beytülhikme, Antik Yunan-Hint-Sasani-Süryani eserlerinin tercümesi, özgün bilimsel araştırmalar, ilim insanlarının maddi olarak desteklenmesi ve felsefi-teolojik tartışma ortamı."
+   }
+  ],
+  "25": [
+   {
+    "q": "4. Tablonun 2. satırına hangi faktör, etkisi ve örnek yazılmalıdır?",
+    "a": "Tercüme faaliyetleri – Antik Yunan, Helenistik, Pers ve Hint metinlerinin Arapçaya çevrilmesi felsefi kavramların İslam dünyasına girmesini sağladı; örnek: Beytü'l-Hikme'deki çeviriler ve Kindî'nin bunlardan yararlanması."
+   },
+   {
+    "q": "4. Tablonun 3. satırına hangi faktör, etkisi ve örnek yazılmalıdır?",
+    "a": "Farklı kültür ve medeniyetlerle etkileşim – yeni fikir ve yöntemlerin alınmasıyla sentezci felsefe doğdu; örnek: Fârâbî'nin Yunan, Pers ve Hint birikimini sentezlemesi."
+   },
+   {
+    "q": "5. İslam felsefesinin gelişiminde belirleyici rol oynayan başlık sizce hangisidir?",
+    "a": "Tercüme faaliyetleri; felsefi mirası İslam dünyasına taşıyarak gelişimi başlattı (Kur'an ve sünnet temel zemindir)."
+   },
+   {
+    "q": "5. Tercüme faaliyetlerinin İslam felsefesinin gelişimine katkıları nelerdir?",
+    "a": "Antik felsefe birikimini aktardı, kavram hazinesi oluşturdu ve özgün felsefi sistemlerin doğuşuna zemin hazırladı."
+   },
+   {
+    "q": "5. Farklı kültürlerle etkileşim İslam felsefesi çalışmalarını nasıl etkilemiştir?",
+    "a": "Yeni fikir ve yöntemler kazandırdı; eleştirel tartışma ve sentezci bir felsefe geleneği oluşturdu."
+   },
+   {
+    "q": "6. İslam felsefesinin gelişiminde rol oynayan faktörleri felsefi düşünceye katkıları açısından değerlendiriniz.",
+    "a": "Kur'an ve sünnet zemin, tercümelerle gelen Antik miras ve kültürlerarası etkileşim birleşerek kelam-felsefe tartışmalarını, özgün sistemleri ve Batı'yı etkileyen bir geleneği doğurdu."
+   },
+   {
+    "q": "Değerlendirme: Karekodla hangi işlem yapılmalıdır?",
+    "a": "Grup Değerlendirme Formu doldurulmalıdır."
+   }
+  ],
+  "26": [
+   {
+    "q": "İslam felsefesinin gelişimini etkileyen iki faktörü yazınız.",
+    "a": "İslam'ın akla ve bilgiye verdiği önem; tercüme faaliyetleri ve farklı kültürlerle etkileşim."
+   },
+   {
+    "q": "İslam felsefesinin özgünlüğünü bir örnekle açıklayınız.",
+    "a": "Farabi, Antik Yunan siyaset felsefesini İslam inancıyla harmanlayarak erdemli şehir anlayışını geliştirmiştir."
+   },
+   {
+    "q": "Bu derste öğrendiğiniz en dikkat çekici bilgiyi yazınız.",
+    "a": "Beytülhikme'de tercümenin yanında özgün bilimsel çalışmalar da yapılması."
+   },
+   {
+    "q": "Tercüme faaliyeti denince aklınıza gelen kurumu ve bu kurumun faaliyet alanlarından birini yazınız.",
+    "a": "Beytülhikme; tercüme ve bilimsel araştırma."
+   },
+   {
+    "q": "Beytülhikmede özgün bilimsel çalışmalar yapılmamıştır.",
+    "a": "Yanlış (Y)."
+   },
+   {
+    "q": "İslam'ın temel kaynakları, İslam felsefesinin de kaynaklarındandır.",
+    "a": "Doğru (D)."
+   },
+   {
+    "q": "İslam filozofları, farklı kültürlerden aldıkları bilgi ve görüşleri kendi inanç süzgeçlerinden geçirerek özgünleştirmişlerdir.",
+    "a": "Doğru (D)."
+   },
+   {
+    "q": "Antik Yunan, Hint ve İran düşüncesinin aktarılmasında tercüme faaliyetleri etkili olmuştur.",
+    "a": "Doğru (D)."
+   },
+   {
+    "q": "Farklı kültürlerle karşılaşma İslam felsefe çalışmalarını olumsuz etkilemiştir.",
+    "a": "Yanlış (Y)."
+   },
+   {
+    "q": "Arapçaya çevrilen ilk eserler felsefeyle ilgilidir.",
+    "a": "Yanlış (Y)."
+   },
+   {
+    "q": "İslam'ın temel kaynakları akli düşünceyi teşvik eder.",
+    "a": "Doğru (D)."
+   }
+  ],
+  "27": [
+   {
+    "q": "İlim ve kültür havzası ifadesi sizde hangi çağrışımları uyandırıyor?",
+    "a": "Bilim, düşünce, sanat ve eğitimin yoğunlaştığı; âlimlerin yetiştiği ve kültürel birikimin oluştuğu bölgeleri çağrıştırır."
+   },
+   {
+    "q": "İlim ve kültür havzası olarak nitelendirilen bir bölgede hangi yapılar/kurumlar bulunmalıdır? Düşüncelerinizi ifade ediniz.",
+    "a": "Medreseler, kütüphaneler, camiler, rasathaneler, hastaneler, tekke ve zaviyeler, tercüme merkezleri ile sanat ve ticaret yapıları bulunmalıdır."
+   }
+  ],
+  "28": [
+   {
+    "q": "4. Etkinliğin adı nedir?",
+    "a": "Konuları Belirleyelim"
+   },
+   {
+    "q": "Etkinliğin amacı nedir?",
+    "a": "İslam felsefesinin geliştiği ilim ve kültür havzaları hakkında soru sorabilme"
+   },
+   {
+    "q": "Hicaz nerededir?",
+    "a": "Arabistan Yarımadası’nda Kızıldeniz’in doğu sahili boyunca uzanan Mekke ve Medine’yi içine alan bölgedir"
+   },
+   {
+    "q": "Hicaz’da hangi ilim dalları doğmuştur?",
+    "a": "Hadis, fıkıh ve kelam"
+   },
+   {
+    "q": "Tahtaya yazılan sorulardan üç tanesini not ediniz.",
+    "a": "1) Hicaz’ın İslam düşüncesinin doğuşundaki rolü nedir? 2) Mescid-i Nebevi’deki ders halkalarının İslam ilim geleneğine katkıları nelerdir? 3) Hac ibadeti, farklı coğrafyalardan gelen âlimler arasındaki fikir alışverişini nasıl etkilemiştir?"
+   }
+  ],
+  "34": [
+   {
+    "q": "İlim ve kültür havzalarının öne çıkma nedenleri nelerdir?",
+    "a": "Ticaret yolları, verimli su kaynakları, siyasi istikrar, ilim kurumları, yönetici desteği, çok kültürlü yapı ve bilginlerin bu bölgelere göçü."
+   },
+   {
+    "q": "Çıkarımlardaki ortak ve farklı bakış açıları nasıl değerlendirilir?",
+    "a": "Ortak noktalar belirlenir, farklı görüşler kanıtlarla karşılaştırılır ve önyargısız bir şekilde tartışılır."
+   },
+   {
+    "q": "Seçtiğin havza ve bu seçiminin nedeni nedir?",
+    "a": "Bağdat; Beytülhikme’deki tercüme faaliyetleri, zengin kütüphaneleri ve farklı kültürlerden bilginleri bir araya getiren ortamı nedeniyle."
+   },
+   {
+    "q": "Seçtiğin bölgede yaşadığını farz ederek 4-5 cümlelik bir günlük yaz.",
+    "a": "Sabah erken saatlerde Beytülhikme’ye giderek yeni getirilen Yunanca eserleri inceledim. Öğleden sonra hocamla matematik ve astronomi üzerine tartıştık. Çarşıda farklı ülkelerden gelen tüccarlarla sohbet ederek yeni kitaplar hakkında bilgi aldım. Akşamüstü camide ilim meclisine katıldım. Günün yorgunluğunu ailemle akşam yemeğinde sohbet ederek attım."
+   }
+  ],
+  "35": [
+   {
+    "q": "İslam’ın temel kaynaklarının doğduğu, teşekkül ettiği coğrafya",
+    "a": "Hicaz"
+   },
+   {
+    "q": "Günümüzde Özbekistan, Türkmenistan ve Kazakistan’ın bazı kesimlerini içerisine alan bölge",
+    "a": "Maveraünnehir"
+   },
+   {
+    "q": "İbni Sina’nın yetiştiği bölge",
+    "a": "Maveraünnehir (Buhara)"
+   },
+   {
+    "q": "Tercüme faaliyetlerinin yoğunlaştığı merkez",
+    "a": "Bağdat (Irak)"
+   },
+   {
+    "q": "Mevlana Celaleddin Rumi’nin yerleştiği Konya başta olmak üzere pek çok şehirde medreseler kurulmuştur.",
+    "a": "A - Anadolu"
+   },
+   {
+    "q": "Mekke ve Medine bu havzadadır. Hadis, fıkıh ve tefsir çalışmaları ilk olarak burada başlamıştır.",
+    "a": "C - Hicaz"
+   },
+   {
+    "q": "Kahire, İskenderiye, Fustat gibi önemli ilim merkezlerinin bulunduğu havzadır.",
+    "a": "G - Mısır"
+   },
+   {
+    "q": "Libya, Tunus, Cezayir ve Fas bu bölgededir. Endülüs’ten göç eden âlimler buradaki ilmî ve kültürel hayatı canlandırmıştır.",
+    "a": "E - Mağrip"
+   },
+   {
+    "q": "Beytülhikmenin kurulduğu Bağdat, Abbasiler Dönemi’nde ilmî ve kültürel faaliyetler açısından altın çağını yaşamıştır.",
+    "a": "Ç - Irak"
+   },
+   {
+    "q": "İbni Sina, Farabi, Uluğ Bey, Ahmet Yesevi, Bahaeddin Nakşibend gibi düşünürlerin yetiştiği bölgedir. Tasavvuf geleneğinin yayılmasında etkili olmuştur.",
+    "a": "F - Maveraünnehir"
+   },
+   {
+    "q": "En önemli şehri Şam’dır. Bölgede kurulan medreselerde Osmanlı Dönemi’nde de ilmî ve kültürel faaliyetler devam etmiştir.",
+    "a": "Ğ - Suriye"
+   },
+   {
+    "q": "Tasavvufi düşüncenin gelişmesinde etkili olmuştur. Dinî ilimlerle birlikte felsefe, tıp, matematik, edebiyat gibi alanlarda çalışmalar yapılmıştır.",
+    "a": "D - İran, Güney Azerbaycan, Horasan"
+   }
+  ],
+  "36": [
+   {
+    "q": "İslam felsefesinin farklı disiplinlerle etkileşim içinde olmasının insanların günlük yaşamına yansımaları neler olabilir?",
+    "a": "Akıl ile inancın dengelenmesi, dini konuların akılcı yorumlanması, tıp ve matematik gibi bilimlerin gelişmesiyle sağlık ve günlük hayatta pratik çözümler üretilmesi."
+   },
+   {
+    "q": "Disiplinler arası yaklaşım, filozofa hangi imkânları sunar? Düşüncelerinizi ifade ediniz.",
+    "a": "Bilimleri bir bütün olarak görme, farklı alanlardan beslenerek daha kapsamlı ve özgün düşünme, hakikati çok yönlü kavrama ve evrensel tartışmalara katkı sunma imkânı verir."
+   }
+  ],
+  "37": [
+   {
+    "q": "1. İslam felsefesinin ilişkide olduğu disiplinler neler olabilir? Tahminlerinizi ve gerekçelerinizi maddeler hâlinde yazınız.",
+    "a": "Kelam (inanç konularını akılla savunur); fıkıh (hukuk ve ahlak hükümleri verir); tefsir ve hadis (vahiy ve sünneti yorumlar); tasavvuf (manevi tecrübe ve ahlakı ele alır); mantık (doğru düşünmeyi sağlar); metafizik (varlık ve hakikati inceler); ahlak ve siyaset felsefesi (değer ve toplum sorunlarını tartışır); matematik, tıp ve astronomi (bilimsel bilgiyle ilişki kurar)."
+   },
+   {
+    "q": "2. Kendi belirlediğiniz disiplinleri arkadaşınızın belirledikleriyle karşılaştırarak benzer ve farklı olanları tespit ediniz.",
+    "a": "Benzer olanlar: kelam, fıkıh, mantık ve ahlak. Farklı olanlar: tasavvuf, tefsir, hadis veya metafizik gibi disiplinlerden biri listeye eklenebilir."
+   },
+   {
+    "q": "3. Verilen cevaplardan hareketle İslam felsefesinin ilişkili olduğu temel İslam bilimlerini öğretmen rehberliğinde belirleyiniz.",
+    "a": "Kelam, fıkıh, tefsir, hadis ve tasavvuf."
+   },
+   {
+    "q": "6. Etkinlik – Tahminde Bulunalım: İslam felsefesinin ilişkili olduğu disiplinler nasıl belirlenir?",
+    "a": "Tahminler paylaşılır, benzer ve farklı yönler karşılaştırılır; sonuçta kelam, fıkıh, tefsir, hadis ve tasavvuf temel İslam bilimleri olarak belirlenir."
+   }
+  ],
+  "39": [
+   {
+    "q": "Tabloyu inceleyiniz; disiplinlerin kaynak ve amaçları nelerdir?",
+    "a": "Felsefe akıl-mantık ve vahiy ile varlığın hakikatini; fıkıh şeri delil-kıyas ile yarar-zararı; kelam vahiy-akıl-duyu ile inanç esaslarını savunmayı; tasavvuf vahiy-akıl-duyu-keşif-ilham ile güzel ahlakı amaçlar."
+   },
+   {
+    "q": "Eşit gruplar oluşturup her gruba bir sözcü seçiniz.",
+    "a": "Sınıf eşit üyeli gruplara ayrılır ve her grup kendi sözcüsünü belirler."
+   },
+   {
+    "q": "İslam felsefesi, fıkıh, kelam ve tasavvufun hareket noktalarını tartışınız.",
+    "a": "Ortak nokta vahiy ve akıldır; farklılık yöntem, kapsam ve amaçtadır."
+   },
+   {
+    "q": "Tartışmada fıkıh, kelam ve tasavvufun yaklaşımlarından yararlanınız.",
+    "a": "Fıkıh pratik hüküm, kelam inancı savunma, tasavvuf manevi tecrübe ve ahlak yaklaşımı sunar."
+   },
+   {
+    "q": "İslam felsefesi, fıkıh, kelam ve tasavvufun hareket noktasıyla ilgili çıkarımlarınızı not ediniz.",
+    "a": "Hepsi vahyi esas alır; felsefe akılla varlığı, fıkıh kıyasla hükmü, kelam delille itikadı, tasavvuf keşifle maneviyatı açıklar."
+   },
+   {
+    "q": "Grup sözcüleri aracılığıyla çıkarımlarınızı sınıfla paylaşınız.",
+    "a": "Her grup sözcüsü, grubun ortak çıkarımlarını sınıfa sunar."
+   },
+   {
+    "q": "İslam felsefesiyle diğer disiplinler arasındaki ilişkileri belirleyiniz.",
+    "a": "İslam felsefesi diğer disiplinlerle akıl-vahiy dengesinde ilişkilidir; fıkıh ve kelama mantık, tasavvufa kavramsal dil kazandırır."
+   },
+   {
+    "q": "Değerlendirme sonucu çıkarımlarınızı özetleyiniz.",
+    "a": "Disiplinler aynı kaynaktan beslenir; yöntem ve amaçları farklı olup birbirini tamamlar."
+   },
+   {
+    "q": "Değerlendirme: Karekodu kullanarak Grup Değerlendirme Formu'nu doldurunuz.",
+    "a": "Karekod okutulur ve grup değerlendirme formu doldurulur."
+   }
+  ],
+  "40": [
+   {
+    "q": "2. Üye sayısı eşit gruplar oluşturunuz ve her grup için bir sözcü seçiniz.",
+    "a": "Eşit gruplar oluşturuldu ve her grup kendi sözcüsünü seçti."
+   },
+   {
+    "q": "3. İslam filozoflarının başarılı olduğu iki alanı örneklerle açıklayınız.",
+    "a": "Ahlak-siyaset felsefesinde Farabi’nin el-Medinetü’l-Fazıla’sı; tıpta İbn Sina’nın el-Kanun fi’t-Tıb’ı örnek verilebilir."
+   },
+   {
+    "q": "4. İslam filozoflarının bilim tarihine katkıları konusunda düşüncelerinizi ifade ediniz.",
+    "a": "Matematik, astronomi ve tıp gibi alanlarda özgün çalışmalar yapmış, önceki birikimi koruyup geliştirerek bilim tarihine katkı sağlamışlardır."
+   },
+   {
+    "q": "5. Grupça İslam felsefesinin ilişkili olduğu disiplinlerden (fıkıh, kelam, tasavvuf) birini seçiniz.",
+    "a": "Kelam seçildi."
+   },
+   {
+    "q": "6. İslam felsefesinin yöntemi ile seçtiğiniz disiplinin kesişim noktalarının ve yöntem farklılıklarının neler olabileceğini tartışınız.",
+    "a": "İkisi de akıl ve mantığı kullanır, Tanrı-evren-insan konularını ele alır; felsefe akıl-vahiy uyumu ve burhanla, kelam ise inanç esaslarını savunma amacıyla vahiy ve nakil merkezli cedelle hareket eder."
+   },
+   {
+    "q": "8. Etkinlik – Farklılıkları Tespit Edelim: Felsefe, kelam ve tasavvuf arasındaki temel farklar nelerdir?",
+    "a": "Felsefe akli/hikemî bir bilimler sistemi; kelam dinî bakışla inanç esaslarını akla uygun açıklayan ve eleştirilere cevap veren gelenek; tasavvuf ise kalbin arınması ve manevi deneyimle ilahi bilgiye ulaşmayı amaçlayan ahlaki-manevi yoldur."
+   }
+  ],
+  "41": [
+   {
+    "q": "Kelam disiplininin yöntemi ve İslam felsefesinden ayrılan yönü nedir?",
+    "a": "Yöntemi akıl ve nakildir; inanç esaslarını vahiy temelinde savunur, felsefe gibi bağımsız akıl yürütmeyi esas almaz."
+   },
+   {
+    "q": "Fıkıh disiplininin yöntemi ve İslam felsefesinden ayrılan yönü nedir?",
+    "a": "Yöntemi içtihat ve kıyastır; pratik dinî hükümlerle ilgilenir, varlığın mahiyetini felsefi bütünlükle sorgulamaz."
+   },
+   {
+    "q": "Tasavvuf disiplininin yöntemi ve İslam felsefesinden ayrılan yönü nedir?",
+    "a": "Yöntemi keşf, ilham ve sezgidir; bilgiye manevi tecrübeyle ulaşmayı esas alır, rasyonel akıl yürütmeyi merkeze almaz."
+   },
+   {
+    "q": "Mantık disiplininin yöntemi ve İslam felsefesinden ayrılan yönü nedir?",
+    "a": "Yöntemi kıyas ve tümdengelimdir; felsefenin aracıdır, kendine ait bağımsız bir varlık alanı yoktur."
+   },
+   {
+    "q": "Dil ve edebiyat disiplininin yöntemi ve İslam felsefesinden ayrılan yönü nedir?",
+    "a": "Yöntemi dilbilgisi, belagat ve metin çözümlemedir; dili ve metni anlamaya odaklanır, varlık sorunlarını bütüncül sorgulamaz."
+   },
+   {
+    "q": "Matematik disiplininin yöntemi ve İslam felsefesinden ayrılan yönü nedir?",
+    "a": "Yöntemi soyutlama, ispat ve hesaplamadır; niceliksel ilişkileri inceler, metafiziksel nedenleri araştırmaz."
+   },
+   {
+    "q": "Astronomi disiplininin yöntemi ve İslam felsefesinden ayrılan yönü nedir?",
+    "a": "Yöntemi gözlem ve hesaplamadır; gök cisimlerinin hareketlerini inceler, varlığın anlamı sorununu ele almaz."
+   },
+   {
+    "q": "Tıp disiplininin yöntemi ve İslam felsefesinden ayrılan yönü nedir?",
+    "a": "Yöntemi gözlem, deney ve klinik tecrübedir; insan bedeni ve sağlığıyla ilgilenir, metafizik soruları konu edinmez."
+   },
+   {
+    "q": "Siyaset disiplininin yöntemi ve İslam felsefesinden ayrılan yönü nedir?",
+    "a": "Yöntemi akıl, gözlem ve tecrübedir; toplum yönetimini inceler, evrensel varlık sorunlarıyla uğraşmaz."
+   },
+   {
+    "q": "Performans görevinin amacı nedir?",
+    "a": "İbni Sina ve Farabi’nin ilimleri tasnif etme çalışmalarının nedenlerini çözümleyip sunum hazırlamak."
+   },
+   {
+    "q": "İslam felsefesinin ilişkili olduğu disiplinler konusunda öğrendiğim üç bilgi nedir?",
+    "a": "1) İslam felsefesi birçok disiplinle ilişkilidir. 2) Disiplinlerin yöntemleri farklıdır. 3) Felsefe varlığı bütüncül ve akılcı sorgular."
+   },
+   {
+    "q": "İslam felsefesinin ilişkili olduğu disiplinler konusunda ilgimi çeken iki konu nedir?",
+    "a": "1) Farabi’nin ilimler tasnifi. 2) İbni Sina’nın tıp ve felsefeyi birleştirmesi."
+   },
+   {
+    "q": "İslam felsefesinin ilişkili olduğu disiplinler konusunda sormak istediğim bir soru nedir?",
+    "a": "İslam filozofları ilimleri tasnif ederken hangi ölçütleri kullanmıştır?"
+   },
+   {
+    "q": "Değerlendirme aşamasında ne yapılır?",
+    "a": "Karekoddan ulaşılan Grup Değerlendirme Formu doldurulur."
+   }
+  ],
+  "42": [
+   {
+    "q": "İbni Sina ve Farabi’nin ilimleri tasnif çalışmalarını araştırmak için hangi güvenilir kaynakları belirlemelisiniz?",
+    "a": "TDV İslam Ansiklopedisi, islamansiklopedisi.org.tr, islamdusunceatlasi.org, tez.yok.gov.tr, edu.tr siteleri ve öğretmenin önerdiği basılı eserler."
+   },
+   {
+    "q": "Belirlenen kaynaklardan konu hakkında nasıl bilgi toplamalısınız?",
+    "a": "Kaynakları karşılaştırarak not almalı, bilgileri doğrulamalı ve kaynak künyelerini kaydetmeliyim."
+   },
+   {
+    "q": "Edindiğiniz bilgilerle sunumu hangi ölçütlere uygun hazırlamalısınız?",
+    "a": "Kapsam, dil ve anlatım, içeriğin doğruluğu, özgünlük, kaynak çeşitliliği, görsel ve yazılı materyal kullanımı ölçütlerine uygun hazırlamalıyım."
+   },
+   {
+    "q": "Sunumunuzun süresi ne kadar olmalıdır?",
+    "a": "En fazla beş dakika."
+   },
+   {
+    "q": "Sunumunuzda nelere yer vermelisiniz?",
+    "a": "Yararlandığım kaynaklara yer vermeliyim."
+   },
+   {
+    "q": "Hazırladığınız çalışmayı ne yapmalısınız?",
+    "a": "Sınıf arkadaşlarımla paylaşmalıyım."
+   },
+   {
+    "q": "Değerlendirme aşamasında ne yapmalısınız?",
+    "a": "Karekoddaki Dereceli Puanlama Anahtarı’nı inceleyip Öz Değerlendirme Formu’nu doldurmalıyım."
+   },
+   {
+    "q": "Değerlendirme ölçütleri nelerdir?",
+    "a": "Kapsam, dil ve anlatım, içeriğin doğruluğu, özgünlük, kaynakların çeşitliliği, görsel ve yazılı materyal kullanımı."
+   }
+  ],
+  "43": [
+   {
+    "q": "1. Aşağıdaki diyagramı doldurunuz.",
+    "a": "Tanımı: İslam dünyasında varlık, bilgi, ahlak ve siyaset gibi konuları akıl ve nakil temelinde inceleyen felsefi düşünce. Kaynakları: Antik Yunan-Helenistik felsefe, İslam kaynakları (Kur’an, hadis), çeviri eserler ve yerel kültürler. Yöntemi: Akıl yürütme, mantık, burhan, eleştirel sorgulama ve yorum. Temel İslam bilimlerinden farklılıkları: Felsefe genel ve kuşatıcı sorular sorar; dini hüküm koymaz, akılcı-eleştirel ve sistemli düşünür. Temel İslam bilimleri ise daha çok nakil, rivayet, icma ve fıkhi yöntemlere dayanır."
+   },
+   {
+    "q": "2. Coğrafyaya ve döneme göre yapılan İslam felsefesi tanımlarının sınırlılıkları nelerdir?",
+    "a": "Tanımlar tüm dönemleri ve coğrafyaları kapsamaz; felsefedeki değişimi, ekolleri ve etkileşimleri göz ardı eder; İslam felsefesini tek bölge veya döneme indirger; anakronik ve seçici olabilir."
+   },
+   {
+    "q": "3. Beytülhikmede yürütülen faaliyetlerin İslam felsefesinin gelişimine katkıları nelerdir?",
+    "a": "Antik ve Doğu eserlerinin Arapçaya çevrilmesi, felsefi terimlerin oluşması, felsefe ile dinin uzlaştırılması, âlimlerin yetişmesi ve Bağdat’ın ilim merkezi hâline gelmesi İslam felsefesinin sistemli gelişimini sağladı."
+   },
+   {
+    "q": "4. Bir bölgenin ilim ve kültür merkezi hâline gelmesinde etkili faktörler nelerdir?",
+    "a": "Siyasi istikrar ve yöneticilerin desteği, ekonomik refah, güven ve hoşgörü, medrese-kütüphane-rasathane gibi kurumlar, çeviri faaliyetleri, ticaret yolları ve âlimlerin bir araya gelmesi."
+   },
+   {
+    "q": "5. İslam felsefesinin yöntemi ile temel İslam bilimlerinin yöntemleri arasındaki benzerlik ve farklılıkları belirtiniz.",
+    "a": "Benzerlik: Her ikisi de akıl, mantık, dil ve delil kullanır; doğruyu bulmayı amaçlar. Farklılık: İslam felsefesi eleştirel, spekülatif ve burhana dayalı genel sorgulamalar yapar; temel İslam bilimleri ise daha çok vahiy, nakil, rivayet, icma ve fıkhi kıyas temellidir."
+   }
+  ],
+  "44": [
+   {
+    "q": "İslam filozofları felsefe ile din arasında uzlaşı aramaz.",
+    "a": "Y"
+   },
+   {
+    "q": "Felsefi düşünce kesin ve değişmez doğrulara dayanır.",
+    "a": "Y"
+   },
+   {
+    "q": "İslam filozofları felsefeyi “hikmet arayışı” olarak tanımlar.",
+    "a": "D"
+   },
+   {
+    "q": "İslam filozofları bilgiyi bağımsız parçalar hâlinde ele almıştır.",
+    "a": "Y"
+   },
+   {
+    "q": "İslam felsefesiyle fıkıh, kelam ve tasavvufun yöntemi aynıdır.",
+    "a": "Y"
+   },
+   {
+    "q": "Kur’an’daki tefekkür kavramı, eleştirel düşünmeyi teşvik eder.",
+    "a": "D"
+   },
+   {
+    "q": "İslam filozofları fikirlerini temellendirirken aklı temel almışlardır.",
+    "a": "D"
+   },
+   {
+    "q": "İslam felsefesinin gelişiminde farklı medeniyet ve kültürlerin etkisi yoktur.",
+    "a": "Y"
+   },
+   {
+    "q": "İslam filozofları farklı disiplinlerle ilgilenmiş ve bu alanlarda eserler vermiştir.",
+    "a": "D"
+   },
+   {
+    "q": "Hicaz bölgesi temel İslam bilimlerinin gelişmesinde önemli bir merkez olmuştur.",
+    "a": "D"
+   },
+   {
+    "q": "Kur’an-ı Kerim ve .................................. İslam düşüncesinin temel kaynaklarıdır.",
+    "a": "sünnet"
+   },
+   {
+    "q": "İslam filozofları hakikati anlamak için .................................. gerektiğini savunmuşlardır.",
+    "a": "düşünmek"
+   },
+   {
+    "q": "Beytülhikme, İslam dünyasında .................................. faaliyetlerinin merkezi olmuştur.",
+    "a": "tercüme"
+   },
+   {
+    "q": "İslam filozofları akıl ile .................................. arasında uyum olduğunu savunur.",
+    "a": "vahiy"
+   },
+   {
+    "q": "Horasan bölgesi .................................. geleneğinin gelişmesinde etkili olmuştur.",
+    "a": "tasavvuf"
+   },
+   {
+    "q": "Abbasiler Dönemi’nde kurulan bilim ve çeviri merkezi",
+    "a": "B – Beytülhikme"
+   },
+   {
+    "q": "Türkistan’da ilim ve kültür merkezi olan bölge",
+    "a": "E – Maveraünnehir"
+   },
+   {
+    "q": "Mısır’dan Atlantik Okyanusu’na kadar uzanan Kuzey Afrika bölgesi ve Güney Sahra",
+    "a": "D – Mağrip"
+   },
+   {
+    "q": "İnsanın varlıkların hakikatini gücü oranında bilip ona göre hareket etmesi",
+    "a": "Ç – Hikmet"
+   },
+   {
+    "q": "Varlık, bilgi ve değer üzerine sistemli düşünme",
+    "a": "C – Felsefe"
+   }
+  ],
+  "45": [
+   {
+    "q": "26. Kindi’nin felsefe tanımlarına göre öğrencilerden hangilerinin söyledikleri doğrudur?",
+    "a": "A"
+   },
+   {
+    "q": "27. “Felsefe ve din aynı hakikati farklı yollarla açıklar.” yargısından hareketle hangi öğrencilerin çıkarımları doğrudur?",
+    "a": "C"
+   },
+   {
+    "q": "28. Metne göre verilen çıkarımlardan hangilerine ulaşılabilir?",
+    "a": "E"
+   }
+  ],
+  "49": [
+   {
+    "q": "İnsanın evrendeki konumu ve sorumluluğu arasında nasıl bir ilişki olabilir?",
+    "a": "İnsan akıl ve iradeyle seçim yapar; bu özgürlük sorumluluk doğurur. Sorumluluk bilinciyle hareket etmesi evrendeki konumunu anlamlandırıp pekiştirir."
+   },
+   {
+    "q": "Başkalarının ihtiyaçlarına karşı duyarlı olmak birey ve toplum hayatını nasıl etkiler? Kendi hayatınızdan bir örnek vererek düşüncelerinizi açıklayınız.",
+    "a": "Bireyde huzur ve ahlaki olgunluk, toplumda saygı, dayanışma ve düzen sağlar. Örneğin toplu taşımada yaşlıya yer vermek hem bireye iyi hissettirir hem toplumsal nezaketi güçlendirir."
+   }
+  ],
+  "50": [
+   {
+    "q": "Varlık konusu hakkında neler biliyorsunuz?",
+    "a": "Varlık, var olan her şeyi kapsar; felsefede ontoloji (varlık bilimi) olarak incelenir."
+   },
+   {
+    "q": "Varlık konusuyla ilgili merak ettikleriniz nelerdir?",
+    "a": "Varlığın özü, varlık türleri, evrenin nasıl var olduğu ve insanın evrendeki yeri merak edilebilir."
+   },
+   {
+    "q": "1. Etkinlik (Yorumlayalım) – Var olmak ne demektir?",
+    "a": "Var olmak, bir şeyin gerçeklikte mevcut bulunması ve yokluğun karşıtı olmasıdır."
+   }
+  ],
+  "51": [
+   {
+    "q": "Varlık nedir?",
+    "a": "Var olanların bütünüdür; İslam felsefesinde zorunlu ve mümkün varlık ayrımıyla ele alınır."
+   },
+   {
+    "q": "Gerçekten var olan nedir?",
+    "a": "Zorunlu Varlık olan Tanrı’dır; diğer varlıklar O’nun sayesinde mümkün olarak vardır."
+   },
+   {
+    "q": "Hangi varlıklar geçici, hangileri kalıcıdır?",
+    "a": "Mümkün/maddi varlıklar geçici; zorunlu varlık olan Tanrı ve manevi hakikatler kalıcıdır."
+   },
+   {
+    "q": "İslam filozofları varlık konusunu neden en temel mesele olarak görmüş olabilir?",
+    "a": "Çünkü Tanrı, âlem, insan ve bilgiyle ilgili bütün meseleler varlık anlayışına dayanır."
+   },
+   {
+    "q": "Varlığın konusu, önemi ve kapsamıyla ilgili çıkarımlarınız nelerdir?",
+    "a": "Varlık, İslam felsefesinin merkezî konusudur; maddi-manevi ve zorunlu-mümkün boyutlarıyla ele alınır, din ile felsefenin uzlaştırılmasında temel rol oynar."
+   }
+  ],
+  "52": [
+   {
+    "q": "İslam filozofları neden varlıklar arasında bir hiyerarşi kurma ihtiyacı hissetmişlerdir?",
+    "a": "Varlıkları İlk İlke’den uzaklık ve yetkinlik derecelerine göre sıralayarak Tanrı-âlem ilişkisini ve fiziksel âlemin manevi kaynaktan oluşumunu açıklamak için."
+   },
+   {
+    "q": "İslam filozofları varlığı hangi açılardan ele almıştır?",
+    "a": "Özü, maddi-manevi yapısı, zorunlu-mümkün ayrımı ve hiyerarşik varlık mertebeleri açısından."
+   },
+   {
+    "q": "Varlık konusu hangi alanlarla ilişkilidir?",
+    "a": "Metafizik, kelam, din, fizik, ahlak ve epistemolojiyle."
+   },
+   {
+    "q": "İslam filozoflarının ele aldığı varlık konusu hangi sorunları kapsar?",
+    "a": "Varlığın mahiyeti, varlık mertebeleri, zorunlu-mümkün varlık, Tanrı-evren ilişkisi, yaratılış, birlik-çokluk ve ruh-beden sorunlarını."
+   },
+   {
+    "q": "2. Varlık konusunu kendi ifadelerinizle bir cümleyle tanımlayınız.",
+    "a": "Varlık konusu, var olanın özünü, kaynağını, çeşitlerini ve hiyerarşik derecelerini inceleyen felsefi konudur."
+   },
+   {
+    "q": "Değerlendirme: Öz Değerlendirme Formu’nu doldurunuz.",
+    "a": "Karekodu kullanarak Öz Değerlendirme Formu’nu doldurdum."
+   },
+   {
+    "q": "a) İslam filozofları neden “Varlık nedir?” sorusu üzerine düşünme ihtiyacı duymuş olabilir?",
+    "a": "Var olanın özünü ve kaynağını açıklama, inanç esaslarını akılla temellendirme ve anlam arayışına cevap verme ihtiyacından."
+   },
+   {
+    "q": "b) Farklı kültürlerden gelen mirasın, bu soruya yönelik düşünme ihtiyacının oluşmasına etkileri neler olabilir?",
+    "a": "Antik Yunan, Pers, Hint ve İslam düşünce mirasları varlıkla ilgili soruları çeşitlendirip tartışmayı derinleştirmiştir."
+   },
+   {
+    "q": "c) Allah’ın (cc) varlığı, yaratılış, ahiret inancı gibi akideler, varlık konusu tartışmalarını nasıl etkilemiştir?",
+    "a": "Allah’ın zorunlu varlık, âlemin mümkün varlık olarak ele alınmasına; yaratılış ve ahiretin felsefi tartışmalara konu olmasına yol açmıştır."
+   },
+   {
+    "q": "ç) Filozofların varlık konusuna odaklanmalarında toplumsal ve kültürel ihtiyaçların etkileri nelerdir?",
+    "a": "Toplumun anlam, düzen ve inanç ihtiyaçları filozofları varlığın temelini ve insanın evrendeki yerini açıklamaya yöneltmiştir."
+   }
+  ],
+  "53": [
+   {
+    "q": "4. Tartışmalardan ve edindiğiniz bilgilerden hareketle varlık konusunun ortaya çıkış sebeplerini noktalı alana yazınız.",
+    "a": "İnsanın evreni, kendini ve varlığın kaynağını anlama merakı; varlıktaki değişim ve çokluğu açıklama isteği; Tanrı-evren ilişkisini akılla temellendirme ve ilk neden arayışı."
+   },
+   {
+    "q": "Değerlendirme: Yandaki karekodu kullanarak Grup Değerlendirme Formu’nu doldurunuz.",
+    "a": "Karekod okutularak Grup Değerlendirme Formu doldurulur."
+   }
+  ],
+  "55": [
+   {
+    "q": "1. İslam felsefesine göre varlığın temel özelliklerini maddeler hâlinde listeleyiniz.",
+    "a": "Varlık manevi bir gerçekliktir; hiyerarşik yapıya sahiptir; maddi dünya en alt basamaktır; akıl, nefis ve Tanrı üst mertebelerdir; anlam, düzen ve amaç taşır; zorunlu-mümkün ve ay üstü-ay altı olarak ayrılır."
+   },
+   {
+    "q": "2. Listelediğiniz özellikleri öğretmen rehberliğinde arkadaşlarınızla paylaşınız.",
+    "a": "Listeyi öğretmen rehberliğinde arkadaşlarımla paylaştım."
+   },
+   {
+    "q": "Değerlendirme: Yandaki karekodu kullanarak Öz Değerlendirme Formu’nu doldurunuz.",
+    "a": "Formu doldurdum."
+   },
+   {
+    "q": "4. Etkinlik “Listeleyelim”in amacı nedir?",
+    "a": "Varlık konusunun temel özelliklerini belirleyebilme."
+   },
+   {
+    "q": "Kontrol Noktası: Varlık hiyerarşik bir yapıya sahiptir.",
+    "a": "Doğrudur; varlıklar kaynaktan uzaklıklarına göre yetkinlik derecelerine ayrılır."
+   },
+   {
+    "q": "A) 1. Zorunlu varlık ve mümkün varlık ne anlama gelir?",
+    "a": "Zorunlu varlık, varlığı kendinden olup yokluğu imkânsız olandır (Tanrı); mümkün varlık, varlığı başkasına bağlı olan ve varlığı da yokluğu da mümkün olandır."
+   },
+   {
+    "q": "A) 2. Ay altı âlemin temel özelliği nedir?",
+    "a": "Oluş ve bozuluşun gerçekleştiği, sürekli değişen maddi âlemdir."
+   },
+   {
+    "q": "A) 3. Esîr hangi konuyla ilgili bir kavramdır?",
+    "a": "Ay üstü âlem ve gök cisimleriyle ilgilidir; bozulmayan beşinci unsurdur."
+   },
+   {
+    "q": "A) 4. Anasırıerbaa ne anlama gelir?",
+    "a": "Dört unsur: toprak, su, hava ve ateş."
+   },
+   {
+    "q": "A) 5. Vahdetivücut anlayışına göre varlıkların kaynağı nedir?",
+    "a": "Tanrı’dır; gerçek varlık yalnızca O’dur, diğer varlıklar O’nun tecellileridir."
+   },
+   {
+    "q": "B) “Zorunlu varlık” hangi filozofla ilgilidir?",
+    "a": "İbni Sina"
+   },
+   {
+    "q": "B) “Mümkün varlık” hangi filozofla ilgilidir?",
+    "a": "İbni Sina"
+   },
+   {
+    "q": "B) “İlk muharrik” hangi filozofla ilgilidir?",
+    "a": "Farabi"
+   },
+   {
+    "q": "B) “Vesileci tecelli” hangi filozofla ilgilidir?",
+    "a": "Muhyiddin İbnülarabi"
+   },
+   {
+    "q": "B) “Keşif” hangi filozofla ilgilidir?",
+    "a": "Muhyiddin İbnülarabi"
+   },
+   {
+    "q": "B) “Vahdetivücut” hangi filozofla ilgilidir?",
+    "a": "Muhyiddin İbnülarabi"
+   },
+   {
+    "q": "B) “Kevn” hangi filozofla ilgilidir?",
+    "a": "Farabi"
+   },
+   {
+    "q": "B) “Sâni” hangi filozofla ilgilidir?",
+    "a": "İbni Sina"
+   }
+  ],
+  "56": [
+   {
+    "q": "Bilgi konusu hakkında neler biliyorsunuz? Arkadaşlarınızla paylaşınız.",
+    "a": "Bilgi, öznenin nesneyle amaçlı ilişkisinin ürünüdür; kaynağı, sınırları ve doğruluğu epistemolojide incelenir. Aristoteles bilgiyi duyudan akla, Descartes metodik şüpheyle kesin temellere dayandırır."
+   },
+   {
+    "q": "Bilgi konusuyla ilgili merak ettiklerinizi aşağıdaki noktalı alana yazınız.",
+    "a": "Doğru bilginin ölçütü nedir? Bilginin kaynağı ve sınırları nelerdir? Burhan neden kesin bilgi sağlar?"
+   }
+  ],
+  "57": [
+   {
+    "q": "1. a) Bilmek ne demektir?",
+    "a": "Bir şeyin varlığını, nedenlerini ve özelliklerini akıl yoluyla kavrayıp doğruluğunu temellendirmektir."
+   },
+   {
+    "q": "1. b) Bilgi ile iman arasında nasıl bir ilişki kurulabilir?",
+    "a": "Bilgi imanı akli olarak temellendirip derinleştirir; iman da bilgiye anlam ve yön verir; ancak ikisi farklı alanlardır."
+   },
+   {
+    "q": "1. c) Bilgi konusu İslam felsefesinde nasıl ele alınıyor olabilir?",
+    "a": "Varlığın hakikatini akılla kavrama süreci olarak; varlık, ahlak ve inançla bütüncül biçimde ele alınır."
+   },
+   {
+    "q": "1. ç) İslam filozofları bu konuyu hangi kavramlar ekseninde tartışmış olabilir?",
+    "a": "Varlık, hakikat, akıl, idrak, soyutlama, varlık hiyerarşisi, hikmet, iman ve ahlak kavramları ekseninde."
+   },
+   {
+    "q": "2. Bilginin konusu, önemi ve kapsamına ilişkin çıkarımlarınızı yazınız.",
+    "a": "Bilgi, varlığın hakikatini akılla kavramadır; duyudan akla soyutlama süreciyle oluşur, varlık hiyerarşisine göre düzenlenir ve ahlakla hikmeti de kapsar."
+   },
+   {
+    "q": "Değerlendirme: Öz Değerlendirme Formu’nu doldurunuz.",
+    "a": "Karekod kullanılarak form doldurulur."
+   },
+   {
+    "q": "5. Etkinlik – Yorumlayalım: İslam felsefesinde bilginin nasıl ele alındığını yorumlayınız.",
+    "a": "İslam filozofları bilgiyi varlığın hakikatini akılla kavrama, soyutlama ve varlık hiyerarşisine göre açıklama süreci olarak ele almış; onu ahlak, inanç ve hikmetle bütüncül biçimde ilişkilendirmiştir."
+   }
+  ],
+  "58": [
+   {
+    "q": "İslam filozofları neden “Bilgi nedir?” sorusu üzerine düşünme ihtiyacı duymuş olabilir?",
+    "a": "Varlığın ve hakikatin anlaşılması, insanın bilme imkânının açıklanması ve inanç ile aklın ilişkisinin temellendirilmesi için."
+   },
+   {
+    "q": "Farklı kültürlerden gelen mirasın, bu soruya yönelik düşünme ihtiyacının oluşmasına etkileri neler olabilir?",
+    "a": "Farklı düşünce geleneklerinden gelen kavram, yöntem ve tartışmalar bilgi sorununun zenginleşmesine ve yeniden yorumlanmasına katkı sağlar."
+   },
+   {
+    "q": "İslam filozofları bilgiyi hangi açılardan ele almıştır?",
+    "a": "Kaynağı, imkânı, sınırları, doğruluğu, değeri, kesinliği, elde edilme yolları ve ilahi bilgi ile insan bilgisinin mahiyeti açısından."
+   },
+   {
+    "q": "Bilgi konusu hangi alanlarla ilişkilidir?",
+    "a": "Kelam, felsefe, tasavvuf, mantık, epistemoloji, ahlak ve din ile."
+   },
+   {
+    "q": "İslam filozoflarının ele aldığı bilgi konusu hangi sorunları kapsar?",
+    "a": "Bilginin kaynağı, imkânı, sınırı, doğruluk ölçütü, kesinliği, değeri, duyu-akıl-sezgi ilişkisi ve ilahi bilgi ile insan bilgisinin mahiyeti."
+   },
+   {
+    "q": "Bilgi konusunu bir cümleyle tanımlayınız.",
+    "a": "Bilgi konusu, bilginin kaynağını, imkânını, sınırlarını, doğruluğunu ve değerini inceleyen disiplindir."
+   },
+   {
+    "q": "İslam felsefesi açısından bilgi konusunu tanımlayınız.",
+    "a": "Bilginin kaynağını, imkânını, sınırlarını, doğruluğunu ve değerini; ilahi ve insan bilgisinin mahiyeti, kesinlik ölçütü ve bilgiye ulaşma yolları bakımından inceleyen konudur."
+   }
+  ],
+  "59": [
+   {
+    "q": "Allah’ın (cc) varlığı, yaratılış ve ahiret inancı gibi dinî akideler bilgi konusu tartışmalarını nasıl etkilemiştir?",
+    "a": "Bu akideler, bilginin kaynağı ve sınırları, akıl-vahiy ilişkisi ve kesin bilginin imkânı üzerine tartışmaları başlatmış; bilgiyi Allah’ı ve yaratılışı doğru tanımaya, ahirete hazırlanmaya hizmet eden bir araç hâline getirmiştir."
+   },
+   {
+    "q": "Filozofların bilgi konusuna odaklanmalarında toplumsal ve kültürel ihtiyaçların etkileri nelerdir?",
+    "a": "İslam’ın yayılması, fetihler, tercüme hareketi, farklı kültürlerle karşılaşma, dinî tartışmaları çözme ihtiyacı, bilimlerin gelişmesi ve eğitim-tartışma ortamı filozofları bilgi konusuna yöneltmiştir."
+   },
+   {
+    "q": "Tartışmalardan ve edinilen bilgilerden hareketle bilgi konusunun ortaya çıkış sebepleri nelerdir?",
+    "a": "Vahyin doğru anlaşılması, itikadî meselelerin çözümü, aklın ve bilginin sınırlarının belirlenmesi, yabancı felsefelerin etkisi, bilimlerin gelişmesi ve doğru bilgiye ulaşma arayışıdır."
+   },
+   {
+    "q": "Allah (cc) için “Âlim” ismi kullanılırken “arif” sıfatının kullanılmamasının sebepleri neler olabilir?",
+    "a": "“Âlim” Allah’ın her şeyi kuşatan, sınırsız ve ezelî bilgisini ifade eder; “arif” ise çaba, arınma ve sezgiyle sonradan kazanılan beşerî bilgiyi anlatır. Allah’a “arif” denmesi, O’nun bilgisinde eksiklik, değişme ve çaba gerektiği izlenimi doğuracağı için uygun görülmez."
+   }
+  ],
+  "60": [
+   {
+    "q": "2. Tartışmalardan ve edindiğiniz bilgilerden hareketle çıkarımlarınızı öğretmen rehberliğinde aşağıdaki noktalı alana yazınız.",
+    "a": "İlim akıl, araştırma ve duyuyla elde edilen bilgi; marifet ise manevi arınma ve ilhamla kazanılan derin kavrayıştır. Âlim öğrenerek bilir, ârif yaşayarak kavrar. Bilginin kaynakları vahiy, akıl ve duyudur; duyusal veriler akılla soyutlanıp tümel bilgiye dönüşür, akıl ve duyunun ulaşamadığı metafizik hakikatlerde vahiy güvenilir bilgi sağlar."
+   },
+   {
+    "q": "Değerlendirme: Yandaki karekodu kullanarak Öz Değerlendirme Formu’nu doldurunuz.",
+    "a": "Karekod okutularak form, etkinlikteki öğrenme düzeyine göre doldurulur."
+   }
+  ],
+  "61": [
+   {
+    "q": "Sayfadaki sorular ve etkinlikler nelerdir?",
+    "a": "Sayfa metninde soru veya etkinlik bulunmuyor; yalnızca bilgi metni ve “Bilginin Kaynakları” görseli yer alıyor."
+   }
+  ],
+  "62": [
+   {
+    "q": "9. Etkinlik 1 – İslam felsefesine göre bilginin temel özelliklerini maddeler hâlinde listeleyiniz.",
+    "a": "Duyu ve akılla elde edilir; faal akılla bağ kurunca açıklık ve kesinlik kazanır; bilinenden bilinmeyene ilerleyen amaçlı bir süreçtir; zihnin nesneye uygun kavrayışıdır; mantıkla yöntem kazanır; parçalı bilgiden tümel ve bütüncül kavrayışa yükselir; teorik amacı hakikat, pratik amacı iyiliktir."
+   },
+   {
+    "q": "9. Etkinlik 2 – Listelediğiniz özellikleri öğretmen rehberliğinde arkadaşlarınızla paylaşınız.",
+    "a": "Özellikler, duyu–akıl–vahiy iş birliği ve bilginin kesinleşme süreci üzerinden sınıfla paylaşılır."
+   },
+   {
+    "q": "Değerlendirme – Öz Değerlendirme Formu’nu doldurunuz.",
+    "a": "Form, bilginin özelliklerini listeleme ve paylaşma düzeyine göre doldurulur."
+   },
+   {
+    "q": "Âlim ve arif kavramlarını bilgi edinme yolları açısından karşılaştırarak örneklerle açıklayınız.",
+    "a": "Âlim duyu, akıl ve delille bilgi edinir; arif keşf, ilham ve manevi tecrübeyle doğrudan marifete ulaşır. Âlimin bilgisi kuramsal ve delile dayalı, arifinki içsel ve yaşanmıştır; fıkıh âlimi hükmü delille bilir, sûfi hakikati müşahedeyle tanır."
+   },
+   {
+    "q": "İslam filozoflarına göre bilginin kaynaklarını ve bu kaynaklar arasındaki ilişkiyi açıklayınız.",
+    "a": "Kaynaklar duyu, akıl ve vahiydir. Duyu ham veri sağlar, akıl bu veriyi düzenleyip soyutlar, vahiy ise kesin ve en yüksek hakikatleri bildirir; akıl vahyin anlaşılmasına, vahiy de aklın doğru yönlendirilmesine katkı sağlar."
+   },
+   {
+    "q": "İslam felsefesinde bilgi konusu hangi temel kavramlar çerçevesinde tartışılmıştır?",
+    "a": "Bilgi, hakikat, mahiyet, akıl, duyu, vahiy, faal akıl, ilim–marifet ve yakîn kavramları çerçevesinde tartışılmıştır."
+   },
+   {
+    "q": "“Bilmek, bir şeyin hakikatini kavramaktır.” ifadesini yorumlayınız.",
+    "a": "Bilmek, yüzeysel malumat değil, bir şeyin özünü ve gerçekliğini kavramaktır; bilgi, nesnesine uygun ve onun hakikatine erişen bir kavrayış olmalıdır."
+   },
+   {
+    "q": "İslam felsefesinde bilgi ve hakikat arasındaki ilişkiyi kısaca açıklayınız.",
+    "a": "Bilgi hakikate ulaşma çabasıdır; hakikat bilginin ölçütü ve amacıdır. Duyusal bilgiden akıl ve vahiy yardımıyla kesin hakikate yükselinir."
+   }
+  ],
+  "63": [
+   {
+    "q": "Farabi ve İbni Sina'nın bilgi görüşlerini araştırmak için hangi güvenilir kaynaklar belirlenmelidir?",
+    "a": "TDV İslâm Ansiklopedisi, islamansiklopedisi.org.tr, islamdusunceatlasi.org, YÖK Ulusal Tez Merkezi, edu.tr ve gov.tr siteleri ile öğretmenin önerdiği basılı eserler."
+   },
+   {
+    "q": "Bu kaynaklardan bilgi konusunda hangi bilgiler toplanmalıdır?",
+    "a": "Farabi'de duyu, hayal ve akıl bilgisi, faal akıl, nazarî-amelî akıl ve burhanla kesin bilgi; İbni Sina'da nefsin akıl güçleri, faal akılla ittisal, sezgi ve müstefâd akıl."
+   },
+   {
+    "q": "Dijital medya ürünü hangi ölçütlere uygun hazırlanmalıdır?",
+    "a": "Kapsam, dil ve anlatım, içeriğin doğruluğu, özgünlük, kaynak çeşitliliği, işitsel ve yazılı materyal kullanımı."
+   },
+   {
+    "q": "Ürünün süresi ne olmalıdır?",
+    "a": "En fazla beş dakika."
+   },
+   {
+    "q": "Üründe neye yer verilmelidir?",
+    "a": "Yararlanılan kaynaklara yer verilmelidir."
+   },
+   {
+    "q": "Medya ürünü nasıl sunulmalıdır?",
+    "a": "Belirlenen tarihte öğretmen rehberliğinde sınıfta sunulmalıdır."
+   },
+   {
+    "q": "Karekodla verilen belgeler için ne yapılmalıdır?",
+    "a": "Dereceli Puanlama Anahtarı incelenmeli, Öz Değerlendirme Formu doldurulmalıdır."
+   }
+  ],
+  "64": [
+   {
+    "q": "1. Ahlak hakkında neler biliyorsunuz? Arkadaşlarınızla paylaşınız.",
+    "a": "Ahlak, doğru ve yanlış davranışları belirleyen değerler ve kurallar bütünüdür; niyet, karakter ve erdemi kapsar."
+   },
+   {
+    "q": "2. Ahlak konusuyla ilgili merak ettiklerinizi yazınız.",
+    "a": "Ahlakın kaynağı nedir, evrensel midir, imanla ilişkisi nasıldır, İslam filozofları ahlakı nasıl temellendirir?"
+   },
+   {
+    "q": "10. Etkinlik – a) Ahlak ne demektir?",
+    "a": "Ahlak, toplumda uyulması gereken davranış biçimleri ve kurallardır; felsefede etik olarak incelenir."
+   },
+   {
+    "q": "10. Etkinlik – b) Ahlak ile iman arasında nasıl bir ilişki kurulabilir?",
+    "a": "İman ahlaki değerlerin kaynağı ve motivasyonudur; ahlak da imanın davranışlara yansımasıdır."
+   },
+   {
+    "q": "10. Etkinlik – c) Ahlak, İslam felsefesinde nasıl ele alınıyor olabilir?",
+    "a": "İnsanın akıl, irade ve vahiy rehberliğinde erdemli yaşaması ve mutluluğa ulaşması olarak ele alınır."
+   }
+  ],
+  "65": [
+   {
+    "q": "İslam filozofları ahlakı hangi kavramlar ekseninde düşünmüş olabilir?",
+    "a": "Özgür irade, ilahi adalet, iyi ve kötünün mahiyeti, Allah’ın halifesi olma sorumluluğu; erdem, mutluluk, nefis, siyaset ve yetkinleşme kavramları ekseninde."
+   },
+   {
+    "q": "Ahlakın konusu, önemi ve kapsamı hakkındaki çıkarımlarınız nelerdir?",
+    "a": "Konusu doğru eylem, karar ve iyi-kötü ayrımıdır; önemi bireysel mutluluk, erdemli davranış ve sorumluluktur; kapsamı karakter, aile, toplum, devlet ve dünya-ahiret mutluluğudur."
+   },
+   {
+    "q": "Öz Değerlendirme Formu’nu nasıl doldurursunuz?",
+    "a": "Yandaki karekodu kullanarak doldururum."
+   },
+   {
+    "q": "İslam felsefesi açısından ahlakı tanımlayınız.",
+    "a": "Ahlak, doğru eylem ve kararların rasyonel temelini açıklayan, bunların övgü veya yergiye değer oluşunu temellendiren prensipler bütünüdür; İslam felsefesinde akılla iyi-kötü ayrımı, özgür tercih, erdem, sorumluluk ve mutluluğu kapsar."
+   }
+  ],
+  "66": [
+   {
+    "q": "Anahtar kelimeler nelerdir?",
+    "a": "Ahlak, Kur’an, sünnet, akıl, fıtrat, eğitim, Farabi, İbni Miskeveyh."
+   },
+   {
+    "q": "Notlar bölümüne hangi bilgiler yazılır?",
+    "a": "Ahlakın kaynakları Kur’an, sünnet, akıl, fıtrat ve eğitimdir; Farabi akıl ve dinî-siyasi otoriteyi, İbni Miskeveyh fıtrat, eğitim ve aklı esas alır."
+   },
+   {
+    "q": "Özet bölümüne ne yazılır?",
+    "a": "İslam ahlakının temeli Kur’an ve sünnettir; filozoflar akıl, fıtrat ve eğitimi de ahlakın kaynaklarına ekler."
+   },
+   {
+    "q": "İslam filozofları ahlakı hangi açılardan ele almıştır?",
+    "a": "Ahlakın kaynakları açısından; akıl, fıtrat, eğitim ve dinî-siyasi otoriteyi ele almışlardır."
+   },
+   {
+    "q": "Ahlak konusu hangi alanlarla ilişkilidir?",
+    "a": "Din, siyaset, eğitim ve insan doğasıyla."
+   },
+   {
+    "q": "İslam filozoflarının ele aldığı ahlak konusu hangi sorunları kapsar?",
+    "a": "Ahlaki ilkelerin kaynağı, iyi-kötü, erdem, mutluluk ve ahlaki eğitim."
+   },
+   {
+    "q": "Ahlak konusunu noktalı alana bir cümleyle tanımlayınız. Tanımınızı arkadaşlarınızla paylaşınız.",
+    "a": "Ahlak, insanın iyi ve doğru davranışları benimseyip kötü davranışlardan kaçınmasını sağlayan ilkeler bütünüdür."
+   },
+   {
+    "q": "Aşağıda verilen tabloya ahlak konusu hakkında kısa notlar yazınız.",
+    "a": "Kaynaklar: Kur’an, sünnet, akıl, fıtrat, eğitim. Farabi: akıl ve dinî-siyasi otorite. İbni Miskeveyh: fıtrat, eğitim, akıl."
+   },
+   {
+    "q": "Değerlendirme: Yandaki karekodu kullanarak Öz Değerlendirme Formu’nu doldurunuz.",
+    "a": "Karekodu kullanarak formu doldurunuz."
+   }
+  ],
+  "67": [
+   {
+    "q": "İslam filozofları neden “Ahlak nedir?” sorusu üzerine düşünme ihtiyacı duymuş olabilir?",
+    "a": "Ahlakı tanımlamak, iyi ve kötünün ölçütlerini belirlemek ve topluma ahlaki rehberlik sunmak için."
+   },
+   {
+    "q": "Farklı kültürlerden gelen mirasın, bu soruya yönelik düşünme ihtiyacının oluşmasına etkileri neler olabilir?",
+    "a": "Yunan, Pers, Hint ve İslam düşünce mirası yeni kavramlar ve karşılaştırma imkânı sağlayarak ahlak üzerine düşünmeyi zenginleştirmiştir."
+   },
+   {
+    "q": "Ahlakın kaynakları nelerdir?",
+    "a": "Kur’an-ı Kerim, sünnet, akıl, fıtrat ve eğitim."
+   },
+   {
+    "q": "Dinî kaynaklar (Kur’an-ı Kerim ve sünnet) ahlak konusu tartışmalarını nasıl etkilemiştir?",
+    "a": "Ahlaki ilkeler ve kavramlar sunmuş, tartışmalara dinî ve ahlaki bir çerçeve kazandırmıştır."
+   },
+   {
+    "q": "Filozofların ahlak konusuna odaklanmalarında toplumsal ve kültürel ihtiyaçların etkileri nelerdir?",
+    "a": "Toplumsal düzen, adalet, birlikte yaşama ve ahlak eğitimi ihtiyaçları filozofları ahlak üzerine düşünmeye yöneltmiştir."
+   },
+   {
+    "q": "Ahlak konusunun ortaya çıkış sebeplerini yazınız.",
+    "a": "İyi ve kötüyü tanımlama, ahlakın kaynağını temellendirme, dinî ve kültürel mirası yorumlama, toplumsal düzen ve eğitim ihtiyaçlarını karşılama."
+   }
+  ],
+  "68": [
+   {
+    "q": "Sayfada soru veya etkinlik var mı?",
+    "a": "Hayır, verilen sayfa metninde soru ya da etkinlik bulunmamaktadır."
+   }
+  ],
+  "69": [
+   {
+    "q": "Sayfada soru veya etkinlik var mı?",
+    "a": "Metinde soru ya da etkinlik bulunmuyor."
+   }
+  ],
+  "70": [
+   {
+    "q": "İslam filozoflarının ahlak anlayışlarını insanın iç düzen ve uyumu açısından değerlendiriniz.",
+    "a": "Ahlakı, ruhun akıl, öfke ve arzu güçlerinin dengelenip aşırılıklardan kaçınılmasıyla oluşan bir iç düzen ve uyum olarak görürler; bu denge erdemli karakteri ve mutluluğu doğurur."
+   }
+  ],
+  "71": [
+   {
+    "q": "İslam felsefesine göre ahlakın temel özelliklerini maddeler hâlinde listeleyiniz.",
+    "a": "İnsanı iyiliğe ve ölçülülüğe yönlendirir; erdemlere uygun davranmayı sağlar; erdem, ahlakın övdüğü iyi niteliklerin genel adıdır; adalet, cesaret, cömertlik, doğruluk, hikmet, iffet, merhamet, sabır ve tevazu öne çıkan erdemlerdir; ahlaki davranışlar bilinçli tercih sonucu ortaya çıkar."
+   },
+   {
+    "q": "Listelediğiniz özellikleri öğretmen rehberliğinde arkadaşlarınızla paylaşınız.",
+    "a": "Belirlenen özellikler öğretmen rehberliğinde arkadaşlarla paylaşılır."
+   },
+   {
+    "q": "Yandaki karekodu kullanarak Öz Değerlendirme Formu’nu doldurunuz.",
+    "a": "Karekoddaki Öz Değerlendirme Formu doldurulur."
+   }
+  ],
+  "72": [
+   {
+    "q": "Hangileri ahlakın kaynaklarındandır?",
+    "a": "C (Akıl), Ç (Eğitim), D (Fıtrat), Ğ (Kur’an-ı Kerim), I (Sünnet)"
+   },
+   {
+    "q": "Hangileri ahlak konusundaki erdemlerdendir?",
+    "a": "A (Adalet), G (İffet), H (Sabır)"
+   },
+   {
+    "q": "Hangileri ünvanı Hüccetülislam olan filozofla ilgilidir?",
+    "a": "E (Gazali), İ (Zeynüddin)"
+   },
+   {
+    "q": "Hangileri Kınalızade Ali Efendi ile ilgilidir?",
+    "a": "B (Ahlâk-ı Alâî), F (Hınnavizade)"
+   }
+  ],
+  "73": [
+   {
+    "q": "Gazali’ye göre ahlakın kaynağı Kur’an-ı Kerim ve sünnettir.",
+    "a": "D"
+   },
+   {
+    "q": "Varlık, bilgi ve ahlak; İslam felsefesinin ana konularındandır.",
+    "a": "D"
+   },
+   {
+    "q": "Arif, bilgiyi akıl yoluyla elde eden kişidir.",
+    "a": "Y"
+   },
+   {
+    "q": "Farabi, ahlakın amacını ödev ve sorumluluk olarak görmüştür.",
+    "a": "Y"
+   },
+   {
+    "q": "Marifet kavramı daha çok tasavvuf geleneğinde kullanılmıştır.",
+    "a": "D"
+   },
+   {
+    "q": "Anasırıerbaa, evrenin dört temel unsurunu ifade eder.",
+    "a": "D"
+   },
+   {
+    "q": "İslam filozofları varlığı duyularla algılanan maddi dünyadan ibaret kabul etmiştir.",
+    "a": "Y"
+   },
+   {
+    "q": "Hikmet, cesaret ve iffetin dengesi ....................................... erdemini oluşturur.",
+    "a": "Adalet"
+   },
+   {
+    "q": "Bilginin dış dünyaya uygunluğu, ....................................... kavramıyla açıklanır.",
+    "a": "Hakikat"
+   },
+   {
+    "q": "Sezgi ve manevi deneyime dayalı bilgi ....................................... anlamına gelir.",
+    "a": "Marifet"
+   },
+   {
+    "q": "Nefsi ıslah etme yolunda gösterilen gayret ....................................... olarak ifade edilir.",
+    "a": "Nefis terbiyesi"
+   },
+   {
+    "q": "Toprak, su, hava ve ateş unsurları ....................................... olarak ifade edilir.",
+    "a": "Anasırıerbaa"
+   },
+   {
+    "q": "Allah’ın (cc) evreni benzersiz şekilde yaratması ....................................... kavramıyla ifade edilir.",
+    "a": "Sâni"
+   }
+  ],
+  "74": [
+   {
+    "q": "8. Evreni hareket ettiren ve kendisi hareket etmeyen ilk neden",
+    "a": "C) İlk muharrik"
+   },
+   {
+    "q": "9. Varlığı kendinden olan ve yokluğu düşünülemeyen varlık",
+    "a": "E) Vacibülvücut"
+   },
+   {
+    "q": "10. Varlığı her şeyi kuşatan, tek bir hakikat olarak ele alan sistematik düşünce geleneği",
+    "a": "F) Vahdetivücut"
+   },
+   {
+    "q": "11. Bilgiyi manevi arınma ve sezgi yoluyla edinen kişi",
+    "a": "B) Arif"
+   },
+   {
+    "q": "12. Şefkat gösterme, acıma, yumuşak huylu olma",
+    "a": "D) Merhamet"
+   },
+   {
+    "q": "13. İslam filozoflarının varlık konusunu felsefenin temel meselesi olarak görmelerinin nedenlerini açıklayınız.",
+    "a": "Varlık, tüm felsefi alanların temelidir; Tanrı-evren ilişkisini ve dinî hakikatleri akılla temellendirmek için önce varlığın incelenmesi gerekir."
+   },
+   {
+    "q": "14. Farabi’nin “ilk muharrik” anlayışından hareketle varlık görüşünü açıklayınız.",
+    "a": "Farabi’ye göre Tanrı, hareket etmeyen ilk muharriktir; varlıklar O’ndan sudur ederek dereceli bir bütün oluşturur."
+   },
+   {
+    "q": "15. İslam felsefesinde bilgi ile hakikat arasındaki ilişkiyi açıklayınız.",
+    "a": "Bilgi, hakikate ulaşmanın aracıdır; akıl, sezgi ve vahiy yoluyla elde edilen doğru bilgi, varlığın gerçek yapısını yansıtır."
+   },
+   {
+    "q": "16. Ahlak ile özgür irade arasındaki ilişkiyi örnek vererek açıklayınız.",
+    "a": "Ahlaki sorumluluk, insanın özgürce seçim yapabilmesine dayanır; örneğin yalan söyleyip söylememe konusunda seçim yapan kişi sorumlu olur."
+   },
+   {
+    "q": "17. İslam ahlak felsefesinde “ölçülülük” kavramının önemini açıklayınız.",
+    "a": "Ölçülülük, aşırılıklardan kaçınıp orta yolu izlemeyi sağlar; erdemlerin dengeli biçimde gerçekleşmesine ve mutluluğa katkıda bulunur."
+   },
+   {
+    "q": "18. İbni Sina’nın varlık anlayışında “zorunlu varlık” ile “mümkün varlık” arasındaki farkı örnek vererek açıklayınız.",
+    "a": "Zorunlu varlığın varlığı kendindendir ve yokluğu düşünülemez; mümkün varlık ise başkasına bağlıdır ve yokluğu mümkündür. Tanrı zorunlu, insan ve evren mümkün varlıktır."
+   }
+  ],
+  "75": [
+   {
+    "q": "19. Âlim ve arif kavramlarını bilgi edinme yolları bakımından karşılaştırınız.",
+    "a": "Âlim bilgiyi akıl, duyu, öğrenme ve kanıtla; arif ise sezgi, keşf, manevi arınma ve iç tecrübeyle edinir."
+   },
+   {
+    "q": "20. İslam filozoflarının ahlakla ilgilenmesinin nedenleri nelerdir? Örneklerle açıklayınız.",
+    "a": "Dini ahlakı akılla temellendirmek, insanın mutluluğunu ve yetkinleşmesini sağlamak, toplum düzenini kurmak ve felsefeyle dini uzlaştırmak için ilgilenmişlerdir; örn. Farabi mutluluk, İbn Miskeveyh erdem, Gazali tasavvufi ahlak üzerinde durmuştur."
+   },
+   {
+    "q": "21. Tablodaki bilgilerin doğru olması için hangi filozofların isimlerinin yerleri değiştirilmelidir?",
+    "a": "B) İbni Sina - Gazali"
+   },
+   {
+    "q": "22. “Üzüntüleri kontrol altına almak ve metanetli olmak erdemli insanın özelliğidir.” görüşünü savunan filozof hangisidir?",
+    "a": "A) Kindi"
+   }
+  ],
+  "76": [
+   {
+    "q": "İnsanın evrendeki konumu ve ahlaki sorumluluğuyla ilgili hangi yargıya ulaşılabilir?",
+    "a": "D) Evrendeki ayrıcalıklı konumu ve dönüştürücü gücü, insanı tüm varlığa karşı ahlaken sorumlu tutar."
+   },
+   {
+    "q": "Kerem’in tutumu ve açıklaması, ahlaki davranış ile günlük hayat ilişkisinde neyi doğrudan örneklendirir?",
+    "a": "B) Kişinin evrendeki konumunun farkında olmasının, günlük hayatta ona pratik sorumluluklar yüklediğini"
+   },
+   {
+    "q": "İnsanın evrendeki “emanet” bilincine ve ahlaki konumuna uygun olmayan günlük yaşam pratiği hangisidir?",
+    "a": "E) Bir yöneticinin sorumluluğu altında çalışan insanların sağlık ve güvenliğini göz ardı ederek karar alması"
+   }
+  ],
+  "77": [],
+  "79": [
+   {
+    "q": "İslam felsefesindeki temel ekoller hakkında neler biliyorsunuz?",
+    "a": "Meşşailik (Aristotelesçi), İşrakilik, kelam ekolleri (Mu'tezile, Eş'arilik, Mâtürîdîlik), tasavvufî/vahdet-i vücut düşüncesi ve İsmailiyye gibi akımlar başlıca ekollerdir."
+   },
+   {
+    "q": "İslam felsefesindeki temel ekollerle söz konusu çeşitlilik arasında nasıl bir bağlantı kurulabilir?",
+    "a": "Farklı coğrafya ve kültürlerin etkisiyle oluşan düşünsel çeşitlilik, ekollerin doğmasını ve bir arada yaşamasını sağlamış; ekoller de bu çoğulculuğu sürdürmüştür."
+   }
+  ],
+  "80": [
+   {
+    "q": "Felsefi ekollerin ortaya çıkmasına zemin hazırlayan faktörler neler olabilir?",
+    "a": "Fetihlerle coğrafi genişleme, farklı millet ve kültürlerle temas, felsefi eserlerin tercümesi, yoğun felsefi tartışmalar ve yeni fikirlerin ortaya çıkması."
+   },
+   {
+    "q": "Meşşai felsefenin gelişimine katkı sağlayan filozoflar hakkında neler biliyorsunuz? Düşüncelerinizi ifade ediniz.",
+    "a": "Kindi ekolü başlatmış, Farabi sistemli yapıya kavuşturmuş, İbni Sina geliştirmiş, Endülüs'te İbni Bacce ve İbni Rüşd temsil etmiştir; Aristoteles'i izleyip Platon ve Yeni Platonculuk'tan etkilenmişlerdir."
+   }
+  ],
+  "81": [
+   {
+    "q": "Meşşai felsefeyle ilgili hangi konular merak edilebilir?",
+    "a": "Varlığın oluşumu, sudur teorisi, akıl-vahiy ilişkisi, ruhun ölümsüzlüğü, mutluluk ahlakı ve nübüvvet."
+   },
+   {
+    "q": "Meşşai felsefeyle ilgili bir soru örneği yazınız.",
+    "a": "Meşşai filozoflar evrenin oluşumunu nasıl açıklar?"
+   },
+   {
+    "q": "Hazırlanan soru kâğıtları ne yapılır?",
+    "a": "Öğretmenin hazırladığı soru kutusuna veya poşetine atılır."
+   },
+   {
+    "q": "Kutudan seçilen sorular nasıl cevaplanır?",
+    "a": "Öğretmen rehberliğinde, akıl ve Aristoteles mantığı temelinde cevaplanır."
+   },
+   {
+    "q": "Arkadaşların görüşleri dinlenirken ne yapılır?",
+    "a": "Görüşler dinlenir ve varsa yorumlar paylaşılır."
+   },
+   {
+    "q": "Etkinliğin değerlendirmesi nasıl yapılır?",
+    "a": "Karekoddaki Öz Değerlendirme Formu doldurularak."
+   },
+   {
+    "q": "Meşşai filozofların temel özellikleri nelerdir?",
+    "a": "Aristoteles mantığını kullanmaları, akla öncelik vermeleri, sudur teorisiyle varlığı açıklamaları, sonlu ve dolu evren anlayışları, ruhun özerk cevher olduğu görüşü, mutluluk temelli ahlak anlayışları ve nübüvveti felsefi olarak temellendirmeleri."
+   }
+  ],
+  "86": [
+   {
+    "q": "Sayfadaki sorular ve etkinlikler nelerdir?",
+    "a": "Metinde açıkça belirtilmiş soru veya etkinlik yoktur; sayfa yalnızca Farabi’nin faal akıl görüşünü ve İbni Sina’nın uçan adam delilini açıklar."
+   }
+  ],
+  "87": [
+   {
+    "q": "1. Sınıfça üç gruba ayrılınız.",
+    "a": "Sınıf üç gruba ayrıldı."
+   },
+   {
+    "q": "2. Grupça meşşai felsefeyle ilgili merak ettiğiniz konulardan birini seçiniz.",
+    "a": "İbn Sina’nın ruh anlayışı ve uçan adam delili seçildi."
+   },
+   {
+    "q": "3. Seçtiğiniz konuyu öğretmen rehberliğinde inceleyiniz.",
+    "a": "Ruhun mahiyeti, bedenle ilişkisi ve uçan adam delili incelendi."
+   },
+   {
+    "q": "4. İncelediğiniz konuyu grup içinde arkadaşlarınızla tartışınız.",
+    "a": "Ruhun bedenden ayrı ve ölümsüz olup olmadığı tartışıldı."
+   },
+   {
+    "q": "5. Seçtiğiniz konunun temasını belirleyiniz.",
+    "a": "Tema: Ruhun mahiyeti, bedenden bağımsızlığı ve ölümsüzlüğü."
+   },
+   {
+    "q": "5. Ulaştığınız sonuçları gerekçeleriyle yazınız.",
+    "a": "Sonuç: Ruh, bedenle birlikte olsa da mahiyetçe ondan ayrı, yalın ve ölümsüzdür. Gerekçe: Ruh eylemlerin ilkesidir; uçan adam delili, ruhun bedensiz de kendini bilebildiğini gösterir."
+   },
+   {
+    "q": "6. Arkadaşlarınızın çıkarımlarını nezaket ve saygıyla değerlendiriniz.",
+    "a": "Çıkarımlar nezaket ve saygıyla, gerekçeleriyle birlikte değerlendirildi."
+   },
+   {
+    "q": "Grup Değerlendirme Formu nasıl doldurulur?",
+    "a": "Yandaki karekod kullanılarak doldurulur."
+   }
+  ],
+  "88": [
+   {
+    "q": "Gazali, Tehâfütü’l-Felâsife’yi hangi yılda kaleme almıştır?",
+    "a": "1095 yılında."
+   },
+   {
+    "q": "Tehâfütü’l-Felâsife hangi bölümlerden oluşur?",
+    "a": "Bir giriş, dört mukaddime, “İlâhiyat” ve “Tabîiyyât” adlı iki ana bölüm ile kısa bir hatimeden."
+   },
+   {
+    "q": "Gazali’nin felsefeye yaklaşımı nasıldır?",
+    "a": "Felsefeyi akli ilimler arasında kabul etmiş; dinle uyumlu ve çelişen yönleri bulunduğunu belirtmiştir."
+   },
+   {
+    "q": "Gazali’nin eleştirel tutumu en belirgin biçimde hangi eserinde görülür?",
+    "a": "Tehâfütü’l-Felâsife’de."
+   },
+   {
+    "q": "Eserin adının “Tehâfütü’l-Felâsife” olması neyi gösterir?",
+    "a": "Gazali’nin doğrudan felsefeye değil, filozofların belirli görüşlerine yöneldiğini."
+   },
+   {
+    "q": "Gazali’nin bilgi, yöntem ve eleştiri aşamalarını oluşturan eserleri hangileridir?",
+    "a": "Makâsıdu’l-Felâsife, Miyâru’l-İlm ve Tehâfütü’l-Felâsife."
+   },
+   {
+    "q": "Gazali hangi felsefi akım ve teoriyi eleştirmiştir?",
+    "a": "İslam meşşai filozoflarını ve Yeni Platoncu sudur teorisini."
+   },
+   {
+    "q": "Gazali’nin eleştirdiği başlıca konular nelerdir?",
+    "a": "Âlemin ezelîliği, sudur teorisi ve ruh-beden ilişkisi açısından ahiret anlayışı."
+   },
+   {
+    "q": "Gazali’ye göre âlem nasıl yaratılmıştır?",
+    "a": "Allah tarafından yoktan yaratılmıştır."
+   },
+   {
+    "q": "Gazali sudur teorisi hakkında ne düşünür?",
+    "a": "Karmaşık ve tutarsız bularak eleştirmiştir."
+   },
+   {
+    "q": "Gazali’ye göre ahiret hayatı nasıldır?",
+    "a": "Yalnızca ruhsal değil, bedensel bir varoluşu da içerir."
+   },
+   {
+    "q": "Gazali mantığı nasıl değerlendirmiştir?",
+    "a": "Tüm ilimler için vazgeçilmez görmüştür."
+   }
+  ],
+  "90": [
+   {
+    "q": "1) Gazali, âlemin ezelî olduğunu savunmuştur.",
+    "a": "Y — Gazali âlemin sonradan yaratıldığını savunur."
+   },
+   {
+    "q": "2) Meşşai \"çok yürüyen\" anlamına gelir.",
+    "a": "D — Aristo okuluna verilen addır."
+   },
+   {
+    "q": "3) Kindi, âlemdeki düzeni kabul etmemiştir.",
+    "a": "Y — Kindi âlemde bir düzen olduğunu kabul eder."
+   },
+   {
+    "q": "4) Farabi'ye göre sudur teorisinde varlık zinciri faal akıl ile sona erer.",
+    "a": "D — Sudur zinciri faal akılda tamamlanır."
+   },
+   {
+    "q": "5) Razi, Allah'ın (cc) varlığının hudus deliliyle açıklanmasını yeterli görmüştür.",
+    "a": "Y — Hudus delilini yeterli görmemiştir."
+   },
+   {
+    "q": "6) İbni Sina, ruh anlayışını uçan adam deliliyle açıklamıştır.",
+    "a": "D — Ruhun bedenden bağımsızlığını uçan adam deliliyle açıklar."
+   },
+   {
+    "q": "7) Farabi, yoktan yaratma düşüncesini savunmuştur.",
+    "a": "Y — Farabi sudur (emanasyon) görüşünü savunur."
+   },
+   {
+    "q": "Meşşai filozofların tartıştığı temel konular nelerdir? Düşüncelerinizi paylaşınız.",
+    "a": "Âlemin ezelî mi sonradan mı olduğu, sudur, akıl-varlık ilişkisi, ruh, nübüvvet, Allah'ın varlığı ve sıfatları gibi metafizik konular."
+   },
+   {
+    "q": "\"Meşşai felsefe, İslam felsefesine önemli katkılar sunmuş ve onu derinden etkilemiştir.\" tezini gerekçeleriyle açıklayınız.",
+    "a": "Kindi, Farabi ve İbni Sina Aristo ile Plotinos'u yorumlayarak sudur, akıl, ruh ve varlık konularında özgün görüşler geliştirdi; bu birikim kelamı, sonraki İslam düşüncesini ve Batı felsefesini etkiledi."
+   },
+   {
+    "q": "3. Etkinlik – \"Bu etkiler...\" (Meşşai felsefenin İslam felsefesine etkileri).",
+    "a": "Varlık, akıl, ruh ve bilgi konularında felsefi bir dil oluşturdu; kelamcıları etkiledi, İslam felsefesinin kurumsallaşmasını sağladı ve Batı'da Aristo felsefesinin tanınmasına katkı sundu."
+   }
+  ],
+  "91": [
+   {
+    "q": "Performans görevinin konusu nedir?",
+    "a": "Meşşai filozoflardan birinin tabiata ilişkin görüşlerini araştırma, raporlaştırma ve sunu hazırlama."
+   },
+   {
+    "q": "Görevin amacı nedir?",
+    "a": "Meşşai felsefeyle ilgili inceleme sonuçlarından çıkarım yapmak."
+   },
+   {
+    "q": "Görevde hangi beceri kullanılacaktır?",
+    "a": "Müşahede."
+   },
+   {
+    "q": "Görevin süresi nedir?",
+    "a": "Hazırlık 2 hafta, sınıf içi uygulama 1 ders saati."
+   },
+   {
+    "q": "Ortaya konulacak ürün nedir?",
+    "a": "Sunu."
+   },
+   {
+    "q": "1. hazırlık adımında ne yapılmalıdır?",
+    "a": "Öğretmen rehberliğinde güvenilir kaynaklar belirlenmelidir."
+   },
+   {
+    "q": "2. hazırlık adımında ne yapılmalıdır?",
+    "a": "Belirlenen kaynaklardan konu hakkında bilgi toplanmalıdır."
+   },
+   {
+    "q": "3. uygulama adımında ne yapılmalıdır?",
+    "a": "Toplanan bilgilerden hareketle özgün bir sunum hazırlanmalıdır."
+   },
+   {
+    "q": "4. uygulama adımında neye dikkat edilmelidir?",
+    "a": "Sunum beş dakikayı geçmemelidir."
+   },
+   {
+    "q": "5. uygulama adımında ne yapılmalıdır?",
+    "a": "Sunumda yararlanılan kaynaklara yer verilmelidir."
+   },
+   {
+    "q": "6. uygulama adımında ne yapılmalıdır?",
+    "a": "Hazırlanan sunum arkadaşlarla paylaşılmalıdır."
+   },
+   {
+    "q": "Not bölümünde hangi işlemler yapılmalıdır?",
+    "a": "Dereceli Puanlama Anahtarı incelenmeli ve Öz Değerlendirme Formu doldurulmalıdır."
+   },
+   {
+    "q": "Değerlendirme ölçütleri nelerdir?",
+    "a": "Kapsam, dil ve anlatım, içeriğin doğruluğu, özgünlük, kaynakların çeşitliliği, işitsel ve yazılı materyal kullanımı."
+   }
+  ],
+  "92": [
+   {
+    "q": "İnsan hakikate yalnızca akılla mı ulaşır? Görüşlerinizi gerekçelendirerek ifade ediniz.",
+    "a": "Hayır. Akıl hakikati anlamada ölçü olup sınırları belirler; ancak özüne ulaşmada yetersiz kalır. Sezgi, keşif ve ilham da hakikati idrak etmenin yollarıdır."
+   },
+   {
+    "q": "İşrak felsefesinin gelişimine katkı sağlayan filozoflar hakkında neler biliyorsunuz? Düşüncelerinizi ifade ediniz.",
+    "a": "Ekolu Sühreverdi sistemleştirmiştir; Hikmetü’l-İşrâk temel eserdir. Sudur teorisinde Farabi ve İbn Sina’dan yararlanmış, ışık metafiziğiyle özgünleştirmiştir; meşşai gelenekten de etkilenmiştir."
+   }
+  ],
+  "94": [
+   {
+    "q": "Aynı dönemde farklı görüşlerin bir arada bulunmasının İslam düşünce hayatına etkileri neler olmuştur?",
+    "a": "Düşünce hayatını canlandırmış, tartışma ve eleştiriyi artırmış, ekollerin gelişmesine ve sentezlere yol açmıştır; zaman zaman görüş ayrılıkları ve çatışmalar da doğurmuştur."
+   },
+   {
+    "q": "İşraki aydınlanma ifadesi size neyi çağrıştırıyor?",
+    "a": "“İşrak” güneşin doğuşu ve ışıma anlamına gelir; insanın sezgi ve manevi tecrübeyle hakikatin ışığına ulaşmasını, iç aydınlanmayı çağrıştırır."
+   },
+   {
+    "q": "İşrak felsefesinin eklektik bir yapıda olması ne demektir?",
+    "a": "Farklı felsefi ve dini öğretilerden seçilen unsurların alınıp kendi sistemi içinde kaynaştırılmasıdır; Sühreverdi Meşşai, Yeni Platoncu, Hermetik ve tasavvufi unsurları birleştirmiştir."
+   },
+   {
+    "q": "Sizce “Işık doğudan gelir.” sözü ile işrak felsefesi arasında nasıl bir ilişki kurulabilir?",
+    "a": "İşrak, doğu/şark ve güneşin doğuşuyla ilgilidir; söz, aydınlanmanın kaynağını ve nurun ruhu aydınlatmasını simgeler. Bu yönüyle işrak felsefesinin ışık ve aydınlanma merkezli yapısıyla örtüşür."
+   },
+   {
+    "q": "İşrak felsefesiyle ilgili bilgilere ulaşılabilecek araçlar hangileridir?",
+    "a": "İSAM İslam Ansiklopedisi, İslam Düşünce Atlası, gov.tr ve edu.tr uzantılı güvenilir siteler ile öğretmenin önerdiği kitaplar."
+   },
+   {
+    "q": "İşrak felsefesi hakkında doğrulanan temel bilgiler nelerdir?",
+    "a": "Sühreverdi’ye göre varlık, en üstteki Nurü’l-Envar’dan aşağıya doğru yayılan nurlar hiyerarşisinden oluşur. İşrak felsefesi akıl yürütmenin yanında keşf, sezgi ve müşahedeye dayanır; Meşşai, Yeni Platoncu, Hermetik ve tasavvufi unsurları içerir."
+   },
+   {
+    "q": "İşrak felsefesindeki nur hiyerarşisi ile doğadaki canlıların birbirine bağımlı olması arasında nasıl bir benzerlik vardır? Düşüncelerinizi ifade ediniz.",
+    "a": "Her ikisinde de üstten alta doğru bir düzen ve karşılıklı bağımlılık vardır; nurlar birbirine ve en üst Nur’a bağlıdır, canlılar da ekosistemde/besin zincirinde birbirine bağlıdır. Üstteki alttakini etkiler, alttaki üsttekine muhtaçtır."
+   }
+  ],
+  "97": [
+   {
+    "q": "İşrak felsefesinin kaynakları nedir?",
+    "a": "Antik Yunan felsefesi (Eflatun, Pisagor), İslam düşüncesi (Kur’an, hadis, tasavvuf), İran-Hint mistik gelenekleri ve Farabi ile İbn Sina’nın felsefesidir."
+   },
+   {
+    "q": "İşrak felsefesinin yöntemi nedir?",
+    "a": "Akıl yürütme (burhan) ile sezgi/keşf ve ilhamı birleştiren, riyazet ve arınmayla aydınlanmayı esas alan bir yöntemdir."
+   },
+   {
+    "q": "Sühreverdi’nin varlık anlayışı nedir?",
+    "a": "Varlığı nur (ışık) ve zulmet (karanlık) kavramlarıyla açıklar; Nurü’l-Envar’dan taşan nurlar hiyerarşisiyle varlığın dereceli olduğunu savunur."
+   },
+   {
+    "q": "Molla Sadra’nın kozmos anlayışı nedir?",
+    "a": "Madde, formlar kazanarak sürekli gelişir; cansızdan canlıya, insana, peygamberlere ve melekler âlemine yükselir; varlık daireseldir ve Allah’tan çıkıp yine Allah’a döner."
+   },
+   {
+    "q": "İşrak felsefesi hakkında ulaşılan bilgileri kendi cümlelerinizle kaydediniz.",
+    "a": "İşrak felsefesinin kurucusu Sühreverdi’dir. Bu felsefe akıl ile sezgiyi birleştirir; varlığı nur ve karanlık dereceleriyle açıklar ve arınmayla aydınlanmayı amaçlar."
+   }
+  ],
+  "98": [
+   {
+    "q": "1. İşrak felsefesinde “işrak” kavramı neyi ifade eder?",
+    "a": "Aydınlanma; ilham ve keşf yoluyla hakikatin bilgisine ulaşmayı ifade eder."
+   },
+   {
+    "q": "2. İşrak felsefesine göre insan bilgiye hangi yöntemlerle ulaşır?",
+    "a": "Duyu ve akıl yanında riyazet, mücahede, tefekkür, keşf ve ilhamla ulaşır."
+   },
+   {
+    "q": "3. Sühreverdi’ye göre varlıkların dereceleri hangi kavramla açıklanır?",
+    "a": "Nur ve zulmet dereceleriyle; nurun yoğunluğuna göre teşkik."
+   },
+   {
+    "q": "4. Molla Sadra’nın varlık görüşü nasıl adlandırılır?",
+    "a": "Vahdet-i vücut (varlığın birliği)."
+   },
+   {
+    "q": "5. Molla Sadra’nın ortaya koyduğu “asaletülvücut” kavramı neyi ifade eder?",
+    "a": "Asıl olanın varlık, mahiyetin ise zihinsel ve ikincil olduğunu ifade eder."
+   },
+   {
+    "q": "B-1. İşrak felsefesi hakkında öğrendiğim üç bilgi – 1",
+    "a": "İşrak, ışık ve aydınlanma anlamına gelir."
+   },
+   {
+    "q": "B-1. İşrak felsefesi hakkında öğrendiğim üç bilgi – 2",
+    "a": "Kurucusu Sühreverdî’dir; temel eseri Hikmetü’l-İşrak’tır."
+   },
+   {
+    "q": "B-1. İşrak felsefesi hakkında öğrendiğim üç bilgi – 3",
+    "a": "Varlıklar nur ve zulmet derecelerine göre sıralanır."
+   },
+   {
+    "q": "B-2. İşrak felsefesi hakkında ilgimi çeken iki konu – 1",
+    "a": "Riyazet ve mücahedeyle ruhun arınarak bilgiye hazırlanması."
+   },
+   {
+    "q": "B-2. İşrak felsefesi hakkında ilgimi çeken iki konu – 2",
+    "a": "Nurlar hiyerarşisi ve varlıkların ışık derecelerine göre açıklanması."
+   },
+   {
+    "q": "B-3. İşrak felsefesiyle ilgili sormak istediğim bir soru",
+    "a": "İşrak yoluyla elde edilen bilgi, akıl ve deneyle nasıl denetlenebilir?"
+   }
+  ],
+  "99": [
+   {
+    "q": "1. Meşşai felsefe ile İşrak felsefesinin özellikleri ve ortak noktaları nelerdir?",
+    "a": "Meşşai: akıl, mantık ve burhan; İşrak: sezgi/keşf ve nur; ortak: hakikati arama, Allah’ın varlığı ve birliği, ahlak ve manevi olgunlaşma."
+   },
+   {
+    "q": "2. Kindi, evrendeki nizam ve tertibi Allah’ın (cc) varlığına bir delil olarak sunar.",
+    "a": "D"
+   },
+   {
+    "q": "3. İşrak felsefesinde varlıklar karanlığın derecelerine göre hiyerarşik olarak sıralanır.",
+    "a": "Y"
+   },
+   {
+    "q": "4. İşraki filozoflar sezgi ve aklı birlikte kullanmayı önerir.",
+    "a": "D"
+   },
+   {
+    "q": "5. İşrak felsefesinde zulmet (karanlık) nurun eksikliği olarak görülür.",
+    "a": "D"
+   },
+   {
+    "q": "6. Kindi’ye göre Ay ve Güneş’in hareketleri belirli bir ölçüye bağlı değildir.",
+    "a": "Y"
+   },
+   {
+    "q": "7. Molla Sadra’nın kozmos anlayışında evren, sürekli bir oluş ve dönüşüm içindedir.",
+    "a": "D"
+   },
+   {
+    "q": "8. Molla Sadra’ya göre hareket-i cevheri, fiziksel nesneler için geçerlidir.",
+    "a": "Y"
+   },
+   {
+    "q": "9. İbni Sina, meşşai felsefeyi yalnızca teorik düzeyde ele almış; tıp ve doğa bilimleriyle ilişkilendirmemiştir.",
+    "a": "Y"
+   },
+   {
+    "q": "10. Muallimisani ünvanıyla tanınan İslam filozofu",
+    "a": "B Farabi"
+   },
+   {
+    "q": "11. Varlığın özden önce geldiğini ve sürekli hareket hâlinde olduğunu savunan İslam filozofu",
+    "a": "F Molla Sadra"
+   },
+   {
+    "q": "12. Tehâfütü’l-Felâsife kitabının yazarı olan İslam filozofu",
+    "a": "C Gazali"
+   },
+   {
+    "q": "13. Ruhun bedenden ayrı ve bağımsız bir varlık olduğunu savunan İslam filozofu",
+    "a": "Ç İbni Sina"
+   },
+   {
+    "q": "14. Hikmetü’l-İşrâk kitabının yazarı olan İslam filozofu",
+    "a": "E Sühreverdi"
+   },
+   {
+    "q": "15. Meşşai felsefenin kurucusu kabul edilen İslam filozofu",
+    "a": "A Kindi"
+   }
+  ],
+  "100": [
+   {
+    "q": "16. Uçan adam deliliyle ruhun bedenden ayrı da var olabileceğini savunan filozof kimdir?",
+    "a": "İbni Sina"
+   },
+   {
+    "q": "17. Âlemin düzeninden Allah’ın varlığını kanıtlamaya çalışan ilk İslam filozofu kimdir?",
+    "a": "Kindi"
+   },
+   {
+    "q": "18. Âlemin Allah’tan sudur ederek meydana geldiğini savunan filozof kimdir?",
+    "a": "Farabi"
+   },
+   {
+    "q": "19. Filozofları üç temel meselede eleştiren ve görüşlerini sistemli ortaya koyan kimdir?",
+    "a": "Gazali"
+   },
+   {
+    "q": "20. İşrak felsefesinde bilgiye ulaşmanın yollarından biri nedir?",
+    "a": "Keşif ve sezgi"
+   },
+   {
+    "q": "21. İşrak felsefesinde varlığın temel ilkesi hangi kavramdır?",
+    "a": "Nur"
+   },
+   {
+    "q": "22. Molla Sadra’nın kozmos anlayışında evren sürekli ne içindedir?",
+    "a": "Oluş ve dönüşüm"
+   },
+   {
+    "q": "23. Molla Sadra’ya göre ruh neyle birlikte tekâmül eder?",
+    "a": "Beden"
+   },
+   {
+    "q": "24. Farabi’ye göre Allah ile sonradan yaratılan âlem arasında nasıl bir ilişki vardır?",
+    "a": "Sudur ilişkisi vardır; âlem, Allah’ın mutlak varlık ve yetkinliğinden zorunlu bir hiyerarşiyle taşarak meydana gelmiştir."
+   },
+   {
+    "q": "25. İşrak felsefesindeki “nur hiyerarşisi” ile Molla Sadra’nın “varlık mertebeleri” arasında nasıl bir ilişki kurulabilir?",
+    "a": "İkisi de varlığı hiyerarşik derecelerle açıklar; nur yukarıdan aşağı taşar, varlık mertebeleri de bu dereceli düzeni yansıtır."
+   },
+   {
+    "q": "26. İşrak felsefesinde ışık-karanlık metaforu insanın varoluşsal yolculuğunu nasıl temsil eder?",
+    "a": "İnsanın maddi karanlıktan manevi aydınlığa yükselişini ve aslına dönüş yolculuğunu temsil eder."
+   }
+  ],
+  "101": [
+   {
+    "q": "İşrak felsefesinde varlıkların nur derecelerine göre sıralanmasını ifade eden kavram hangisidir?",
+    "a": "A) Nur hiyerarşisi"
+   },
+   {
+    "q": "Zeynep’in açıklaması Molla Sadra’nın kozmos anlayışında hangi kavramla ifade edilir?",
+    "a": "C) Hareket-i cevheri"
+   },
+   {
+    "q": "Kırık olan parça aşağıdakilerden hangisidir?",
+    "a": "D) Faal akıl"
+   },
+   {
+    "q": "Bu metinde bazı özellikleri verilen İslam felsefesi ekolü aşağıdakilerden hangisidir?",
+    "a": "C) Meşşailik"
+   }
+  ],
+  "102": [
+   {
+    "q": "31. Bu metindeki tartışma, İslam düşüncesinde ortaya çıkan hangi metodolojik ayrıma karşılık gelmektedir?",
+    "a": "E) Meşşailiğin mantıksal ve akılcı çözümleme yöntemi ile işrakiliğin sezgisel ve içsel kavrayış anlayışı"
+   },
+   {
+    "q": "32. Metinden hareketle “soyut nurlar” ile ilgili hangisine ulaşılamaz?",
+    "a": "D) Varlıklarını sürdürmede dış dünyadan tamamen bağımsız olmadıklarına"
+   },
+   {
+    "q": "33. Araştırmacının bilgiye ulaşma biçimi hangi İslam felsefesi ekolünün yöntemiyle ilişkilendirilebilir?",
+    "a": "B) İşrakilik"
+   }
+  ],
+  "103": [
+   {
+    "q": "Sayfadaki sorular ve etkinlikler nelerdir?",
+    "a": "Bu sayfada soru veya etkinlik yoktur; yalnızca sonnotlar yer almaktadır."
+   }
+  ],
+  "105": [
+   {
+    "q": "Bir toplumun düşünce yapısında meydana gelen değişimler insanların günlük yaşamını hangi alanlarda etkileyebilir? Kendi hayatınızdan veya çevrenizden örnekler veriniz.",
+    "a": "Hukuk, eğitim, siyaset, mimari, sanat ve ekonomik ilişkilerde etkiler; örneğin eğitim anlayışı ve hukuk kuralları değişir."
+   },
+   {
+    "q": "İslam toplumlarında gerçekleşen düşünsel dönüşümler toplumsal yaşamı nasıl etkilemiş olabilir? Düşüncelerinizi arkadaşlarınızla paylaşınız.",
+    "a": "Felsefe ve bilim gelişmiş; farklı inanç gruplarının bir arada yaşadığı, çoğulcu ve refah düzeyi yüksek bir toplum oluşmuştur."
+   }
+  ],
+  "106": [
+   {
+    "q": "Endülüs'te yapılan İslam felsefesi çalışmaları hakkında neler biliyorsunuz?",
+    "a": "Kurtuba'da 10. yüzyılda büyük bir ilim ve kültür ortamı oluştu; Müslüman, Hristiyan ve Yahudi âlimlerin tercüme faaliyetleriyle felsefe gelişti. Metafizik, varlık ve evren, doğa ve fizik, astronomi, nefis ve psikoloji, ahlak ve siyaset konuları işlendi. Çalışmalar üç evrede incelenir: İbni Bacce, İbni Tufeyl ile İbni Rüşd ve İbni Rüşd etkisiyle İbni Haldun dönemi."
+   },
+   {
+    "q": "Endülüs'te yapılan İslam felsefesi çalışmalarıyla ilgili merak ettikleriniz nelerdir? Düşüncelerinizi arkadaşlarınızla paylaşınız.",
+    "a": "Endülüs filozoflarının görüşlerinin Avrupa düşüncesine etkisini, tercüme faaliyetlerinde hangi eserlerin öne çıktığını ve din ile felsefe arasındaki ilişkinin nasıl ele alındığını merak ediyorum."
+   }
+  ],
+  "110": [
+   {
+    "q": "İbni Tufeyl'in temel amacı nedir?",
+    "a": "Doğu hikmetiyle Antik Yunan düşüncesini sentezleyerek yeni bir fikir ve dünya görüşü ortaya koymaktır."
+   },
+   {
+    "q": "İbni Tufeyl hangi konular üzerinde durmuştur?",
+    "a": "Birey ve toplum meseleleri; toplumun temelini birey olarak görmüştür."
+   },
+   {
+    "q": "İbni Tufeyl'in en bilinen eseri ve türü nedir?",
+    "a": "Hay bin Yakzan; felsefi roman."
+   },
+   {
+    "q": "Hay bin Yakzan'ın konusu nedir?",
+    "a": "Issız adada yalnız yaşayan Hay bin Yakzan ile yakın adadaki Asâl (Ebsal) arasındaki olaylar."
+   },
+   {
+    "q": "Hay bin Yakzan nasıl bir gelişim göstermiştir?",
+    "a": "Fiziksel tecrübelerden ruhsal tecrübelere ulaşmış, Asâl'dan bilmediği konuları öğrenmiştir."
+   },
+   {
+    "q": "Eser hangi dillere çevrilmiştir?",
+    "a": "Latince ve İbranice başta olmak üzere pek çok dile."
+   },
+   {
+    "q": "Eser hangi farklı isimlerle tanınmıştır?",
+    "a": "Tabiat Adamı, Kendi Kendine Felsefe ve Ruhun Uyanması."
+   },
+   {
+    "q": "Eserin temel düşüncesi nedir?",
+    "a": "İnsan akli çabayla doğayı inceleyerek hakikate ulaşabilir; bu yolla elde edilen bilgiler dinî hakikatlerle çelişmez."
+   },
+   {
+    "q": "İbni Tufeyl bu eserde hangi amaçları gütmüştür?",
+    "a": "İnsan nefsi ile faal akıl arasındaki ilişkiyi incelemek ve felsefe ile din arasında uyum olduğunu ortaya koymak."
+   },
+   {
+    "q": "İbni Tufeyl'in yaratıcı hakkındaki görüşü nedir?",
+    "a": "İnsan doğayı araştırarak yaratıcı mutlak varlık düşüncesine ulaşabilir; bu düşünce İslam ilkeleriyle uyumludur."
+   },
+   {
+    "q": "İbni Tufeyl kimdir?",
+    "a": "1105 Gırnata doğumlu, 1185 Marakeş'te ölen Endülüslü filozof ve hekimdir."
+   },
+   {
+    "q": "İbni Tufeyl'in katı akılcı filozoflardan farkı nedir?",
+    "a": "Hakikate ulaşmada duyguları tamamen yok saymaz."
+   },
+   {
+    "q": "İbni Tufeyl'in çalışma alanları nelerdir?",
+    "a": "Tıp, felsefe, astronomi, fizik ve şiir."
+   },
+   {
+    "q": "Etkinliğin adı ve amacı nedir?",
+    "a": "Soralım; Endülüs'te yapılan İslam felsefesi çalışmaları hakkında soru sorabilme."
+   },
+   {
+    "q": "Etkinlikte hangi adımlar izlenir?",
+    "a": "Eşit gruplar oluşturulur, konular belirlenir, sorular yazılır, soru kutusuna atılır, sorular cevaplanır, cevaplar değerlendirilir ve öğrenilenler yazılır."
+   },
+   {
+    "q": "Sorular nasıl belirlenir?",
+    "a": "Endülüs'te İslam felsefesiyle ilgili merak edilen konular beyin fırtınası yöntemiyle belirlenir."
+   },
+   {
+    "q": "Soru kâğıtları ne yapılır?",
+    "a": "Öğretmenin oluşturduğu soru kutusuna atılır."
+   },
+   {
+    "q": "Çekilen sorular nasıl cevaplanır?",
+    "a": "Soru cevaplanır ve arkadaşla değiştirilir."
+   },
+   {
+    "q": "Cevaplar nasıl değerlendirilir?",
+    "a": "Öğretmen rehberliğinde doğruluk açısından değerlendirilir."
+   },
+   {
+    "q": "Öğrenilenler nereye yazılır?",
+    "a": "Sayfadaki noktalı alana yazılır."
+   },
+   {
+    "q": "Etkinlik sonunda hangi form doldurulur?",
+    "a": "Karekod kullanılarak Grup Değerlendirme Formu doldurulur."
+   }
+  ],
+  "111": [
+   {
+    "q": "Metni okuyunuz ve soruları cevaplayarak düşüncelerinizi arkadaşlarınızla paylaşınız.",
+    "a": "Metin okunup sorular cevaplanır; düşünceler arkadaşlarla paylaşılır."
+   },
+   {
+    "q": "Endülüs’te yetişen üç filozofu (İbni Bacce, İbni Tufeyl, İbni Rüşd) birbirinden ayıran temel özellikleri inceleyiniz.",
+    "a": "İbni Bacce Aristoteles üzerine çalışmış, felsefe ile kelamı ayırmış, faal akılla temas fikrini savunmuştur; İbni Tufeyl felsefi-metafizik düşüncenin doğuştan geldiğini savunmuştur; İbni Rüşd meşşai okulunun son temsilcisi, Aristoteles’in ünlü şarihi olup din ile felsefenin amaçta aynı, yöntemde farklı olduğunu söylemiştir."
+   },
+   {
+    "q": "Öğretmen rehberliğinde incelediğiniz metne göre Endülüs İslam filozoflarının ele aldıkları konular nelerdir? Açıklayınız.",
+    "a": "Felsefe ile kelamın ayrılması, insanın yetenekleri ve faal akılla teması, felsefi-metafizik düşüncenin doğuştanlığı, din-felsefe ilişkisi ile Aristoteles’in eserlerinin şerhi."
+   },
+   {
+    "q": "Endülüs’te gerçekleşen İslam felsefesi çalışmalarına dair çıkarımlarınızı kendi ifadelerinizle aşağıdaki noktalı alana yazınız.",
+    "a": "Endülüs, 12. yüzyılda İslam felsefesinin en verimli dönemini yaşamış; önemli filozoflar yetişmiş ve pek çok eser kaleme alınmış, böylece bir felsefe merkezi hâline gelmiştir."
+   },
+   {
+    "q": "2. Etkinlik – Adı",
+    "a": "Okuyalım-Anlayalım"
+   },
+   {
+    "q": "2. Etkinlik – Amaç",
+    "a": "Endülüs’te yapılan İslam felsefesi çalışmalarıyla ilgili inceleme sonuçları hakkında çıkarım yapabilme"
+   }
+  ],
+  "112": [
+   {
+    "q": "A) 1. Bir eserin anlaşılması güç kısımlarını açıklamak ve eksiklerini tamamlamak için yazılan metne ne ad verilir?",
+    "a": "Şerh."
+   },
+   {
+    "q": "A) 2. İbni Haldun’un geliştirdiği; insan toplumunu, onun doğal hâllerini ve bunların ortaya çıkardığı tarihsel süreci inceleyen ilim dalının adı nedir?",
+    "a": "Ümran ilmi."
+   },
+   {
+    "q": "A) 3. İbni Rüşd, İslam düşüncesinde hangi ünvanla tanınmaktadır?",
+    "a": "Şarih (Yorumcu)."
+   },
+   {
+    "q": "A) 4. İnsanı evrenin küçük bir modeli olarak tanımlayan İslam filozofu kimdir?",
+    "a": "İbni Bacce."
+   },
+   {
+    "q": "B) Endülüs’te yapılan İslam felsefesi çalışmaları hakkında öğrendiğiniz 3 bilgi",
+    "a": "1) Kurtuba’da Müslüman, Hristiyan ve Yahudi âlimler tercüme faaliyetleri yürütmüştür. 2) İbni Bacce, İbni Tufeyl ve İbni Rüşd gibi önemli filozoflar yetişmiştir. 3) İbni Rüşd, Aristoteles şerhleriyle “Şarih” olarak tanınmış ve Batı’yı etkilemiştir."
+   },
+   {
+    "q": "B) Endülüs’te yapılan İslam felsefesi çalışmaları hakkında daha fazla bilgi almak istediğiniz konuyla ilgili 2 soru",
+    "a": "1) Endülüs’teki tercüme faaliyetlerinin İslam felsefesine katkıları nelerdir? 2) İbni Rüşd’ün şerh geleneğinin Batı düşüncesine etkisi nasıl olmuştur?"
+   },
+   {
+    "q": "B) Endülüs’te yapılan İslam felsefesi çalışmaları hakkında 1 çıkarım cümlesi",
+    "a": "Endülüs, farklı inanç gruplarının birlikte ürettiği çok kültürlü yapısıyla İslam felsefesinin özgünleştiği ve Batı’ya aktarıldığı bir köprü olmuştur."
+   },
+   {
+    "q": "Konuya Başlarken 1. Osmanlıdaki felsefe çalışmaları hakkında neler biliyorsunuz?",
+    "a": "Osmanlı’da felsefe; kelam, tasavvuf, mantık ve ahlak çerçevesinde gelişmiş, medreselerde mantık ve felsefe dersleri okutulmuş, İbni Rüşd, Gazali ve İbni Arabi gibi düşünürler etkili olmuştur."
+   },
+   {
+    "q": "Konuya Başlarken 2. Osmanlıdaki felsefe çalışmaları konusuyla ilgili merak ettikleriniz nelerdir? Düşüncelerinizi ifade ediniz.",
+    "a": "Osmanlı’da felsefenin medreselerde ne ölçüde özgün üretim yaptığını, Batı düşüncesiyle etkileşimin ne zaman başladığını ve vahdetivücut tartışmalarının toplumsal etkilerini merak ediyorum."
+   }
+  ],
+  "114": [
+   {
+    "q": "Osmanlı medreselerinde metafizik, mantık ve tasavvufun birlikte ele alınması neyi göstermektedir?",
+    "a": "Disiplinler arası bütünlüğü, akıl-vahiy-tasavvuf sentezini ve kapsayıcı bir eğitim anlayışını gösterir."
+   },
+   {
+    "q": "Bir düşünürün birden fazla alanla ilgilenmesinin felsefi düşünceye etkileri nelerdir?",
+    "a": "Alanlar arası sentez ve zengin yorum sağlar; ancak uzmanlaşmayı zayıflatabilir."
+   },
+   {
+    "q": "Bir felsefi görüşle bir şiirin aynı “düşünce tarzını” taşıdığı fikrine katılıyor musunuz? Neden?",
+    "a": "Katılıyorum; çünkü felsefe ve sanat, aynı dönemin düzen ve uyum anlayışını farklı dillerle yansıtır."
+   },
+   {
+    "q": "Osmanlı düşüncesinde “iç ahenk”, “düzen” ve “uyum” neden önemli görülmüştür?",
+    "a": "Evrende ve toplumda düzen olduğuna inanıldığı için; mantık, sanat, mimari ve siyasette tutarlılık ve güzellik hedeflenmiştir."
+   },
+   {
+    "q": "Osmanlı düşüncesini anlatan üç temel kavram belirleseniz bunlar neler olurdu?",
+    "a": "Sabit mekân, estetik imar ve vahdet-i vücut."
+   },
+   {
+    "q": "Tartışmalardan ve edindiğiniz bilgilerden hareketle Osmanlı Dönemi İslam felsefesinin yapısı, önemi, kapsamı ve yöntemi hakkında düşüncelerinizi yazınız.",
+    "a": "Klasik birikimi yorumlayan bir sentezdir; metafizik, mantık, kelam ve tasavvufu kapsar; şerh, karşılaştırma ve disiplinler arası yorum yöntemiyle süreklilik sağlar."
+   },
+   {
+    "q": "Değerlendirme aşamasında ne yapılmalıdır?",
+    "a": "Karekodu kullanarak Öz Değerlendirme Formu doldurulmalıdır."
+   }
+  ],
+  "115": [
+   {
+    "q": "Davud Kayseri’nin başmüderris olması vahdetivücut düşüncesinin Osmanlı düşüncesinde sistematik biçimde ele alınmasında nasıl bir rol oynamıştır?",
+    "a": "Vahdetivücut düşüncesinin medresede temsil edilmesini sağlamış, Fusûsü’l-Hikem Şerhi ile ilk sistematik çalışmayı yapmış ve eserin ders olarak okutulması geleneğini başlatmıştır."
+   },
+   {
+    "q": "Vahdetivücut anlayışı Osmanlı düşünce dünyasında hangi alanlarda nasıl bir etki oluşturmuştur?",
+    "a": "Tasavvuf, medrese müfredatı, kelam-felsefe ve toplum düşüncesinde; tercüme, şerh ve öğretim yoluyla etkili olmuştur."
+   },
+   {
+    "q": "Bir düşüncenin belirli eserler üzerinden sürekli okutulması, tercüme edilmesi, yorumlanması ve konumlandırılması nasıl bir düşünce ortamı oluşturur?",
+    "a": "Sürekli, sistematik ve kurumsal bir gelenek oluşturur; kavramlar olgunlaşır, farklı yorumlar birikir ve düşünce canlı kalır."
+   },
+   {
+    "q": "Öğrendiklerinizden hareketle Osmanlı Dönemi İslam felsefesinin en belirgin özelliklerini açıklayınız?",
+    "a": "Vahdetivücut merkezli tasavvufi felsefe, Fusûsü’l-Hikem şerh geleneği, mantığın alet ilmi sayılması, medrese-tasavvuf bütünlüğü ve tercüme-şerh geleneğidir."
+   },
+   {
+    "q": "Osmanlı düşünce geleneğinde vahdetivücut düşüncesinin farklı düşünürler tarafından yeniden yorumlanmasını, Osmanlı düşüncesinin sürekliliği açısından değerlendiriniz.",
+    "a": "Düşüncenin farklı dönemlerde yeniden üretilmesini ve kesintisiz bir gelenek hâlinde sürmesini sağlamıştır."
+   },
+   {
+    "q": "Cevaplarınızdan ve edindiğiniz bilgilerden hareketle Osmanlı Dönemi İslam felsefesinin genel karakterini tanımlayınız.",
+    "a": "Vahdetivücut ekseninde şekillenen, şerh-tercüme ve medrese eğitimiyle sürdürülen, tasavvufla felsefeyi birleştiren, mantığı alet ilmi kabul eden kümülatif bir gelenektir."
+   },
+   {
+    "q": "4. Etkinlik – Tanımlayalım: Osmanlı Dönemi İslam felsefesinin genel karakterini tanımlayınız.",
+    "a": "İslam düşüncesini vahdetivücut merkezinde, şerh ve tercüme geleneğiyle medreseye taşıyan; mantık, dil felsefesi ve tasavvufu birlikte ele alan sürekli ve birikimli bir felsefi gelenektir."
+   }
+  ],
+  "116": [
+   {
+    "q": "Bilgi mümkün müdür?",
+    "a": "Taşköprizade bu soruyu Fethu’l-Emri’l-Muğlak fî Mes’eleti’l-Mechûli’l-Mutlak adlı eserinde ele almıştır."
+   },
+   {
+    "q": "Bilinmeyen şeyler nasıl öğrenilir?",
+    "a": "Aynı eserde incelemiş; bilgiyi kavram ve yargı olarak ikiye ayırmıştır."
+   },
+   {
+    "q": "Bir şey tam olarak tanımlanabilir mi?",
+    "a": "Risâletü’t-Ta‘rîf ve’l-A‘lâm fî Halli Müşkilâti’l-Haddi’t-Tâmm adlı eserinde incelemiştir."
+   },
+   {
+    "q": "Taşköprizade’ye göre alet ilimleri hangileridir?",
+    "a": "Sarf, nahiv, belagat ve mantık."
+   }
+  ],
+  "118": [
+   {
+    "q": "Açıklayalım etkinliği – Osmanlı Dönemi İslam felsefesinin genel karakterindeki dönüşümün ortaya çıkış sebeplerini açıklayınız.",
+    "a": "Klasik dönemde düşünce içe kapalı, mükemmeliyetçi ve dışarıyı kaos sayan bir yapıdaydı. Duraklamayla Avrupa’daki bilimsel ve hukuki değişimlerin fark edilmesi bu yapıyı sarstı; askerî yenilgiler ve toprak kayıpları “sabit mekân” algısını yıktı. Böylece kanun-i kadim nostaljisinden Batı’yla mukayeseli bakışa ve nizam-ı cedit düşüncesine geçildi."
+   }
+  ],
+  "119": [
+   {
+    "q": "Osmanlı'nın dünyayı “iç” (kozmos) ve “dış” (kaos) olarak ayırması, Avrupa'daki bilimsel gelişmelere karşı neden “kendi içine kapalılık” oluşturmuştur?",
+    "a": "İç düzen ideal ve kutsal sayılıp dışarısı kaos kabul edildiğinden, dış bilgi ve yenilik tehdit görüldü; merak, eleştiri ve bilimsel takip sınırlandı."
+   },
+   {
+    "q": "“Bilincin kendi içinde bölünmesi”, Osmanlı aydınının modernite karşısında yaşadığı kimlik kriziyle nasıl ilişkilendirilebilir?",
+    "a": "Aydın, geleneksel değerler ile modern bilim ve akılcılık arasında kaldı; eski ile yeni arasında bölünmüş bir bilinç ve kimlik bunalımı yaşadı."
+   },
+   {
+    "q": "Askerî yenilgiler ve toprak kayıpları, Osmanlıdaki “sabit mekân” algısını nasıl etkilemiştir?",
+    "a": "Mekânın güvenli ve değişmez olmadığı görüldü; sabit mekân algısı yıkılarak mekân değişkenleşti ve düzenin temelleri sorgulandı."
+   },
+   {
+    "q": "İbrahim Müteferrika'nın “nizam-ı cedit” önerisi, geleneksel “kanun-i kadim” anlayışından hangi yönleriyle ayrılmaktadır?",
+    "a": "Kanun-i kadim geçmişin değişmez düzenine bağlıyken nizam-ı cedit, akla, bilime ve Batı örneklerine dayalı yeniden düzenlemeyi ve değişimi savunur."
+   },
+   {
+    "q": "Batı'dan ithal edilen felsefi akımların (pozitivizm, materyalizm vb.) birer düşünce okulu yerine “kurtuluş teolojisi” olarak görülmesinin felsefi nedenleri nelerdir?",
+    "a": "Klasik metafiziğin çözülmesi ve siyasi kriz ortamında yeni bir anlam ve meşruiyet zemini aranması; akımların mutlak kurtarıcı ideolojiler gibi benimsenmesi."
+   },
+   {
+    "q": "Temel Karakteristik (Klasik / Duraklama / Çöküş)",
+    "a": "İç-dış ayrımı, iç düzen (kozmos), dış kaos / Eski-yeni ayrımı, zaman algısının yataylaşması / Değişken mekân, sabit mekân algısının yıkılması ve temellerin tartışılması."
+   },
+   {
+    "q": "Dünya Algısı (Klasik / Duraklama / Çöküş)",
+    "a": "Merkezde düzenli ve üstün Osmanlı, dışarısı kaos / Osmanlı ile Avrupa karşılaştırması, geri kalmışlık duygusu / Kaos ve belirsizlik içinde yeni gerçeklik arayışı."
+   },
+   {
+    "q": "Siyasi/Askerî Etken (Klasik / Duraklama / Çöküş)",
+    "a": "Güçlü merkezî otorite ve fetihler / Yenilgiler, toprak kayıpları ve ıslahat ihtiyacı / Ağır yenilgiler, toprak kayıpları ve devletin dağılması."
+   },
+   {
+    "q": "Bilinç Yapısı (Klasik / Duraklama / Çöküş)",
+    "a": "Bütünlüklü ve kendine güvenen bilinç / Bölünmüş bilinç, gelenek-yenilik ikilemi / Kimlik krizi ve zemin arayışı."
+   },
+   {
+    "q": "Bilgiye Yaklaşım (Klasik / Duraklama / Çöküş)",
+    "a": "Nakil, gelenek ve din temelli klasik ilimler / Batı bilimi ile geleneksel ilmin yan yana gelmesi, tercüme ve aktarım / Pozitivizm, materyalizm, spiritüalizm ve sezgicilik gibi akımlar."
+   },
+   {
+    "q": "Sembol (Klasik / Duraklama / Çöküş)",
+    "a": "Kozmos ve estetik imar / Eski-yeni ve bölünmüş bilinç / Kaos, değişken mekân ve zemin arayışı."
+   },
+   {
+    "q": "İsimler/Kavramlar (Klasik / Duraklama / Çöküş)",
+    "a": "Kanun-i kadim, kozmos, estetik imar / İbrahim Müteferrika, nizam-ı cedit, yatay zaman / Baha Tevfik, Filibeli Ahmed Hilmi, Ziya Gökalp, Fatma Aliye, kurtuluş teolojisi."
+   },
+   {
+    "q": "Öğrendiklerinizden hareketle Osmanlı Dönemi İslam felsefesindeki dönüşümü ve nedenlerini tarihî-siyasi dönemlerle ilişkilendirerek tabloya yazınız.",
+    "a": "Dönüşüm; klasik estetik imardan bölünmüş bilince, oradan zemin arayışı ve kaosa uzanır; nedenleri askerî yenilgiler, toprak kayıpları, klasik metafiziğin çözülmesi ve Batı düşüncesinin etkisidir."
+   },
+   {
+    "q": "Öğretmen rehberliğinde yazdıklarınızın doğruluğunu kontrol ediniz.",
+    "a": "Tablo ve cevaplar öğretmen rehberliğinde karşılaştırılarak kontrol edilir."
+   },
+   {
+    "q": "Yandaki karekodu kullanarak Öz Değerlendirme Formu'nu doldurunuz.",
+    "a": "Karekoddan ulaşılan Öz Değerlendirme Formu doldurulur."
+   }
+  ],
+  "122": [
+   {
+    "q": "6. Etkinlik “Belirleyelim”: Osmanlı Dönemi İslam felsefesinin genel karakterinin özellikleri nelerdir?",
+    "a": "İdari, askerî ve toplumsal bozulmaları analiz eden ıslahat geleneği; “kanun-i kadime dönüş”ten modernleşme arayışına evrilen zihinsel dönüşüm; kurumların ihyası; seçici ve dengeli modernleşme; Batı taklitçiliğine karşı çıkma; tarih ve toplumu sebep-sonuç ve karşılaştırma ile ele alma."
+   }
+  ],
+  "123": [
+   {
+    "q": "Osmanlı medreselerinde mantık neden “alet ilmi” olarak görülmüştür?",
+    "a": "Mantık, bilginin kendisi değil; doğru düşünme ve diğer ilimleri öğrenme aracı olduğu için amaç değil araç ilim sayılmıştır."
+   },
+   {
+    "q": "Osmanlı düşüncesinin tehafüt yazma geleneğinde “tehafüt” kavramı hangi anlamda kullanılmıştır?",
+    "a": "“Tutarsızlık/çelişki” anlamında; filozofların görüşleri arasındaki çelişkileri inceleyip eleştiren eser türünü ifade eder."
+   },
+   {
+    "q": "Koçi Bey, yazdığı risalelerde hangi sorunları ele almıştır?",
+    "a": "Devlet idaresindeki bozulma, rüşvet ve iltimas, adaletsizlik, mali ve askerî düzensizlik ile bunlara yönelik çözüm önerilerini."
+   },
+   {
+    "q": "Metindeki bilgilere göre üç düşünür arasında hangi yönlerden süreklilik ve farklılık bulunmaktadır?",
+    "a": "Süreklilik: gelenek ile çağ arasında denge kurma ve devletin devamlılığını sağlama. Farklılık: Koçi Bey idari düzenin restorasyonu, Kâtip Çelebi bilgi ve akli ilimler, Ahmed Cevdet Paşa kurumların uyarlanması."
+   },
+   {
+    "q": "Metinde geçen “zihinsel dönüşüm” ifadesiyle anlatılmak istenen değişim nedir?",
+    "a": "İçe dönük, mükemmeliyetçi ve düzeni korumacı anlayıştan; akli ilimleri öne çıkaran, modern kurumları uyarlayan ve kadim mirasla çağı uzlaştıran yeni bir düşünce zeminine geçiştir."
+   },
+   {
+    "q": "Metinde yer alan bilgilerin güvenilir olup olmadığını anlamak için hangi tarihî kaynaklara veya eser türlerine başvurulabilir?",
+    "a": "Birincil kaynaklar, arşiv belgeleri, vakayinameler, tabakat/biyografi eserleri, düşünürlerin risale ve mektupları ile akademik tarih araştırmaları."
+   },
+   {
+    "q": "Üç düşünürün çözüm önerilerini, tarihsel rolleri ve felsefenin konumu açısından değerlendiriniz.",
+    "a": "Koçi Bey idari ıslahat ve klasik düzeni yeniden kurmayı, Kâtip Çelebi akli ilimler ve mukayeseli bilgiyi, Cevdet Paşa kültürü koruyarak kurumları modernleştirmeyi savunmuştur; felsefe gelenek ile modernite arasında eleştirel ve uzlaştırıcı bir zemin sunar."
+   },
+   {
+    "q": "Osmanlı Dönemi İslam felsefesinin öne çıkan özelliklerini, düşünürlerin görüşlerinden ve rollerinden yararlanarak yazınız.",
+    "a": "Klasik İslam felsefesi birikimini sentezleme, düzen tasavvuru, akli ilimlere önem, tehafüt ve risale geleneği, gelenek-çağ dengesi, devletin devamlılığı için ilmî-idari-fikrî çözümler ve modern kurumları uyarlama çabası."
+   },
+   {
+    "q": "Öğretmen rehberliğinde yazdıklarınızın doğruluğunu kontrol ediniz ve Öz Değerlendirme Formu’nu doldurunuz.",
+    "a": "Cevaplar öğretmenle birlikte kontrol edilir; karekoddaki Öz Değerlendirme Formu doldurulur."
+   }
+  ],
+  "124": [
+   {
+    "q": "Yakın dönem İslam felsefesi çalışmaları hakkında neler biliyorsunuz?",
+    "a": "Klasik dönemden konu, problem ve yöntem bakımından ayrılır; sömürgecilik koşullarında kültürel kimliği koruma, toplumsal düzeni sürdürme ve Batı ile sentez oluşturma çabasıyla şekillenmiştir."
+   },
+   {
+    "q": "Yakın dönem İslam felsefesi çalışmaları hakkında merak ettikleriniz nelerdir? Düşüncelerinizi ifade ediniz.",
+    "a": "İslam felsefesi mirası ile Batı düşüncesinin nasıl sentezlendiğini ve günümüz çalışmalarında hangi yöntemlerin kullanıldığını merak ediyorum."
+   },
+   {
+    "q": "7. Etkinlik (Eleştirel Düşünelim): Yakın dönem İslam felsefesi çalışmalarının ortak özelliklerini belirleyiniz.",
+    "a": "Batı hegemonyası karşısında üç eğilim öne çıkar: İslam felsefesini yeniden canlandırma, Batı akımlarını (pozitivizm, materyalizm, liberalizm, sosyalizm) benimseme ve eklektik sentezler geliştirme."
+   }
+  ],
+  "125": [
+   {
+    "q": "3. Öğretmen rehberliğinde yakın dönem İslam felsefesi çalışmaları hakkında güvenilir kaynaklardan bilgi toplayınız.",
+    "a": "TDV İslam Ansiklopedisi, İslam Düşünce Atlası ve öğretmenin önerdiği güvenilir kitaplardan bilgi toplanır."
+   },
+   {
+    "q": "4. Topladığınız bilgilerden ve okuduğunuz metinden hareketle aşağıdaki soruları grup arkadaşlarınızla tartışınız.",
+    "a": "Kaynaklardan ve metinden hareketle sorular grup içinde tartışılır."
+   },
+   {
+    "q": "Müslüman düşünürlerin Batı karşısındaki tutumunu ifade eden üç temel eğilim nelerdir?",
+    "a": "Batı’yı taklit etme, Batı’yı reddetme ve eleştirel sentez yapma."
+   },
+   {
+    "q": "Yakın dönem İslam felsefesi çalışmalarında hangi sorun öne çıkar?",
+    "a": "İslam felsefesinin özgünlüğü ve Batı felsefesi karşısındaki konumu sorunu."
+   },
+   {
+    "q": "Özgünlüğü vurgulamak kültürel kimliği nasıl korur?",
+    "a": "Kendi kavram ve mirasına dayanmayı sağlar; taklitçiliği ve yabancılaşmayı önleyerek kültürel sürekliliği korur."
+   },
+   {
+    "q": "İslam felsefesini yeniden canlandırma çabası neden önemlidir?",
+    "a": "Kadim mirası günümüze aktarır, özgün düşünce üretimini artırır ve İslam felsefesinin modern düşünceyle diyaloğunu sağlar."
+   },
+   {
+    "q": "5. Ulaştığınız sonuçları ortak bir metin hâline getirerek grup sözcüleri aracılığıyla sınıfla paylaşınız.",
+    "a": "Sonuçlar ortak metne dönüştürülür ve grup sözcüsü aracılığıyla sınıfla paylaşılır."
+   },
+   {
+    "q": "6. Paylaşılan görüşlerden hareketle yakın dönem İslam felsefesi çalışmalarının ortak özelliklerini belirleyiniz.",
+    "a": "Batı’nın üstünlük sebeplerini sorgulama, kadim mirası inceleme, klasik metinleri güncel sorunlarla ilişkilendirme, Batı felsefesiyle karşılaştırma ve İslam felsefesini yeniden konumlandırma."
+   },
+   {
+    "q": "7. Belirlenen özellikleri kendi cümlelerinizle aşağıdaki noktalı alana yazınız.",
+    "a": "Bu çalışmalar İslam düşünce mirasını eleştirel ve karşılaştırmalı biçimde ele alır; klasik metinleri günümüz sorunlarına bağlayarak İslam felsefesini yeniden yorumlamayı amaçlar."
+   },
+   {
+    "q": "Değerlendirme: Yandaki karekodu kullanarak Grup Değerlendirme Formu’nu doldurunuz.",
+    "a": "Karekod kullanılarak Grup Değerlendirme Formu doldurulur."
+   }
+  ],
+  "126": [
+   {
+    "q": "1. Hilmi Ziya Ülken’in İslam felsefesiyle ilgili görüşünü değerlendiriniz.",
+    "a": "İslam medeniyetinin Yunan düşüncesini geliştirerek Batı’ya aktardığını, 8-13. yüzyıllarda parlak bir dönem yaşadığını, 15. yüzyıldan sonra canlılığını yitirdiğini ancak günümüz ilim ve düşüncesiyle yeniden temasa geçerek canlanabileceğini savunur."
+   },
+   {
+    "q": "2. Hilmi Ziya Ülken’in Cumhuriyet Dönemi’nde İslam felsefesi çalışmalarındaki yerini ve bu çalışmaların felsefi düşüncenin gelişimine etkilerini tartışınız.",
+    "a": "Cumhuriyet Dönemi’nde İslam felsefesi çalışmalarının kurumsallaşmasında öncü ve köprü kurucu bir yere sahiptir; eserleri, İlahiyat Fakültesindeki dersleri ve yetiştirdiği öğrencilerle felsefi düşüncenin gelişmesine ve Türk düşüncesine rehberlik etmiştir."
+   },
+   {
+    "q": "3. Tartışmadan hareketle öğretmen rehberliğinde Hilmi Ziya Ülken’in İslam felsefesi çalışmalarındaki rolünü sorgulayınız.",
+    "a": "Ülken, İslam felsefesini sistematik felsefe ve metafizikle ilişkilendirerek ele almış; eserleri, dersleri ve öğrencileriyle alanın kurumsallaşmasına öncülük etmiştir. Bu yönüyle yalnızca aktarıcı değil, köprü kurucu ve rehber bir rol üstlenmiştir."
+   },
+   {
+    "q": "4. “Hilmi Ziya Ülken’in çalışmaları Cumhuriyet Dönemi İslam felsefesi için öncü bir rol ifade eder çünkü...” cümlesini tamamlayınız.",
+    "a": "... İslam felsefesini sistematik felsefe içinde ele almış, temel eserler vermiş, İlahiyat Fakültesinde dersler vererek öğrenci yetiştirmiş ve felsefi çalışmaların kurumsallaşmasına katkıda bulunmuştur."
+   }
+  ],
+  "129": [],
+  "133": [
+   {
+    "q": "Okuduğunuz metinlerin ana fikri nedir?",
+    "a": "İslam dünyasının krizi kültür ve eğitimdeki bozulmadan kaynaklanır; çözüm, tarihsel birikimi ve modern dünyayı doğru analiz ederek düşünsel yenilenme sağlamaktır."
+   },
+   {
+    "q": "Yakın dönem İslam felsefesi çalışmalarının özellikleri nelerdir?",
+    "a": "Buhran bilinci, Batı’ya eleştirel yanıt arayışı, geleneğin yeniden yorumu, kavram ve ekollerin derinlemesine incelenmesi, günümüze katkı amacı ve çoğulcu yaklaşımdır."
+   },
+   {
+    "q": "Yakın dönem İslam filozoflarının çalışmalarında ortak olmayan özellikler neler olabilir?",
+    "a": "Yöntem, problem seçimi, referanslar, Batı algısı, gelenekle ilişki düzeyi, siyasal tutum ve çözüm önerileri farklılık gösterir."
+   },
+   {
+    "q": "Elde ettiğiniz örüntülerden hareketle yakın dönem İslam felsefesi çalışmaları hakkında bir önerme yazınız.",
+    "a": "Yakın dönem İslam felsefesi, kriz karşısında geleneği eleştirel biçimde yeniden yorumlayarak modern dünyaya katkı sunmayı amaçlayan çoğulcu bir düşünsel çabadır."
+   }
+  ],
+  "134": [],
+  "135": [
+   {
+    "q": "Hilmi Ziya Ülken’i ve İslam felsefesi çalışmalarını araştırmak için hangi güvenilir kaynaklar belirlenmelidir?",
+    "a": "TDV İslâm Ansiklopedisi, İslam Düşünce Atlası, YÖK Ulusal Tez Merkezi, edu.tr/gov.tr siteleri ve öğretmenin önerdiği basılı eserler."
+   },
+   {
+    "q": "Belirlenen kaynaklardan konu hakkında nasıl bilgi toplanır?",
+    "a": "Kaynaklar taranır, ilgili bilgiler not alınır ve kaynaklarıyla birlikte karşılaştırılır."
+   },
+   {
+    "q": "Fanzin hangi ölçütlere uygun hazırlanır?",
+    "a": "Kapsam, dil ve anlatım, içeriğin doğruluğu, özgünlük, kaynak çeşitliliği, görsel ve yazılı materyal ölçütlerine uygun hazırlanır."
+   },
+   {
+    "q": "Hazırlanan fanzin nasıl desteklenir?",
+    "a": "Konuya uygun görsellerle desteklenir."
+   },
+   {
+    "q": "Faydalanılan kaynaklara fanzinde nasıl yer verilir?",
+    "a": "Yararlanılan kaynaklar fanzinde kaynakça olarak belirtilir."
+   },
+   {
+    "q": "Hazırlanan fanzin nasıl sergilenir?",
+    "a": "Öğretmen rehberliğinde sınıfta sergilenir."
+   },
+   {
+    "q": "Karekoddaki Dereceli Puanlama Anahtarı ve Öz Değerlendirme Formu için ne yapılır?",
+    "a": "Dereceli Puanlama Anahtarı incelenir ve Öz Değerlendirme Formu doldurulur."
+   },
+   {
+    "q": "Performans görevinin konusu nedir?",
+    "a": "Hilmi Ziya Ülken’i ve onun İslam felsefesi çalışmalarını tanıtan bir fanzin hazırlamak."
+   },
+   {
+    "q": "Görevin amacı nedir?",
+    "a": "Yakın dönem İslam filozoflarından Hilmi Ziya Ülken’in çalışmalarını genelleyebilmek."
+   },
+   {
+    "q": "Görevde hangi beceriler kullanılır?",
+    "a": "Bilgi toplama, araştırma ve genelleme."
+   },
+   {
+    "q": "Görevin süresi ve ürünü nedir?",
+    "a": "Hazırlık 2 hafta, sınıf içi uygulama 1 ders saati; ürün fanzindir."
+   },
+   {
+    "q": "Değerlendirme hangi ölçütlere göre yapılır?",
+    "a": "Kapsam, dil ve anlatım, içeriğin doğruluğu, özgünlük, kaynakların çeşitliliği, görsel ve yazılı materyal kullanımı."
+   }
+  ],
+  "136": [
+   {
+    "q": "İslam felsefesinin Batı düşüncesine etkileriyle ilgili neler biliyorsunuz?",
+    "a": "İslam filozoflarının eserleri Latince ve İbranice başta olmak üzere çevrilmiş; kavram, yöntem ve tartışmaları Orta Çağ ve Rönesans Hristiyan-Yahudi düşünürlerini etkileyerek Batı felsefesinin şekillenmesinde rol oynamıştır."
+   },
+   {
+    "q": "İslam felsefesinin Batı düşüncesine etkileriyle ilgili merak ettikleriniz nelerdir?",
+    "a": "Çeviri sürecinin nasıl işlediği, hangi filozofların hangi Batılı düşünürleri etkilediği ve aktarımın hangi yüzyıllarda yoğunlaştığı merak edilmektedir."
+   },
+   {
+    "q": "İslam felsefesinin Batı'ya aktarım yolları nelerdir?",
+    "a": "Fetihler ve Haçlı Seferleri; İslam ülkelerinde eğitim alan Batılı öğrenciler; dil öğrenip tercüme merkezleri kuran Batılı düşünürler."
+   }
+  ],
+  "137": [
+   {
+    "q": "Etkinliğin adı ve amacı nedir?",
+    "a": "Sorgulayalım; İslam felsefesinin Batı’ya etkisini sorgulayabilme."
+   },
+   {
+    "q": "İslam felsefesinin Batı’ya aktarımı ve etkileriyle ilgili hangi sorular hazırlanabilir?",
+    "a": "İslam filozofları Batı’ya hangi yollarla aktarıldı? Gazali ve İbn Rüşd Batı’yı nasıl etkiledi? Çeviriler Batı düşüncesini nasıl değiştirdi?"
+   },
+   {
+    "q": "İslam felsefesinin Batı’ya aktarım yolları nelerdir?",
+    "a": "Çeviri hareketleri (Toledo ve Sicilya), Endülüs üzerinden öğrenim, Haçlı Seferleri, ticaret ve seyahatler, üniversiteler."
+   },
+   {
+    "q": "Seçtiğiniz aktarım yolu hangisidir?",
+    "a": "Çeviri hareketleri; Arapça felsefe eserlerinin Latinceye çevrilmesi."
+   },
+   {
+    "q": "Neden bu aktarım yolunu seçtiniz?",
+    "a": "Çeviriler, İslam filozoflarının görüşlerini doğrudan ve kalıcı biçimde Batı’ya taşıdığı için."
+   },
+   {
+    "q": "Bu yolun diğer aktarım yollarına göre imkânları ve sınırlılıkları nelerdir?",
+    "a": "İmkânı, bilginin sistemli ve yazılı aktarımını sağlaması; sınırlılığı, çeviri hataları ve seçici aktarım riskidir."
+   },
+   {
+    "q": "Bu aktarım sürecinin Batı düşüncesi üzerindeki somut etkileri nelerdir?",
+    "a": "Varlık, kozmoloji, ahlak, akıl-iman ve din-felsefe tartışmalarını etkiledi; Rönesans, Reform ve Aydınlanma’ya katkı sağladı."
+   },
+   {
+    "q": "Gazali ve İbn Rüşd’ün Batı’daki etkisi hangi dönemlerde görülmüştür?",
+    "a": "Gazali 13-14. yüzyılda, İbn Rüşd 15. yüzyıldan itibaren etkili olmuştur."
+   },
+   {
+    "q": "Kartezyen düşünce ile İslam felsefesi arasında nasıl bir ilişki kurulmuştur?",
+    "a": "Kartezyen düşüncenin bu felsefi tutumların uzantısı veya onlarla etkileşim içinde geliştiği kabul edilmiştir."
+   },
+   {
+    "q": "İbn Tufeyl’in Batı düşüncesindeki rolü nedir?",
+    "a": "17. yüzyılda görüşlerinin yaygınlaşması Aydınlanma’nın başlangıcında ve insan doğası yorumlarında merkezî rol oynamıştır."
+   },
+   {
+    "q": "Bu aktarım gerçekleşmeseydi Batı düşüncesi nasıl gelişirdi?",
+    "a": "İslam filozoflarının katkısı olmadan akıl-iman ve din-felsefe tartışmaları gecikir, Rönesans ve Aydınlanma daha sınırlı bir birikimle gelişirdi."
+   },
+   {
+    "q": "Değerlendirme nasıl yapılacaktır?",
+    "a": "Karekodu kullanarak Grup Değerlendirme Formu doldurulacaktır."
+   }
+  ],
+  "140": [
+   {
+    "q": "Ne biliyordum?",
+    "a": "İslam filozoflarının Antik Yunan felsefesini koruyup yorumlayarak Batı'ya aktardığını biliyordum."
+   },
+   {
+    "q": "Ne öğrendim?",
+    "a": "Kindi, Farabi, İbni Sina, Gazali ve İbni Rüşd'ün metafizik, ontoloji, Allah'ın varlığı, ahiret ve siyaset konularında Batılı filozofları etkilediğini öğrendim."
+   },
+   {
+    "q": "Merak ettiklerim?",
+    "a": "İslam felsefesinin Batı üniversitelerinin ve skolastik düşüncenin gelişimine etkisini merak ediyorum."
+   },
+   {
+    "q": "Sormak istediklerim?",
+    "a": "Çeviri sürecinde İslam filozoflarının görüşlerinin ne ölçüde değiştirildiğini sormak isterim."
+   },
+   {
+    "q": "Bilgi Görseli 4.3'e göre İslam filozofları Batılı filozofları hangi alanlarda etkilemiştir?",
+    "a": "Kindi metafizikle Albertus Magnus'u, Farabi ontolojiyle Albertus Magnus ve Aquinas'ı, İbni Sina Allah'ın varlığı delilleriyle Descartes'ı, Gazali ahiret düşünceleriyle Pascal'ı, İbni Rüşd siyaset görüşleriyle Dante'yi etkilemiştir."
+   },
+   {
+    "q": "Etkinlik sonunda yazdıklarınızı öğretmen rehberliğinde değerlendiriniz.",
+    "a": "Öğrenme günlüğümü öğretmenimle değerlendirip eksik ve doğru yönlerimi belirledim."
+   },
+   {
+    "q": "Öz Değerlendirme Formu'nu doldurunuz.",
+    "a": "Karekodu kullanarak öz değerlendirme formunu doldurdum."
+   }
+  ],
+  "141": [
+   {
+    "q": "A) İslam filozoflarının önde gelen isimleri ile Batı’daki karşılıklarını eşleştiriniz.",
+    "a": "Kindi–B, Farabi–Ç, İbni Sina–C, İbni Rüşd–D, Gazali–A."
+   },
+   {
+    "q": "1) İslam filozoflarının görüşleri, 15. yüzyılda Batı’da hangi düşünce hareketleri üzerinde etkili olmuştur?",
+    "a": "Rönesans ve Reform hareketleri üzerinde etkili olmuştur."
+   },
+   {
+    "q": "2) Farabi’nin varlık anlayışı ve Allah’ın (cc) sıfatlarına ilişkin görüşleri St. Thomas Aquinas’ın hangi eserinde yer almaktadır?",
+    "a": "Summa Theologiae adlı eserinde."
+   },
+   {
+    "q": "3) İbni Sina’nın ruh-beden ayrımını açıklamak için kullandığı ve Descartes tarafından da kullanılan düşünce delilinin adı nedir?",
+    "a": "Uçan Adam Delili."
+   },
+   {
+    "q": "4) İbni Tufeyl’in Hay bin Yakzan adlı eserini Hollandacaya çeviren Batılı düşünür kimdir?",
+    "a": "Spinoza."
+   },
+   {
+    "q": "Ünitede öğrendiğiniz temel bilgileri kısaca not ediniz.",
+    "a": "İslam felsefesi Endülüs, Osmanlı ve yakın dönemde gelişmiş; eserlerin çevirileriyle Batı felsefesi ve bilimi etkilenmiştir."
+   }
+  ],
+  "142": [
+   {
+    "q": "Aşağıdaki diyagramı doldurunuz. (İslam filozofları: Klasik Dönem, Endülüs, Osmanlı, Yakın Dönem)",
+    "a": "Klasik Dönem: Kindi, Farabi, İbn Sina, Gazali; Endülüs: İbn Bace, İbn Tufeyl, İbn Rüşd, İbn Arabi; Osmanlı: Molla Fenari, Davud Kayseri, Taşköprüzade, Katip Çelebi; Yakın Dönem: İsmail Hakkı İzmirli, Hilmi Ziya Ülken, Nurettin Topçu."
+   },
+   {
+    "q": "Endülüs’te İslam felsefesinin gelişim aşamalarını ve bu aşamaların felsefi düşüncenin gelişimine katkılarını örneklerle açıklayınız.",
+    "a": "Kuruluşta çeviri ve kelam-felsefe etkileşimi; gelişmede İbn Bace ve İbn Tufeyl’le akılcı-ahlaki düşünce, İbn Rüşd’le Aristotelesçi rasyonalizm ve din-felsefe uyumu; tasavvufi dönemde İbn Arabi’nin etkisi; çöküşte siyasi gerilemeyle felsefe zayıfladı. Katkısı, Antik felsefenin korunup Latin Batı’ya aktarılması ve akıl-vahiy tartışmalarının geliştirilmesidir."
+   },
+   {
+    "q": "Osmanlıda felsefe çalışmalarının erken dönemden Tanzimat ve sonrasına uzanan süreçte geçirdiği tarihsel dönüşümü, örnek düşünürler üzerinden açıklayınız.",
+    "a": "Erken dönemde medrese merkezli kelam ve felsefe (Molla Fenari, Davud Kayseri), 17. yüzyılda ilimler tasnifi ve eleştirel tarih yazımı (Taşköprüzade, Katip Çelebi), Tanzimat’ta Batı düşüncesiyle karşılaşma ve çeviri-eğitim reformları (Münif Paşa, Cevdet Paşa), sonrasında pozitivizm, materyalizm ve milliyetçilik (Namık Kemal, Ziya Gökalp) etkili oldu."
+   },
+   {
+    "q": "Hilmi Ziya Ülken ve İsmail Hakkı İzmirli’nin çalışmaları, İslam felsefesinin modern akademik disiplinlerle buluşmasına nasıl zemin hazırlamıştır?",
+    "a": "Ülken, Türk ve İslam düşünce tarihini sosyolojik-felsefi yöntemle inceledi; İzmirli, İslam felsefesi tarihini kaynak ve bibliyografyaya dayalı akademik biçimde ele aldı. İkisi de Darülfünun/üniversite çatısında felsefe tarihi, sosyoloji ve ilahiyat gibi modern disiplinlerle İslam düşüncesini buluşturdu."
+   }
+  ],
+  "143": [
+   {
+    "q": "5. Batı’nın siyasal ve kültürel etkisi karşısında yakın dönem İslam filozoflarının kültürel kimliği hangi yöntemlerle ortaya çıkmıştır? Düşünürlerden örnekler vererek açıklayınız.",
+    "a": "Gelenek koruma, düşünce mirasını eleştirel inceleme ve yeni yorumlar geliştirme yöntemleriyle. Nakib el-Attas geleneğin korunmasını, Cabiri eleştirel değerlendirmeyi, Muhammed İkbal benlik bilincini önemsemiştir."
+   },
+   {
+    "q": "6. İslam felsefesinin Batı düşüncesi üzerindeki etkisinde tercüme hareketleri hangi düşünürlerin eserlerini öne çıkarmıştır? Filozoflarla ilişkilendirerek açıklayınız.",
+    "a": "Kindi, Farabi, İbni Sina, Gazali, İbni Rüşd ve İbni Tufeyl’in eserlerini. Farabi’nin varlık anlayışı Thomas Aquinas’ı etkilemiş, İbni Rüşd’ün Aristoteles yorumları Batı’da İbni Rüşdcülüğü doğurmuştur."
+   },
+   {
+    "q": "7. ( ) Müslümanların Endülüs’te ortaya koyduğu çalışmalar, bu coğrafyada felsefi düşüncenin gelişmesini sağlamıştır.",
+    "a": "D"
+   },
+   {
+    "q": "8. ( ) Ahmed Cevdet Paşa, Batı hukuk sisteminin tamamının doğrudan alınmasını savunmuştur.",
+    "a": "Y"
+   },
+   {
+    "q": "9. ( ) Osmanlı düşüncesi, kendinden önceki İslam düşünce geleneğinin doğal bir devamı olarak gelişmiştir.",
+    "a": "D"
+   },
+   {
+    "q": "10. ( ) Yakın dönem İslam felsefesi çalışmalarında klasik kaynaklar dikkate alınmamıştır.",
+    "a": "Y"
+   },
+   {
+    "q": "11. ( ) Nurettin Topçu, ahlak ve hareket felsefesi üzerine çalışmalar yapmıştır.",
+    "a": "D"
+   },
+   {
+    "q": "12. ( ) Fazlurrahman, İslam düşüncesinin çağın koşullarına göre yeniden yorumlanmasını savunmuştur.",
+    "a": "D"
+   },
+   {
+    "q": "13. ( ) Seyyid Hüseyin Nasr, İslamileştirme fikrini savunmuştur.",
+    "a": "Y"
+   },
+   {
+    "q": "14. ( ) Yakın dönem İslam filozofları Batı’daki düşünsel akımlardan etkilenmemiştir.",
+    "a": "Y"
+   },
+   {
+    "q": "15. ( ) İslam filozoflarının eserlerinin yabancı dillere çevrilmesi Batılı düşünürler açısından önemli görülmemiştir.",
+    "a": "Y"
+   },
+   {
+    "q": "16. ( ) Koçi Bey, Osmanlıdaki bozulmaların nedenlerini incelemiş ve çözüm önerileri sunmuştur.",
+    "a": "D"
+   },
+   {
+    "q": "17. ( ) Gelenbevi İsmail Efendi, mantık ve matematik alanlarında çalışmalar yapmıştır.",
+    "a": "D"
+   },
+   {
+    "q": "18. ( ) Osmanlı düşüncesinde mantık ilmi gereksiz görülmüş ve eğitimden çıkarılmıştır.",
+    "a": "Y"
+   },
+   {
+    "q": "19. ( ) Osmanlı düşüncesinde “ilim” kavramı yalnızca kelam ve fıkıh için kullanılmıştır.",
+    "a": "Y"
+   },
+   {
+    "q": "20. ( ) Estetik imar anlayışı mimari alanla ilişkilidir.",
+    "a": "D"
+   },
+   {
+    "q": "21. Endülüs İslam filozoflarından .................................., felsefe-din ilişkisini sistemli bir şekilde ele almıştır.",
+    "a": "İbni Rüşd"
+   },
+   {
+    "q": "22. Endülüs filozofları arasında yer alan .................................., Mukaddime adlı eseriyle tanınır.",
+    "a": "İbni Haldun"
+   },
+   {
+    "q": "23. Fatih Sultan Mehmed Dönemi’nde yeniden canlandırılan tartışma geleneğine .................................. geleneği denilmektedir.",
+    "a": "tehafüt"
+   },
+   {
+    "q": "24. Erzurumlu İbrahim Hakkı’nın en bilinen eseri .................................., İslam düşünce tarihi açısından önemli bir kaynaktır.",
+    "a": "Mârifetnâme"
+   }
+  ],
+  "144": [
+   {
+    "q": "25. Osmanlı düşüncesinde sanat, mimari ve şiirde gözetilen iç uyum anlayışı ................. kavramıyla açıklanmıştır.",
+    "a": "Ahenk"
+   },
+   {
+    "q": "26. Yakın dönem İslam felsefesi çalışmalarının temel karakteri ................. aktarma ve yeniden konumlandırmadır.",
+    "a": "Batı felsefesini"
+   },
+   {
+    "q": "27. Nurettin Topçu’nun “isyan ahlakı” anlayışında bireyin ................. ve sorumluluğu ön plandadır.",
+    "a": "Özgürlüğü"
+   },
+   {
+    "q": "28. Seyyid Hüseyin Nasr, çevre sorunlarını yalnızca ekolojik değil aynı zamanda ................. bir mesele olarak görür.",
+    "a": "Manevi"
+   },
+   {
+    "q": "29. Muhammed Âbid el-Cabiri, İslam düşüncesini ................. biçimde incelemiştir.",
+    "a": "Eleştirel"
+   },
+   {
+    "q": "30. İkbal’in en önemli eserlerinden biri olan ................. ümmetin yeniden dirilişini şiirsel bir dille anlatır.",
+    "a": "Cavidname"
+   },
+   {
+    "q": "31. Descartes, metodik şüphe konusunda ................. düşüncesinden etkilenmiştir.",
+    "a": "Gazali’nin şüpheciliğinden"
+   },
+   {
+    "q": "32. Batı’da Latin Avicennismi olarak adlandırılan düşünce geleneğinin oluşmasında İslam filozoflarından ................. etkili olmuştur.",
+    "a": "İbni Sina"
+   },
+   {
+    "q": "33. Aylin Öğretmen’in bahsettiği altın çağın ve zirve noktasının temsilcisi olan öncü filozoflar hangileridir?",
+    "a": "E) İbni Bacce - İbni Tufeyl - İbni Rüşd"
+   },
+   {
+    "q": "34. Yakın dönem İslam filozoflarının Batı felsefesine ilgi duymalarındaki temel amaç nedir?",
+    "a": "E) Batı düşüncesinin arka planındaki felsefi yapıyı kavrayarak İslam düşüncesini yeniden konumlandırmak."
+   }
+  ],
+  "152": [
+   {
+    "q": "Sayfadaki sorular ve etkinlikler nelerdir?",
+    "a": "Yoktur; sayfa yalnızca kaynakça listesinden oluşmaktadır."
+   }
+  ],
+  "160": [
+   {
+    "q": "Bu sayfada soru veya etkinlik var mı?",
+    "a": "Hayır; sayfa yalnızca kaynakça listesinden oluşuyor."
+   }
+  ]
+ }
+}
