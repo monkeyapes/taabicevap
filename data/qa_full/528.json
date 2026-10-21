@@ -1,0 +1,554 @@
+{
+ "bookId": 528,
+ "done": true,
+ "pages": {
+  "3": [
+   {
+    "q": "Bu sayfadaki sorular ve etkinlikler nelerdir?",
+    "a": "Sayfa metninde soru veya etkinlik yer almıyor; yalnızca İstiklal Marşı'nın sözleri bulunuyor."
+   }
+  ],
+  "8": [
+   {
+    "q": "Bu sayfada yanıtlanacak soru veya etkinlik var mı?",
+    "a": "Yok; sayfa yalnızca ünite bölümlerini tanıtan başlık ve açıklamalar içeriyor."
+   }
+  ],
+  "13": [
+   {
+    "q": "Kur'an-ı Kerim'in anlaşılmasında sünnetin önemi ile ilgili düşünceleriniz nelerdir?",
+    "a": "Sünnet, Kur'an'ı açıklar, ayetlerin iniş sebebini ve uygulamasını gösterir; peygamberin örnekliğiyle doğru anlamayı sağlar."
+   },
+   {
+    "q": "Arapçayı iyi bilmenin Kur'an meali yazmaya katkıları neler olabilir?",
+    "a": "Kelimelerin inceliklerini, deyimleri ve bağlamı doğru kavramayı sağlar; yanlış anlamlandırmayı ve eksik aktarımı önler."
+   },
+   {
+    "q": "Meal ve tefsir okurken dikkat edilmesi gereken hususlar neler olabilir?",
+    "a": "Güvenilir kaynak seçilmeli, ayetin bağlamı ve bütüncül Kur'an mesajı gözetilmeli, kişisel yorumlardan ve ön yargılardan kaçınılmalıdır."
+   },
+   {
+    "q": "Hz. İsa’nın hayatı hakkında neler biliyorsunuz?",
+    "a": "İsrailoğullarına gönderilen peygamberdir; mucizeler göstermiş, İncil'i tebliğ etmiş, Allah tarafından göğe kaldırılmıştır."
+   },
+   {
+    "q": "Mülk ve Nebe sureleri hakkında bildikleriniz nelerdir?",
+    "a": "İkisi de Mekke'de inmiştir; Allah'ın kudretini, yaratılışı, ölümü ve ahireti hatırlatarak tevhid inancını güçlendirir."
+   },
+   {
+    "q": "Dua ederken sizce nelere dikkat edilmelidir?",
+    "a": "Samimiyet, ihlas ve edep içinde Allah'a yönelmeli; helal kazanç, sabır ve Kur'an ile sünnete uygunluk gözetilmelidir."
+   },
+   {
+    "q": "Veli, adalet, zulüm ve şefaat kavramları size neler çağrıştırıyor?",
+    "a": "Veli dost ve koruyucudur; adalet hakkı sahibine vermektir; zulüm haksızlıktır; şefaat Allah'ın izniyle bağışlanma için aracılık dilemedir."
+   }
+  ],
+  "14": [
+   {
+    "q": "Yüce Allah’ın peygamber göndermesi insanlık için neden bir lütuftur? Yorumlayınız.",
+    "a": "Peygamberler Allah’ın ayetlerini okuyup açıklar, insanları arındırır, kitap ve hikmeti öğretir; böylece insanlar doğru yolu bulur ve Allah’a karşı mazeret ileri süremez. Bu, insanlık için büyük bir lütuftur."
+   }
+  ],
+  "16": [
+   {
+    "q": "Sayfadaki sorular ve etkinlikler nelerdir?",
+    "a": "Sayfada soru veya etkinlik yok; yalnızca Kur’an-sünnet ilişkisini açıklayan bilgi metni ve görsel bulunuyor."
+   }
+  ],
+  "17": [
+   {
+    "q": "Kur’an’ın Arapça indirilmesinin sebepleri neler olabilir? Yorumlayınız.",
+    "a": "Hz. Peygamber’in ve ilk muhatapların dili Arapça olduğu için mesajın doğrudan anlaşılması; Arapçanın zengin ve edebî yapısıyla vahyin eşsizliğini göstermesi; metnin bozulmadan korunması ve evrensel mesajın sonradan tercüme ve tefsirlerle tüm insanlara ulaştırılması."
+   }
+  ],
+  "19": [
+   {
+    "q": "Bu sayfadaki sorular ve etkinlikler nelerdir?",
+    "a": "Verilen sayfa metninde soru veya etkinlik bulunmamaktadır."
+   }
+  ],
+  "23": [
+   {
+    "q": "Tebbet suresinin mealini okuyarak ana mesajlarını arkadaşlarınızla paylaşınız.",
+    "a": "Tebbet suresi, İslam’a düşmanlık eden Ebu Leheb ve eşinin akıbetini bildirir; mal ve servetin insanı kurtaramayacağını, inatla küfür ve düşmanlıkta ısrar edenlerin hüsrana uğrayacağını vurgular."
+   }
+  ],
+  "28": [
+   {
+    "q": "Sayfada soru veya etkinlik var mı?",
+    "a": "Hayır, sayfa metninde soru ya da etkinlik bulunmuyor."
+   }
+  ],
+  "29": [
+   {
+    "q": "Hz. İsa’nın gönderildiği toplumda karşılaştığı tepkiler ile Hz. Muhammed’in (sav) tebliğ esnasında yaşadığı sıkıntılar arasındaki benzerlikler nelerdir?",
+    "a": "Her iki peygamber de tevhit inancını tebliğ ettikleri için inkâr, alay, iftira, dışlanma ve baskıyla karşılaştı; sabırla tebliğe devam ettiler."
+   }
+  ],
+  "34": [
+   {
+    "q": "Küresel ısınma ve susuzluğun insan hayatı üzerine etkileri konusundaki düşüncelerinizi Mülk suresi çerçevesinde arkadaşlarınızla paylaşınız.",
+    "a": "Mülk suresi, evrendeki düzenin Allah’ın rahmetiyle ayakta olduğunu gösterir; insan bu dengeyi korumakla sorumludur. Küresel ısınma ve susuzluk, ölçüsüz tüketim ve israfın sonucudur. Bu yüzden nimetleri tasarruflu kullanmak, doğaya zarar vermemek ve şükür bilinciyle hareket etmek gerekir."
+   },
+   {
+    "q": "Bu ayetlerin sorumluluk bilinci açısından insana katkıları neler olabilir? Yorumlayınız.",
+    "a": "Allah’ın gizli-açık her şeyi bildiğini bilen insan, davranışlarının hesabını vereceği bilinciyle dürüst ve ölçülü olur. Bu farkındalık öz denetim, samimiyet ve kötülükten uzak durma sorumluluğu kazandırır."
+   }
+  ],
+  "36": [
+   {
+    "q": "Bu sayfada soru veya etkinlik var mı?",
+    "a": "Hayır; sayfa yalnızca Nebe Suresi'yle ilgili açıklama metni ve görsel alt yazısı içermektedir."
+   }
+  ],
+  "38": [
+   {
+    "q": "Nebe suresinde \"büyük haber\" olarak ifade edilen kıyamet gününün insan davranışları üzerindeki etkileriyle ilgili düşüncelerinizi arkadaşlarınızla paylaşınız.",
+    "a": "Kıyamet gününe inanmak, insana hesap vereceği bilinci kazandırır; onu iyi davranışlara yöneltir ve kötülükten sakındırır."
+   },
+   {
+    "q": "Dağlar ne işe yarar?",
+    "a": "Dağlar, yerin içine uzanan kökleriyle yeryüzünü destekler ve yer kabuğunun genel dengesini (izostasi) sağlar."
+   },
+   {
+    "q": "Peki, bilim ne diyor?",
+    "a": "Bilim, dağların hafif köklerle yerin derinliklerine uzandığını, bu köklerin dağları desteklediğini ve yer kabuğunun dengesine katkı sağladığını söyler."
+   }
+  ],
+  "42": [
+   {
+    "q": "Sayfadaki sorular ve etkinlikler nelerdir?",
+    "a": "Sayfa metninde soru veya etkinlik bulunmamaktadır."
+   }
+  ],
+  "46": [
+   {
+    "q": "Dostluk kavramı sizin için ne ifade ediyor? Sizce dostlukta bulunması gereken hususlar nelerdir?",
+    "a": "Dostluk, sevgi ve güvene dayalı, zor zamanda yardım eden, koruyan, sır tutan ve iyiliğe yönlendiren bağdır; dostlukta güven, sadakat, samimiyet, fedakârlık, dürüstlük, saygı ve vefalı olmak gerekir."
+   }
+  ],
+  "52": [
+   {
+    "q": "Sayfada yer alan soru ve etkinlikler nelerdir?",
+    "a": "Sayfada soru veya etkinlik bulunmamaktadır; yalnızca şefaat konulu bilgi metni ve görsel alt yazısı yer almaktadır."
+   }
+  ],
+  "53": [
+   {
+    "q": "1. Ayetlerde anlatılmak istenen ifadeyi kelime kelimesine değil yaklaşık olarak başka bir dile çevirmeye ne denir?",
+    "a": "Meal."
+   },
+   {
+    "q": "2. Ayetlerin anlamını ayrıntılı olarak araştırma imkânı veren kaynaklar hangileridir?",
+    "a": "Tefsir kaynakları."
+   },
+   {
+    "q": "3. Kur’an’ı hayatlarının merkezine alan ve onu ana mesajları doğrultusunda okuyan kimler en güzel örneği ortaya koymuştur?",
+    "a": "Sahabe."
+   },
+   {
+    "q": "4. Hz. İsa hangi topluma gönderilmiş peygamberlerdendir?",
+    "a": "İsrailoğulları."
+   },
+   {
+    "q": "5. Büyük haber anlamına gelen sure hangisidir?",
+    "a": "Nebe suresi."
+   },
+   {
+    "q": "6. Kulluğun gereği olan ve ibadetin özü sayılan şey nedir?",
+    "a": "Dua."
+   },
+   {
+    "q": "7. İnsanlar arası ilişkilerde toplumdaki birlik ve beraberliğin teminatı nedir?",
+    "a": "Adalet."
+   },
+   {
+    "q": "8. Hz. İsa’nın babasız yaratılması ile Hz. Âdem’in yaratılması arasında bir benzerlik var mıdır? Açıklayınız.",
+    "a": "Evet; ikisi de babasız yaratılmıştır. Hz. Âdem topraktan, Hz. İsa ise Allah’ın “Ol” emriyle babasız olarak yaratılmıştır."
+   },
+   {
+    "q": "9. Dua ederken nelere dikkat edilmelidir?",
+    "a": "Samimiyetle, yalnız Allah’a yönelerek, hamd ve salavatla başlayarak, kabul edileceğine inanarak ve acele etmeden dua edilmelidir."
+   },
+   {
+    "q": "10. Müminlerin birbirinin velisi (dostu) olmaları neden önemlidir?",
+    "a": "Birlik, dayanışma, yardımlaşma ve toplumsal huzur için; müminler iyiliği emredip kötülükten sakındırarak birbirini destekler."
+   }
+  ],
+  "54": [
+   {
+    "q": "11. Aşağıda verilen kavram ve tanım eşleştirmelerinden hangisi doğrudur?",
+    "a": "C) Müfessir: Kur’an ayetlerinin anlamını açıklayan ve tefsir yazan kimselere denir."
+   },
+   {
+    "q": "12. Hz. Peygamber’in söylediği sözle ilgili hangisine ulaşılamaz?",
+    "a": "E) Kur’an dışında bir hüküm ortaya koymuştur."
+   },
+   {
+    "q": "13. Aşağıda verilen bilgilerden hangisi yanlıştır?",
+    "a": "D) Kur’an çevirilerine “tefsir” değil, “meal” denir."
+   }
+  ],
+  "55": [
+   {
+    "q": "14. Meallerle ilgili olarak aşağıdakilerden hangisi söylenemez?",
+    "a": "D) Kur’an’ı detaylı bir şekilde öğrenme imkânı sunar."
+   },
+   {
+    "q": "15. Verilen cümleler aşağıdaki kavramlardan hangisine aittir?",
+    "a": "C) Tefsir"
+   },
+   {
+    "q": "16. Hz. İsa ile ilgili ifadelerden hangileri doğrudur?",
+    "a": "E) II, III ve IV"
+   },
+   {
+    "q": "17. Yukarıda verilen sure ve konu eşleştirmelerinden hangileri doğrudur?",
+    "a": "D) I, II ve III"
+   }
+  ],
+  "56": [
+   {
+    "q": "18. Mülk ve Nebe surelerinin ortak konuları hangileridir?",
+    "a": "D) I, III ve IV"
+   },
+   {
+    "q": "19. Hz. Yunus’un yaptığı dua hangisidir?",
+    "a": "C) Enbiya suresi, 87. ayet"
+   },
+   {
+    "q": "20. Tablodaki açıklamalarla kavramların doğru eşleştirmesi hangisidir?",
+    "a": "B) 1-b, 2-c, 3-ç, 4-a"
+   }
+  ],
+  "57": [
+   {
+    "q": "21. Bu metinde aşağıdaki sorulardan hangisinin cevabına değinilmemiştir?",
+    "a": "A) Kur’an’ın anlaşılmasında tefsirin önemi nedir?"
+   },
+   {
+    "q": "22. Bu ayette işaret edilen Kur’an’ın Arapça indirilmesinin Peygamberimizin insanları uyarmasında sağladığı kolaylıklar nelerdir?",
+    "a": "Peygamberin kendi diliyle indirildiği için onu kolayca anlayıp tebliğ etmesini, muhatapların mesajı doğrudan anlamasını ve müjdeleme-uyarma görevini etkili biçimde yapmasını sağlar."
+   },
+   {
+    "q": "23. Kur’an’ın eksiksiz çevirisi mümkün müdür? Neden?",
+    "a": "Hayır, mümkün değildir; çeviriler insan ürünü olduğu için eksik veya kusurlu olabilir ve ilahi kelamın orijinal metninin yerini tutmaz."
+   }
+  ],
+  "59": [
+   {
+    "q": "Kur'an'daki hangi harflerin doğru okunuşunu biliyorsunuz?",
+    "a": "Mahreç ve sıfatlarına uygun okunması gereken harfleri; özellikle peltek harfler (ث، ذ، ظ), kalkale harfleri (ق، ط، ب، ج، د) ve kalın-ince okunan harfleri biliyorum."
+   },
+   {
+    "q": "Lafzatullah kavramı ile ilgili bildikleriniz nelerdir?",
+    "a": "\"Allah\" lafzıdır; lam harfi önceki harfin harekesine göre kalın (fetha/damme) veya ince (kesre) okunur."
+   },
+   {
+    "q": "Kur'an okunuşu ile ilgili işaretlerden hangilerini tanıyorsunuz?",
+    "a": "Vakıf (durma), vasıl (geçme), secde, hizb, cüz ve sure başlığı işaretlerini tanıyorum."
+   },
+   {
+    "q": "Zamanın önemine vurgu yapılan Asr suresi ile ilgili bildikleriniz nelerdir?",
+    "a": "Asra yeminle başlar; insanın hüsranda olduğunu, iman edip salih amel işleyen, hakkı ve sabrı tavsiye edenlerin kurtulacağını bildirir."
+   },
+   {
+    "q": "Kadir Gecesi'nin bin aydan daha hayırlı olarak nitelendirilmesinin sebebi ne olabilir?",
+    "a": "Kur'an'ın bu gece indirilmesi, meleklerin ve Cebrail'in inmesi, rahmet ve bereketin çok olması sebebiyle bin aydan hayırlıdır."
+   }
+  ],
+  "60": [
+   {
+    "q": "1. Vakıf işaretlerine dikkat ederek okudum.",
+    "a": "Evet"
+   },
+   {
+    "q": "2. İbtida işaretlerine dikkat ederek okudum.",
+    "a": "Evet"
+   },
+   {
+    "q": "3. Vasl işaretlerine dikkat ederek okudum.",
+    "a": "Evet"
+   },
+   {
+    "q": "4. Daha önce öğrendiğim tecvit kurallarını uygulayarak okudum.",
+    "a": "Evet"
+   },
+   {
+    "q": "5. Sakin mim’in okunuşuna dikkat ederek okudum.",
+    "a": "Evet"
+   },
+   {
+    "q": "6. Kalkale’nin okunuşuna dikkat ederek okudum.",
+    "a": "Evet"
+   },
+   {
+    "q": "7. Ra’nın okunuşuna dikkat ederek okudum.",
+    "a": "Evet"
+   },
+   {
+    "q": "8. Lafzatullah’taki Lam harfinin okunuşuna dikkat ederek okudum.",
+    "a": "Evet"
+   },
+   {
+    "q": "9. Secde ayetlerini sayfada yer alan işaretlerinden tanıyarak okudum.",
+    "a": "Evet"
+   },
+   {
+    "q": "10. Sureleri doğru ve güzel okumaya özen gösterdim.",
+    "a": "Evet"
+   },
+   {
+    "q": "a) Çalışma sırasında şu bilgileri öğrendim:",
+    "a": "Vakıf, ibtida ve vasl işaretlerinin anlamlarını öğrendim."
+   },
+   {
+    "q": "b) Çalışmam sırasında şu noktalarda zorlandım:",
+    "a": "Kalkale ve Ra harfinin okunuşunda zorlandım."
+   },
+   {
+    "q": "c) Çalışmayı yeniden yapacak olsaydım şunlara dikkat ederdim:",
+    "a": "Tecvit kurallarını uygulamaya ve işaretlere dikkat ederdim."
+   }
+  ],
+  "61": [
+   {
+    "q": "Yüzünden okuyacağınız bölümleri nasıl dinlemelisiniz?",
+    "a": "Diyanet İşleri Başkanlığının sitesinden veya öğretmeninizden dinleyiniz."
+   },
+   {
+    "q": "Dinleme sırasında tespit ettiğiniz tecvit kurallarını ne yapmalısınız?",
+    "a": "Defterinize yazınız."
+   },
+   {
+    "q": "Yüzünden okunacak her bölümü kaç defa okumalısınız?",
+    "a": "En az on defa okuyunuz."
+   },
+   {
+    "q": "İlk ve son okuyuş sürelerini nasıl belirleyip kaydetmelisiniz?",
+    "a": "Kronometreyle ölçüp çizelgeye kaydediniz."
+   },
+   {
+    "q": "Okuyuş hızınızdaki gelişimi nasıl gözlemlemelisiniz?",
+    "a": "İlk ve son okuyuş sürelerini karşılaştırarak gözlemleyiniz."
+   },
+   {
+    "q": "Sınıfta iki grup oluşturarak ne yapmalısınız?",
+    "a": "Bölümleri arkadaşlarınıza okuyup hataları düzelterek okuyuşunuzu geliştiriniz."
+   },
+   {
+    "q": "Arkadaşınızın yüzünden okuduğu bölümü takip ederken ne yapmalısınız?",
+    "a": "Okuma ve tecvit hatalarını not alınız."
+   },
+   {
+    "q": "Arkadaşınızın okuması bitince ne yapmalısınız?",
+    "a": "Not aldığınız hatalar üzerinde konuşunuz."
+   }
+  ],
+  "97": [
+   {
+    "q": "Kalkale nedir?",
+    "a": "قُطْبُ جَد (ق، ط، ب، ج، د) harflerinden biri cezimli gelirse veya üzerinde vakıf yapılırsa mahrecin kuvvetle sarsılarak vurgulu okunmasıdır."
+   },
+   {
+    "q": "Kalkalenin hükmü nedir?",
+    "a": "Vaciptir."
+   },
+   {
+    "q": "Kalkale yaparken nelere dikkat edilir?",
+    "a": "Kalkale sesi önceki harfin harekesine uygun çıkarılır; kalkale harfine hareke verilmez."
+   },
+   {
+    "q": "يَقْتُلُون kelimesinde kalkale var mıdır?",
+    "a": "Evet; ق harfi cezimli olduğundan kalkale vardır."
+   },
+   {
+    "q": "اَطْعَمَهُمْ kelimesinde kalkale var mıdır?",
+    "a": "Evet; ط harfi cezimli olduğundan kalkale vardır."
+   },
+   {
+    "q": "سُبْحَانَكَ kelimesinde kalkale var mıdır?",
+    "a": "Evet; ب harfi cezimli olduğundan kalkale vardır."
+   },
+   {
+    "q": "تَجْرِي kelimesinde kalkale var mıdır?",
+    "a": "Evet; ج harfi cezimli olduğundan kalkale vardır."
+   },
+   {
+    "q": "فَادْعُ لَنَا kelimesinde kalkale var mıdır?",
+    "a": "Evet; د harfi cezimli olduğundan kalkale vardır."
+   },
+   {
+    "q": "يَدْخُلُون örneğinde kalkale nasıl açıklanır?",
+    "a": "د harfi cezimli olduğu için kalkale vardır; önceki harfin harekesine uygun vurgulu okunur."
+   },
+   {
+    "q": "وَتَبَّ kelimesinde nasıl kalkale yapılır?",
+    "a": "Şeddeli ب üzerinde durulursa ikinci harfte kalkale yapılır; durulmadan geçilirse kalkale yapılmaz."
+   },
+   {
+    "q": "اِرْكَبْ مَعَنَا kelimesinde kalkale var mıdır?",
+    "a": "Evet; ب harfi cezimli olduğundan kalkale vardır."
+   },
+   {
+    "q": "لَمْ يَلِدْ وَلَمْ يُولَدْ ifadesinde kalkale nerededir?",
+    "a": "يَلِدْ ve يُولَدْ sonlarındaki د harfleri cezimli olduğundan ikisinde de kalkale vardır."
+   },
+   {
+    "q": "وَلَمْ يَكُنْ لَهُ كُفُوًا اَحَدَ ifadesinde kalkale var mıdır?",
+    "a": "Evet; اَحَدَ üzerinde vakıf yapıldığında د sakin olur ve kalkale yapılır."
+   },
+   {
+    "q": "قُلْ هُوَ اللَّهُ اَحَدٌ ifadesinde kalkale nerededir?",
+    "a": "قُلْ’deki ق ve vakıfla اَحَدٌ’daki د cezimli olduğundan kalkale vardır."
+   },
+   {
+    "q": "اللَّهُ الصَّمَدُ kelimesinde kalkale var mıdır?",
+    "a": "Evet; vakıf yapıldığında sonundaki د sakin olduğundan kalkale yapılır."
+   },
+   {
+    "q": "Harekeli kalkale harfinin üzerinde durulursa ne olur?",
+    "a": "Cezimli durulduğu için yine kalkale yapılır."
+   },
+   {
+    "q": "İdgam yapılan durumlarda kalkale yapılır mı?",
+    "a": "Hayır, idgam yapılan durumlarda kalkale yapılmaz."
+   }
+  ],
+  "101": [
+   {
+    "q": "Aşağıda verilen örnek kelimeleri vakıf kurallarına dikkat ederek okuyunuz.",
+    "a": "Kelime sonunda durulur, kelime ortasından bölünmez; ses ve nefes tamamen kesilir."
+   },
+   {
+    "q": "Aşağıdaki ayetlerde verilen sekteleri açıklayınız ve kelimeleri tecvitli olarak okuyunuz.",
+    "a": "Sekte, nefes almadan sesin kısa süre kesilmesidir. Kehf 1. ayette sekte yeri ayet sonunda olduğundan durulur, sekte yapılmaz; ayetler birleştirilirse \"ivecâ\"da medd-i tabiî yapılarak elif üzerinde durulur, sekte yapılır ve nefes almadan \"kayyimen\" ile devam edilir."
+   }
+  ],
+  "103": [
+   {
+    "q": "Nahl suresinin 90. ve Ankebut suresinin 45. ayetlerini dinleyip vakıf ve ibtida kurallarına uygun okuyunuz.",
+    "a": "Ayetler dinlenir; ayet sonlarında vakıf yapılarak ve anlam bütünlüğü korunarak okunur."
+   },
+   {
+    "q": "خَوْفٍ kelimesinde vakıf yapıldığında nasıl durulur?",
+    "a": "Tenvin düşer, son harf sakin olur: \"havf\" (و medd-i tabii ile uzatılır)."
+   },
+   {
+    "q": "رَبَّهُ kelimesinde vakıf yapıldığında nasıl durulur?",
+    "a": "Son ötre düşer, ه sakin olur: \"rabbeh\"."
+   },
+   {
+    "q": "مِنَ السَّمَٓاءِ kelimesinde vakıf yapıldığında nasıl durulur?",
+    "a": "Son esre düşer, hemze sakin olur: \"mine's-semâ'\" (medd-i muttasıl yapılır)."
+   },
+   {
+    "q": "وَاِيَّايَ kelimesinde vakıf yapıldığında nasıl durulur?",
+    "a": "Son fetha düşer, ya sakin olur: \"ve iyyây\"."
+   }
+  ],
+  "108": [
+   {
+    "q": "Bilir misin nedir Kadir Gecesi?",
+    "a": "Kadir Gecesi bin aydan hayırlıdır."
+   },
+   {
+    "q": "Kadir Suresi adını nereden alır?",
+    "a": "“Güç, hüküm, değer, şeref” anlamlarına gelen Kadir kelimesinden alır."
+   },
+   {
+    "q": "Surede hangi değere ve ihtiyaca dikkat çekilmektedir?",
+    "a": "Kur’an’ın insanlık için taşıdığı değere ve insanlığın ona olan ihtiyacına."
+   },
+   {
+    "q": "Surede insanların hangi mertebeye ulaşabileceği vurgulanır?",
+    "a": "Meleklerin kendilerine katılmasına kadar varan bir mertebeye."
+   },
+   {
+    "q": "Hz. Peygamber Kadir Gecesi’nin fazileti hakkında ne buyurmuştur?",
+    "a": "İnanarak ve sevabını Allah’tan umarak o geceyi ibadetle geçirenin geçmiş günahlarının bağışlanacağını bildirmiştir."
+   },
+   {
+    "q": "Kadir Gecesi ne zaman aranmalıdır?",
+    "a": "Ramazan ayının son on gününde."
+   },
+   {
+    "q": "O gece melekler ve ruh ne yapar?",
+    "a": "Rablerinin izniyle her bir iş için inerler."
+   },
+   {
+    "q": "Kadir Gecesi ne zamana kadar esenlik doludur?",
+    "a": "Tan yeri ağarıncaya kadar."
+   },
+   {
+    "q": "Etkinlik: Kadir Suresini tecvit kurallarına uygun okuyunuz.",
+    "a": "Sure, Diyanet İşleri Başkanlığının verilen meal linkinden tecvit kurallarına uygun şekilde okunur."
+   },
+   {
+    "q": "Sıra Sende: Kadir suresiyle ilgili e-içeriğe nasıl ulaşılır?",
+    "a": "Sayfadaki karekodu okutarak."
+   }
+  ],
+  "109": [
+   {
+    "q": "1. numaralı kelimedeki tecvit kuralı nedir?",
+    "a": "Muâneka vakfı"
+   },
+   {
+    "q": "2. numaralı kelimedeki tecvit kuralı nedir?",
+    "a": "Mutlak vakıf"
+   },
+   {
+    "q": "3. numaralı kelimedeki tecvit kuralı nedir?",
+    "a": "Râ’nın kalın okunduğu yer"
+   },
+   {
+    "q": "4. numaralı kelimedeki tecvit kuralı nedir?",
+    "a": "Lafzatullah’ın kalın okunduğu yer"
+   },
+   {
+    "q": "5. numaralı kelimedeki tecvit kuralı nedir?",
+    "a": "Kalkale"
+   },
+   {
+    "q": "6. numaralı kelimedeki tecvit kuralı nedir?",
+    "a": "Lafzatullah’ın ince okunduğu yer"
+   },
+   {
+    "q": "7. numaralı kelimedeki tecvit kuralı nedir?",
+    "a": "Kalkale"
+   },
+   {
+    "q": "8. numaralı kelimedeki tecvit kuralı nedir?",
+    "a": "Mücevvez vakfı"
+   },
+   {
+    "q": "9. numaralı kelimedeki tecvit kuralı nedir?",
+    "a": "Râ’nın kalın okunduğu yer"
+   },
+   {
+    "q": "10. numaralı kelimedeki tecvit kuralı nedir?",
+    "a": "Râ’nın ince okunduğu yer"
+   },
+   {
+    "q": "11. numaralı kelimedeki tecvit kuralı nedir?",
+    "a": "Kalkale"
+   },
+   {
+    "q": "12. numaralı kelimedeki tecvit kuralı nedir?",
+    "a": "Ayn vakfı"
+   },
+   {
+    "q": "13. numaralı kelimedeki tecvit kuralı nedir?",
+    "a": "Sakin mîmin izharı"
+   },
+   {
+    "q": "14. numaralı kelimedeki tecvit kuralı nedir?",
+    "a": "Dudak ihfâsı (ihfâ-i şefevî)"
+   }
+  ],
+  "110": [],
+  "111": []
+ }
+}

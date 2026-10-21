@@ -1,0 +1,958 @@
+{
+ "bookId": 475,
+ "done": true,
+ "pages": {
+  "3": [
+   {
+    "q": "Sayfadaki sorular ve etkinlikler nelerdir?",
+    "a": "Sayfada soru veya etkinlik bulunmuyor; yalnızca İstiklâl Marşı’nın metni yer alıyor."
+   }
+  ],
+  "10": [
+   {
+    "q": "1. Türkiye Diyanet Vakfı İslam Ansiklopedisi’nin “din” maddesini inceleyiniz.",
+    "a": "Din, Allah tarafından konulan, akıl sahiplerini kendi iradeleriyle iyiye yönelten ilahi düzen; itaat, teslimiyet ve ibadetleri kapsayan sistemdir."
+   },
+   {
+    "q": "2. Kur’an-ı Kerim’de “din” kelimesinin hangi anlamlarda kullanıldığını araştırınız.",
+    "a": "Hüküm, şeriat, itaat, teslimiyet, ibadet, millet, hesap ve ceza (yevmü’d-din), hâkimiyet ve İslam anlamlarında kullanılır."
+   },
+   {
+    "q": "3. Farklı dinler hakkında bilgi sahibi olmanın faydalarını araştırınız.",
+    "a": "Hoşgörü ve kültürel farkındalık kazandırır; dinleri karşılaştırmayı, sağlıklı iletişimi ve kendi dinini daha iyi anlamayı sağlar."
+   },
+   {
+    "q": "4. Dinin insan hayatındaki önemini araştırınız.",
+    "a": "Hayata anlam katar, ahlakı ve davranışları yönlendirir, kimlik ve aidiyet sağlar, dayanışmayı güçlendirir, ölüm ve ötesine dair açıklama sunar."
+   },
+   {
+    "q": "5. Dinlerin yayıldığı bölgeleri dünya haritası üzerinde inceleyiniz.",
+    "a": "Hristiyanlık Avrupa ve Amerika’da, İslam Orta Doğu, Asya ve Afrika’da, Hinduizm Hindistan’da, Budizm Asya’da, Yahudilik İsrail ve diasporada yoğunlaşır."
+   },
+   {
+    "q": "Rum suresi 30. ayetten hareketle insan doğası (fıtrat) ile din arasındaki ilişkiyi yorumlayınız.",
+    "a": "İnsan yaratılış itibarıyla dine yatkındır; dosdoğru din fıtrata uygundur ve Allah’ın yaratmasında değişiklik yoktur, ancak insanların çoğu bunu bilmez."
+   },
+   {
+    "q": "A.1. İslam âlimleri ile Batılı din bilimcilerinin din tanımlarındaki temel farklılıklar nelerdir?",
+    "a": "İslam âlimleri vahye ve Allah’ın koyduğu ilahi düzene dayalı normatif tanım yaparken Batılılar dini dışarıdan gözlemleyerek beşerî, psikolojik ve sosyolojik bir olgu olarak betimler."
+   },
+   {
+    "q": "A.2. Batı’da dinler tarihinin ortaya çıkış sebepleri nelerdir?",
+    "a": "Coğrafi keşifler, sömürgecilik ve misyonerlik, Doğu dinleriyle karşılaşma, Aydınlanma ve tarihsel-eleştirel yöntemin gelişmesi dinlerin bilimsel incelenmesini doğurmuştur."
+   },
+   {
+    "q": "A.3. Dinler tarihini tanımlayınız; konusu ve metodunu açıklayınız.",
+    "a": "Dinleri tarihî süreç içinde kendi kaynak ve bağlamlarında inceleyen bilim dalıdır; konusu bütün dinlerin inanç, ibadet, metin ve kurumları, metodu ise tarihî, betimleyici ve karşılaştırmalı incelemedir."
+   }
+  ],
+  "12": [
+   {
+    "q": "Sayfada yanıtlanacak soru veya etkinlik var mı?",
+    "a": "Hayır, verilen metinde soru veya etkinlik bulunmuyor."
+   }
+  ],
+  "14": [
+   {
+    "q": "Bu sayfada soru veya etkinlik var mı?",
+    "a": "Hayır, verilen sayfa metninde soru ya da etkinlik bulunmamaktadır."
+   }
+  ],
+  "15": [
+   {
+    "q": "Sayfadaki sorular ve etkinlikler nelerdir?",
+    "a": "Bu sayfada soru veya etkinlik yoktur; yalnızca bilgi metni, ayet örnekleri ve bilgi kutuları yer alır."
+   }
+  ],
+  "19": [
+   {
+    "q": "Dinî araştırmalarda tarafsız olmak için hangi ilkelere dikkat edilmelidir?",
+    "a": "Ön yargı ve duygulardan uzak durmak, dinleri olduğu gibi betimlemek, hak-batıl/doğru-yanlış/üstün-aşağı değerlendirmesi yapmamak, savunmacı ve yargılayıcı olmamak, dinleri kendi bağlamında ve kaynaklarına dayalı incelemek."
+   }
+  ],
+  "20": [
+   {
+    "q": "İslam dünyasında diğer dinlerle ilgili çalışmalar ne zaman başlamıştır?",
+    "a": "Hicri ilk asırda."
+   },
+   {
+    "q": "\"el-Fırak\" ve \"er-Redd\" tarzı eserler neden modern dinler tarihinin amaç ve metotlarına aykırıdır?",
+    "a": "Dinleri tarafsız ele almadıkları ve nesnel olmayan yaklaşımları nedeniyle."
+   },
+   {
+    "q": "\"el-Fark Beyne'l-Fırak\" kime aittir?",
+    "a": "Abdulkahir el-Bağdâdî."
+   },
+   {
+    "q": "\"er-Reddü'l-Cemîl\" kime aittir?",
+    "a": "Gazâlî."
+   },
+   {
+    "q": "Diğer dinleri objektif inceleyen çalışmalara iki örnek nedir?",
+    "a": "Bîrûnî'nin \"Tahkîku Mâ li'l-Hind\" ve Ebu'l-Meâli Muhammed b. Ubeydullah'ın \"Beyânü'l-Edyan\" adlı eserleri."
+   },
+   {
+    "q": "Bîrûnî'nin \"Tahkîku Mâ li'l-Hind\" eseri hangi din hakkında tarafsız kaleme alınmıştır?",
+    "a": "Hinduizm."
+   },
+   {
+    "q": "\"Milel\" ve \"nihal\" terimleri ne anlama gelir?",
+    "a": "Milel vahye dayanan dinler/milletler; nihal diğer dinler/yollar, mezhepler."
+   },
+   {
+    "q": "\"Kitâbu'l-Fasl fi'l-Milel ve'l-Ehvâi ve'n-Nihal\" kime aittir?",
+    "a": "İbn Hazm."
+   },
+   {
+    "q": "\"el-Milel ve'n-Nihal\" kime aittir ve önemi nedir?",
+    "a": "Şehristanî; mukayeseli dinler tarihi çalışmalarının ilki kabul edilir ve yüzyıllarca kaynak kitap olarak kullanılmıştır."
+   },
+   {
+    "q": "Osmanlı'da Tanzimat Dönemi'ne kadar hangi tarz eserler ön plandadır?",
+    "a": "\"el-milel ve'n-nihal\" ile \"kısas-ı Enbiyâ\" tarzı eserler veya bunların tercümeleri."
+   },
+   {
+    "q": "Dinler tarihi Osmanlı eğitim kurumlarında ne zaman yer almaya başlamıştır?",
+    "a": "19. yüzyılın ikinci yarısından itibaren."
+   },
+   {
+    "q": "Cumhuriyet öncesi dinler tarihiyle ilgili ilk eser nedir?",
+    "a": "Şemseddin Sami'nin \"Esâtir\" adlı kitabı."
+   },
+   {
+    "q": "\"Esâtir\" kelimesi hangi ifadeden alınmıştır?",
+    "a": "Kur'an-ı Kerim'deki \"Esâtîru'l-Evvelîn\" (eskilerin masalları) ifadesinden."
+   },
+   {
+    "q": "Şehristanî'nin \"el-Milel ve'n-Nihal\" eseri ne kabul edilir?",
+    "a": "Mukayeseli dinler tarihi çalışmalarının ilki."
+   }
+  ],
+  "22": [
+   {
+    "q": "Sayfada yanıtlanacak soru veya etkinlik var mı?",
+    "a": "Hayır; sayfada yalnızca bilgilendirme metni ve iki \"Biliyor musunuz?\" kutusu yer almaktadır."
+   }
+  ],
+  "24": [
+   {
+    "q": "MÖ 13. yüzyıl gibi erken bir dönemde ortaya çıkmasına rağmen Yahudiliğin dünya üzerinde demografik olarak diğer dinlere göre daha az yayılmasının sebepleri nelerdir?",
+    "a": "Yahudiliğin etnik/millî bir din olması, doğuştan Yahudi sayılma ve soy bağı esası, misyonerlik yapmaması, din değiştirmenin zorluğu, tarih boyunca sürgün ve baskılara maruz kalması, cemaat hâlinde kapalı bir yaşam sürmesi ve dünyaya dağınık azınlıklar olarak yayılması."
+   }
+  ],
+  "27": [
+   {
+    "q": "1. İslam âlimleri ile Batılı din bilimcilerinin din tanımlarındaki temel farklılıklar nelerdir?",
+    "a": "İslam âlimleri vahiy, tevhid ve ahireti esas alır; Batılılar daha çok beşerî tecrübe, toplum, psikoloji ve betimleyici yaklaşımı öne çıkarır."
+   },
+   {
+    "q": "2. Batı’da dinler tarihinin ortaya çıkış sebepleri nelerdir?",
+    "a": "Rönesans, Reform, Aydınlanma, coğrafi keşifler, sömürgecilik ve misyonerlik, kutsal metinlerin tarihî-eleştirel incelenmesi ve farklı dinlerle karşılaşma etkili olmuştur."
+   },
+   {
+    "q": "3. Dinler tarihini tanımlayınız; konusu ve metodunu açıklayınız.",
+    "a": "Dinleri tarihsel süreçte inceleyen bilim dalıdır. Konusu dinlerin inanç, ibadet, kutsal metin ve kurumlarıdır; metodu tarihî, betimleyici, karşılaştırmalı ve objektif incelemedir."
+   },
+   {
+    "q": "4. Ülkemizde dinler tarihi alanında yazılmış kaynak eserlerden beş tanesini yazınız.",
+    "a": "M. Şemsettin Günaltay’ın “Tarih-i Edyan”ı, Günay Tümer-Abdurrahman Küçük’ün “Dinler Tarihi”, Mehmet Aydın’ın “Dinler Tarihine Giriş”, Ekrem Sarıkçıoğlu’nun “Başlangıçtan Günümüze Dinler Tarihi”, Şaban Kuzgun’un “Dinler Tarihi”."
+   },
+   {
+    "q": "5. Dinleri öğrenmenin İslam açısından önemini kısaca açıklayınız.",
+    "a": "Kur’an’ın diğer dinlerle ilgili ayetlerini anlamak, İslam’ı doğru tebliğ etmek, inançları mukayese etmek, hoşgörü ve diyalogu geliştirmek ve kendi inancını savunmak için önemlidir."
+   },
+   {
+    "q": "B.1. “Din, inanç olarak içtenlikle kabul edildiği ve tam manasıyla kavrandığı takdirde karakter ve kişiliği tamamen değiştirebilecek güçte bir genel hakikatler sistemidir.” tanımı kime aittir?",
+    "a": "B) Muhammed İkbal"
+   },
+   {
+    "q": "B.2. “Din, derin manevi tecrübenin bir türüdür.” tanımı hangi disipline aittir?",
+    "a": "A) Psikoloji"
+   },
+   {
+    "q": "B.3. Dinin kurumsal yapısıyla ilgili hangisi yanlıştır?",
+    "a": "D) Fikir tatbikatı açısından sistemleşememiştir."
+   }
+  ],
+  "28": [
+   {
+    "q": "4. Dinler tarihinin metodu ile ilgili aşağıda verilenlerden hangisi yanlıştır?",
+    "a": "B) Dinleri üstünlük, doğruluk ve yanlışlık bakımından değerlendirir."
+   },
+   {
+    "q": "5. Aşağıdakilerden hangisi dinler tarihinin temel kaynakları arasında sayılamaz?",
+    "a": "A) Fünûnu’l-Efnân"
+   },
+   {
+    "q": "C-1. Din, .......................... değil, .......................... bir yapıdadır.",
+    "a": "Statik değil, dinamik."
+   },
+   {
+    "q": "C-2. Din, .......................... duygusunu harekete geçirerek insanı kötülükten alıkoymaya ve iyiliğe teşvik etmeye çalışır.",
+    "a": "Vicdan."
+   },
+   {
+    "q": "C-3. “Tahkîku Mâ li’l-Hind” adlı eser, .......................... konusunda tarafsız kaleme alınmış önemli bir eserdir.",
+    "a": "Dinler Tarihi."
+   },
+   {
+    "q": "C-4. Friedrich Max Müller’in ......................................... adlı eseri, Avrupa’da dinler tarihinin başlangıç noktası kabul edilir.",
+    "a": "Din Bilimine Giriş."
+   },
+   {
+    "q": "C-5. Kur’an-ı Kerim’de genellikle Yahudiler ve Hristiyanlar için .............................. kavramı kullanılır.",
+    "a": "Ehl-i Kitap."
+   },
+   {
+    "q": "D-1. İslam dünyasında din, sevgi ve inanca indirgenerek vicdanlarda yaşanan; Batı’da ise hayatın bütününü içine alan bir olgu olarak görülür.",
+    "a": "Y"
+   },
+   {
+    "q": "D-2. Din, içine düştüğü yalnızlık ve çaresizlik karşısında insana ümit, teselli ve güven sağlayan bir sığınaktır.",
+    "a": "D"
+   },
+   {
+    "q": "D-3. Cumhuriyet öncesi dönemde dinler tarihi ile ilgili kaleme alınan ilk eser, Şemseddin Sami’nin Tarih-i Edyan isimli kitabıdır.",
+    "a": "Y"
+   },
+   {
+    "q": "D-4. Gazali’nin “el-Milel ve’n-Nihal” adlı eseri, mukayeseli dinler tarihi çalışmalarının ilki kabul edilir.",
+    "a": "Y"
+   },
+   {
+    "q": "D-5. Batı’da İslam üzerine yapılan çalışmalar, dinler tarihinden ziyade oryantalistik çerçevede ele alınmaktadır.",
+    "a": "D"
+   }
+  ],
+  "29": [
+   {
+    "q": "İslam’da tevhit inancının özellikleri nelerdir?",
+    "a": "Allah’ın bir ve tek olması, eşi-benzeri ve ortağı bulunmaması, tek yaratıcı olması, inançta ihlas/samimiyet, tüm peygamberlerin ortak mesajı olması ve insanı şirkten kurtarmasıdır."
+   },
+   {
+    "q": "İslam dininin temel kaynaklarının inanç esaslarının oluşmasındaki yerini örnekleriyle açıklayınız.",
+    "a": "Kur’an ve sünnet temel kaynaktır. Kur’an iman esaslarını bildirir (İhlas suresi, âmentü); sünnet bunları açıklar ve örneklendirir (Cebrail hadisinde imanın şartları sayılır)."
+   },
+   {
+    "q": "İslamiyet’in “en son din olması” ile ilgili deliller nelerdir?",
+    "a": "Kur’an’da dinin kemale erdirildiği (Mâide 3) ve Hz. Muhammed’in son peygamber olduğu (Ahzâb 40) bildirilir; önceki dinlerin bozulması, İslam’ın evrensel ve tüm insanlığa hitap etmesi de delildir."
+   },
+   {
+    "q": "İslamiyet’in yayıldığı coğrafyayı haritadan bularak bu coğrafya çerçevesinde hangi dinlerin yer aldığını araştırınız.",
+    "a": "Hicaz/Arap Yarımadası’ndan Orta Doğu, Kuzey Afrika, Anadolu, Balkanlar, Orta ve Güneydoğu Asya’ya yayılmıştır. Bu coğrafyada Hristiyanlık, Yahudilik, Mecusilik/Zerdüştlük, Hinduizm, Budizm ve putperestlik görülür."
+   },
+   {
+    "q": "Müslüman’ın yaşamında kutsal ve din dışı ayrımı var mıdır? Araştırınız.",
+    "a": "Hayır; İslam hayatın bütününü kuşatır, dünya-ahiret bütünlüğü vardır. Günlük işler de niyet, helal-haram ve sorumluluk ölçüleriyle dinin kapsamındadır."
+   }
+  ],
+  "35": [
+   {
+    "q": "İslam’ın, Allah’ın insanlık için uygun gördüğü yegâne inanç sistemi olması ne anlama gelmektedir? Araştırınız.",
+    "a": "Allah katında kabul edilen hak dinin yalnızca İslam olduğu, insanın tevhit inancıyla Allah’a yönelip teslim olması gerektiği anlamına gelir."
+   },
+   {
+    "q": "“Her çocuk İslam fıtratı üzere doğar. Daha sonra anne babası onu Yahudi, Hristiyan veya Mecusi yapar.” hadisini ahlakın kaynağı ve değişebilirliği açısından yorumlayınız.",
+    "a": "Ahlakın kaynağı insandaki doğuştan iyilik eğilimi, yani fıtrattır; ancak aile ve çevre bu eğilimi değiştirebilir. Bu nedenle ahlak doğuştan temellidir ama eğitim ve alışkanlıklarla şekillenir."
+   }
+  ],
+  "36": [
+   {
+    "q": "Ayetikerimede vurgulanan “ortak söz”den kastedilen nedir? Yorumlayınız.",
+    "a": "Tevhit ilkesidir: yalnızca Allah’a ibadet etmek, O’na hiçbir şeyi ortak koşmamak ve Allah’ı bırakıp birbirini ilah edinmemek; yani Ehl-i kitabı da kapsayan ortak inanç zemini."
+   }
+  ],
+  "38": [
+   {
+    "q": "Yukarıdaki ayetten hareketle, Allah’ın (cc) Kur’an’ı korumasının nasıl olduğunu/olacağını açıklayınız.",
+    "a": "Allah, Kur’an’ı indirmiş ve onu değiştirilmeden koruyacağını bildirmiştir; bu koruma, vahyin ezberlenip yazılması ve aslının kıyamete kadar tahriften korunmasıyla gerçekleşmiştir."
+   }
+  ],
+  "42": [
+   {
+    "q": "Sayfada yanıtlanacak soru veya etkinlik var mı?",
+    "a": "Hayır; sayfada yalnızca bilgilendirici metin, ayet-hadis örnekleri ve bilgi kutusu bulunmaktadır."
+   }
+  ],
+  "45": [
+   {
+    "q": "Hudeybiye Antlaşması'nın İslamiyet'in yayılışındaki etkisi nedir?",
+    "a": "Sağladığı barış ortamıyla tebliğ ve ticaret serbestleşti; Müslüman sayısı hızla arttı ve Mekke'nin fethine zemin hazırlandı."
+   },
+   {
+    "q": "Emeviler Dönemi'nde İslamiyet'in yayıldığı bölgeleri yazınız.",
+    "a": "Kuzey Afrika, Endülüs (İspanya), İran, Horasan, Maveraünnehir, Sind ve Kafkasya."
+   },
+   {
+    "q": "Anadolu'nun fethi ve İslamiyet'in yayılışı hangi dönemde olmuştur?",
+    "a": "Selçuklular Dönemi'nde; Malazgirt Savaşı sonrası Anadolu fethedilmiş, Türk beylikleri ve Anadolu Selçukluları döneminde İslamiyet yayılmıştır."
+   },
+   {
+    "q": "Kur'an'da Ehlikitap ifadesi hangi anlamda ve kimler için kullanılmaktadır?",
+    "a": "Kendilerine ilahi kitap verilen Yahudiler ve Hristiyanlar için \"kitap ehli\" anlamında kullanılır."
+   },
+   {
+    "q": "Peygamberler için ismet sıfatı niçin önemlidir?",
+    "a": "Peygamberlerin günah ve hatalardan korunmuş olmasını ifade eder; tebliğin güvenilirliği ve örnekliği için gereklidir."
+   },
+   {
+    "q": "Hz. Muhammed'in peygamberliğinin Mekke Dönemi'ne ait olmayan ifade hangisidir?",
+    "a": "E) Hayber'in Fethi"
+   },
+   {
+    "q": "Kur'an-ı Kerim'de Ehlikitap hakkında verilen bilgilerden hangisi değildir?",
+    "a": "C) Hz. Muhammed'in peygamberliğini kabul ettikleri"
+   },
+   {
+    "q": "İslam ilk kez hangi dönemde Arabistan dışında yayılmaya başlamıştır?",
+    "a": "B) Dört Halife Dönemi"
+   }
+  ],
+  "46": [
+   {
+    "q": "4. Yukarıdaki hadiste İslam dininin önem verdiği ahlaki ilke ve değerlerden hangisi vurgulanmaktadır?",
+    "a": "A) Doğru sözlü, dürüst ve adil olmak"
+   },
+   {
+    "q": "5. Kur'an-ı Kerim'de Yahudi ve Hristiyanları ifade etmek için kullanılan kavram hangisidir?",
+    "a": "D) Ehlikitap"
+   },
+   {
+    "q": "C.1. “Her çocuk ..............üzere doğar...” boşluğuna hangi kelime gelir?",
+    "a": "Fıtrat"
+   },
+   {
+    "q": "C.2. İslamiyet, Hint Yarımadası'na hangi dönemde girmiştir?",
+    "a": "Gazneliler Dönemi"
+   },
+   {
+    "q": "C.3. “...................., elinden ve dilinden insanların güvende olduğu kimsedir.” boşluğuna hangi kelime gelir?",
+    "a": "Müslüman"
+   },
+   {
+    "q": "C.4. İslam inancının ilk ve en önemli kaynağı nedir?",
+    "a": "Kur’an-ı Kerim"
+   },
+   {
+    "q": "C.5. İslam’a giriş anahtarı sayılan şart nedir?",
+    "a": "Kelimeişehadet"
+   },
+   {
+    "q": "D.1. İslam, bütün peygamberlerin tebliğ ettiği dinin adıdır.",
+    "a": "D"
+   },
+   {
+    "q": "D.2. Hudeybiye Antlaşması, Medine Yahudileriyle ve gayrimüslim Araplarla yapılan bir antlaşmadır.",
+    "a": "Y"
+   },
+   {
+    "q": "D.3. İslam ilk kez Dört Halife Dönemi'nde Arabistan dışında yayılmaya başladı.",
+    "a": "D"
+   },
+   {
+    "q": "D.4. Endülüs Emeviler Dönemi'ne, Hulefayıraşidin Dönemi de denir.",
+    "a": "Y"
+   },
+   {
+    "q": "D.5. İslamiyet'te hayat kutsal ve din dışı olmak üzere ikiye ayrılmaktadır.",
+    "a": "Y"
+   }
+  ],
+  "47": [
+   {
+    "q": "Yahudilikteki Ezra ile Kur'an-ı Kerim'deki Üzeyir aynı kişi midir?",
+    "a": "Genel kabulle aynı kişidir; Üzeyir, Ezra'nın Arapça karşılığıdır."
+   },
+   {
+    "q": "\"Süleyman Mabedi\" ile \"Mescid-i Aksa\" aynı yer midir?",
+    "a": "Aynı kutsal alanda (Kudüs'teki Harem-i Şerif) yer alırlar; birebir aynı bina değillerdir."
+   },
+   {
+    "q": "Hz. İsa, Hz. Yakub, Hz. Yusuf ve Hz. Musa'dan bahseden kıssaları okuyunuz.",
+    "a": "Bu kıssalar tevhid, sabır, iman ve ilahi yardım temalarını işler."
+   },
+   {
+    "q": "Kur'an'da adı geçen peygamberlerden hangileri İsrailoğulları'na gönderilmiştir?",
+    "a": "Hz. Musa, Hz. Harun, Hz. Davud, Hz. Süleyman, Hz. İlyas, Hz. Elyesa, Hz. Zülkifl, Hz. Yunus, Hz. Zekeriya, Hz. Yahya ve Hz. İsa."
+   },
+   {
+    "q": "Hz. İsa'nın doğumuyla ilgili ayetleri Meryem suresinden okuyup paylaşınız.",
+    "a": "Meryem suresi 16-36. ayetler okunur; Hz. Meryem'e Cebrail'in müjdeleri ve Hz. İsa'nın doğumu anlatılır."
+   }
+  ],
+  "54": [
+   {
+    "q": "Kur'an-ı Kerim'de İsrailoğulları'ndan niçin inek kurban etmeleri istenmiştir?",
+    "a": "Bakara 67-73'e göre bu emir, işlenen bir cinayeti ortaya çıkarmak, öldürülen kişiyi diriltmek, Allah'ın ölüleri diriltme kudretini göstermek ve halkın itaatini sınamak içindir."
+   },
+   {
+    "q": "İbn Meymûn'un tespit ettiği iman esasları ile İslam'ın inanç esaslarını benzerlik ve farklılıkları açısından karşılaştırınız.",
+    "a": "Benzerlikler: tek Tanrı, peygamberlik, kutsal kitap, ilahi yargı, ahiret, ödül-ceza ve diriliş inancı. Farklılıklar: İslam'da melek ve kader inancı da vardır; Hz. Muhammed son peygamber, Kur'an son vahiydir. Yahudilikte Hz. Mûsâ en büyük peygamber, Tevrat değişmez ve son şeriat kabul edilir; ayrıca mesih inancı yer alır."
+   }
+  ],
+  "56": [
+   {
+    "q": "Yahudilerin Tanah adını verdikleri kutsal kitaplarına Hristiyanların Eski Ahit demelerinin sebebi nedir?",
+    "a": "Hristiyanlar bu kitapları, İsa’dan önceki döneme ait ilahi antlaşma/vahiy olarak gördükleri ve kendi kutsal kitapları olan Yeni Ahit’ten önce geldiğine inandıkları için “Eski Ahit” derler."
+   }
+  ],
+  "57": [
+   {
+    "q": "17. yüzyılda İzmir'de Mesihliğini ilan eden Sabatay Sevi ve onun adına atfen kurulan Sabataycılık akımı hakkında araştırma yapınız.",
+    "a": "1626 İzmir doğumlu Sabatay Sevi, 1665'te kendini Mesih ilan etti; Osmanlı baskısıyla 1666'da Müslüman oldu. Taraftarları, dıştan Müslüman görünüp onun Mesihliğine inanan ve \"Dönme\" denilen Sabataycılık akımını oluşturdu."
+   },
+   {
+    "q": "Kur'an-ı Kerim'de geçen İsrailoğulları'nın \"... sayılı birkaç gün dışında bize ateş dokunmayacaktır...\" (Bakara suresi, 80. ayet) ayeti tefsirlerde nasıl yorumlanmaktadır?",
+    "a": "Bu iddia reddedilir; 81. ayet, kötülük işleyip günahıyla kuşatılanın cehennemde ebedî kalacağını bildirir. Tefsirlerde \"sayılı günler\" buzağıya tapma süresi (40 gün) veya çok kısa bir süre olarak açıklanır; vurgu, azabın süresini onların belirleyemeyeceğidir."
+   }
+  ],
+  "58": [
+   {
+    "q": "\"Dinsel seçilmişlik\" ile \"etnik seçilmişlik\" düşüncesi arasında ne fark vardır?",
+    "a": "Dinsel seçilmişlik, Tanrı'ya itaat ve ahde uymaya bağlı \"kutsal kavim\" olmayı ifade ederken; etnik seçilmişlik, soy ve ırk üstünlüğüne dayalı bir seçilmişlik anlayışıdır."
+   }
+  ],
+  "61": [
+   {
+    "q": "Yahudilikte günlük ritüeller nelerdir?",
+    "a": "Sabah, öğleden sonra ve güneş battıktan sonra evde bireysel veya mabette cemaat hâlinde dua etmektir."
+   },
+   {
+    "q": "Günlük ritüellerin temelini hangi dualar oluşturur?",
+    "a": "\"Şema Yisrael\" (Dinle İsrail) duası ile Amida."
+   },
+   {
+    "q": "Amida nedir?",
+    "a": "Ritüelin ayakta yapılan bölümüdür."
+   },
+   {
+    "q": "Erkekler sabah ritüelinde ne yapar?",
+    "a": "Başlarına ve omuzlarına Tallit örter; cumartesi dışındaki günlerde sol kollarına ve alınlarına Tefilin bağlar."
+   },
+   {
+    "q": "Haftanın en kutsal günü hangisidir ve nedeni nedir?",
+    "a": "Şabat (cumartesi); Tanrı dünyayı altı günde yaratıp yedinci gün dinlendiği için."
+   },
+   {
+    "q": "Şabat yasakları ne zaman başlar ve biter?",
+    "a": "Cuma akşamı gün batımında başlar, cumartesi akşamı sona erer."
+   },
+   {
+    "q": "Şabat günü yasak olan işlerden bazıları nelerdir?",
+    "a": "Toprağı sürmek, tohum ekmek, ekin biçmek, hamur yapmak, fırında pişirmek, düğüm atmak/çözmek, dikiş dikmek/sökmek, avlanmak, yazmak, silmek, inşa etmek/yıkmak, ateş yakmak/söndürmek."
+   },
+   {
+    "q": "Günümüzde Şabat yasaklarına eklenen örnekler nelerdir?",
+    "a": "Araba, telefon ve elektrikli alet kullanmak, ışığı açıp kapamak, asansör düğmesine basmak."
+   },
+   {
+    "q": "Sinagog nedir?",
+    "a": "Süleyman Mabedi'nin yıkılmasından sonra ortaya çıkan, hem cemaat hem de cemaatin toplandığı yer; İbranicede \"keneset\", Türkçede \"havra\" denir."
+   },
+   {
+    "q": "İsrail bayrağındaki tasarım neyden esinlenmiştir?",
+    "a": "Birinci Siyonist Kongresi için hazırlanan tasarımdan; mavi çizgili tallit ve Davut Yıldızı'ndan."
+   },
+   {
+    "q": "Yıllık ritüeller nelerdir?",
+    "a": "Dinî bayramlardır."
+   }
+  ],
+  "64": [
+   {
+    "q": "Yahudiler, Süleyman Mabedi'nden geriye kalan batı duvarını niçin \"Ağlama Duvarı\" olarak isimlendirmişlerdir?",
+    "a": "Mabedin yıkılışına üzülüp yas tuttukları, günahlarına ağladıkları ve mabedin yeniden inşası için dua ettikleri için."
+   }
+  ],
+  "66": [
+   {
+    "q": "Hz. İsa (as) MÖ 5 veya 4 senesinde doğmasına rağmen Miladi takvimin başlangıcının 0 (sıfır) olarak kabul edilmesinin sebepleri ne olabilir?",
+    "a": "Takvimin başlangıcı, 6. yüzyılda Dionysius Exiguus’un Hz. İsa’nın doğumunu esas almasıyla belirlenmiştir. O dönemde yılların sıfırdan değil 1’den başlatılması ve doğum tarihinin yanlış hesaplanması (gerçekte MÖ 5-4) bu farklılığa yol açmıştır."
+   }
+  ],
+  "68": [
+   {
+    "q": "Kapadokya’da kilise ve evlerin yer altına yapılış amacı nedir?",
+    "a": "Roma dönemindeki baskı ve takibatlardan korunmak, gizlice ibadet etmek ve güvenliği sağlamak."
+   },
+   {
+    "q": "İmparator III. Leon’un kilisede bulunan heykellerin (ikonların) kırdırılmasını emretmesindeki sebep nelerdir?",
+    "a": "İkonlara tapınmanın putperestliğe dönüştüğü endişesi, dini saflaştırma isteği, İslam ve Yahudilikten etkilenme ile siyasi ve ekonomik nedenler."
+   },
+   {
+    "q": "Bu hususta İslam’ın Tevhit inancının bir etkisi olabilir mi?",
+    "a": "Evet, İslam’daki tevhit ve putperestlik yasağının Bizans’ı etkilediği görüşü vardır; ancak bu tartışmalıdır ve tek neden değildir."
+   }
+  ],
+  "69": [
+   {
+    "q": "Hristiyanlar İncil metinlerindeki bu kadar net çelişkileri nasıl yorumlamaktadırlar? Tartışınız.",
+    "a": "Bunları farklı yazar ve rivayetlerin üslup farkı, tarihsel/edebi tür çeşitliliği, teolojik vurgu önceliği, kutsal metnin asıl amacının kronoloji değil iman mesajı olduğu, kimi farklılıkların müstensih hatası sayıldığı veya sembolik okunduğu şeklinde yorumlarlar."
+   }
+  ],
+  "70": [
+   {
+    "q": "Kur’an-ı Kerim’deki Hz. İsa’nın akıbeti ile ilgili ayetler ile Hristiyanların bu konu hakkındaki inançları arasındaki farklılıklar nelerdir?",
+    "a": "Kur’an’a göre Hz. İsa çarmıha gerilmemiş, öldürülmemiştir; Allah onu kendine yükseltmiştir. Hristiyanlara göre ise Hz. İsa çarmıhta ölmüş, üç gün sonra dirilmiş ve göğe yükselmiştir."
+   }
+  ],
+  "71": [
+   {
+    "q": "Hristiyanlar, Hz. Muhammed’in (sav) peygamberliği hakkında günümüzde ne düşünmektedirler?",
+    "a": "Genellikle onu peygamber olarak kabul etmezler; çoğu, Hristiyanlığın İsa’da tamamlandığına inanır. Yine de bazı ilahiyatçılar ve dinler arası diyalog yanlıları ona saygı duyar ve peygamberliğini tartışır; görüşler mezhep ve kişiye göre değişir."
+   },
+   {
+    "q": "Kurtuluş konusunda Hristiyan mezhepleri arasında farklılıklar var mıdır?",
+    "a": "Evet. Katolik ve Ortodokslar imanla birlikte sakrament, tövbe ve iyi amellere de önem verir; Protestanlar ise kurtuluşu esas olarak yalnızca iman ve Tanrı’nın lütfuna bağlar. Ayrıntılar mezhebe göre değişir."
+   }
+  ],
+  "73": [
+   {
+    "q": "Martin Luther, Hristiyanlığın kutsal kitabının diğer dillere tercüme edilmesini neden istemiştir?",
+    "a": "Herkesin Kutsal Kitabı okuyup anlayabilmesi, kendi dilinde ayin yapabilmesi ve ruhban sınıfına bağımlı olmadan imanla kurtulabilmesi için."
+   },
+   {
+    "q": "Günümüz Amerika Birleşik Devletleri ve bazı Avrupa ülkelerinde Evanjelik kilisenin siyasetteki etkilerini din-siyaset ilişkisi bağlamında tartışınız.",
+    "a": "Evanjelik gruplar seçmen ve kamuoyu üzerinden siyaseti etkileyebilmekte; bu durum dinin siyasallaşması ve siyasetin dinî söylemle yönlendirilmesi tartışmalarını doğurmaktadır."
+   },
+   {
+    "q": "Martin Luther öncülüğünde başlayan Reform hareketlerinin Hristiyanlık açısından sonuçlarını yorumlayınız.",
+    "a": "Reform, Katolik Kilisesinin otoritesini sarstı; Protestan mezheplerinin doğmasına, Kutsal Kitabın yerel dillere çevrilmesine ve dinî çoğulculuğun artmasına yol açtı."
+   }
+  ],
+  "76": [
+   {
+    "q": "İslamiyet’teki kişi ile Allah (cc) arasına kimsenin girmemesi prensibi ile Hristiyanlıktaki ruhban sınıfının konumunu tartışınız.",
+    "a": "İslam’da kul, günahını doğrudan Allah’a itiraf eder; aracı yoktur. Hristiyanlıkta ruhban sınıfı, sakramentleri yönetip kilise adına günah bağışlayarak inanan ile Tanrı arasında aracı konumundadır."
+   }
+  ],
+  "77": [
+   {
+    "q": "Kıyamet Kilisesi'nin her bölümü farklı Hristiyan gruplara bölüştürülmüşken anahtarlarının Müslümanlarda olması, Müslümanların güvenilirliğiyle nasıl ilişkilendirilebilir?",
+    "a": "Anahtarların 638'de Hz. Ömer'in Kudüs'ü fethinden bu yana Müslüman bir aileye emanet edilmesi, Müslümanların farklı inanç gruplarına adil, tarafsız ve güvenilir davrandığını; bu nedenle Hristiyan gruplar arasında hakem/emanetçi kabul edildiklerini gösterir."
+   },
+   {
+    "q": "Hz. Meryem'in Selçuk'a hiç gelmediği ve bunun tarihen mümkün olmadığı belirtilmesine rağmen, Meryem Ana Kilisesi'nin bulunuşu ve tespiti hakkında ne tür anlatılar vardır?",
+    "a": "Anlatıya göre Alman rahibe Anna Katharina Emmerick'in vizyonlarına dayanılarak 1891'de Lazarist rahiplerce Bülbül Dağı'nda bulunmuş; vizyonlarda Meryem'in son yıllarını Efes'te geçirip orada öldüğü anlatılır. Kilise 1892'de açılmış, 1967'de Papa VI. Paul tarafından ziyaret edilmiştir; ancak bu anlatılar tarihî belge ve arkeolojik kanıtla doğrulanmamıştır."
+   }
+  ],
+  "78": [
+   {
+    "q": "1. Yahudiliğin doğuşu ve gelişimi ile ilgili tarihî süreci açıklayınız.",
+    "a": "Hz. İbrahim’in tek tanrı inancıyla başlar; Hz. Musa önderliğinde Mısır’dan çıkış ve Sina’da Tevrat’ın alınmasıyla şekillenir. Krallık dönemi, Kudüs Mabedi, Babil sürgünü ve diaspora sonrası Rabbani Yahudilik gelişmiştir."
+   },
+   {
+    "q": "2. Yahudilikteki inanç esaslarını listeleyerek kısaca açıklayınız.",
+    "a": "Tanrı’nın birliği, peygamberlere iman, Tevrat ve kutsal kitaplara iman, seçilmişlik, ahiret ve yeniden dirilme, Mesih’in geleceği. Bu esaslar büyük ölçüde Musa b. Meymûn’un belirlediği 13 ilkeye dayanır."
+   },
+   {
+    "q": "3. Hristiyanlığın doğuşu ve gelişimiyle ilgili tarihî süreci açıklayınız.",
+    "a": "Hz. İsa’nın Filistin’deki tebliğiyle doğdu; havariler ve Pavlus aracılığıyla yayıldı. Roma’da önce zulüm gördü, 313 Milano Fermanı ile serbest kaldı, 380’de resmî din oldu; 1054’te Doğu-Batı ayrılığı ve Reform’la mezhepler oluştu."
+   },
+   {
+    "q": "4. Hristiyanlığın inanç esaslarını listeleyerek kısaca açıklayınız.",
+    "a": "Teslis (Baba, Oğul, Kutsal Ruh), Hz. İsa’nın Tanrı’nın oğlu ve kurtarıcı Mesih olduğu, çarmıha gerilip dirildiği, asli günah ve kefaret, Kutsal Kitap’a iman, kilise ve ahiret inancı."
+   },
+   {
+    "q": "5. Hristiyanlıktaki ritüelleri, sembolleri ve kutsal mekânları kısaca tanıtınız.",
+    "a": "Ritüeller: vaftiz, Evharistiya/komünyon, dua, günah çıkarma, evlilik ve hastaların kutsanması. Semboller: haç, balık, güvercin, su ve mum. Kutsal mekânlar: kiliseler, manastırlar, Kudüs ve Vatikan."
+   },
+   {
+    "q": "B1. Yahudiliğin inanç esaslarıyla ilgili verilen bilgilerden hangisi yanlıştır?",
+    "a": "E) Yahudilikte tek tanrı inancı ikili tanrı inancına dönüşmemiştir; Yehova ve Elohim aynı Tanrı’nın adlarıdır."
+   },
+   {
+    "q": "B2. Theodor Herzl’in başı çektiği, Filistin’de Yahudi devleti kurmayı amaçlayan seküler akım hangisidir?",
+    "a": "C) Siyonizm."
+   }
+  ],
+  "79": [
+   {
+    "q": "İsmi Grekçe Christos kelimesinden alan ve Mesihçi anlamına gelen din hangisidir?",
+    "a": "B) Hristiyanlık"
+   },
+   {
+    "q": "Hristiyanların “üçlükte birlik veya birlikte üçlük” dediği inanç şekli hangisidir?",
+    "a": "E) Teslis"
+   },
+   {
+    "q": "Merkezi İstanbul olan, ayinleri Grekçe yapılan ve ikonlara saygı gösterilen Hristiyan akımı hangisidir?",
+    "a": "C) Ortodoksluk"
+   }
+  ],
+  "80": [
+   {
+    "q": "1. Yahudilikte haftanın kutsal gününe ne ad verilir?",
+    "a": "Şabat"
+   },
+   {
+    "q": "2. Yahudilerin mabetlerine ne denir?",
+    "a": "Sinagog ya da havra"
+   },
+   {
+    "q": "3. Yahudilikteki en önemli dinî semboller hangileridir?",
+    "a": "Yedi kollu şamdan ve Davut Yıldızı"
+   },
+   {
+    "q": "4. Eski Ahit ile Yeni Ahit’in birleşiminden oluşan Hristiyan kutsal kitap külliyatına ne denir?",
+    "a": "Kitab-ı Mukaddes"
+   },
+   {
+    "q": "5. Hristiyanlığın yayılması için gösterilen her türlü faaliyete ne ad verilir?",
+    "a": "Misyonerlik"
+   },
+   {
+    "q": "D1. İkinci Mabed Dönemi MS 70’te sona erdi.",
+    "a": "D"
+   },
+   {
+    "q": "D2. Yahudilikte inanç esaslarını bugünkü şekliyle tespit eden kişi Musa b. Meymûn’dur.",
+    "a": "D"
+   },
+   {
+    "q": "D3. Hristiyanlar haftalık ayinlerini cumartesi günü yaparlar.",
+    "a": "Y"
+   },
+   {
+    "q": "D4. Yahudilikte “sünnet” dinin kesin kurallarından biri değildir.",
+    "a": "Y"
+   },
+   {
+    "q": "D5. Hz. İsa’nın uyguladığı hususları Pavlus’un önderliğindeki Gentile-Hristiyanlığı uygulamamıştır.",
+    "a": "D"
+   }
+  ],
+  "81": [
+   {
+    "q": "İslam dininin İran, Hindistan ve Çin bölgelerine yayılışını araştırınız.",
+    "a": "İran'da Sasaniler'in yıkılışıyla (636-651), Hindistan'da Gazneliler ve Delhi Türk Sultanlığı döneminde, Çin'de ise İpek Yolu ticareti ve Müslüman tüccarlar aracılığıyla yayıldı."
+   },
+   {
+    "q": "Hint dinlerinin genel özellikleri nelerdir? Araştırınız.",
+    "a": "Reenkarnasyon ve karma inancı, mokşa/nirvana hedefi, kutsal metinler (Vedalar), meditasyon, ahimsa (şiddetsizlik) ve Hinduizm'de kast sistemi öne çıkar."
+   },
+   {
+    "q": "Hint alt kıtasında Müslümanların yoğun olmasının sebeplerini araştırınız.",
+    "a": "Türk-İslam devletlerinin hüküm sürmesi, sufilerin faaliyetleri, ticaret, İslam'ın eşitlikçi yapısının kast sistemine alternatif olması ve göçler etkili olmuştur."
+   },
+   {
+    "q": "Hint alt kıtasında hüküm sürmüş Türk ve Müslüman devletleri hangileridir? Araştırınız.",
+    "a": "Gazneliler, Gurlular, Delhi Türk Sultanlığı, Babürlüler ve Dekken'deki Bahmani, Adilşahi, Kutbşahi gibi devletlerdir."
+   },
+   {
+    "q": "Çin dinlerinin genel özellikleri nelerdir? Araştırınız.",
+    "a": "Konfüçyüsçülük'te ahlak ve toplumsal düzen, Taoizm'de Tao ve yin-yang uyumu, ayrıca atalara saygı, ruh ve doğa kültleri ile kehanet öne çıkar."
+   }
+  ],
+  "87": [
+   {
+    "q": "Hinduizm’deki karma anlayışının İslam’daki kader inancından farkı nedir? Tartışınız.",
+    "a": "Karma, insanın eylemlerinin sonucunu doğum-ölüm döngüsünde belirleyen otomatik bir yasadır; İslam’daki kader ise Allah’ın ezelî ilmi ve takdiridir, reenkarnasyon içermez."
+   },
+   {
+    "q": "İslam’ın Hindistan’a girişinden sonra Hindu dinî yaşantısında ne gibi gelişmeler yaşanmıştır? Araştırınız.",
+    "a": "Bhakti hareketi güçlenmiş, tasavvufun etkisiyle bazı Hindu reform hareketleri doğmuş, kast sistemine yönelik eleştiriler artmış ve dinî uygulamalarda karşılıklı etkileşim yaşanmıştır."
+   }
+  ],
+  "88": [
+   {
+    "q": "Tek tanrılı dinlerdeki ahiret inancı ile Hinduizm’deki karma ve tenasüh inancı üzerine bir beyin fırtınası yapınız.",
+    "a": "Tek tanrılı dinlerde ahiret tek bir ölüm sonrası hesap ve cennet/cehennemdir; Hinduizm’de ise karmaya göre ruh yeniden doğar (tenasüh/samsara) ve kastı belirleyen döngü sürer."
+   },
+   {
+    "q": "Hinduizm’deki karma ve samsara yasası ile kast teşkilatının yapısı arasında nasıl bir ilişki vardır? Yorumlayınız.",
+    "a": "Karma, kişinin önceki eylemlerine göre yeniden doğuşunu ve doğacağı kastı belirler; samsara döngüsü içinde alt kast ve paryalar kötü, üst kastlar iyi karmaya bağlanarak kast sistemi dinî olarak meşrulaştırılır."
+   }
+  ],
+  "90": [
+   {
+    "q": "Hinduların ölü yakma geleneğinin temelinde yatan unsurlar nelerdir?",
+    "a": "Ruhun bedenden ayrılarak yeni bir bedene girmesi, cesedin hava, su, ateş ve toprak olmak üzere dört temel unsura dönüşmesi ve kurtuluşa erenlerin gömülmesi; yakma görevinin oğul veya erkek akrabaya ait olması."
+   }
+  ],
+  "93": [
+   {
+    "q": "Sayfada yanıtlanacak soru veya etkinlik var mı?",
+    "a": "Hayır, sayfa metninde soru ya da etkinlik bulunmuyor."
+   }
+  ],
+  "95": [
+   {
+    "q": "“Hiçbir canlıya zarar vermeme” ilkesi Budistlerin en önemli kurallarından biri olmasına rağmen, Myanmar gibi ülkelerde Müslümanlara yönelik Budistlerin uyguladığı şiddet hakkında Budistler ne düşünmektedirler?",
+    "a": "Görüşler farklıdır; çoğu Budist bu şiddeti ahimsa ilkesine aykırı bularak kınar, milliyetçi gruplar ise siyasi/etnik gerekçelerle savunabilir veya inkâr edebilir."
+   }
+  ],
+  "100": [
+   {
+    "q": "Yukarıdaki metni yorumlayınız.",
+    "a": "Guru Nanak, Hinduların Ganj Nehri'nden tanrılara su atma âdetini, suyun o kadar uzaktaki tanrılara ulaşamayacağını ima ederek eleştirmiştir; böylece körü körüne yapılan ritüellerin anlamsızlığını ve gerçek inancın akılla sorgulanması gerektiğini vurgulamıştır."
+   }
+  ],
+  "101": [
+   {
+    "q": "Guru Nanak’ın yaşadığı dönemde Hindistan’da etkili olan sufi gelenekler nelerdir?",
+    "a": "Çiştiyye, Suhreverdiyye, Kadiriyye, Kübreviyye, Şettariyye ve Nakşibendiyye gibi tarikatlar etkiliydi."
+   },
+   {
+    "q": "Bu geleneklerin Hindistan’daki etkileri nelerdir?",
+    "a": "İslam’ın yayılmasına, tevhit ve eşitlik düşüncesine, tasavvufi şiir ve müziğe katkı sağladılar; Sihizm’in tek Tanrı, kast karşıtlığı ve ibadet anlayışını etkilediler."
+   }
+  ],
+  "103": [
+   {
+    "q": "Sihlerin kirpan (hançer) taşıması ve keş (saç kesmemeleri) nedeniyle türban takmaları modern dünyada sorun oluşturur mu; nasıl çözümler bulunmuştur?",
+    "a": "Evet; güvenlik, okul ve iş yeri kuralları sorun çıkarabilir. Çözüm olarak yasal muafiyetler, küçük/köreltilmiş ve kapalı taşınan kirpan, dinî türban hakkının tanınması gibi uygulamalar geliştirilmiştir."
+   },
+   {
+    "q": "Sih kadınları için türban takmak zorunlu mudur?",
+    "a": "Genel olarak zorunlu değildir; vaftizli Sih kadınlar saçlarını kesmez, ancak türban takmak çoğunlukla kişisel tercihtir ve birçok Sih kadını türban takar."
+   }
+  ],
+  "109": [
+   {
+    "q": "Konfüçyüs’ün Tanrı ve insan arasında kurduğu ilişkiyi yorumlayınız.",
+    "a": "Konfüçyüs’e göre Tanrı’ya hizmet, önce insanlara hizmet ederek ve ahlaki sorumlulukları yerine getirerek başlar; o, metafizik yerine insan ilişkilerindeki ahlakı ön planda tutar."
+   }
+  ],
+  "117": [
+   {
+    "q": "Bu sayfadaki sorular ve etkinlikler nelerdir?",
+    "a": "Sayfada soru veya etkinlik bulunmamaktadır; yalnızca Mecusilik hakkında bilgi metni ve kimlik kartı yer almaktadır."
+   }
+  ],
+  "119": [
+   {
+    "q": "Mecusilikteki bakireden doğacağına inanılan Saoşyant inancı ile Yahudilik ve Hristiyanlıktaki Mesih düşüncesi arasında bir bağlantı var mıdır?",
+    "a": "Benzerlikler vardır (kurtarıcı beklentisi, bakireden doğum, ahir zamanda iyiliğin hâkim olması); ancak doğrudan bir bağlantı tartışmalıdır. Bazı araştırmacılar Pers-Yahudi ilişkileri üzerinden etkileşim ihtimalini savunur, bazıları ise her inancın kendi tarihsel bağlamında özgün olduğunu belirtir."
+   }
+  ],
+  "120": [
+   {
+    "q": "İslamiyet’te güneş tam doğarken, tam tepedeyken ve tam batarken ibadet edilmesinin kerih görülmesinde Mecusiliğe benzememe (teşebbüh) kaygısı yatıyor olabilir mi? Yorumlayınız.",
+    "a": "Evet, olabilir; bu vakitler Mecusilerin ibadet zamanlarıyla örtüştüğü için onlara benzemekten kaçınma kaygısı etkili olmuş olabilir. Yine de tek neden bu değildir; güneşe tapınma izlenimini önlemek de amaçlanmıştır."
+   }
+  ],
+  "122": [
+   {
+    "q": "Hinduizm’deki toplum düzeni nasıldır? Açıklayınız.",
+    "a": "Kast sistemi vardır; toplum doğum ve karma temelinde Brahmin, Kşatriya, Vaişya ve Sudra olarak sınıflara ayrılır."
+   },
+   {
+    "q": "Budizm’deki sekiz dilimli yol nelerdir?",
+    "a": "Doğru görüş, doğru niyet, doğru söz, doğru davranış, doğru geçim, doğru çaba, doğru farkındalık ve doğru meditasyondur."
+   },
+   {
+    "q": "Sihizm’deki tanrı ve kutsal kitap inancını açıklayınız.",
+    "a": "Tek, ebedî ve sureti olmayan bir Tanrı’ya inanılır; Guru Granth Sahib kutsal kitap olup yaşayan guru kabul edilir."
+   },
+   {
+    "q": "Taoizm’e göre kişilerde bulunması gereken üç özellik nedir?",
+    "a": "Şefkat, ölçülülük/sadelik ve alçak gönüllülüktür."
+   },
+   {
+    "q": "Mecusilikte ateş niçin önemlidir ve bununla ilgili ritüeller nelerdir? Açıklayınız.",
+    "a": "Ateş, Ahura Mazda’nın ışığını ve saflığını simgeler; ateş tapınaklarında kutsal ateş sürekli yakılır ve saflık ritüelleri yapılır."
+   },
+   {
+    "q": "Hinduizm’in kutsal kitapları için aşağıdakilerden hangisi söylenemez?",
+    "a": "D) Tek bir bağlayıcı kutsal kitap bulunur."
+   },
+   {
+    "q": "Aşağıdakilerden hangisi Hinduizm’deki karma ve tenasüh inancıyla ilgili bir bilgi değildir?",
+    "a": "D) İnsan bir kez ölecek ve sonra yeniden dirilecektir."
+   },
+   {
+    "q": "Aşağıdakilerden hangisi Budizm’deki dört yüce hakikatten biridir?",
+    "a": "D) Acı ve ıstırabın kaynağı, istek ve arzulardır."
+   }
+  ],
+  "123": [
+   {
+    "q": "Sihizm inancıyla ilgili verilen bilgilerden hangisi yanlıştır?",
+    "a": "E) Karma inancını reddederler."
+   },
+   {
+    "q": "Konfüçyüs’e göre üstün insanın özelliklerinden hangisi değildir?",
+    "a": "C) Soyluluğuyla ön plandadır."
+   },
+   {
+    "q": "Sihlerin günlük yaşamlarında … diye isimlendirilen obje ve sembolleri kendilerinde bulundurması gerekir.",
+    "a": "Kakkas"
+   },
+   {
+    "q": "Budist dinî yapıları için kullanılan, tapınak/manastır/türbe anlamına gelen ritüel mekânları … olarak isimlendirilir.",
+    "a": "Vihara"
+   },
+   {
+    "q": "Hindistan’da … doğurganlık ve bereketin sembolü olarak kabul edilir.",
+    "a": "Kutsal İnek"
+   },
+   {
+    "q": "Taoizm’de … mutluluğun kaynağının tabiatta eylemsizliğe ve mevcutla yetinmeye bağlı olduğunu savunan prensiptir.",
+    "a": "Wu Wei"
+   },
+   {
+    "q": "Mecusiliğin kurucusu Zerdüşt, Tanrı’yı … olarak tanımlayıp onu en yüce, her şeye gücü yeten şeklinde ifade etmiştir.",
+    "a": "Ahura Mazda"
+   }
+  ],
+  "124": [
+   {
+    "q": "Konfüçyanizm’de ruhban sınıfı yoktur.",
+    "a": "D"
+   },
+   {
+    "q": "Hangi ırk ve cinsten olursa olsun herkesin eşitliğini savunan Sihizm, kast sistemini kabul eder.",
+    "a": "Y"
+   },
+   {
+    "q": "Hinduizm’de ritüel, toplumsal bir faaliyettir ve ritüeller çoğunlukla tapınaklara topluca gidilerek yapılır.",
+    "a": "Y"
+   },
+   {
+    "q": "Budda kelimesi \"aydınlanmış\" anlamında Siddharta’ya verilmiştir.",
+    "a": "D"
+   },
+   {
+    "q": "Günümüzde özellikle İran, Mecusi geleneğinin kadim izlerinin bulunduğu yerdir.",
+    "a": "D"
+   }
+  ],
+  "125": [
+   {
+    "q": "Ermeni cemaatinin Osmanlı Dönemi'ndeki konumunu araştırınız.",
+    "a": "Millet sistemi içinde ayrı bir cemaat olarak tanındı; 1461'de kurulan İstanbul Patrikliği ile dinî ve cemaat işlerinde özerklik elde etti. Ticaret, zanaat, sarraflık ve mimarlıkta etkili oldular; 19. yüzyılda milliyetçilik akımları ve reformlarla ilişkiler gerildi."
+   },
+   {
+    "q": "Ülkemizde yer alan dinî grupların demografik ve coğrafi özelliklerini araştırınız.",
+    "a": "Nüfusun büyük çoğunluğu Müslüman'dır (Sünni ağırlıklı, Alevi-Bektaşi azınlık). Gayrimüslimler arasında Rum Ortodokslar (İstanbul, Gökçeada, Bozcaada), Ermeniler (İstanbul ve Anadolu'nun bazı illeri), Süryaniler (Mardin, Midyat, İstanbul), Museviler (İstanbul, İzmir, Ankara) ve küçük Katolik-Protestan gruplar yer alır; çoğunlukla büyükşehirlerde ve tarihî bölgelerde yoğunlaşırlar."
+   },
+   {
+    "q": "Kur'an-ı Kerim'de \"tebliğ\" ile ilgili ayetleri araştırınız.",
+    "a": "\"Rabbinden sana indirileni tebliğ et\" (Mâide 67), \"Sana emrolunanı tebliğ et\" (Hicr 94), \"Sana düşen ancak tebliğdir\" (Âl-i İmrân 20) gibi ayetler vardır. Tebliğ, İslam'ı duyurma ve uyarma görevidir; dinde zorlama yoktur (Bakara 256)."
+   },
+   {
+    "q": "Misyonerlik çalışmalarının amaçları hakkında bir araştırma yapınız.",
+    "a": "Hristiyanlığı yaymak, yeni mensuplar ve kiliseler kazanmak, eğitim, sağlık ve yardım kurumlarıyla toplum üzerinde etki kurmaktır. Bazı dönemlerde siyasi ve ekonomik nüfuz amaçları da taşımıştır."
+   },
+   {
+    "q": "Yeni dinî akımların özellikleri nelerdir? Araştırınız.",
+    "a": "Genellikle karizmatik bir lider, merkezî otorite, sıkı cemaat yapısı ve kurtuluş vaadi öne çıkar. Geleneksel inançlarla modern unsurları sentezler; mistik pratiklere, dünyadan soyutlanmaya veya aşırı bağlılığa yol açabilirler."
+   }
+  ],
+  "140": [
+   {
+    "q": "Misyonerliğin yeni bir şekli olan inkültürasyon çalışmalarında Hristiyan olmayan toplumlarda hangi yöntemler kullanılmaktadır?",
+    "a": "Yerel dil, kültür, gelenek, sembol ve değerleri kullanarak Hristiyanlığı o topluma uygun ve tanıdık gösterme; eğitim, sağlık, yardım ve sosyal hizmetlerle etkileme."
+   },
+   {
+    "q": "Bir kiliseye mensup zayıf, hasta veya ihtiyaç sahibi birine başka bir kilise tarafından misyonerlik yapılması hoş karşılanmazken, başka bir dine mensup aynı durumdaki birine misyonerlik yapılmasını Hristiyanlar nasıl karşılarlar?",
+    "a": "Bunu da istismar (proselitizm) olarak görüp eleştirirler; kişilerin zayıflık ve ihtiyaçlarının kullanılmasını doğru bulmazlar."
+   }
+  ],
+  "142": [
+   {
+    "q": "Yeni dinî akımların neler olduğunu araştırınız.",
+    "a": "20. yüzyılda ortaya çıkan, çoğu karizmatik lider etrafında örgütlenen, ana dinlerden farklı yorumlar ve kıyamet beklentileri taşıyan gruplardır; Heaven’s Gate, Aum Shinrikyo ve Solar Temple örnek verilebilir."
+   },
+   {
+    "q": "Bu akımların niçin Batı toplumlarında daha çok ortaya çıktığını araştırınız.",
+    "a": "Sekülerleşme, bireyselleşme, geleneksel dinî ve toplumsal bağların zayıflaması, anlam arayışı, kültürel çoğulculuk, din özgürlüğü, kentleşme ve iletişim imkânlarının artması etkili olmuştur."
+   },
+   {
+    "q": "Elde ettiğiniz sonuçlar üzerinde arkadaşlarınızla tartışınız.",
+    "a": "Akımların ortak özellikleri, ortaya çıkış nedenleri ve toplumsal etkileri karşılaştırılarak tartışılır."
+   }
+  ],
+  "143": [
+   {
+    "q": "A.1. İslam dinindeki \"tebliğ\" ile Hristiyanlıktaki \"misyonerlik\" arasındaki farklar nelerdir?",
+    "a": "Tebliğ, İslam'ı gönüllü davetle duyurmak ve zorlamamak; misyonerlik ise Hristiyanlığı örgütlü biçimde, eğitim-sağlık hizmetleri ve bazen sömürgeci güçlerle yaymaktır."
+   },
+   {
+    "q": "A.2. Süryani Kilisesi'ni diğer kiliselerden ayıran en temel farklar nelerdir?",
+    "a": "Kalkedon Konsili'ni reddedip İsa'da tek doğa anlayışını benimsemesi, ayinlerini Süryanice yapması ve Antakya merkezli bağımsız patrikliğe sahip olmasıdır."
+   },
+   {
+    "q": "A.3. Türk Ortodoks Kilisesi'ni diğer Ortodoks kiliselerinden ayıran bazı ritüel ve uygulamalar nelerdir?",
+    "a": "Ayin, dua ve ilahilerini Türkçe yapar; Fener Patrikhanesi'nden bağımsız, millî bir kilise yapısına sahiptir."
+   },
+   {
+    "q": "A.4. Küreselleşmenin yeni din akımlarına etkisi nasıl olmuştur?",
+    "a": "İletişim imkânlarıyla hızla yayılmışlar, dinî çoğulculuk ve kültürler arası etkileşim artmış; bazı akımlar senkretik, bireysel ve ticari bir nitelik kazanmıştır."
+   },
+   {
+    "q": "A.5. Yehova Şahitlerinin kan alma ve kan verme konusundaki tutumlarını günümüz dünya şartları bağlamında açıklayınız.",
+    "a": "Kanı kutsal saydıkları için kan naklini ve kan bağışını reddederler; günümüzde kansız tıbbi yöntemler ve kan ürünleri konusunda hukuki-etik tartışmalar yaşanmaktadır."
+   },
+   {
+    "q": "B.1. Ermeni Kilisesi hakkında verilen bilgilerden hangisi yanlıştır?",
+    "a": "B) Ermeni Kilisesi sekiz tane sakrament kabul eder. (Yedi sakrament kabul eder.)"
+   },
+   {
+    "q": "B.2. Süryani Kilisesi hakkında verilen bilgilerden hangisi yanlıştır?",
+    "a": "C) Süryanilerin ana merkezi her zaman Mardin olmuştur. (Asıl merkez Antakya'dır.)"
+   },
+   {
+    "q": "B.3. Yezidilerde evreni yöneten meleklerden hangisi değildir?",
+    "a": "D) Samuel."
+   }
+  ],
+  "144": [
+   {
+    "q": "4. Yehova Şahitleri hangi ülkede kurulmuş dinî bir akımdır?",
+    "a": "A) Amerika"
+   },
+   {
+    "q": "5. Aşağıdaki dinî grup-mekân eşleştirmelerinden hangisi yanlıştır?",
+    "a": "B) Yehova Şahitleri-Hayfa"
+   },
+   {
+    "q": "C.1. ......................... bir dinin özellikle Hristiyanlık ve Budizm gibi dinlerin yayılması için yapılan sistematik faaliyetlere denir.",
+    "a": "Misyonerlik"
+   },
+   {
+    "q": "C.2. Bahailiğin kutsal kitabına .................... denir.",
+    "a": "Kitabu’l-Akdes"
+   },
+   {
+    "q": "C.3. ................., Tanah ve Talmud üzerinde yeterli eğitim aldıktan sonra belirli bir Yahudi cemaatine ruhani önderlik yapan kişiye denir.",
+    "a": "Haham"
+   },
+   {
+    "q": "C.4. ................. Hristiyanlıkta Ortodoksluk başta olmak üzere Doğu kiliselerinin başında bulunan en üst rütbeli rahibe denir.",
+    "a": "Patrik"
+   },
+   {
+    "q": "C.5. ................; inanç esasları ve ritüeller gibi konulardaki sorunları görüşmek üzere üst düzey din adamlarının katıldığı toplantıya denir.",
+    "a": "Konsil"
+   },
+   {
+    "q": "D.1. Ermeni Kilisesinde Son/Hasta Yağlama sakramenti kabul edilmez.",
+    "a": "Y"
+   },
+   {
+    "q": "D.2. Bahailik’te Hz. Muhammed’in (sav) son resul olduğu reddedilir.",
+    "a": "D"
+   },
+   {
+    "q": "D.3. Yehova Şahitlerinde kan almak ve vermek Tanrı’nın yasalarına aykırı olarak görülmemektedir.",
+    "a": "Y"
+   },
+   {
+    "q": "D.4. Yezidilik’te fasulye, marul, bakla ve lahana gibi sebzelerle balık, geyik, domuz ve horoz eti yemek helaldir.",
+    "a": "Y"
+   },
+   {
+    "q": "D.5. Türk-Ortodoks Kilisesi, Millî Mücadele yıllarında Türk Devleti’nin yanında olmuştur.",
+    "a": "D"
+   }
+  ],
+  "150": [
+   {
+    "q": "Sayfada soru veya etkinlik var mı?",
+    "a": "Hayır, sayfa yalnızca kaynakçadan oluşuyor."
+   }
+  ]
+ }
+}

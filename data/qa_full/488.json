@@ -1,0 +1,704 @@
+{
+ "bookId": 488,
+ "done": true,
+ "pages": {
+  "3": [
+   {
+    "q": "Sayfada yanıtlanacak soru veya etkinlik var mı?",
+    "a": "Hayır; sayfada yalnızca Mehmet Âkif Ersoy'un İstiklâl Marşı metni yer alıyor."
+   }
+  ],
+  "11": [
+   {
+    "q": "“Kelam” kelimesinin hangi anlamlara geldiğini sözlüklerden araştırarak arkadaşlarınızla paylaşınız.",
+    "a": "Söz, konuşma, söyleyiş; bir düşünceyi sözle ifade etme ve tartışma gibi anlamlara gelir."
+   },
+   {
+    "q": "Kelam ilmine niçin ihtiyaç vardır? Araştırınız.",
+    "a": "İslam inanç esaslarını akılla savunmak, şüpheleri gidermek ve itikadi konularda doğru anlayışı ortaya koymak için."
+   },
+   {
+    "q": "Kelam tarihi kitaplarından kelam ilmine katkıda bulunmuş âlimlerden ikisini tespit ederek haklarında bilgi toplayınız.",
+    "a": "Ebü’l-Hasan el-Eş’arî Eş’arilik ekolünü kurmuş, İmam Mâtürîdî ise Mâtürîdilik ekolünü kurmuş ve akıl-vahiy dengesine önem vermiştir."
+   },
+   {
+    "q": "Kelam ilmine İslam düşünce tarihi boyunca başka hangi isimler verilmiştir? Araştırınız.",
+    "a": "Fıkh-ı ekber, ilm-i tevhid, ilm-i usûlüddin, ilm-i nazar ve ilm-i kelam gibi isimler verilmiştir."
+   }
+  ],
+  "13": [
+   {
+    "q": "Kelam ilminin konusunu ve muhtevasını göz önüne alarak onun önemini tartışınız.",
+    "a": "Kelam; tevhid, Allah’ın zatı ve sıfatları, varlığının delilleri, nübüvvet ve ahiret gibi konuları akli ve mantıki yöntemlerle ele alır. Bu yönüyle doğru inanç esaslarını anlamaya, delillendirmeye ve savunmaya katkı sağladığı için önemlidir."
+   }
+  ],
+  "16": [],
+  "20": [
+   {
+    "q": "Sayfada yanıtlanacak soru veya etkinlik var mı?",
+    "a": "Hayır; sayfada yalnızca bilgilendirici metin ve “Not Edelim” görseli bulunmaktadır."
+   }
+  ],
+  "21": [
+   {
+    "q": "Kelam ve felsefe arasındaki farklar nelerdir?",
+    "a": "Felsefe yalnızca aklı esas alır, vahyi belirleyici kabul etmez; kelam vahyi temel alır ve aklı da kullanır. Felsefede bilgi kaynakları beş duyu ve akıldır; kelamda doğru haber, duyu organları ve akıldır. Kelam konulara din eksenli yaklaşır, naklî ve aklî delilleri birlikte değerlendirir; felsefe akılcı ve eleştirel yöntemle ilerler."
+   },
+   {
+    "q": "Kelam ve felsefe arasındaki benzerlikler nelerdir?",
+    "a": "Her ikisi de varlık, bilgi ve değer konularını inceler; varlıkların başlangıcı ve sonu (mebde ve mead) hakkında görüş belirtir. İkisi de akıl ve eleştirel düşünmeyi kullanır."
+   }
+  ],
+  "22": [
+   {
+    "q": "Sayfadaki sorular ve etkinlikler nelerdir?",
+    "a": "Verilen sayfa metninde soru veya etkinlik bulunmamaktadır."
+   }
+  ],
+  "23": [
+   {
+    "q": "Sayfada yanıtlanacak soru veya etkinlik var mı?",
+    "a": "Hayır; sayfa metni yalnızca açıklama, ayet mealleri, dipnotlar ve iki bilgi kutusu içeriyor, herhangi bir soru ya da etkinlik bulunmuyor."
+   }
+  ],
+  "24": [
+   {
+    "q": "Şûra suresi 29. ayette Allah’ın varlığının delilleri olarak neler gösterilmiştir?",
+    "a": "Göklerin, yerin ve bu ikisi içinde yaydığı canlıların yaratılması."
+   },
+   {
+    "q": "Ayetteki “gücü yetendir” ifadesi neyi vurgular?",
+    "a": "Allah’ın kâinat ve tüm canlılar üzerindeki mutlak gücünü ve tasarrufunu."
+   },
+   {
+    "q": "el-Fıkhu’l-Ekber kimin eseridir ve neyi ele alır?",
+    "a": "İmam-ı Azam Ebu Hanife’nin inanç konularını ele alan risalesidir."
+   },
+   {
+    "q": "NOT EDELİM’deki Müminûn suresi 80. ayette ne vurgulanır?",
+    "a": "Allah’ın yaşatan ve öldüren olduğu, gece ile gündüzün değişmesinin O’nun eseri olduğu ve insanların aklını kullanması gerektiği."
+   },
+   {
+    "q": "İNCELEYELİM etkinliğinde kelam ilmi hakkında hangi eserler önerilmiştir?",
+    "a": "Bekir Topaloğlu’nun “Kelam İlmine Giriş” ve Saim Kılavuz’un “Ana Hatlarıyla İslam Akâidi ve Kelam’a Giriş” eserleri."
+   }
+  ],
+  "27": [
+   {
+    "q": "1- Kelam ilmini amacı ve konusu açısından tanımlayınız.",
+    "a": "İslam inanç esaslarını akli ve nakli delillerle temellendirip savunan ilimdir; amacı doğru imanı sağlamak, yanlış inançlardan korumak ve inanç esaslarını savunmaktır. Konusu Allah’ın zatı ve sıfatları, nübüvvet ve ahiret gibi itikadi meselelerdir."
+   },
+   {
+    "q": "2- Kelam ilminin önemini kısaca açıklayınız.",
+    "a": "İmanı taklitten kurtarıp tahkike ulaştırır, inanç esaslarını delillerle savunur, yanlış inanç ve hurafelerden korur, diğer İslami ilimlere sağlam inanç temeli oluşturur."
+   },
+   {
+    "q": "3- Ehlisünnet ekolleri hangi aşamalardan geçerek mezhep hâline gelmiştir? Belirtiniz.",
+    "a": "Ashab-ı hadis ile İbn Küllâb ve Hâris el-Muhâsibî çizgisinde gelişmiş; Hicri IV. asırda Eş’arî ve Mâtürîdî’nin görüşleri etrafında sistemleşerek Eş’ariyye ve Mâtürîdiyye mezhepleri hâline gelmiştir."
+   },
+   {
+    "q": "4- Kelam ilmi ile diğer İslami ilimler arasındaki ilişki nasıldır? Açıklayınız.",
+    "a": "Kelam, diğer İslami ilimlerin temeli olan inanç esaslarını temellendirir; tefsir, hadis, fıkıh ve tasavvuf gibi ilimler bu temele dayanır ve kelam onların verilerinden yararlanır."
+   },
+   {
+    "q": "1- (.....) 19. yüzyıldan günümüze kadar geçen süre kaynaklarımızda Yeni İlm-i Kelam Dönemi olarak adlandırılmıştır.",
+    "a": "D"
+   },
+   {
+    "q": "2- (.....) Hicri II. asır Ehlisünnet kelam ekolünün kuruluş dönemi olarak kabul edilir.",
+    "a": "Y"
+   },
+   {
+    "q": "3- (.....) Mutezile, Hasan Basrî’nin ders halkasından ayrılan Ebülhasan Eşari’nin öncülüğünde bir ekol hâline gelmiştir.",
+    "a": "Y"
+   },
+   {
+    "q": "4- (.....) Kelam ilmi doğru bilgi vererek insanları yanlış inançlardan korumayı ve doğru inancı bilgi ile temellendirmeyi amaçlamıştır.",
+    "a": "D"
+   },
+   {
+    "q": "5- (.....) Allah (cc), nübüvvet ve ahiret kelamın temel konularını oluşturur.",
+    "a": "D"
+   },
+   {
+    "q": "Aşağıdakilerden hangisi kelam ilminin amaçlarından biri değildir?",
+    "a": "E. İbadetlerin nasıl yerine getirileceğini açıklayıp göstermek"
+   },
+   {
+    "q": "Aşağıdakilerden hangisi kelam ilminin ana konularından biri değildir?",
+    "a": "E. İbadetler"
+   }
+  ],
+  "28": [
+   {
+    "q": "1- Kelam ilmine göre insanın bilgi kaynakları havassıselime, aklıselim ve ........................ dan oluşur.",
+    "a": "Haberisadık"
+   },
+   {
+    "q": "2- Kur’an’ın bir ismi olarak söylenen ........................ ifadesinin anlamı “Allah’ın sözü, O’nun konuşması” demektir.",
+    "a": "Kelamullah"
+   },
+   {
+    "q": "3- Kaynaklarımızda Gazali’den önceki kelam ilmine ........................ Dönemi denmiştir.",
+    "a": "Mütekaddimîn"
+   },
+   {
+    "q": "4- Kelam ilmi, genellikle ........................ ve temsil yöntemlerini kullanır.",
+    "a": "Tümevarım"
+   },
+   {
+    "q": "5- İmam-ı Azam Ebu Hanife’nin inançla ilgili konuları ele alan en önemli eseri ........................ adlı risaledir.",
+    "a": "Fıkh-ı Ekber"
+   },
+   {
+    "q": "3- Aşağıdakilerden hangisi kelam ilmine verilen isimlerden biri değildir?",
+    "a": "C. Usulüfıkıh"
+   },
+   {
+    "q": "4- Aşağıdakilerden hangisi Gazali’den sonra yaşamış Müteahhirîn Dönemi kelam âlimlerinden birisi değildir?",
+    "a": "B. Hâris el-Muhâsibî"
+   }
+  ],
+  "29": [
+   {
+    "q": "1. Allah, insan ve âlem ilişkisi hakkında bilgi toplayarak arkadaşlarınızla paylaşınız.",
+    "a": "Allah âlemi ve insanı yaratmıştır; insan akıl ve iradeyle sorumlu kılınmıştır. Âlemdeki düzen, Allah’ın varlığına ve birliğine delildir."
+   },
+   {
+    "q": "2. İnanç ile ilgili bilgilerinizi hangi kaynaklardan edindiğinizi arkadaşlarınızla paylaşınız.",
+    "a": "Kur’an-ı Kerim, hadisler, aile, din dersleri, güvenilir kitaplar ve öğretmenlerden edindim."
+   },
+   {
+    "q": "3. Havassıselime, aklıselim ve haberisadık kavramlarını sözlükten araştırarak defterinize yazınız.",
+    "a": "Havassıselim: sağlıklı duyu organları; aklıselim: sağlam ve doğru düşünen akıl; haberisadık: doğru ve güvenilir haber."
+   },
+   {
+    "q": "4. İslam dininde akıl-vahiy ilişkisini araştırarak arkadaşlarınızla tartışınız.",
+    "a": "Akıl, vahyi anlamanın aracıdır; vahiy de aklın ulaşamadığı konularda yol gösterir. İkisi çelişmez, birbirini tamamlar."
+   }
+  ],
+  "30": [
+   {
+    "q": "Nesefî, bir akaid metnine niçin varlıkların gerçekliği ve bilgi elde etmenin mümkün oluşunu ifade ederek başlamıştır? Metni de göz önünde bulundurarak tartışınız.",
+    "a": "Çünkü gaybî iman konularının ve dinî bilginin anlamlı olabilmesi, önce varlıkların gerçekten mevcut olduğunun ve doğru bilgi edinmenin mümkün olduğunun kabul edilmesine bağlıdır. Aksi hâlde sofistlerin “varlık vehimdir” iddiası inancı ve bilgiyi temelsiz bırakır; kelamcılar da bu yüzden varlık ve bilgi meseleleriyle ilgilenmiştir."
+   }
+  ],
+  "35": [
+   {
+    "q": "Sayfada yanıtlanacak soru veya etkinlik var mı?",
+    "a": "Hayır, verilen 35. sayfa metninde soru ya da etkinlik bulunmuyor."
+   }
+  ],
+  "38": [
+   {
+    "q": "Sayfada yanıtlanacak soru veya etkinlik var mı?",
+    "a": "Yok."
+   }
+  ],
+  "39": [
+   {
+    "q": "Aşağıdaki ayetlerde müşrikler ve Ehlikitap'ın inanışları hangi açıdan eleştirilmektedir?",
+    "a": "Delilsiz, zanna ve atalardan gelen alışkanlıklara dayanan inançları; sorumluluğu kadere yüklemeleri ve kendi iddialarını kanıt sunmadan kesin doğru saymaları açısından eleştirilir."
+   },
+   {
+    "q": "Yukarıdaki ayetten hareketle iman ile bilgi arasında nasıl bir ilişki vardır?",
+    "a": "İman, bilgiye dayanan bilinçli bir tasdiktir; doğru bilgi imana götürür, ancak bilmek tek başına iman sayılmaz."
+   }
+  ],
+  "40": [
+   {
+    "q": "Bu sayfada soru veya etkinlik var mı?",
+    "a": "Hayır; sayfada yalnızca konu anlatımı ve bilgi kutusu yer almaktadır."
+   }
+  ],
+  "47": [
+   {
+    "q": "1- Kelamcıların âlemi konu edinmelerinin sebebini açıklayınız.",
+    "a": "Âlemin sonradan yaratıldığını ortaya koyarak Allah’ın varlığını ve birliğini akli delillerle ispatlamak; inanç esaslarını temellendirmek."
+   },
+   {
+    "q": "2- Kelamcılara göre doğru bilginin kaynakları nelerdir?",
+    "a": "Havass-ı selime (duyular), akl-ı selim (akıl) ve haber-i sadık (vahiy ve mütevatir haber)."
+   },
+   {
+    "q": "3- İnsanın bilgi edinme vasıtalarının karşılıklı olarak nasıl bir ilişki içinde olduğunu yazınız.",
+    "a": "Duyular akla veri sağlar, akıl bu verileri işler; vahiy ise akla ve duyulara kesinlik kazandırır. Bunlar birbirini tamamlar ve çelişmez."
+   },
+   {
+    "q": "4- Bir inanç esası belirleyen ayet ve hadis hangi özellikleri taşımalıdır? Yazınız.",
+    "a": "Sübut ve delaleti kesin, açık, anlaşılır ve yoruma kapalı olmalı; hadislerde tevatür şartı aranmalıdır."
+   },
+   {
+    "q": "1- (.....) Allah’ın (cc) bilgisi kadim, insanın bilgisi ise hâdistir.",
+    "a": "D"
+   },
+   {
+    "q": "2- (.....) Vacip varlık, varlığı zorunlu olmayan ve yokluğu düşünülebilen varlık demektir.",
+    "a": "Y"
+   },
+   {
+    "q": "3- (.....) İnsanlar arasındaki hukuki, beşerî ve sosyal ilişkileri düzenleyen hükümlere ukubat denir.",
+    "a": "Y"
+   },
+   {
+    "q": "4- (.....) Kelamın kadim-hâdis şeklindeki ikili varlık tasnifinde birincisi, Allah Teala ile O’nun sıfatlarını; ikincisi ise âlemi ifade eder.",
+    "a": "D"
+   },
+   {
+    "q": "1- Kelamcılara göre aşağıdakilerden hangisi bilginin kaynağı değildir?",
+    "a": "B) İlham"
+   },
+   {
+    "q": "2- Aşağıdakilerden hangisi itikadi hükümlerin özelliklerinden birisi değildir?",
+    "a": "D) Tarihsellik"
+   }
+  ],
+  "48": [
+   {
+    "q": "1- Kelam ilmine göre insanın bilgi kaynakları duyular, akıl ve .............. den oluşur.",
+    "a": "vahiy"
+   },
+   {
+    "q": "2- Akli hükümler vâcib, ............. ve mümteni olmak üzere üç türlüdür.",
+    "a": "mümkin"
+   },
+   {
+    "q": "3- Öncülleri, ayet ve hadislere dayanan delile ................... ya da dinî delil denir.",
+    "a": "naklî"
+   },
+   {
+    "q": "4- Vahyin verdiği bilgi kelam ilmine göre ................ dir.",
+    "a": "kesin"
+   },
+   {
+    "q": "Kelam bu bilgiye ulaşırken aşağıdaki yöntemlerden hangisini kullanmaz?",
+    "a": "E) Rüya"
+   },
+   {
+    "q": "Kelam açısından aklın bilgi kaynağı olması noktasında aşağıdakilerden hangisi söylenemez?",
+    "a": "D) Akıl tek başına bir inanç esası belirleyebilir."
+   }
+  ],
+  "49": [
+   {
+    "q": "Fetih suresi 10. ayetin anlamını 3 farklı mealden bularak defterinize yazınız. Meal farklılıklarının sebeplerini arkadaşlarınızla tartışınız.",
+    "a": "Diyanet: \"Sana biat edenler, ancak Allah'a biat etmiş olurlar. Allah'ın eli onların ellerinin üzerindedir. Kim ahdini bozarsa, ancak kendi aleyhine bozmuş olur. Kim de Allah'a verdiği sözü yerine getirirse, Allah ona büyük bir mükâfat verecektir.\" Elmalılı: \"Herhalde sana bey'at edenler, ancak Allah'a bey'at ediyorlar; onların ellerinin üstünde Allah'ın eli var. Her kim nakzederse, ancak kendi aleyhine nakzeder. Kim Allah'a verdiği ahdi ifa ederse, Allah ona azîm bir ecir verir.\" Ali Bulaç: \"Muhakkak sana biat edenler, sadece Allah'a biat etmiş olurlar. Allah'ın eli onların elleri üstündedir. Kim bozarsa, sırf kendi zararına bozar. Kim de Allah'a karşı verdiği sözü yerine getirirse, Allah ona pek büyük bir ecir verir.\" Farklılıklar; kelimelerin eş anlamlıları, mecazların çevirisi, harfî/tefsirî tercüme tercihi ve dildeki anlam değişimlerinden kaynaklanır."
+   },
+   {
+    "q": "Aynı konuda insanların farklı düşünmelerinin sebepleri sizce neler olabilir? Arkadaşlarınızla düşüncelerinizi paylaşınız.",
+    "a": "Eğitim, kültür, çevre, tecrübe, bilgi kaynağı, düşünme biçimi, ön yargı ve olaylara bakış açısı farklılığı."
+   },
+   {
+    "q": "Mezhep kelimesi sizde hangi anlamları çağrıştırmaktadır? Yazınız.",
+    "a": "Yol, görüş, ekol; dinin anlaşılma ve yorumlanma biçimlerinden doğan farklı yollar."
+   },
+   {
+    "q": "İnançla ilgili bildiğiniz farklı yorumlardan bazılarını defterinize yazınız ve bunların farklı olmasının sebeplerini araştırarak bulmaya çalışınız.",
+    "a": "İmanın tanımı, amel-iman ilişkisi, kader, büyük günah, şefaat ve tevhid gibi konularda farklı yorumlar vardır. Sebepleri; ayet ve hadislerin farklı anlaşılması, dil ve rivayet farkları, alimlerin içtihadı ile siyasi ve toplumsal şartlardır."
+   }
+  ],
+  "53": [
+   {
+    "q": "“Dinimiz bir, Peygamberimiz bir, kitabımız bir. Öyleyse neden ayrı ayrı düşünceler, fikirler, inanışlar ortaya çıkmıştır?”",
+    "a": "Dinî metinlerin farklı yorumlanabilmesi, hilafet/imamet tartışmaları ve erken dönem iç savaşlarının bıraktığı etkiler sebebiyle farklı anlayışlar ortaya çıkmıştır."
+   }
+  ],
+  "54": [
+   {
+    "q": "“Müslüman’ı öldürmek büyük günah olduğuna göre bu büyük günahı işleyenin inanç açısından durumu, buna bağlı olarak imanın sınırı, kapsamı ve içeriği ne olacaktır?”",
+    "a": "Hariciler büyük günah işleyeni kâfir saymış, Mutezile imanla küfür arasında bir yerde görmüş, Ehl-i Sünnet ise onun mümin kaldığını fakat fasık ve imanı zayıf olduğunu kabul etmiştir."
+   },
+   {
+    "q": "“Adam öldürme fiilini işleyen kimse bunu hür iradesiyle mi yoksa karşı konulmaz ilahi iradenin baskısı altında mı işlemiştir?”",
+    "a": "Ehl-i Sünnet’e göre insan fiilini kendi hür iradesiyle işler; Allah’ın ezelî ilmi ve yaratması bu hürriyeti ortadan kaldırmaz. Cebriye insanı mecbur, Mutezile ise tam hür görür."
+   },
+   {
+    "q": "Yorum farklılıklarının başlıca sebeplerini yazınız.",
+    "a": "Dinî metinlerin lafız ve anlamları, hilafet meselesi ve siyaset, iç savaşlar, fikir ve vicdan hürriyeti, yabancı din/kültür/medeniyetlerin etkisi, insanın düşünen varlık olması."
+   }
+  ],
+  "55": [
+   {
+    "q": "Sayfada yanıtlanacak soru veya etkinlik var mı?",
+    "a": "Hayır; sayfada yalnızca bilgi metni, alt başlıklar ve itikadi mezhepleri gösteren kavram haritası bulunmaktadır."
+   }
+  ],
+  "57": [
+   {
+    "q": "Ehl-i kıble'den olan fasık (günahkâr) kimsenin mümin olup olmadığını söyler misiniz?",
+    "a": "Evet; imanı sebebiyle mümindir, işlediği fısk ve büyük günah sebebiyle de fasıktır."
+   }
+  ],
+  "58": [
+   {
+    "q": "İman tasdik midir yoksa marifet mi?",
+    "a": "İman kalple tasdiktir; marifet ise tasdike sevk eden bir sebeptir."
+   },
+   {
+    "q": "Metne göre marifetin zıddı nedir?",
+    "a": "Tanımamak ve bilmemektir (nükret, cehalet)."
+   },
+   {
+    "q": "Eşarilik hangi mezhebe karşı doğmuştur?",
+    "a": "Mutezile’ye karşı."
+   },
+   {
+    "q": "Eşariliğe göre iman nedir?",
+    "a": "Hz. Peygamber’in tebliğ ettiği hususları kalben tasdiktir; bazı âlimlere göre dille ikrar da şarttır."
+   },
+   {
+    "q": "Eşariliğe göre marifetullah nasıldır?",
+    "a": "Akıl bunu zorunlu kılamaz; ancak Allah’ı bilmek dinen vaciptir. Şeriattan haberi olmayan sorumlu değildir."
+   },
+   {
+    "q": "Eşariliğe göre nübüvvet için erkek olmak şart mıdır?",
+    "a": "Şart değildir; kadın da peygamber olabilir."
+   },
+   {
+    "q": "Eşariliğe göre güç yetirilemeyen şeyle teklif caiz midir?",
+    "a": "Caizdir; ancak böyle bir durum vaki olmamıştır."
+   },
+   {
+    "q": "Eşariliğe göre şefaat hakkında ne denir?",
+    "a": "Şefaat haktır ve kıyamet günü gerçekleşecektir."
+   },
+   {
+    "q": "Eşariliğe göre Allah ahirette görülecek mi?",
+    "a": "Mümkündür ve müminler tarafından görülecektir."
+   },
+   {
+    "q": "Eşarilik hangi bölgelerde yayılmıştır?",
+    "a": "Mısır, Irak, Suriye, Kuzey Afrika ve Endonezya."
+   },
+   {
+    "q": "Eşari bilginler kelam ilmini nasıl etkilemiştir?",
+    "a": "Tevile yer vermiş, yenilikler yapmış ve kelamı felsefeyle rekabet edebilecek güce kavuşturmuşlardır."
+   },
+   {
+    "q": "Matüridilik nedir?",
+    "a": "Ebu Mansur el-Matüridi’nin akaid görüşlerini benimseyenlerin oluşturduğu Ehlisünnet mezhebidir."
+   },
+   {
+    "q": "Matüridi hangi alanlarda otoriteydi?",
+    "a": "Kelam, mezhepler tarihi, fıkıh usulü ve tefsir."
+   },
+   {
+    "q": "Matüridi hangi mezheplerin görüşlerini reddetmiştir?",
+    "a": "Mutezile ve Şia’nın görüşlerini."
+   },
+   {
+    "q": "Matüridi’nin günümüze ulaşan eserleri nelerdir?",
+    "a": "Te’vilâtü’l-Kur’an ve Kitabu’t-Tevhid."
+   },
+   {
+    "q": "Matüridi nerede doğup ölmüştür?",
+    "a": "Semerkant’ın Matürid köyünde doğmuş, Semerkant’ta vefat etmiştir."
+   },
+   {
+    "q": "Eşariliğin görüşlerine dair kaynak eserlerden üçü hangileridir?",
+    "a": "İbn Asâkir’in Tebyînü kezibi’l-müfterî, Ebu Azbe’nin er-Ravzatü’l-behiyye ve Esad Efendi’nin Risâle fi ihtilâfâti’l-Mâtürîdî ve’l-Eş’arî."
+   }
+  ],
+  "64": [
+   {
+    "q": "Mutezile’nin temel ilkeleri (Usul-i Hamse) nelerdir?",
+    "a": "Tevhid, adalet, el-menzile beynel menzileteyn, el-va’d ve’l-va’id, el-emr bi’l-ma’ruf ve’n-nehy ani’l-münker."
+   },
+   {
+    "q": "Aşağıdaki ayetleri insanın iradesi ve özgürlüğü açısından inceleyerek çıkardığınız sonuçları arkadaşlarınızla sınıfta paylaşınız.",
+    "a": "Ayetler Allah’ın mutlak iradesini ve her şeyin yaratıcısı olduğunu vurgular; insan ise seçim yapabilen ve yaptıklarından sorumlu tutulan bir varlıktır. İnsanın özgürlüğü Allah’ın dilemesiyle birlikte anlaşılmalıdır; insan hem sorumludur hem de Allah’a bağımlıdır."
+   }
+  ],
+  "67": [],
+  "68": [
+   {
+    "q": "1- Hz. Ali’yi sahabenin en üstünlerinden biri olarak kabul eden ve Hz. Peygamber’in onu halife olarak atadığını savunan İslam mezhebi hangisidir?",
+    "a": "Şiilik"
+   },
+   {
+    "q": "2- Sıffîn Savaşı sonrası Hakem Olayı’nda Hz. Ali’den ayrılan gruba, “ayrılan/terk eden” anlamında ne denmiştir?",
+    "a": "Haricî"
+   },
+   {
+    "q": "3- Mutezile mezhebinin temel inanç esaslarına verilen ve “Beş Esas” anlamına gelen ad nedir?",
+    "a": "Usul-i Hamse"
+   },
+   {
+    "q": "4- Ayet ve hadisleri yorum yapmadan oldukları gibi kabul edip iman eden Ehlisünnet yaklaşımına ne denir?",
+    "a": "Selefilik"
+   },
+   {
+    "q": "5- Büyük günah işleyenin durumunu Allah’a havale edenlere ne denir?",
+    "a": "Mürcie"
+   },
+   {
+    "q": "3- Aşağıdakilerden hangisi Mürcie’nin görüşlerinden değildir?",
+    "a": "C"
+   },
+   {
+    "q": "4- Aşağıdakilerden hangisi Mutezile’nin doğuşunda etkili olan faktörler arasında değildir?",
+    "a": "B"
+   }
+  ],
+  "69": [
+   {
+    "q": "Günümüzde insanların inkâra yönelme sebeplerini arkadaşlarınızla tartışınız. Çevrenizde insanların dinî bir yaşantıyı tercih etmemesinde etkili olan şeylerin neler olduğunu araştırınız.",
+    "a": "Cehalet, sorgulamadan taklit, dünyevîleşme, haz ve madde sevgisi, ahlaki çöküntü, kötülük-musibet sorunu, bilim-din çatışması sanısı, din adamlarına güvensizlik, özgürlük yanlış anlayışı, çevre ve sosyal medya etkisi."
+   },
+   {
+    "q": "Hümanizm, ateizm, deizm, pozitivizm, nihilizm, sekülarizm, satanizm kavramlarını araştırınız.",
+    "a": "Hümanizm: İnsanı merkeze alan, onu ölçü kabul eden düşünce. Ateizm: Allah’ın varlığını reddetme. Deizm: Varlığı kabul, peygamber ve vahyi reddetme. Pozitivizm: Yalnız deneysel/kesin bilgiyi doğru sayma. Nihilizm: Hiçbir değer ve anlamı kabul etmeme. Sekülarizm: Dünyevîleşme, dinin toplum hayatından ayrılması. Satanizm: Şeytanı yücelten, kötülüğü kutsayan sapkın inanç."
+   },
+   {
+    "q": "Allah’ı (cc) inkâr mümkün müdür? Allah (cc) olmaksızın hayatı, ölümü, ruhu, dünyayı, ahireti, insanın şuur ve iradesini, canlılığın kaynağını, mutluluğu anlayıp anlamlandırabilir miyiz? Çevrenizdeki insanlarla görüşüp düşüncelerini defterinize yazınız.",
+    "a": "Allah’ı inkâr aklen mümkün görünse de delillere dayanmaz; varlığının delilleri açıktır. Allah olmadan varlık, hayat, ruh, ölüm, ahiret, şuur, irade ve mutluluk tam anlamlandırılamaz; her şey anlamsızlaşır."
+   },
+   {
+    "q": "“Ben sadece gördüklerime inanırım.” diyerek her şeyi görünen dünyaya indirgeme yaklaşımı, imanın ve özellikle gayba inanmanın ruhuyla bağdaşır mı? Araştırınız.",
+    "a": "Bağdaşmaz. İman, duyularla algılanamayan gayba (Allah, melek, ahiret, vahiy) inanmayı gerektirir; görünenle sınırlamak imanın özünü ortadan kaldırır."
+   }
+  ],
+  "70": [
+   {
+    "q": "Kelam ilminin değişen şartlar karşısında kendisini yenilemesi niçin bir zorunluluktur?",
+    "a": "Çünkü yeni felsefi akımlar ve çağdaş inanç problemleri, eski yöntem ve delillerin yetersiz kalmasına yol açmıştır; kelamın güncel sorulara cevap verebilmesi için yöntemini yenilemesi gerekir."
+   },
+   {
+    "q": "Yeni İlm-i Kelam olmasaydı güncel meselelere ve özellikle çağdaş inanç problemlerine karşı Müslümanlar ne yapabilirdi?",
+    "a": "İnanç esaslarını yeni düşünce akımlarına karşı etkili biçimde savunmakta zorlanır, eski delillerle sınırlı kalır ve çağdaş sorulara ikna edici cevaplar üretemezdi."
+   }
+  ],
+  "72": [
+   {
+    "q": "Günümüzde inanç bakımından en çok cevap verilmesi gereken sorular ve sorunlar nelerdir?",
+    "a": "Tanrı’nın varlığı, evrenin yaratılışı, vahiy ve peygamberlik, ahiretin varlığı, acı ve kötülük problemi, bilim-din ilişkisi, deizm, ateizm, agnostisizm ve nihilizm gibi çağdaş inkâr akımları."
+   },
+   {
+    "q": "“Kullarım sana, beni sorduğunda (söyle onlara): Ben çok yakınım…” (Bakara 186) ayeti ışığında deizmin “yaratan ama ilgilenmeyen Tanrı” düşüncesini değerlendiriniz.",
+    "a": "Ayet, Allah’ın kullarına çok yakın olduğunu, dualara karşılık verdiğini ve insanları imana çağırdığını bildirir. Bu yüzden deizmin “yaratan ama ilgilenmeyen Tanrı” anlayışı Kur’an’a aykırıdır; Allah yaratandır, her an yaratıklarıyla ilgilidir, duyar ve cevap verir."
+   }
+  ],
+  "73": [
+   {
+    "q": "Yaratan ama ilgilenmeyen bir Tanrı, nübüvvet ve vahyin, dua ve ibadetin olmadığı bir din eksik olmaz mıydı?",
+    "a": "Evet, eksik olurdu; çünkü böyle bir inançta Tanrı ile insan arasında canlı bir ilişki, anlamlı bir amaç ve ahlaki sorumluluk duygusu kalmazdı."
+   },
+   {
+    "q": "DİKKAT EDELİM: İslam inancında Allah, âlem ve insan arasındaki ilişki nasıl açıklanmıştır?",
+    "a": "Deizmin \"yapan-yapılan\" ilişkisi gibi değil; sürekli yaratma, vahiy ve rahmetle Allah'tan âleme inen, boyun eğme, dua ve ibadetle insandan Allah'a yükselen dinamik ve canlı bir ilişkidir."
+   }
+  ],
+  "75": [
+   {
+    "q": "Nisa suresi 116. ayette İslam’ın şirki hoş görmemesinin sebebi nedir?",
+    "a": "Şirk, Allah’ın affetmeyeceği en büyük günahtır; O’na ortak koşan bağışlanmaz."
+   },
+   {
+    "q": "Yunus suresi 18. ve 66. ayetlerde şirkin reddedilme sebebi nedir?",
+    "a": "Putlar ne zarar ne fayda verir, hiçbir yetkileri yoktur; gerçek güç ve hüküm yalnız Allah’a aittir."
+   }
+  ],
+  "76": [
+   {
+    "q": "Bu sayfada yanıtlanacak soru veya etkinlik var mı?",
+    "a": "Hayır; sayfada yalnızca agnostisizm konu anlatımı, bilgi kutusu, not ve ayet mealleri yer almaktadır."
+   }
+  ],
+  "77": [
+   {
+    "q": "Zaten tercihinize göre değerlendirileceğiniz bir imtihan dünyasında, Tanrı’nın varlığını salt görmeye ve kesin olarak bilmeye indirgeyerek şüphe, kararsızlık ve belirsizlik hâlini öne çıkarmak bir kaçış değil midir? Düşüncelerinizi arkadaşlarınızla paylaşınız.",
+    "a": "Evet, bu bir kaçıştır; iman iradeye ve delile dayanır, şüpheyi öne çıkarmak sorumluluktan uzaklaşmaktır. İslam basiretle düşünmeyi ve delille inanmayı ister."
+   },
+   {
+    "q": "Aşağıdaki ayetleri araştırarak, İslam’da zannın ve şüpheciliğin yerini arkadaşlarınızla müzakere ediniz: Yusuf 108, Âl-i İmrân 60, Bakara 111, Yûnus 36.",
+    "a": "Yusuf 108 basiret ve delile, Âl-i İmrân 60 haktan şüphe etmemeye, Bakara 111 iddiaların delille kanıtlanmasına, Yûnus 36 zannın hakikati vermeyeceğine vurgu yapar; İslam’da zan ve şüphe değil, kesin bilgi ve delil esastır."
+   }
+  ],
+  "79": [
+   {
+    "q": "Pozitivizmde ve diğer bazı anlayışlarda iddia edildiği gibi bilim, insanların tüm ihtiyaçlarına cevap verebilir mi?",
+    "a": "Hayır; bilim maddi ve olgusal ihtiyaçlara cevap verir, ancak anlam, ahlak, inanç ve duygu gibi manevi ihtiyaçları tek başına karşılayamaz."
+   },
+   {
+    "q": "Dinlerin olmaması durumunda sadece bilimin verileriyle oluşturulmuş bir hayat, insanı çok dar bir alana hapsetmiş olmaz mı?",
+    "a": "Evet; yalnızca bilimsel verilere dayanan bir hayat, insanın ruh, duygu, sanat ve inanç boyutlarını ihmal ederek onu dar bir alana hapseder."
+   }
+  ],
+  "81": [
+   {
+    "q": "Ayetlerin meallerini okuyup Allah’ın (cc) varlığı ve birliği hakkındaki düşüncelerinizi arkadaşlarınızla paylaşınız.",
+    "a": "Gökleri ve yeri yaratan Allah’tır; O bir ve eşsizdir. Zarar ve rahmet yalnız O’nun elindedir; güvenip dayanılacak tek varlık O’dur."
+   }
+  ],
+  "82": [
+   {
+    "q": "Allah’ın (cc) varlığına ve birliğine inanmak niçin önemlidir ve bize ne kazandırır?",
+    "a": "İnanmak insanın fıtri bir ihtiyacıdır. Sağlam Allah inancı bu ihtiyacı karşılar; dünyada ve ahirette huzur, güven ve mutluluk verir; tutarlı kişilik geliştirmeyi, insanlarla ve varlıklarla iyi ilişkiler kurmayı sağlar; zorluklara dayanak olur ve eşyaya anlam kazandırır."
+   },
+   {
+    "q": "Allah’ın varlığını inkâr edebilmek basit bir mesele midir?",
+    "a": "Hayır. Varlıkların kendisi ve aralarındaki düzen bir yaratıcının varlığını ve birliğini gerektirdiğinden inkâr basit bir mesele değildir."
+   },
+   {
+    "q": "İnsanlar niçin inkâr yolunu tercih etmektedir?",
+    "a": "Farklı sebepler ve bahanelerle; sorumluluktan kaçma veya inanmak istememe gibi nedenlerle inkâr yolunu tercih edebilmektedirler."
+   },
+   {
+    "q": "İnanmadığını söyleyenler gerçekten bu konu üzerinde sorulması gereken tüm soruları sorup verilmesi gereken cevapları verebilmekte midir, yoksa bir kaçış durumu mu yaşamaktadır?",
+    "a": "Konunun tüm sorularını sorup cevaplarını vermeleri zordur; bu genellikle bir kaçış durumudur."
+   }
+  ],
+  "87": [
+   {
+    "q": "Bu sayfadaki sorular ve etkinlikler nelerdir?",
+    "a": "Sayfa metninde soru veya etkinlik bulunmuyor."
+   }
+  ],
+  "88": [
+   {
+    "q": "Yukarıdaki ayet üzerinde düşünerek İslam’ın tenasüh inancına bakış açısını değerlendiriniz.",
+    "a": "İslam, ölümden sonra dünyaya geri dönüşü reddeder; Müminun 99-100’de geri gönderilme talebi reddedilir ve ölüler yeniden dirilecekleri güne kadar berzahta bekler. Bu nedenle tenasüh/reenkarnasyon İslam’da kabul edilmez."
+   }
+  ],
+  "89": [
+   {
+    "q": "Tanrı kötülüğü önlemek istiyor da gücü mü yetmiyor?",
+    "a": "Hayır; İslam inancında Allah mutlak kudret sahibidir, güçsüz değildir."
+   },
+   {
+    "q": "Tanrı’nın kötülükleri engellemeye gücü yetiyor da önlemek mi istemiyor?",
+    "a": "Hayır; Allah mutlak iyi, merhametli ve şefkatlidir; Rahman ve Rahîm’dir."
+   },
+   {
+    "q": "Tanrı hem güçlü hem de kötülüğü ortadan kaldırmak niyetinde olan yetkin bir varlık ise nasıl oluyor da bunca kötülük var olabiliyor?",
+    "a": "Bu mesele, Allah’ın isim ve sıfatlarının bütünlüğü içinde anlaşılmalıdır; kötülüğün varlığı O’nun mutlak kudret, adalet ve merhametini ortadan kaldırmaz."
+   },
+   {
+    "q": "Somut verilerle bilgi elde etmenin mümkün olmadığı konularda vahiy yoluyla gelen bilgilere itibar etmek daha akıllıca ve daha doğru olmaz mı?",
+    "a": "Evet; melekler, ahiret, ruh gibi duyularla bilinemeyen konularda vahiy güvenilir ve doğru bilgi kaynağıdır."
+   }
+  ],
+  "91": [
+   {
+    "q": "Allah (cc), kötülüklere müsaade etmeyip de her olayı iyi ve her insanı daima iyilik üzere davranmak zorunda bıraksaydı olmaz mıydı?",
+    "a": "Olmazdı; çünkü kötülük bulunmazsa dünya bir imtihan yeri olmaktan çıkar, iyilik ve erdemlerin zıddıyla bilinip kazanılması mümkün olmazdı. İmtihanın anlamı, insanın hür iradesiyle hayır ve şer arasında seçim yapmasına bağlıdır."
+   }
+  ],
+  "92": [
+   {
+    "q": "Evrenin yaratılmasında gayeler ve hikmetler vardır. Duhan 38 ve Sad 27. ayetler ışığında bu hikmetler üzerinde düşünüp düşüncelerinizi arkadaşlarınızla paylaşınız.",
+    "a": "Evren oyun, eğlence veya boş yere yaratılmamıştır; varlığın bir amacı vardır. Bu amaç Allah’ın kudret ve ilminin bilinmesi, insanın imtihan edilmesi, sorumluluk alması, ibadet ve iyilikle olgunlaşması, evrendeki düzenin korunması ve hesap verebilirliktir. Yaratılışı anlamsız saymak inkârcıların yanlış zannıdır."
+   }
+  ],
+  "94": [
+   {
+    "q": "Bazı insanlar niçin peygamberlik iddiasında bulunur?",
+    "a": "Güç, saygınlık, çıkar, liderlik ve otorite sağlamak; kendini özel görmek veya dini duyguları istismar etmek için."
+   },
+   {
+    "q": "İnsanların gerçekte öyle bir şey olmadığı hâlde kendisine kutsallık atfetmesinin gerekçeleri neler olabilir?",
+    "a": "Takdir ve bağlılık kazanmak, otoritesini meşrulaştırmak, çıkar elde etmek, güvensizliğini telafi etmek veya cemaat içinde ayrıcalık kazanmak."
+   },
+   {
+    "q": "Kendisine vahiy geldiğini, metafizik güçlerle irtibatlı olduğunu, kendisinde sıra dışı bilgilerin ve özelliklerin bulunduğunu söylemenin sebepleri neler olabilir?",
+    "a": "İnsanları etkilemek ve yönlendirmek, söylediklerine itaat sağlamak, eleştiriden kaçmak, maddi-manevi çıkar elde etmek veya psikolojik rahatsızlık ya da cehalet."
+   }
+  ],
+  "95": [
+   {
+    "q": "Bu sayfada yanıtlanacak soru veya etkinlik var mı?",
+    "a": "Hayır; sayfa yalnızca bilgilendirici metin ve bilgi kutusu içeriyor."
+   }
+  ],
+  "96": [
+   {
+    "q": "Sayfadaki sorular ve etkinlikler nelerdir?",
+    "a": "Verilen sayfa metninde soru veya etkinlik yoktur; yalnızca kitap tanıtım metinleri yer almaktadır."
+   }
+  ],
+  "98": [
+   {
+    "q": "1- Ateizm ve nihilizm gibi akımların Allah’ın varlığını reddetmek için başvurduğu kötülük problemini açıklayınız.",
+    "a": "Dünyadaki kötülük ve acıların; her şeye gücü yeten, her şeyi bilen ve iyi bir Tanrı’nın varlığıyla bağdaşmadığını öne sürerler."
+   },
+   {
+    "q": "2- Yeni İlm-i Kelam’ın klasik kelam ilminden farklılaştığı noktalar nelerdir? Yazınız.",
+    "a": "Modern bilim ve felsefeden yararlanır; çağdaş inkârcı akımlara cevap verir ve yeni meseleleri akıl, bilim ve nakille ele alır."
+   },
+   {
+    "q": "3- Deizm hakkında bilgi veriniz ve yaratmasına rağmen insanlarla ilgilenmeyen, insanların dualarına karşılık vermeyen bir Tanrı anlayışını tartışınız.",
+    "a": "Deizm, Tanrı’nın evreni yarattığını ancak vahiy, peygamber, mucize ve ibadete müdahale etmediğini savunur. İnsanlarla ilgilenmeyen ve dualara cevap vermeyen Tanrı anlayışı, kişisel Tanrı, dua, ibadet ve ahiret inancını anlamsızlaştırır."
+   },
+   {
+    "q": "4- İnkârcı akımları bilmek niçin önemlidir? Açıklayınız.",
+    "a": "İnançla ilgili şüpheleri tanıyıp cevaplamak, İslam’ı doğru savunmak ve bu akımların etkisinden korunmak için önemlidir."
+   },
+   {
+    "q": "5- Şirk konusunda Enbiya suresi 22. ayetini de göz önünde bulundurarak bilgi veriniz.",
+    "a": "Şirk, Allah’a ortak koşmaktır. Ayet, birden fazla tanrı bulunsaydı evren düzeninin bozulacağını belirterek Allah’ın birliğini ve eşsizliğini vurgular."
+   },
+   {
+    "q": "(D/Y) 1- Günümüzde İslam dinini, çağdaş inkârcı akımlara karşı savunan ilim dalı tefsirdir.",
+    "a": "Y"
+   },
+   {
+    "q": "(D/Y) 2- Peygamberlerin asıl uğraştığı konu, Allah’ın varlığının ispat edilmesi değil insanların şirki bırakarak Allah’ın birliğini kabul etmeleridir.",
+    "a": "D"
+   },
+   {
+    "q": "(D/Y) 3- İslam inancına göre Hz. Muhammed (sav), peygamberlerin sonuncusu olup ondan sonra peygamber gelmeyecektir.",
+    "a": "D"
+   },
+   {
+    "q": "(D/Y) 4- İnkârcı akımlar Batı’da ortaya çıkmıştır ve İslam dünyasında kısmen de olsa etkili olmuştur.",
+    "a": "D"
+   },
+   {
+    "q": "(D/Y) 5- Kötülük probleminin çözümü Allah’ın isim ve sıfatlarını iyi bir şekilde anlamaktan geçer.",
+    "a": "D"
+   },
+   {
+    "q": "ÇS 1- Ayetlerde reddedilen inkârcı akım aşağıdakilerden hangisidir? A. Ateizm B. Deizm C. Politeizm D. Sekülarizm E. Satanizm",
+    "a": "E"
+   }
+  ],
+  "99": [
+   {
+    "q": "1- Gerçekte vahiy almadığı hâlde peygamber olduğunu söyleyenlere ne denir?",
+    "a": "Mütenebbi"
+   },
+   {
+    "q": "2- Dünyevileşme anlamında laiklik yerine kullanılan kavram nedir?",
+    "a": "Sekülarizm"
+   },
+   {
+    "q": "3- Ruh göçü inanışının Batı dillerindeki karşılığı nedir?",
+    "a": "Reenkarnasyon"
+   },
+   {
+    "q": "4- Yaratıcıyı kabul edip âleme müdahale etmediğini savunan anlayış nedir?",
+    "a": "Deizm"
+   },
+   {
+    "q": "5- Çok tanrıcılığın İslam dinindeki karşılığı nedir?",
+    "a": "Şirk"
+   },
+   {
+    "q": "2- Kötülüğe ve karamsarlığa dayalı yaklaşım hangisidir?",
+    "a": "A. Pesimizm"
+   },
+   {
+    "q": "3- Ruh göçü, yeniden doğuş anlamındaki kavram hangisidir?",
+    "a": "B. Tenasüh"
+   },
+   {
+    "q": "4- Her şeyi bilime dayandırıp dine ihtiyaç kalmayacağını savunan akım hangisidir?",
+    "a": "C. Pozitivizm"
+   },
+   {
+    "q": "5- Bilinmezcilik/bilinemezcilik anlamındaki kavram hangisidir?",
+    "a": "D. Agnostisizm"
+   }
+  ]
+ }
+}

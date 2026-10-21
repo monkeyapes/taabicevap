@@ -1,6 +1,6 @@
 {
  "bookId": 430,
- "done": false,
+ "done": true,
  "pages": {
   "3": [
    {
@@ -4922,6 +4922,978 @@
   "262": [],
   "263": [],
   "264": [],
-  "265": []
+  "265": [],
+  "266": [
+   {
+    "q": "\"daire\" kelimesinin anlamına yönelik tahmininiz nedir?",
+    "a": "Apartmanlarda ayrı bir konut olan kat; kurumlarda bölüm, şube."
+   },
+   {
+    "q": "\"yeni yetme\" kelime grubunun anlamına yönelik tahmininiz nedir?",
+    "a": "Yeni yetişmiş, deneyimsiz genç; acemi, toy."
+   },
+   {
+    "q": "\"daire\" kelimesinin yerine bağlamı bozmayacak hangi kelime kullanılabilir?",
+    "a": "Konut, kat; bölüm, şube, birim."
+   },
+   {
+    "q": "\"yeni yetme\" kelime grubunun yerine bağlamı bozmayacak hangi kelime kullanılabilir?",
+    "a": "Acemi, toy, çaylak, genç."
+   }
+  ],
+  "267": [],
+  "268": [
+   {
+    "q": "Merdiven kavramının sizde çağrıştırdığı anlamlar nelerdir?",
+    "a": "Yükselme, ilerleme, hayatın basamakları, katlar arası geçiş, tırmanma, zorlukları aşma, yaşlılık ve yardımlaşma."
+   },
+   {
+    "q": "Merdiven kavramıyla bu kavramın uyandırdığı çağrışımlar arasında kurduğunuz ilişkiler nelerdir?",
+    "a": "Merdiven basamak basamak yükselmeyi simgeler; insan da hayatta zorlukları aşarak ilerler. Yaşlıya merdivende yol vermek ise saygı ve yardımlaşmayı gösterir."
+   },
+   {
+    "q": "“Bahtiyar ol” kelime grubunun anlamını bağlamdan hareketle tahmin ediniz.",
+    "a": "“Mutlu ol, huzurlu ol” anlamında iyi dilek ve dua ifadesidir."
+   },
+   {
+    "q": "Kültürümüzde yaşlıların gençlere iyi niyet dileklerini belirttiği benzer kalıplaşmış ifadeler nelerdir?",
+    "a": "“Allah senden razı olsun”, “Bahtın açık olsun”, “Allah gönlüne göre versin”, “Allah yolunu açık etsin”, “Gözün aydın olsun”, “Allah zihin açıklığı versin.”"
+   },
+   {
+    "q": "“Bahtiyar ol” kelime grubundan hareketle metnin söz varlığıyla dil ve anlatım özelliklerinin günlük hayatı yansıtıp yansıtmadığına dair görüşünüz nedir?",
+    "a": "Evet, yansıtır. “Bahtiyar ol”, “oğlum” gibi halk diline ait ifadeler, yaşlıya yol verme ve iyi dilek dileme gibi gündelik davranışlar sade ve doğal bir anlatımla verilmiştir."
+   }
+  ],
+  "269": [
+   {
+    "q": "1. Metinde geçen “ihtiyar” ve “delikanlı” sözcüklerinin karşıladığı kişilerin duygu ve düşünceleri hakkında çıkarımlarda bulununuz.",
+    "a": "İhtiyar, yorgun ve olgun yaşlı memurdur; hayatın telaşını boş görür, ölümü kabullenmiş ve sakin bir ruh hâli vardır. Delikanlı ise canlı, gülümseyen, meslekte yükselme hevesi taşıyan ve kendisine yol verilmesine şaşıran genç memurdur."
+   },
+   {
+    "q": "2. “Bu kadar koşuşma oğlum, değmez” diyor ihtiyar. Bu sözlerle ne anlatılmak istenmiştir?",
+    "a": "İhtiyar, hayatın geçici olduğunu, makam ve telaş için bu kadar koşmaya değmediğini anlatır; insanın ölüm gerçeğini unutmadan sakin ve anlamlı yaşaması gerektiğini sezdirir. Anlatıcı bu sözü önce anlamlandıramaz, sonra yukarı çıkmayıp aşağı inerek bu düşünceye yaklaşır."
+   },
+   {
+    "q": "3. Öykü kişilerinin “memur” olarak ifade edilmesinden hareketle yazarın hayata ve insana bakışına dair çıkarımlarda bulununuz.",
+    "a": "Yazar, kişileri adlarıyla değil mesleki rolleriyle anar; insanı toplumsal konumu içinde ele alır. Bu, makamın ve gençlik-yaşlılık sıralamasının geçici olduğunu, bireyin yerini başkasının alacağını ve insanların çoğu zaman rollerine göre görüldüğünü düşündürür."
+   },
+   {
+    "q": "4. Metinde “inmek” ve “çıkmak” kelimeleriyle yaşama dair ne anlatılmak istenmiş olabilir?",
+    "a": "“Çıkmak” gençliği, yükselme hırsını ve mesleki ilerlemeyi; “inmek” yaşlılığı, emekliliği, ölüme yaklaşmayı ve hayatın sonunu simgeler. Merdiven, inişi ve çıkışıyla insan ömrünün döngüsünü anlatır."
+   },
+   {
+    "q": "5. Bu hikâyenin size neler düşündürdüğünü ve yazarın bu hikâyeyi niçin yazmış olabileceğini açıklayınız.",
+    "a": "Hikâye, hayatın kısa ve geçici olduğunu, koşuşturmanın ve makam hırsının anlamsızlığını düşündürdü. Yazar, insanın ölümü ve kuşak değişimini fark etmesini, hayatı telaşsız ve anlamlı yaşamasını sağlamak için bu hikâyeyi yazmış olabilir."
+   },
+   {
+    "q": "6. Hikâyedeki kişi sayısının metnin türüyle bir ilgisi olup olmadığını gerekçesiyle yazınız.",
+    "a": "Evet, ilgisi vardır. Küçürek hikâye kısa ve yoğun olduğu için az kişiyle yetinir; üç kişi (anlatıcı, ihtiyar, delikanlı) ayrıntıya girmeden kuşakları ve ölüm-hayat karşıtlığını simgeler."
+   },
+   {
+    "q": "7. Merdiven metnine şiirsel bir ritim kazandıran sözcükler hangileridir?",
+    "a": "“Çabuk çabuk”, “ağır ağır”, “yavaş yavaş”, “buyrun buyrun” ikilemeleri; “merdivenlerden”, “yol veriyorum” ve “Bahtiyar ol oğlum” sözlerinin tekrarı metne şiirsel ritim kazandırır."
+   }
+  ],
+  "270": [
+   {
+    "q": "8. Metnin sonunda anlatıcı kahramanın merdivenden yukarı doğru çıkmaktan vazgeçip “Ne işim var benim yukarda?” diyerek aşağı inmesi hakkında çıkarımlarda bulununuz.",
+    "a": "Anlatıcı, yaşlı memurun “değmez” sözünü ve ölümünü fark ederek hırsla yukarı çıkmanın anlamsızlığını sezer; makam ve telaş yarışı yerine hayatın anlamını sorgulamayı seçer."
+   },
+   {
+    "q": "Çalışma Kâğıdı – Konu",
+    "a": "Anlatıcının merdivende yaşlı ve genç memurlarla karşılaşması ve yaşlı memurun ölümü üzerine durmadan koşuşturmanın anlamsızlığını fark etmesi."
+   },
+   {
+    "q": "Çalışma Kâğıdı – Çatışma",
+    "a": "Anlatıcının telaşlı hırsı ile yaşlı memurun “Bu kadar koşuşma oğlum, değmez” uyarısı arasındaki iç çatışma; ayrıca kuşaklar arası yaşam algısı farkı."
+   },
+   {
+    "q": "Çalışma Kâğıdı – Örtük İletiler",
+    "a": "Merdiven, hayatın iniş-çıkışlarını ve makam hırsını; yukarı kat ölümü, aşağı inmek ise bu hırsın anlamsızlığını kabullenmeyi simgeler. İnsan, koşuştururken yaşamın anlamını kaçırmamalıdır."
+   },
+   {
+    "q": "Çalışma Kâğıdı – Açık İletiler",
+    "a": "Yaşlı memur, “Bu kadar koşuşma oğlum, değmez” diyerek aşırı telaşın gereksizliğini açıkça söyler; anlatıcı da sonunda yukarı çıkmaktan vazgeçip aşağı iner."
+   },
+   {
+    "q": "Çalışma Kâğıdı – Zihniyet",
+    "a": "Varoluşçu ve bireyci bir bakış; modern insanın telaşı, yabancılaşması ve ölüm karşısındaki çaresizliği sorgulanır."
+   },
+   {
+    "q": "Çalışma Kâğıdı – Üslup",
+    "a": "Küçürek öykü üslubu; kısa ve yalın cümleler, birinci kişili anlatım, diyalog ve iç konuşma, sembolik ve sezdirmeye dayalı anlatım."
+   }
+  ],
+  "271": [
+   {
+    "q": "1. Bu hikâyelerde az sözle çok duygu aktarma amacına nasıl ulaşılmıştır? Merdiven adlı hikâyede de bu özelliği tespit ettiniz mi? Metinden örneklerle açıklayınız.",
+    "a": "İç konuşma, kısa cümleler, sorular ve imgelerle. Rotterdam’da “bir seyircisi miyim?” sorusu yabancılaşmayı, Yorumsuz’da “Küçülmüşüm… çocukluğum” imgesi anı ve büyüme duygusunu verir. Merdiven metni sayfada olmadığı için oradan örnek veremiyorum."
+   },
+   {
+    "q": "2. İki hikâyede uzun tasvirler ve olay örgüsü yerine duygular ön plandadır. Bu anlatım tarzı okurun metne katılımını nasıl etkilemektedir? Metinden örneklerle açıklayınız.",
+    "a": "Okuru edilgin izleyici olmaktan çıkarıp boşlukları doldurmaya, yorumlamaya ve özdeşleşmeye iter. Rotterdam’da iç sorgulamalara ortak eder; Yorumsuz’da kopuk sahneleri ve “Sen değilsin” sesini anlamlandırtır."
+   }
+  ],
+  "272": [
+   {
+    "q": "1. İçerik açısından Ben, Mimar Sinan ve Merdiven metinlerini karşılaştırınız.",
+    "a": "Ben, Mimar Sinan: Mimar Sinan’ın hayatı, eserleri, sanat anlayışı ve Ayasofya’yı aşma ideali. Merdiven: Anlatıcının merdivende yaşlı bir memurla karşılaşması, onun “Bu kadar koşuşma, değmez” sözü ve ölümü üzerine hayatı sorgulaması."
+   },
+   {
+    "q": "2. Tür açısından Ben, Mimar Sinan ve Merdiven metinlerini karşılaştırınız.",
+    "a": "Ben, Mimar Sinan: Tiyatro (tek perdelik, biyografik-belgesel oyun). Merdiven: Küçürek (minimal) hikâye."
+   },
+   {
+    "q": "3. Şekil açısından Ben, Mimar Sinan ve Merdiven metinlerini karşılaştırınız.",
+    "a": "Ben, Mimar Sinan: Perde, sahne, monolog-diyalog, sahne yönergeleri, ışık-müzik-görüntü. Merdiven: Çok kısa düz yazı, az cümle, diyalog ve boşluklarla kurulan yoğun anlatım."
+   },
+   {
+    "q": "4. Dönem açısından Ben, Mimar Sinan ve Merdiven metinlerini karşılaştırınız.",
+    "a": "Ben, Mimar Sinan: Cumhuriyet Dönemi’nde yazılmış (1988); konu 16. yüzyıl Osmanlı. Merdiven: Cumhuriyet Dönemi (20. yüzyıl ikinci yarısı); modern dönem insanı."
+   },
+   {
+    "q": "5. Yapı unsurları açısından Ben, Mimar Sinan ve Merdiven metinlerini karşılaştırınız.",
+    "a": "Ben, Mimar Sinan: Kişiler (Sinan, padişahlar, dış sesler), zaman (1490-1588 ve anlatım anı), mekân (İstanbul, Edirne, sefer yerleri), dramatik örgü ve çatışma. Merdiven: Kişiler (anlatıcı, yaşlı ve genç memur), kısa bir zaman, merdiven/iş yeri, iç çatışma ve kuşak çatışması."
+   },
+   {
+    "q": "6. Dil ve üslup açısından Ben, Mimar Sinan ve Merdiven metinlerini karşılaştırınız.",
+    "a": "Ben, Mimar Sinan: Açık, akıcı, konuşma diline yakın, didaktik ve coşkulu. Merdiven: Yalın, yoğun, şiirsel, sembolik ve sezdirmeli."
+   },
+   {
+    "q": "7. İleti açısından Ben, Mimar Sinan ve Merdiven metinlerini karşılaştırınız.",
+    "a": "Ben, Mimar Sinan: Çalışkanlık, sabır, azim, vefa ve millî kültür bilinci; eserle ölümsüzleşme. Merdiven: Hayatın geçiciliği, koşuşturmanın anlamsızlığı, anı yaşama, saygı ve yol verme."
+   },
+   {
+    "q": "8. İnsan ilişkilerinde öne çıkan değerler tiyatro türündeki metinlerde mi yoksa hikâye türündeki metinlerde mi daha iyi yansıtılır?",
+    "a": "Tiyatroda daha iyi yansıtılır; çünkü değerler diyalog, jest-mimik ve sahneleme yoluyla doğrudan gösterilir, izleyici empati kurar. Ben, Mimar Sinan’da saygı, sabır ve vefa canlandırmayla somutlaşır."
+   }
+  ],
+  "273": [
+   {
+    "q": "Şair Tavafî ile Merdiven’i şiirsel dil kullanımı bakımından karşılaştırınız.",
+    "a": "Merdiven’de imgeli, ritmik ve sanatlı bir dil; Şair Tavafî’de sade, günlük konuşmaya yakın bir anlatım vardır."
+   },
+   {
+    "q": "Şair Tavafî ile Merdiven’i içerik bakımından karşılaştırınız.",
+    "a": "Merdiven’de ölüm, yaşlılık ve hayatın geçiciliği; Şair Tavafî’de bir yolcunun kasabadaki gözlemleri anlatılır."
+   },
+   {
+    "q": "Şair Tavafî ile Merdiven’i sözcüklerin çağrışım gücü bakımından karşılaştırınız.",
+    "a": "Merdiven’de sözcükler sembolik ve geniş çağrışımlı; Şair Tavafî’de gündelik, gerçekçi ve çağrışımı sınırlıdır."
+   },
+   {
+    "q": "Şair Tavafî ile Merdiven’i anlatıcı bakımından karşılaştırınız.",
+    "a": "Merdiven’de lirik ve duygusal bir anlatıcı; Şair Tavafî’de olayları yaşayan birinci kişi anlatıcı vardır."
+   },
+   {
+    "q": "Bu hikâyelerin hangisinden daha çok etkilendiniz? Gerekçesiyle açıklayınız.",
+    "a": "Merdiven’den daha çok etkilendim; ölüm ve yaşlılığı yoğun imgelerle kısa ve duygusal biçimde anlatıyor."
+   }
+  ],
+  "274": [
+   {
+    "q": "1. Grup Görev a) Anlatıcının davranış ve düşüncelerini çözümleyiniz.",
+    "a": "İşini bitirmek için merdivenleri hızla çıkar; ihtiyara yol verir, ölüm haberinden sonra durup düşünür ve genç memura yol vererek aşağı iner."
+   },
+   {
+    "q": "1. Grup Görev b) Anlatıcının kişilik özellikleriyle ilgili çıkarımlarda bulununuz.",
+    "a": "Hırslı, telaşlı, işine bağlı ve saygılıdır; başlangıçta aceleci ve duyarsızken sonunda sorgulayan, değişime açık bir kişi olur."
+   },
+   {
+    "q": "1. Grup Görev c) Anlatıcının zamanla yaşadığı değişimi açıklayınız.",
+    "a": "Yükselme hırsıyla koşuşturan biri iken ölümle yüzleşip sınırlarını görür; genç kuşağa yer açar ve yukarı çıkmaktan vazgeçer."
+   },
+   {
+    "q": "1. Grup Soru 1) Merdivenleri çıkarken ve inerken anlatıcının yaşadığı telaş, kişiliğiyle ilgili neyin göstergesidir?",
+    "a": "Hırslı, sabırsız ve işine aşırı bağlı oluşunun; başarı ve yükselme kaygısıyla hayatı aceleyle tükettiğinin göstergesidir."
+   },
+   {
+    "q": "1. Grup Soru 2) Anlatıcı, ihtiyar memurun iki farklı sözüne nasıl tepki vermiştir?",
+    "a": "Her ikisinde de yol verir; ilk sözü geçiştirir, ikincisini de o an düşünmez; sözlerin etkisi ölüm haberinden sonra ortaya çıkar."
+   },
+   {
+    "q": "1. Grup Soru 3) Genç memurla karşılaşması anlatıcıyı nasıl etkilemiştir?",
+    "a": "Genç memurun yol vermesi ve yaşlı memurun öldüğünü söylemesi onu sarsar; yukarı çıkmanın anlamsızlığını fark ettirir."
+   },
+   {
+    "q": "1. Grup Soru 4) Anlatıcının ilk kez genç bir memura yol vermesini nasıl açıklarsınız?",
+    "a": "Genç kuşağın yerini kabul etmesi, kıdem yarışından vazgeçmesi ve ölüm karşısında hırsın anlamsızlığını anlamasıyla açıklanır."
+   },
+   {
+    "q": "1. Grup Soru 5) “Ne işim var benim yukarda?” kararı, hayata bakışıyla ilgili nasıl bir değişimi gösterir?",
+    "a": "Sürekli yükselme ve koşuşturma yerine durup sorgulamayı seçtiğini; başarı odaklı bakıştan hayatın anlamına yönelen bir bakışa geçtiğini gösterir."
+   },
+   {
+    "q": "2. Grup Görev a) İhtiyar memurun sözlerini ve davranışlarını çözümleyiniz.",
+    "a": "Yavaş ve sakin hareket eder; ilk karşılaşmada iyi dilek, ikincisinde uyarı söyler; deneyimli, yorgun ve ölüme yakın bir figürdür."
+   },
+   {
+    "q": "2. Grup Görev b) İhtiyar memurun anlatıcıya hangi iletileri vermeye çalıştığını tartışınız.",
+    "a": "Aşırı koşuşturmanın ve hırsın değmediğini, hayatın kısa olduğunu, durup anı yaşamak gerektiğini ima eder."
+   },
+   {
+    "q": "2. Grup Görev c) İhtiyar memurun hangi sembolik özellikleri temsil ettiğini değerlendiriniz.",
+    "a": "Geçmişi, yaşlılığı, deneyimi ve ölümü; merdivenle birlikte hayatın faniliğini ve nesillerin geçişini temsil eder."
+   },
+   {
+    "q": "2. Grup Soru 1) İhtiyar memur, iki karşılaşmada neden farklı şeyler söylemiştir?",
+    "a": "İlkinde anlatıcının yol vermesine karşılık iyi dilek gösterir; ikincisinde onun telaşını görüp deneyimine dayalı bir uyarı yapar."
+   },
+   {
+    "q": "2. Grup Soru 2) Bu sözler onun yaşam deneyimleriyle ilgili olabilir mi?",
+    "a": "Evet; hayatını koşuşturarak geçirmiş, sonunda bunun değmediğini anlamış birinin deneyimini yansıtır."
+   },
+   {
+    "q": "2. Grup Soru 3) Anlatıcının kararlarının değişmesinde ihtiyar memurun bir etkisi olmuş mudur?",
+    "a": "Evet, dolaylı ve gecikmeli bir etkisi vardır; sözleri önce geçiştirilir, ölümünden sonra anlam kazanır."
+   },
+   {
+    "q": "3. Grup Görev a) Genç memurun tutumunu ve sözlerini yorumlayınız.",
+    "a": "Nezaketle yol verir; yaşlı memurun ölümünü gülümseyerek ve “cenaze arabası” benzetmesiyle açıkça, soğukkanlı biçimde söyler."
+   },
+   {
+    "q": "3. Grup Görev b) Genç memurun anlatıcıya karşı tavrını değerlendiriniz.",
+    "a": "Anlatıcıya “siz” diyerek saygı gösterir; ancak sözleri ve gülümsemesi ironik, hafif alaycı ve mesafelidir."
+   },
+   {
+    "q": "3. Grup Görev c) Genç memurun, anlatıcının kararındaki değişikliğe etkisini tartışınız.",
+    "a": "Yol vermesi anlatıcının artık kıdemli kuşak olduğunu fark etmesini sağlar; ölüm haberi ve ironik davet, yukarı çıkmama kararını tetikler."
+   },
+   {
+    "q": "3. Grup Soru 1) Genç memurun yaşlı memur hakkındaki yorumu neyi ifade etmektedir?",
+    "a": "Yaşlı memurun ölmüş veya ölmek üzere olduğunu, yukarı çıkmanın artık bir yararı olmadığını; ölüme alaycı ve soğukkanlı bakışı ifade eder."
+   },
+   {
+    "q": "3. Grup Soru 2) “Buyrun, buyrun siz de çıkın...” sözü sadece yol vermek amacıyla mı söylenmiştir?",
+    "a": "Hayır; yol verme nezaketiyle birlikte ironi de içerir; “İstersen çık, kendin gör” diyerek anlatıcıyı ölüm gerçeğiyle yüzleştirir."
+   },
+   {
+    "q": "3. Grup Soru 3) Genç memur, yeni kuşakların hayata bakış açısını temsil ediyor olabilir mi?",
+    "a": "Kısmen evet; açık sözlü, pratik, hiyerarşiye ve ölüme eski kuşak kadar mesafeli olmayan bir genç bakışı temsil eder."
+   }
+  ],
+  "275": [
+   {
+    "q": "Kişiler kimlerdir?",
+    "a": "Anlatıcı (aceleci, işine koşan memur), ihtiyar memur (yavaş, deneyimli, telaşı anlamsız bulan kişi) ve genç memur (yeni yetme, yeni kuşağı temsil eden kişi)."
+   },
+   {
+    "q": "Yer (mekân) neresidir?",
+    "a": "Memurların çalıştığı dairenin bulunduğu bina; özellikle merdivenler ve üst kat."
+   },
+   {
+    "q": "Zaman ne zamandır?",
+    "a": "Belirli bir tarih yok; bir iş günü içinde geçen kısa bir zaman dilimi."
+   },
+   {
+    "q": "Olay örgüsü nedir?",
+    "a": "Anlatıcı hızla çıkarken yavaş inen ihtiyara yol verir, “Bahtiyar ol oğlum” sözünü duyar; sonra inerken yine karşılaşır ve “Bu kadar koşuşma oğlum, değmez” sözünü işitir. Tekrar merdivene geldiğinde genç memurdan ihtiyarın yukarıda öldüğünü öğrenir; ilk kez genç birine yol verip yukarı çıkmaktan vazgeçerek “Ne işim var benim yukarda?” diyerek aşağı iner."
+   },
+   {
+    "q": "2. a) Hikâyede anlatılanlar günümüz şartlarına ve imkânlarına göre yazılsaydı olayların kurgu ve akışında ne gibi değişiklikler olurdu?",
+    "a": "Karşılaşmalar merdiven yerine asansörde veya yürüyen merdivende geçerdi; ihtiyarın ölümü telefon, e-posta ya da dijital platformdan öğrenilirdi. Uzaktan çalışma ve hızlı ulaşım nedeniyle yol verme, yavaş yürüme ve katlar arası gidiş geliş sahnesi değişir; ancak acele, kuşak farkı ve hayatı sorgulama izleği korunabilirdi."
+   },
+   {
+    "q": "2. b) Cevabınızdan hareketle edebiyatın hayatla ilişkisi hakkındaki düşünceleriniz nelerdir?",
+    "a": "Edebiyat hayatı yansıtır; mimari ve teknoloji değişse de insanın telaşı, yaşlılık, ölüm ve kuşak çatışması gibi temel deneyimleri işler. Böylece hem yaşanan dönemi belgeler hem de insan gerçeğini evrenselleştirir."
+   },
+   {
+    "q": "Düşünelim Paylaşalım 1. Metnin türü, içeriği ve dilini göz önünde bulundurarak yazıldığı dönemle ilgili çıkarımlarda bulununuz.",
+    "a": "Küçürek hikâye türü, kısa ve şiirsel anlatım, sade günlük dil, memuriyet/daire hayatı ve bireyin iç sorgulaması; metnin 20. yüzyılın ikinci yarısındaki modern Türk hikâyeciliğine, özellikle 1950 kuşağının varoluşçu eğilimine ve şehirli memur hayatına ait olduğunu düşündürür."
+   }
+  ],
+  "276": [
+   {
+    "q": "3. Metindeki diyaloglara yansıyan kuşaklar arası farklılıkların benzerlerini günümüzde gençler ve yaşlılar arasında da gözlemliyor musunuz? Bu farklılıklar toplum hayatına hangi açıdan yarar sağlıyor olabilir?",
+    "a": "Evet, gözlemliyorum. Gençler yeniliğe, yaşlılar deneyime yönelir; bu farklılık değişim ile birikimin birleşmesini ve karşılıklı anlayışı sağlar."
+   },
+   {
+    "q": "Birlikte Çalışalım – 1. Öğretmeninizin rehberliğinde iki gruba ayrılınız.",
+    "a": "İki gruba ayrılarak çatışma türlerini belirleriz."
+   },
+   {
+    "q": "2. Grup sözcülerini seçiniz.",
+    "a": "Her grup kendi sözcüsünü seçer."
+   },
+   {
+    "q": "3. Merdiven metnindeki çatışma ögelerini belirtilen başlıklar çerçevesinde belirleyiniz.",
+    "a": "Birinci grup iç çatışmaları (korku, çekingenlik, özgüven), ikinci grup insan-insan çatışmalarını (anlatıcı ile delikanlı arasındaki öncelik/yol verme çatışması) belirler."
+   },
+   {
+    "q": "4. Ulaştığınız sonuçları grup sözcüleriniz aracılığıyla diğer grupla paylaşınız.",
+    "a": "Grup sözcüleri bulguları paylaşır, ortak sonuçlar çıkarılır."
+   },
+   {
+    "q": "5. Elde ettiğiniz veriler doğrultusunda soruları cevaplayınız.",
+    "a": "Veriler değerlendirilerek aşağıdaki soru cevaplanır."
+   },
+   {
+    "q": "a) Anlatıcının başlangıçta “yeni yetme” olarak nitelediği delikanlıya daha sonra yol vermesi, yaşama ve kendi konumuna dair nasıl bir farkındalık yaşadığını gösterir? Yorumlayınız.",
+    "a": "Anlatıcı, gençliği küçümsemekten vazgeçip kendi yaşını ve yerini kabullenir; yaşamın döngüsünde her kuşağa yer olduğunu, saygının karşılıklı olması gerektiğini fark eder."
+   }
+  ],
+  "277": [
+   {
+    "q": "Anlatıcı, ihtiyar memurla karşılaşmasaydı metin nasıl gelişirdi?",
+    "a": "“Bahtiyar ol oğlum” ve “Bu kadar koşuşma oğlum, değmez” sözlerini duymaz; ihtiyarın ölümünden haberdar olmaz, koşuşturmasını sorgulamaz ve sonunda aşağı inmezdi."
+   },
+   {
+    "q": "İhtiyar memur ölmemiş olsaydı metin nasıl gelişirdi?",
+    "a": "Genç memur ölüm haberini vermezdi; anlatıcı hayatın geçiciliğini düşünmez, “Ne işim var benim yukarda?” demez, işine devam ederdi."
+   },
+   {
+    "q": "Anlatıcı, genç memurla karşılaşmasaydı metin nasıl gelişirdi?",
+    "a": "İhtiyarın ölümünü öğrenemez, kendinden genç birine yol vermez ve kararını sorgulayıp aşağı inmezdi."
+   },
+   {
+    "q": "Anlatıcının ihtiyar memura yol vermesi hangi değerleri yansıtır?",
+    "a": "Saygı, duyarlılık."
+   },
+   {
+    "q": "Anlatıcının görevini yapmak için merdivenlerden çabuk çabuk çıkması hangi değerleri yansıtır?",
+    "a": "Sorumluluk, çalışkanlık."
+   },
+   {
+    "q": "İhtiyar memurun, kendisine yol veren anlatıcıya “Bahtiyar ol oğlum” sözüyle karşılık vermesi hangi değerleri yansıtır?",
+    "a": "Nezaket, iyi niyet; saygı ve sevgi."
+   },
+   {
+    "q": "Anlatıcının kendisinden genç birine yol vermesi hangi değerleri yansıtır?",
+    "a": "Saygı, nezaket, olgunluk."
+   },
+   {
+    "q": "Anlatıcının yukarı çıkan ihtiyar memuru merak edip genç memura sorması hangi değerleri yansıtır?",
+    "a": "Duyarlılık, ilgi ve sorumluluk."
+   },
+   {
+    "q": "Metinde değer yargılarınızla çelişen durum/davranışlar var mıdır? Varsa bunlar karşısında nasıl bir tepki gösterirdiniz?",
+    "a": "Evet; genç memurun yaşlı memurun ölümünü alaycı ve duyarsız karşılaması değerlerimle çelişir. Onu uyarır, ölene saygı gösterilmesini ister ve yetkililere haber verirdim."
+   }
+  ],
+  "278": [
+   {
+    "q": "Aynı kurumda çalışan, yaş ve konumları birbirinden farklı insanların ilişkileri hangi disiplinlerle ilişkilidir?",
+    "a": "Sosyoloji, psikoloji."
+   },
+   {
+    "q": "Anlatıcının yaşlılık, ölüm ve mesleki konumuyla ilgili bilinçaltı çatışmaları hangi disiplinlerle ilişkilidir?",
+    "a": "Psikoloji, felsefe."
+   },
+   {
+    "q": "İhtiyar memurun modern yaşamın getirdiği koşuşturmayı eleştirmesi hangi disiplinlerle ilişkilidir?",
+    "a": "Sosyoloji, felsefe."
+   },
+   {
+    "q": "Yaşlılık, yaşlılıkta sağlık durumu ve ani bir ölüm hangi disiplinlerle ilişkilidir?",
+    "a": "Tıp, psikoloji."
+   },
+   {
+    "q": "Anlatıcının kuşak değişimiyle yüzleşmesi hangi disiplinlerle ilişkilidir?",
+    "a": "Sosyoloji, psikoloji."
+   },
+   {
+    "q": "Meslek hayatında zamanla rollerin değişmesi hangi disiplinlerle ilişkilidir?",
+    "a": "Sosyoloji, psikoloji."
+   },
+   {
+    "q": "Ölüm karşısında anlatıcının yaşamı sorgulaması hangi disiplinlerle ilişkilidir?",
+    "a": "Felsefe, psikoloji."
+   }
+  ],
+  "279": [
+   {
+    "q": "Bu parçadan ve Ferit Edgü’nün biyografisinden hareketle küçürek hikâye yazarlığının Merdiven’e nasıl yansıdığını tespit ediniz.",
+    "a": "Edgü’nün minimalist ve varoluşçu çizgisi; kısa ve yoğun anlatım, az sözle çok anlam, günlük hayattan bir kesit, merdiven sembolü, yalın dil ve açık uçlu sonla yansımıştır."
+   },
+   {
+    "q": "Merdiven hikâyesi için konu, ana düşünce, dil ve üslup ölçütleri belirleyerek hikâyeyi değerlendiriniz.",
+    "a": "Konu: Beğendim—yükselme hırsının ömrü boşa harcatması. Ana düşünce: Beğendim—makam değil, hayatın anlamı önemlidir. Dil: Beğendim—yalın ve çağrışımlı. Üslup: Beğendim—minimalist, sembolik ve sorgulayıcı."
+   },
+   {
+    "q": "Anlatıcının kendine sorduğu “Ne işim var benim yukarda?” sorusuna anlatıcı adına verilebilecek cevaplar nelerdir?",
+    "a": "“Yukarıda beni bekleyen bir anlam yok; koşuşturmam boşunaymış.” / “Asıl değer yükselmekte değil, hayatı fark etmekte.”"
+   },
+   {
+    "q": "Beyin fırtınasındaki görüşleri benzer ve farklı yönlerine göre nasıl sınıflandırırsınız?",
+    "a": "Benzer: yükselme hırsının anlamsızlığı, pişmanlık, hayatın geçiciliği. Farklı: “Hedefe ulaşmak yine de gerekir” ve “aşağı inmek kayıp değil, kendini bulmaktır.”"
+   },
+   {
+    "q": "En ilgi çekici cevabı nasıl belirlersiniz?",
+    "a": "Sınıfta oylama yapılır; en çok oy alan cevap seçilir."
+   }
+  ],
+  "280": [
+   {
+    "q": "Bir tiyatro metninin sadece diyaloglarına bakarak tiyatro hakkında hangi genel çıkarımlarda bulunabilirsiniz?",
+    "a": "Karakterlerin kimliği, ilişkileri, sosyal konumu, duyguları, çatışmaları, olayın geçtiği ortam ve dönem ile oyunun teması hakkında çıkarımlar yapılabilir."
+   },
+   {
+    "q": "Bir tiyatro metninin canlandırılmasında görev alsaydınız size verilen metinde en çok nelere dikkat ederdiniz? Nedenleriyle açıklayınız.",
+    "a": "Rolün içsel ve psikolojik yapısına, sosyal ve biyolojik boyutuna, alt metnine, amacına ve duygusal bütünlüğüne dikkat ederdim; çünkü bunlar karakteri tutarlı ve inandırıcı kılarak sahnede gerçekçi bir yaşam kurmayı sağlar."
+   }
+  ],
+  "281": [
+   {
+    "q": "3. Tiyatroda diyalogların ve dili doğru kullanmanın önemini günlük hayatınızdan yola çıkarak açıklayınız.",
+    "a": "Doğru diyalog ve dil, duygu ve düşünceleri açıkça aktarır; günlük hayatta dinleme, ton ve beden diliyle yanlış anlaşılmaları önler."
+   },
+   {
+    "q": "4. Tiyatroyu tanımlayan “İnsanı, insana, insanla anlatma sanatıdır.” cümlesiyle ilgili neler söyleyebilirsiniz?",
+    "a": "Tiyatro, insanı yine insan aracılığıyla insana anlatır; insanı ve toplumu sahnede yansıtır."
+   },
+   {
+    "q": "Performans görevinin adı nedir?",
+    "a": "Tiyatro Metninin Bir Bölümünü Yeniden Kurgulayarak Canlandırma."
+   },
+   {
+    "q": "Performans görevinin amacı nedir?",
+    "a": "Tiyatro metnini canlandırarak konuşma becerisini geliştirmek."
+   },
+   {
+    "q": "Performans görevinin süresi nedir?",
+    "a": "8 ders saati."
+   },
+   {
+    "q": "1. Tiyatro metnini canlandırma amacınızı belirleyiniz.",
+    "a": "Ben, Mimar Sinan adlı eserden seçilen bölümü kendi kurgumuzla canlandırarak konuşma becerisini geliştirmek."
+   },
+   {
+    "q": "2. Öğretmeninizin rehberliğinde gruplara ayrılınız.",
+    "a": "Öğretmen rehberliğinde gruplar oluşturuldu."
+   },
+   {
+    "q": "3. Tahlil ettiğiniz tiyatro eserinden canlandırmak üzere bir bölüm seçiniz.",
+    "a": "Eserden canlandırmaya uygun bir bölüm seçildi."
+   },
+   {
+    "q": "4. Aranızda rol dağılımı yapınız.",
+    "a": "Roller grup üyeleri arasında dağıtıldı."
+   },
+   {
+    "q": "5. Hedef kitleyi, süreyi ve amacı göz önünde bulundurarak canlandırma için uygun yöntem ve stratejinizi belirleyiniz.",
+    "a": "Hedef kitleye ve süreye uygun olarak rol oynama ve doğaçlama stratejisi belirlendi."
+   },
+   {
+    "q": "6. Bu süreçte karşılaştığınız iletişim engellerini ortadan kaldırınız.",
+    "a": "Gürültü, kaygı ve söz kesme gibi iletişim engelleri giderildi."
+   },
+   {
+    "q": "Tiyatro metnini canlandırma amacı belirledi.",
+    "a": "Evet."
+   },
+   {
+    "q": "Tahlil edilen tiyatro eserinden bir bölümü canlandırmak üzere seçti.",
+    "a": "Evet."
+   },
+   {
+    "q": "Canlandırma yapmak için rol aldı.",
+    "a": "Evet."
+   },
+   {
+    "q": "Canlandırma için uygun yöntem ve stratejiyi belirledi.",
+    "a": "Evet."
+   },
+   {
+    "q": "Canlandırma sürecinde karşılaşabileceği iletişim engellerini ortadan kaldırdı.",
+    "a": "Evet."
+   },
+   {
+    "q": "Tiyatro Terimleri çalışmasına nasıl ulaşabilirsiniz?",
+    "a": "Karekodu okutarak."
+   }
+  ],
+  "282": [
+   {
+    "q": "Tiyatro eserinde seçilen bölümlerin nasıl canlandırılacağı nasıl belirlenir?",
+    "a": "Bölümler sahne akışına göre parçalanır; her parça için amaç, duygu, hareket ve süre planı yapılır."
+   },
+   {
+    "q": "Metindeki karakterler arasındaki doğrudan ve dolaylı ilişkiler nasıl sınıflandırılıp plana yansıtılır?",
+    "a": "İlişkiler akrabalık, dostluk, çatışma ve dayanışma gibi türlere ayrılır; sahne düzeni buna göre planlanır."
+   },
+   {
+    "q": "İçeriğe uygun jest ve mimikler nasıl tahmin edilir?",
+    "a": "Karakterin duygusu ve metindeki olaylar dikkate alınarak ön bilgilerle uygun jest ve mimikler belirlenir."
+   },
+   {
+    "q": "Rolünüze uygun doğaçlama sözler nasıl oluşturulur?",
+    "a": "Karakterin amacına ve bağlama uygun, deyim ve mecazlardan yararlanan doğaçlama sözler kullanılır."
+   },
+   {
+    "q": "Rolü içselleştirmek ve jest-mimik unsurlarını belirlemek için nasıl beyin fırtınası yapılır?",
+    "a": "Arkadaşlarla karakterin duyguları ve uygun beden hareketleri tartışılıp fikirler listelenir."
+   },
+   {
+    "q": "Canlandırma sırasında beden dili, diksiyon, telaffuz ile görsel ve işitsel ögeler nasıl kullanılır?",
+    "a": "Beden dili anlamı destekler; ses, telaffuz, ışık ve müzik sahneye uygun biçimde kullanılır."
+   },
+   {
+    "q": "Taslak plan arkadaşlara sunulup geri bildirimle nasıl son şekline getirilir?",
+    "a": "Plan sunulur, gelen eleştiriler değerlendirilir ve gerekli düzeltmeler yapılarak plan tamamlanır."
+   },
+   {
+    "q": "Rolünüze ait söz varlığı metnin bağlamına uygun nasıl kullanılır?",
+    "a": "Karakterin yaşına, eğitimine ve sahne bağlamına uygun kelime ve ifadeler seçilir."
+   },
+   {
+    "q": "Canlandırmaya dikkat çekici bir girişle ve plana uygun nasıl başlanır?",
+    "a": "Dikkat çekici bir hareket, ses veya replikle giriş yapılır; ardından planlanan sahne akışı izlenir."
+   },
+   {
+    "q": "Karakterin duygu, düşünce ve hayallerini yansıtırken tutarlılık nasıl sağlanır?",
+    "a": "Karakterin özellikleri ve olay akışı dikkate alınarak duygu ve davranışlarda tutarlılık korunur."
+   },
+   {
+    "q": "Canlandırmada izleyiciyle iletişim, zaman ve mekân nasıl etkin kullanılır?",
+    "a": "Bakış, ses ve hareketlerle izleyiciyle bağ kurulur; zaman ve mekân sahne düzenine göre kullanılır."
+   },
+   {
+    "q": "Canlandırma sırasında karakterin olumlu tutum ve değerleri nasıl vurgulanır?",
+    "a": "Karakterin dürüstlük, yardımseverlik gibi olumlu yönleri replik ve davranışlarla öne çıkarılır."
+   },
+   {
+    "q": "Rolün gerektirdiği duygular kendinize özgü üslupla nasıl yansıtılır?",
+    "a": "Duygular kendi ses tonu, vurgu ve beden diliyle yorumlanarak özgün bir anlatım oluşturulur."
+   },
+   {
+    "q": "Canlandırmada Türkçenin anlam zenginliği, kelime uyumu, diksiyon ve telaffuza nasıl dikkat edilir?",
+    "a": "Doğru vurgu ve tonlama kullanılır; kelimeler anlamına uygun seçilir, akıcı ve doğru telaffuz edilir."
+   }
+  ],
+  "283": [
+   {
+    "q": "Canlandırmada rolün sizde oluşturduğu duygu ve düşünceler hakkında bir yansıtma yazısı yazarak kendinizi değerlendiriniz.",
+    "a": "Rol, karakterin duygularını ve sorumluluklarını daha iyi anlamamı sağladı; heyecan ve empati hissettim, ses tonumu ve beden dilimi geliştirdiğimi fark ettim."
+   },
+   {
+    "q": "Canlandırdığınız rol hakkında rol arkadaşlarınızın görüşlerini alarak değerlendirmelerde bulununuz.",
+    "a": "Arkadaşlarım rolün duygu geçişlerini ve sahne uyumunu başarılı buldu; jest ve mimiklerde daha doğal olmam gerektiğini belirtti."
+   },
+   {
+    "q": "Aldığınız eleştirilerden ve edindiğiniz tecrübelerden hareketle özgün konuşmacı kimliğinizi oluşturunuz.",
+    "a": "Eleştirileri dikkate alarak sakin, anlaşılır ve doğal bir konuşma tarzı benimsedim; kendi ses tonumu ve beden dilimi kullanarak özgün bir sunum kimliği oluşturdum."
+   },
+   {
+    "q": "Yaptığınız canlandırma çalışmasını kaydederek okulun resmî çevrim içi sitesinde yayımlayabilirsiniz.",
+    "a": "Canlandırma kaydedilip uygun düzenleme sonrasında okulun resmî çevrim içi sitesinde yayımlanabilir."
+   },
+   {
+    "q": "Dereceli Puanlama Anahtarı ile tespit edilen eksiklerinizi gideriniz.",
+    "a": "Ölçütlere göre eksikler belirlendi; içeriğe uygunluk, özgünlük, ses ve beden dili ile grup uyumu geliştirildi."
+   }
+  ],
+  "284": [
+   {
+    "q": "Hayatın edebî eserlere nasıl yansıdığını görsellerden ve metinden yararlanarak belirleyiniz.",
+    "a": "Edebiyat, bireyin ve toplumun duygu, düşünce ve değişimlerini yansıtır; eser, çağının ruhunu ve sosyal koşullarını taşır."
+   },
+   {
+    "q": "Kendi yaşamınızı da dikkate alarak edebiyat-toplum ilişkisi hakkındaki düşüncelerinizi ifade ediniz.",
+    "a": "Edebiyat ile toplum karşılıklı olarak birbirini besler; çevremdeki değerler ve sorunlar okuduğum eserlerde karşılık bulur."
+   },
+   {
+    "q": "\"Her edebî eserde hayatın bir parçası görünür...\" cümlesi hakkındaki görüşlerinizi ifade ediniz.",
+    "a": "Katılıyorum; her eser hayattan bir kesit sunar, ancak kırık ayna gibi eksik ve yazarın bakış açısıyla sınırlıdır."
+   }
+  ],
+  "286": [
+   {
+    "q": "Aldığınız notlardan hareketle çok modlu metinde verilmek istenen iletileri tespit ederek yazınız.",
+    "a": "Hayatın insanı deneyimlerle olgunlaştırdığı, zorlukların üstesinden gelmenin ve insan ilişkilerinin yaşama anlam kattığı iletilmektedir."
+   },
+   {
+    "q": "Çok modlu metni dinleme / izleme sırasında metinde “Hayatın Aynası” temasının içeriğini yansıttığını düşündüğünüz kelime ve ifadeleri aşağıdaki alana not ediniz.",
+    "a": "hayat, ayna, insan, yaşam, deneyim, gerçek, duygu, yansıma, anlam, mücadele, umut, yolculuk, geçmiş, gelecek."
+   },
+   {
+    "q": "Kontrol Listesi’ndeki ölçütlere göre çalışmanız değerlendirilecektir.",
+    "a": "Dinleme/izleme sürecinde tüm ölçütler “Evet” olarak işaretlenmelidir."
+   }
+  ],
+  "287": [
+   {
+    "q": "fedakârlık – Tahminim",
+    "a": "Başkaları için kendinden ödün verme, özveri."
+   },
+   {
+    "q": "fedakârlık – Önerim",
+    "a": "özveri, feragat."
+   },
+   {
+    "q": "hemzemin geçit – Tahminim",
+    "a": "Demir yolu ile karayolunun aynı seviyede kesiştiği geçit."
+   },
+   {
+    "q": "hemzemin geçit – Önerim",
+    "a": "demir yolu geçidi."
+   },
+   {
+    "q": "mesai – Tahminim",
+    "a": "Çalışma süresi, iş zamanı."
+   },
+   {
+    "q": "mesai – Önerim",
+    "a": "çalışma saati, iş süresi."
+   },
+   {
+    "q": "aksaklık – Tahminim",
+    "a": "İşleyişteki düzensizlik, sorun, aksama."
+   },
+   {
+    "q": "aksaklık – Önerim",
+    "a": "sorun, arıza, aksama."
+   },
+   {
+    "q": "tahammül – Tahminim",
+    "a": "Dayanma, katlanma gücü."
+   },
+   {
+    "q": "tahammül – Önerim",
+    "a": "dayanma, katlanma, sabır."
+   },
+   {
+    "q": "Anadolu insanının genel karakter özelliklerinin metindeki karşılıkları",
+    "a": "Misafirperverlik, yardımseverlik, fedakârlık, dayanışma, sabır ve hoşgörü."
+   }
+  ],
+  "288": [
+   {
+    "q": "2. Metinle ilgili aldığınız notlardan hareketle zihin haritasındaki başlıklara göre çıkarımlarınızı yazınız.",
+    "a": "Tema: Fedakârlık. Konu: Anadolu insanının zorluklar karşısında gösterdiği fedakârlık ve dayanışma. Ana düşünce: Anadolu insanı, karşılık beklemeden yardım eder ve fedakârlık gösterir. Yardımcı düşünceler: Dayanışma, misafirperverlik, emeğe saygı ve vatan sevgisi. Bilgilerin sunuluş şekli: Açıklayıcı anlatım ve örneklerle."
+   }
+  ],
+  "290": [
+   {
+    "q": "6. Belgeselde yer alan öznel ve nesnel ifadeleri belirleyerek balık kılçığı diyagramındaki ilgili yerlere yazınız.",
+    "a": "Belgesel metni verilmediği için ifadeler belirlenemez; öznel ifadeler kişisel görüş ve duygu, nesnel ifadeler kanıtlanabilir bilgi içerir."
+   },
+   {
+    "q": "7. Balık kılçığı tekniğiyle tespit ettiğiniz unsurların belgeselin inandırıcılığına ve güvenilirliğine etkisiyle ilgili görüşlerinizi yazınız.",
+    "a": "Nesnel ifadeler, kanıt ve kaynak kullanımı inandırıcılığı artırır; öznel yorumların baskın olması güvenilirliği zayıflatır."
+   },
+   {
+    "q": "8. Dinlediğiniz/izlediğiniz belgeselde açık ve örtük iletileri tespit ederek ilgili alanlara yazınız.",
+    "a": "Belgesel metni verilmediği için iletiler tespit edilemez; açık iletiler doğrudan söylenir, örtük iletiler sezdirilir."
+   },
+   {
+    "q": "9. Tespit ettiğiniz açık ve örtük iletilerden yola çıkarak iletilerin güvenilirliğini sorgulayınız.",
+    "a": "İletilerin dayandığı kaynak, kanıt ve yansızlık kontrol edilmelidir; metin verilmediği için değerlendirme yapılamaz."
+   }
+  ],
+  "292": [
+   {
+    "q": "İklim değişikliğinin neden olduğu zararların giderilmesiyle ilgili bireylere düşen görevler nelerdir? Açıklayınız.",
+    "a": "Enerji ve suyu tasarruflu kullanmak, fosil yakıtlar yerine yenilenebilir enerjiyi tercih etmek, geri dönüşüm yapmak, ağaç dikmek, toplu taşıma ve bisiklet kullanmak, bilinçli tüketmek ve çevre konusunda çevresini bilgilendirmek."
+   }
+  ],
+  "293": [
+   {
+    "q": "1. Anadolu İnsanı / Çalışkanlık adlı çok modlu metni dinleme/izleme kurallarına dikkat ederek dinleyiniz/izleyiniz.",
+    "a": "Karekoddan ulaşılan belgesel, sessiz bir ortamda dikkatle ve not alarak izlenir."
+   },
+   {
+    "q": "2. Anadolu İnsanı / Çalışkanlık adlı çok modlu metnin ana düşüncesi nedir?",
+    "a": "Anadolu insanı, zorluklara rağmen yılmadan çalışıp üreterek hem kendine hem toplumuna değer katar."
+   },
+   {
+    "q": "3. Anadolu İnsanı / Fedakârlık ve Anadolu İnsanı / Çalışkanlık belgesellerini verilen ölçütlere göre karşılaştırınız.",
+    "a": "Dil ve üslup: İkisi de sade, içten ve gözleme dayalı bir anlatım kullanır; Fedakârlık daha duygusal, Çalışkanlık daha övgü ve azim vurguludur. İleti: Fedakârlık, sevdikleri ve başkaları için özveride bulunmanın değerini; Çalışkanlık ise emek, üretkenlik ve azmin önemini iletir. Tür: İkisi de belgeseldir. İçerik: Fedakârlık aile, hayvan sevgisi, doğa ve öğretmenlik gibi özveri hikâyelerini; Çalışkanlık tarım, hayvancılık ve bahçecilik gibi üretim hikâyelerini ele alır."
+   }
+  ],
+  "294": [
+   {
+    "q": "1. Metinde yapı unsurlarını (ses, görsel, ışık, mekân, zaman) belirleyiniz.",
+    "a": "Ses: anlatıcı sesi, müzik ve doğa sesleri; görsel: Anadolu insanı ve kırsal yaşam görüntüleri; ışık: doğal, sıcak ışık; mekân: Anadolu köyü/kırsalı; zaman: geçmişten günümüze uzanan süreç."
+   },
+   {
+    "q": "2. Yapı unsurlarının işlevini değerlendiriniz.",
+    "a": "Atmosfer oluşturur, fedakârlık temasını somutlaştırır, duyguyu güçlendirir ve anlatılanları inandırıcı kılar."
+   },
+   {
+    "q": "3. Yapı unsurlarının metne katkısını değerlendiriniz.",
+    "a": "Görseller anlatılanı canlandırır, sesler duyguyu artırır, ışık ve mekân ortamı yansıtır, zaman ise metne süreklilik kazandırır."
+   },
+   {
+    "q": "4. a) Görsel-Ses İlişkisi",
+    "a": "Görüntülerdeki emek ve zorluk sahneleri, hüzünlü müzik ve doğa sesleriyle desteklenerek fedakârlık duygusu güçlendirilir."
+   },
+   {
+    "q": "4. b) Görsel-Nesne İlişkisi",
+    "a": "Görüntülerdeki eşyalar, Anadolu insanının emeğini ve yaşam koşullarını somutlaştırarak fedakârlık temasını destekler."
+   },
+   {
+    "q": "4. c) Görsel-Mekân İlişkisi",
+    "a": "Köy, tarla ve ev görüntüleri mekânın kırsal Anadolu olduğunu gösterir; görsel ile mekân birbirini tamamlar."
+   },
+   {
+    "q": "4. ç) Ses-Mekân İlişkisi",
+    "a": "Doğa sesleri, yerel müzik ve anlatıcının tonu kırsal Anadolu mekânını duyumsatır."
+   },
+   {
+    "q": "4. d) Ses-Kişiler İlişkisi",
+    "a": "Anlatıcının ses tonu ve yerel müzik, Anadolu insanının duygu dünyasını ve fedakârlığını yansıtır."
+   },
+   {
+    "q": "5. Dil ve anlatım özelliklerini değerlendiriniz; günlük dil ile örtüşüyor mu?",
+    "a": "Dil sade, içten ve duygusaldır; yerel söyleyişler ve halk anlatımı kullanılır. Günlük dildeki içtenlik ve deyimlerle kısmen örtüşür, ancak edebî ve duygusal anlatımıyla ayrılır."
+   },
+   {
+    "q": "6. Kullanılan dilin anlam boyutunu içeren iletileri yansıtma düzeyini değerlendiriniz.",
+    "a": "Yüksek düzeyde yansıtır; sözcükler, ses tonu ve görseller emek, dayanışma ve fedakârlık iletisini birlikte destekler."
+   }
+  ],
+  "295": [
+   {
+    "q": "7. Metinde kullanılan dilin işlevlerini belirleyiniz.",
+    "a": "Bilgi verme (göndergesel), kavramları tanımlama, tartışma ve ikna etme işlevleri; akademik ve kanıtlayıcı bir anlatım kullanılmıştır."
+   },
+   {
+    "q": "8. Metindeki karakterin özelliklerini ve amaçlarını yazınız.",
+    "a": "Anadolu insanını temsil eden karakter fedakâr, sabırlı, çalışkan ve dayanışmacıdır; ailesinin geçimini sağlamayı, değerlerini korumayı ve topluma faydalı olmayı amaçlar."
+   },
+   {
+    "q": "9. Metindeki iletilerin verilmesinde tabloda yer alan unsurların işlevselliği hakkındaki düşüncelerinizi gerekçeleriyle açıklayınız.",
+    "a": "Görsel gerçekliği ve atmosferi yansıtır; ses duygu ve anlamı derinleştirip görüntüyü tamamlar; nesne kültürel-sembolik anlam taşır; mekân dönemin yaşam biçimini ve toplumsal bağlamı sezdirir."
+   },
+   {
+    "q": "10. Belgeselde konu edilen dönemin sosyal, ekonomik, kültürel vb. özelliklerini tespit ediniz.",
+    "a": "Sosyal yönden dayanışma, aile ve komşuluk ilişkileri güçlüdür; ekonomik yönden tarım ve hayvancılığa dayalı kısıtlı imkânlar vardır; kültürel yönden gelenek, görenek, misafirperverlik ve dinî değerler öne çıkar."
+   },
+   {
+    "q": "11. Belgeselin içeriğinin, yapı unsurlarının, dil ve anlatım özelliklerinin dönemle ve toplumla ilişkisine yönelik çıkarımlarda bulunarak bunları sınıfta sözlü olarak ifade ediniz.",
+    "a": "Belgeselin içeriği ve yapısı dönemin toplumsal gerçeklerini yansıtır; yalın ve doğal dil, halkın yaşamını, değerlerini ve dayanışmasını görünür kılar."
+   },
+   {
+    "q": "12. Ses ve görüntü desteği olmadan izlenen belgeselle destekli biçimi arasındaki farklardan ve ilgili metinden hareketle bu unsurların içerikle uyumunu ve çok modlu metne katkısını değerlendiriniz.",
+    "a": "Ses ve görüntü olmadan anlam ve duygu aktarımı zayıflar, belgesel tek boyutlu kalır; bu unsurlar içerikle uyumlu kullanıldığında gerçeklik duygusunu güçlendirir, atmosfer yaratır ve çok modlu metnin anlamını derinleştirir."
+   }
+  ],
+  "296": [
+   {
+    "q": "13. Anadolu İnsanı / Fedakârlık belgeselindeki millî, manevi ve evrensel değerler nelerdir; belgesel bu değerleri hangi yollarla aktarmaktadır?",
+    "a": "Millî değerler vatan sevgisi, birlik-beraberlik ve misafirperverlik; manevi değerler yardımlaşma, fedakârlık, sabır, vefa ve hoşgörü; evrensel değerler sevgi, saygı, dayanışma ve insanlıktır. Belgesel bunları gerçek yaşam hikâyeleri, tanık anlatımları, görüntüler ve duygusal anlatımla aktarır."
+   },
+   {
+    "q": "14. Metin-Sosyoloji İlişkisi",
+    "a": "Metin, Anadolu insanının toplumsal dayanışmasını, aile ve komşuluk ilişkilerini, kültürel değerlerini ve fedakârlık örneklerini toplum yapısı içinde ele alır."
+   },
+   {
+    "q": "14. Metin-Coğrafya İlişkisi",
+    "a": "Metin, Anadolu’nun coğrafi koşullarının insanların yaşam biçimini, geçim kaynaklarını ve dayanışma kültürünü nasıl etkilediğini yansıtır."
+   },
+   {
+    "q": "14. Metin-Psikoloji İlişkisi",
+    "a": "Metin, fedakârlık davranışının altında yatan empati, vicdan, aidiyet, sevgi ve sorumluluk gibi duygusal ve psikolojik süreçleri ele alır."
+   }
+  ],
+  "297": [
+   {
+    "q": "1. Çok modlu metne değer katan unsurları kendi beğenileriniz ve günlük hayat gerçekleri açısından nasıl değerlendirirsiniz?",
+    "a": "Görüntü, ses, müzik ve anlatıcının tonu metni güçlendiriyor; günlük hayatla örtüşen sahneler onu daha etkileyici ve inandırıcı kılıyor."
+   },
+   {
+    "q": "2. Etkin dinleyici kimliğinizi oluşturmak için Öğrenme Günlüğü’nü nasıl tamamlarsınız?",
+    "a": "Belgeseli dikkatle izleyip not alarak, anlatılanları kendi yaşantılarımla karşılaştırarak ve öğrendiklerimi günlük davranışlarıma aktararak."
+   },
+   {
+    "q": "Belgeselin bana kattığı değerler nelerdir?",
+    "a": "Empati, sorumluluk, doğaya ve insana saygı, dayanışma."
+   },
+   {
+    "q": "Belgeselde yer alan, benim de uygulayabileceğim davranış şekilleri nelerdir?",
+    "a": "Kaynakları tasarruflu kullanmak, çevreyi korumak, çevremdeki insanlara yardım etmek."
+   },
+   {
+    "q": "Belgeselde benim hayatımı yansıttığını düşündüğüm yaşantılar nelerdir?",
+    "a": "Aileyle geçirilen anlar, zorluklar karşısında dayanışma ve doğayla iç içe olma."
+   },
+   {
+    "q": "Daha etkin izleyici olarak dikkat etmem gereken hususlar nelerdir?",
+    "a": "Önceden hazırlık yapmak, amaçlı izlemek, not almak, sorgulamak ve görsel-işitsel unsurları fark etmek."
+   }
+  ],
+  "298": [
+   {
+    "q": "Bu sayfadaki performans görevi nedir?",
+    "a": "“Anadolu İnsanı / Fedakârlık” belgeselinin içeriğini yansıtan bir afiş hazırlamak."
+   },
+   {
+    "q": "Afiş tasarımında değerlendirme kriterleri nelerdir?",
+    "a": "Mesaj, mesaj-imge bütünlüğü, sözel hiyerarşi ve fark edilirlik."
+   },
+   {
+    "q": "Afişteki imgelerin düzenlenmesi için verilen öneriler nelerdir?",
+    "a": "İmge ve söz sayısını azaltmak; büyük görsel kullanmak; yazı ile görüntü arasında destekleyici ilişki kurmak; okunaklı yazı ve güçlü renk kontrastları kullanmak."
+   }
+  ],
+  "299": [
+   {
+    "q": "Bir afişe baktığınızda dikkatinizi en çok çeken şey nedir?",
+    "a": "Görsel ögeler, başlık/slogan, renkler ve dikkat çekici düzen."
+   },
+   {
+    "q": "Afişlerin insanları etkileme gücü hakkında ne düşünüyorsunuz?",
+    "a": "Görsel ve kısa metinle hızlı algı oluşturur; duygu ve düşünceleri yönlendirir, akılda kalıcıdır."
+   },
+   {
+    "q": "Afiş hazırlamayla ilgili öğrendiklerinizden hareketle afişe hangi unsurlar eklenebilir?",
+    "a": "Başlık/slogan, görsel veya fotoğraf, renk, boşluk/düzen, logo ve kısa açıklayıcı metin."
+   },
+   {
+    "q": "Afişi hazırlama amacım nedir?",
+    "a": "Anadolu İnsanı / Fedakârlık belgeselinin içeriğini yansıtan özgün bir afiş hazırlamak."
+   },
+   {
+    "q": "Afişin özellikleri nelerdir?",
+    "a": "Sade, dikkat çekici, mesajı açık, görselle uyumlu, kısa yazılı ve hedef kitleye uygun olmalıdır."
+   },
+   {
+    "q": "Tespitlerinizden hareketle bir yazma stratejisi belirleyiniz.",
+    "a": "Beyin fırtınası ve planlama yaparak önce mesaj ile sloganı, sonra görsel ve düzeni belirleme."
+   },
+   {
+    "q": "Yazma amacına uygun olarak seçtiğiniz stratejiyi yapılandırınız.",
+    "a": "Amaç, hedef kitle, mesaj, slogan, görsel, renk ve düzen sırasıyla taslak oluşturup geri bildirimle düzeltme."
+   },
+   {
+    "q": "Performans görevi nedir?",
+    "a": "Belgesele özgün afiş hazırlamak; sınıf dışında hazırlanıp ürünü sınıfta paylaşmak."
+   }
+  ],
+  "300": [
+   {
+    "q": "Aşağıdaki basamakları takip ederek afişi hazırlayınız.",
+    "a": "a, b ve c basamaklarını sırasıyla uygulayarak belgeselin iletisini yansıtan bir afiş hazırlarız."
+   },
+   {
+    "q": "a) Reklam panolarından, tiyatro ve film afişlerinden yararlanarak afişte neler kullanacağınıza dair arkadaşlarınızla fikir alışverişinde bulununuz.",
+    "a": "Çevredeki afişleri inceleyip etkili slogan, görsel ve renk seçenekleri hakkında fikir alışverişi yaparız."
+   },
+   {
+    "q": "b) Afişin etkileyiciliğini artırmak için kullanacağınız renkleri, yazıları ve görsel unsurları belirleyiniz.",
+    "a": "Dikkat çekici renkler, kısa ve okunaklı yazılar ile belgeselin iletisini yansıtan görseller belirleriz."
+   },
+   {
+    "q": "c) Belgeselde yer alan iletilerden hangisini ön plana çıkaracağınızı ve hangisine yönelik afiş hazırlayacağınızı belirlemek üzere tabloyu tamamlayınız.",
+    "a": "Belgeselden bir ana ileti seçer; tabloya afişin konusunu, hedef kitlesini, sloganını, görselini ve renklerini yazarız."
+   }
+  ],
+  "301": [
+   {
+    "q": "Tablodaki iletilerden hangisini seçtiniz ve belgeselin etkileyiciliği hangi unsurlarla sağlandı?",
+    "a": "\"Doğayı korumak insanın sorumluluğudur\" iletisini seçtim; gerçek görüntüler, tanık anlatımları, müzik ve duygusal anlatım etkileyiciliği sağladı."
+   },
+   {
+    "q": "Afiş için gerekli bilgileri toplayıp söz varlığını kullanarak içeriği nasıl düzenlediniz?",
+    "a": "Konu, amaç, hedef kitle ve iletiyi belirledim; başlık, slogan, kısa açıklama ve görsel önerilerle içeriği düzenledim."
+   },
+   {
+    "q": "Dili hangi bağlamda kullanacağınıza ve içeriği destekleyecek görsel malzemelere nasıl karar verdiniz?",
+    "a": "Bilgilendirici ve çağrı niteliğinde bir dil kullandım; konuya uygun fotoğraf, renk ve simgeler seçtim."
+   },
+   {
+    "q": "Taslak planı arkadaşlarınıza nasıl sundunuz ve geri bildirimlerle plana nasıl son şeklini verdiniz?",
+    "a": "Planı sınıfta sundum; anlaşılırlık, görsel düzen ve iletiye uygunluk önerilerini dikkate alarak düzelttim."
+   },
+   {
+    "q": "Vermek istediğiniz iletiyi dikkat çekici biçimde nasıl ifade ettiniz?",
+    "a": "\"Hayatın aynası doğa, onu koru!\" gibi kısa ve çarpıcı bir sloganı büyük başlıkla verdim."
+   },
+   {
+    "q": "İfadelerin Türkçenin dil yapısına, bağlam ve bağdaşıklığa, yazım ve noktalamaya uygunluğuna nasıl dikkat ettiniz?",
+    "a": "Açık ve kısa cümleler kurdum; başlıkla açıklama arasında bağ kurdum, yazım ve noktalamayı kontrol ettim."
+   },
+   {
+    "q": "Yansıtmak istediğiniz duygu ve düşünceyi nasıl özgün biçimde ifade ettiniz?",
+    "a": "Belgeselden esinlenen özgün bir slogan ve sembolik bir görsel kullandım."
+   },
+   {
+    "q": "İletmek istediğiniz duygu ve düşüncelerle ifadelerin tutarlı olmasını nasıl sağladınız?",
+    "a": "Slogan, görsel ve açıklamayı aynı iletiyi destekleyecek biçimde seçtim."
+   },
+   {
+    "q": "Afişte toplumsal hassasiyetlere aykırı ögeler kullanmaktan nasıl kaçındınız?",
+    "a": "Ayrımcı, önyargılı ve incitici ifade veya görseller kullanmadım; kapsayıcı bir dil seçtim."
+   },
+   {
+    "q": "Afişte hedef kitlenize uygun söz varlığı ve üslubu nasıl kullandınız?",
+    "a": "Lise öğrencilerine uygun, sade, samimi ve anlaşılır bir dil kullandım."
+   },
+   {
+    "q": "Millî ve manevi değerler ile kültürel unsurlara dikkat ederek olumlu tutum ve değerleri nasıl ön plana çıkardınız?",
+    "a": "Yardımlaşma, doğa sevgisi ve vatan sevgisi gibi değerleri kültürel motiflerle destekledim."
+   },
+   {
+    "q": "Kural uygulayabilme basamağında ne yaptınız?",
+    "a": "Afiş hazırlama kurallarını sırasıyla uyguladım ve taslağı bu ölçütlere göre kontrol ettim."
+   }
+  ],
+  "303": [
+   {
+    "q": "Aşağıda verilen tiyatro parçasını I. metindeki altı çizili cümleyle ilişkilendirerek “dünyaya Batılı bir gözle bakan ama Doğulu özelliklerle işlenmiş tiyatro biçimi ve üslubu”na dair ayrıntıları belirtiniz.",
+    "a": "Parçada Batılı dramatik yapı (kuşatma gerilimi, birey-topluluk çatışması, diyalog) geleneksel halk tiyatrosunun özellikleriyle birleşir: Sıtkı Bey ve Gönüllü birer “tip”tir; Abdullah Çavuş komik ağız ve söz oyunlarıyla yerel mizah sağlar; “Ağalar!” gibi doğrudan hitap, tekrarlar, atasözümsü söyleyiş ve hızlı episodik geçişler göstermeci (illüzyoncu olmayan) Doğulu üslubu yansıtır."
+   }
+  ],
+  "304": [],
+  "305": [
+   {
+    "q": "4. Metindeki çadıra hangi duyguyu katardınız? Gerekçelendiriniz.",
+    "a": "Sevgi katardım; çadır, erdem, vicdan, kardeşlik ve sevinci barındıran sıcak bir yuva olarak sevgiyi yansıtır."
+   },
+   {
+    "q": "5. Afiş için hangi görselleri kullanırdınız? Gerekçelendiriniz.",
+    "a": "Bahar/erik çiçeği ile mutlu aile görsellerini kullanırdım; erik ağacı, doğa, sevgi, kardeşlik, oyun ve sevinci yansıtırlar. Apartman ve yangın görselleri metnin umutlu ve sıcak tonuna uymaz."
+   },
+   {
+    "q": "6-8. soruları verilen metinlerden faydalanarak cevaplayınız.",
+    "a": "Sayfada 6-8. soruların maddeleri yer almıyor; yalnızca Paydos metninin girişi verilmiş."
+   }
+  ],
+  "306": [
+   {
+    "q": "Bu oyunlardaki kişilerin karakterlerine uygun sahne kostümleri nasıl olmalıdır? Gerekçelerinizi açıklayınız.",
+    "a": "Sade, gündelik ve yıpranmış ev giysileri olmalı; karakterlerin yaşı, ekonomik durumu ve sıradan yaşamına uygunluk göstermeli. Kadında yün çorap gibi tevazu imgesi, erkekte rahat ama dağınık giysiler kullanılmalı."
+   },
+   {
+    "q": "Karakterler arasındaki sözsüz iletişimin etkisine dair düşüncelerinizi söyleyiniz.",
+    "a": "Bakışlar, jestler, susmalar ve beden dili söylenmeyen gerginliği ve öfkeyi sezdirir; diyaloğu tamamlayarak atmosferi güçlendirir."
+   },
+   {
+    "q": "Aşağıdakilerden hangisi belgesel film yapımının zaman içinde değişmesini sağlayan etkenlerden biri değildir?",
+    "a": "A) Estetik anlayışın tamamen değişmesi"
+   },
+   {
+    "q": "Aşağıdaki tiyatro terimlerinden hangilerinin örnekleri Paydos ve Bir Çift Yün Çorap Böyle Aşk Duydunuz mu? metinlerinden kesinlikle çıkarılamaz?",
+    "a": "C) II ve IV (Diyalog ve monolog)"
+   }
+  ],
+  "307": [
+   {
+    "q": "Belgesel filmin toplumsal bellek üzerindeki etkisi aşağıdakilerden hangisine benzetilebilir?",
+    "a": "B) Arşivin geçmişe dair belgeleri korumasına"
+   },
+   {
+    "q": "Elif, tablodaki verilerden hareketle hangi çıkarımı yapabilir?",
+    "a": "B) Teknoloji, belgesel izleme biçimlerinin oranlarını değiştirmiştir."
+   },
+   {
+    "q": "Teknolojik gelişmeler, belgeselin etkisini güçlendirmiş midir yoksa zayıflatmış mıdır?",
+    "a": "Güçlendirmiştir; dijital platformlar erişimi, etkileşimi ve görsel anlatım imkânlarını artırmıştır."
+   },
+   {
+    "q": "Anadolu’nun birçok yöresine uyum sağlayan insanların belirgin özellikleri nelerdir?",
+    "a": "Misafirperverlik, yardımseverlik, dayanışma, sabır, hoşgörü, geleneklere bağlılık ve doğayla uyum."
+   },
+   {
+    "q": "Bir kişinin yaşadığı yere aidiyet duygusu geliştirebilmesi nelere bağlıdır? Örneklerle açıklayınız.",
+    "a": "Ortak değerler, güven, anılar, mekânı benimseme ve sosyal ilişkilere bağlıdır; örneğin mahalle dayanışması ve ortak gelenekler aidiyeti güçlendirir."
+   }
+  ],
+  "310": [
+   {
+    "q": "Sayfada yanıtlanacak soru veya etkinlik var mı?",
+    "a": "Hayır; sayfa yalnızca kaynakça, cevap anahtarı karekodu ve kaynakça atıf sistemi bilgisinden oluşuyor."
+   }
+  ]
  }
 }
