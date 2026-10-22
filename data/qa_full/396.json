@@ -2,6 +2,7 @@
  "bookId": 396,
  "done": true,
  "pages": {
+<<<<<<< Updated upstream
   "3": [
    {
     "q": "Bu sayfada yanıtlanacak soru veya etkinlik var mı?",
@@ -12,29 +13,37 @@
    {
     "q": "Uzay madenciliği konusunu araştırıp bilgilerinizi paylaşınız.",
     "a": "Uzay madenciliği; asteroitler ve Ay gibi gök cisimlerinden su buzu, metal ve nadir elementlerin çıkarılmasıdır. Amaç, Dünya kaynaklarına alternatif sağlamak ve uzayda sürdürülebilir yaşamı desteklemektir."
+=======
+  "3": [],
+  "10": [
+   {
+    "q": "Uzay madenciliği konusunu araştırınız ve edindiğiniz bilgileri arkadaşlarınızla paylaşınız.",
+    "a": "Uzay madenciliği, asteroit ve gezegenlerdeki su buzu, metal ve nadir elementlerin çıkarılmasıdır; bu kaynaklar yakıt, yapı malzemesi ve uzay araçları için kullanılabilir."
+>>>>>>> Stashed changes
    }
   ],
   "14": [
    {
-    "q": "1. Hangileri fizik bilimiyle ilişkilidir?",
+    "q": "Hangileri fizik bilimiyle ilişkilidir?",
     "a": "3, 6, 8"
    },
    {
-    "q": "2. Hangileri kimya bilimiyle ilişkilidir?",
+    "q": "Hangileri kimya bilimiyle ilişkilidir?",
     "a": "10"
    },
    {
-    "q": "3. Hangileri biyoloji bilimiyle ilişkilidir?",
+    "q": "Hangileri biyoloji bilimiyle ilişkilidir?",
     "a": "1, 7"
    },
    {
-    "q": "4. Hangileri astronomi bilimiyle ilişkilidir?",
+    "q": "Hangileri astronomi bilimiyle ilişkilidir?",
     "a": "2, 4, 5, 9"
    }
   ],
   "15": [
    {
     "q": "Astronomi sözcüğünü duyduğunuzda zihninizde ne gibi çağrışımlar oluşmaktadır?",
+<<<<<<< Updated upstream
     "a": "Uzay, yıldızlar, gezegenler, gök cisimleri, evren, teleskop ve gökyüzü gözlemleri."
    },
    {
@@ -52,10 +61,26 @@
    {
     "q": "Öğrenme Günlüğü’nü doldurunuz.",
     "a": "Etkinlikte öğrendiklerim, astronominin bilimsel düşünceye katkısı ve merak ettiğim yeni sorular yazılır."
+=======
+    "a": "Yıldızlar, gezegenler, evren, uzay, teleskop ve gökyüzü gözlemleri."
+   },
+   {
+    "q": "Astronomi sözcüğünün sizde ve arkadaşlarınızda oluşturduğu çağrışımları sınıf tahtasına yazınız.",
+    "a": "Yıldız, gezegen, galaksi, evren, Güneş, Ay, teleskop, uzay ve gözlem gibi çağrışımlar yazılır."
+   },
+   {
+    "q": "Astronominin çalışma alanı hakkında tartışarak astronomiyi tanımlayınız.",
+    "a": "Astronomi; evreni, gök cisimlerini, bunların yapısını, hareketlerini ve birbirleriyle etkileşimlerini bilimsel yöntemlerle inceleyen temel bilimdir."
+   },
+   {
+    "q": "Astronominin bilimsel düşüncenin gelişimindeki rolü hakkında merak ettiğiniz konulara ilişkin sorular hazırlayınız.",
+    "a": "İlk uygarlıklar gökyüzünü nasıl gözlemledi? Astronomi batıl inançların yerini bilimsel açıklamalara nasıl bıraktırdı? Teleskop gibi araçlar bilimsel düşünceyi nasıl etkiledi?"
+>>>>>>> Stashed changes
    }
   ],
   "16": [
    {
+<<<<<<< Updated upstream
     "q": "I. Metin – Batıl inanç/açıklama",
     "a": "Yıldız kaymasının ruhların yolculuğu, dileklerin kabulü, tanrıların göğü açması, Zeus’un taş atması veya kötü alamet olduğuna inanılmıştır."
    },
@@ -78,83 +103,131 @@
    {
     "q": "II. Metin – Bilimsel açıklama",
     "a": "Güneş, Dünya ve Ay’ın aynı doğrultuya gelmesiyle gölge oluşur; Ay’ın kızarması atmosferdeki kırılma ve saçılmadan kaynaklanır."
+=======
+    "q": "5. I. Metin’deki batıl inançları, dayandıkları doğa olayını ve bilimsel açıklamasını karşılaştırınız.",
+    "a": "Batıl inançlar: yıldız kaymasının ruhların yolculuğu, kırklara karışma, dilek, kötü alamet veya Zeus’un taş atması olduğuna inanılması. Doğa olayı: meteor yağmuru. Bilimsel açıklama: Atmosfere giren meteoroidlerin sürtünmeyle yanıp ışık izi bırakmasıdır; yıldızlarla veya ruhlarla ilgisi yoktur."
+   },
+   {
+    "q": "5. II. Metin’deki batıl inançları, dayandıkları doğa olayını ve bilimsel açıklamasını karşılaştırınız.",
+    "a": "Batıl inançlar: Tutulmanın ejderha, kurt veya canavarın Güneş’i/Ay’ı yemesi, öfkeli tanrı ya da kötü alamet olması. Doğa olayı: Güneş ve Ay tutulması. Bilimsel açıklama: Güneş tutulması Ay’ın Güneş ile Dünya arasına girmesi, Ay tutulması Dünya’nın gölgesinin Ay’a düşmesidir; Ay’ın kızarması atmosferdeki ışığın kırılması ve saçılmasıyla açıklanır."
+>>>>>>> Stashed changes
    }
   ],
   "17": [
    {
     "q": "Bilimsel düşüncenin gelişimine ve astronominin bu süreçteki katkılarına dair çıkarımlarınız nelerdir?",
+<<<<<<< Updated upstream
     "a": "Astronomi; gözlem, ölçme ve denemeyle doğayı açıklama alışkanlığı kazandırarak mitlere dayalı inançların yerine kanıta dayalı düşüncenin gelişmesine katkı sağlamıştır."
+=======
+    "a": "Astronomi; gözlem, ölçme ve kayıt tutmaya dayalı ilk bilimsel yöntemlerin gelişmesini sağladı, gök olaylarının düzenli yasalarını ortaya koyarak bilimsel düşüncenin temelini güçlendirdi."
+>>>>>>> Stashed changes
    },
    {
     "q": "Bugün ne öğrendim?",
-    "a": "Astronominin bilimsel düşünceye katkılarını ve yıldız falcılığının bilimsel bilgi sayılmadığını öğrendim."
+    "a": "Astronominin bilimsel düşüncenin gelişimine katkılarını ve yıldız falcılığının bilimsel bilgi kapsamında olmadığını öğrendim."
    },
    {
     "q": "Bu konu hakkında ne düşünüyordum, şimdi ne düşünüyorum?",
-    "a": "Önceden yıldız fallarına merak duyuyordum; şimdi gözlem ve deneye dayanmadığı için bilim olmadığını düşünüyorum."
+    "a": "Yıldız falcılığını zararsız bir inanç sanıyordum; şimdi gözlem ve deneye dayanmadığı için bilim sayılamayacağını düşünüyorum."
    },
    {
     "q": "En çok zorlandığım kısım, etkinliğin hangi aşamasıydı?",
-    "a": "Bilimsel bilgi ile batıl inancı ayırt edip çıkarım yazma aşamasında zorlandım."
+    "a": "Batıl inanç ile bilimsel açıklamayı ayırt etme aşamasında zorlandım."
    },
    {
     "q": "Öğrenme sürecimde neler iyi gitti?",
-    "a": "Metni anlayıp günlük hayattan örneklerle ilişkilendirmek iyi gitti."
+    "a": "Gök olaylarını bilimsel açıklamalarla eşleştirmek iyi gitti."
    },
    {
     "q": "Öğrenirken neler hissettim?",
-    "a": "Merak ve şaşkınlık hissettim; eski inançların neden sürdüğünü anladım."
+    "a": "Merak ve hayranlık hissettim; batıl inançların yaygınlığına şaşırdım."
    },
    {
     "q": "Bu bilgiyi nerede kullanabilirim?",
-    "a": "Astroloji gibi iddiaları ve medyadaki bilim dışı açıklamaları eleştirel değerlendirmede kullanabilirim."
+    "a": "Doğa olaylarını bilimsel açıklamayla değerlendirirken ve astroloji gibi iddiaları sorgularken kullanabilirim."
    },
    {
     "q": "Aynı etkinliği tekrar yapsam hangi basamakları nasıl değiştirirdim?",
-    "a": "Gözlem ve deney örneği ekler, tartışma aşamasını uzatırdım."
+    "a": "Bilimsel açıklamaları kaynaklarla destekler, tabloyu daha çok örnekle genişletirdim."
    },
    {
-    "q": "Yıldız kayması hangi batıl inanca temel olur ve bilimsel açıklaması nedir?",
-    "a": "Batıl inanç: Yıldız kayınca dilek tutulur veya birinin öldüğü sanılır. Bilimsel: Atmosfere giren meteoroidin sürtünmeyle yanmasıyla oluşan meteordur."
+    "q": "Yıldız kaymasına ilişkin batıl inanç nedir ve bilimsel açıklaması nedir?",
+    "a": "Batıl inanç: Yıldız kayınca dilek tutulur veya bir canın öldüğüne inanılır. Bilimsel: Atmosfere giren meteor parçalarının sürtünmeyle yanıp ışık izi bırakmasıdır."
    },
    {
-    "q": "Ay ve Güneş tutulması hangi batıl inanca temel olur ve bilimsel açıklaması nedir?",
-    "a": "Batıl inanç: Kötü olay veya felaket habercisi sayılır. Bilimsel: Ay'ın Dünya ile Güneş arasına girmesi Güneş tutulmasını, Dünya'nın gölgesine girmesi Ay tutulmasını oluşturur."
+    "q": "Ay ve Güneş tutulmasına ilişkin batıl inanç nedir ve bilimsel açıklaması nedir?",
+    "a": "Batıl inanç: Felaket, uğursuzluk veya kötü olay habercisi sayılır. Bilimsel: Ay tutulması Ay'ın Dünya'nın gölgesine girmesi, Güneş tutulması Ay'ın Güneş ile Dünya arasına girmesidir."
    },
    {
+<<<<<<< Updated upstream
     "q": "Göksel olaylar ve gezegenlerin dizilimi hangi batıl inanca temel olur ve bilimsel açıklaması nedir?",
     "a": "Batıl inanç: Kaderi ve karakteri etkilediğine, felaket getirdiğine inanılır. Bilimsel: Gezegenler yalnızca kütle çekimiyle birbirinin yörüngesini etkiler; insan kaderini belirlemez, olaylar fizik yasalarıyla açıklanır."
+=======
+    "q": "Göksel olaylar ve gezegenlerin dizilimine ilişkin batıl inanç nedir ve bilimsel açıklaması nedir?",
+    "a": "Batıl inanç: Gezegen konumlarının kaderi ve karakteri belirlediğine inanılır. Bilimsel: Gezegenler yörünge hareketleriyle belirli konumlara gelir; bu dizilimin insan kaderine etkisi kanıtlanmamıştır."
+>>>>>>> Stashed changes
    }
   ],
   "18": [
    {
+<<<<<<< Updated upstream
     "q": "Sayfada soru veya etkinlik var mı?",
     "a": "Hayır, verilen sayfa metninde soru ya da etkinlik bulunmuyor."
+=======
+    "q": "Sayfada yer alan sorular ve etkinlikler nelerdir?",
+    "a": "Bu sayfada soru veya etkinlik yok; yalnızca astronominin tarihçesi, bilimsel düşünceye katkısı ve dogmatik düşünceyi açıklayan bilgi metni ile görseller yer almaktadır."
+>>>>>>> Stashed changes
    }
   ],
   "20": [
    {
     "q": "Bu paragraftan yararlanarak batıl inançlar ile bilimsel yaklaşım arasındaki farkı örneklerle açıklayınız.",
+<<<<<<< Updated upstream
     "a": "Batıl inançlar olayları gizemli güçlere, kadere ve duygulara bağlar; bilim ise gözlem ve fizik yasalarıyla açıklar. Örneğin gök taşının ışık saçmasını sürtünmeyle ısınma, tutulmayı gök cisimlerinin birbirini örtmesi, gezegenlerin hareketini kütle çekimi açıklar."
    },
    {
     "q": "Bilimsel bilgi birikiminin artması, insanların gökyüzü olaylarını algılama ve açıklama yaklaşımlarını nasıl değiştirmiştir? Açıklayınız.",
     "a": "İnsanlar gökyüzü olaylarını batıl inançlarla değil; gözlem, sorgulama ve fizik yasalarıyla açıklamaya başlamış, evreni daha iyi tanımış ve hurafe ile falcılık gibi akıl dışı inanışlardan uzaklaşmıştır."
+=======
+    "a": "Batıl inanç, olayları gizemli güçler, kader ve duygularla açıklar; bilim ise gözlem ve fizik yasalarıyla. Örneğin tutulmayı kader/alamet saymak yerine gök cisimlerinin birbirini örtmesiyle, meteoru ilahi işaret saymak yerine atmosferde sürtünmeyle ısınmasıyla açıklar."
+   },
+   {
+    "q": "Bilimsel bilgi birikiminin artması, insanların gökyüzü olaylarını algılama ve açıklama yaklaşımlarını nasıl değiştirmiştir? Açıklayınız.",
+    "a": "İnsanlar doğaüstü ve gizemli açıklamalar yerine gözlem, ölçüm ve fizik yasalarına dayalı açıklamaları benimsemiş; gök olaylarını anlaşılır ve öngörülebilir süreçler olarak görmeye başlamıştır."
+>>>>>>> Stashed changes
    }
   ],
   "21": [
    {
+<<<<<<< Updated upstream
     "q": "Astronominin doğuşu ve gelişiminin nedenleri konusunda varsayımlarınız nelerdir?",
     "a": "İnsanların gökyüzünü merak etmesi, zamanı belirleme, yön bulma, tarım işlerini düzenleme ve doğa olaylarını önceden tahmin etme ihtiyacı; gözlem araçları ile bilimsel bilginin gelişmesi."
    },
    {
     "q": "Astronominin doğuşuna ve gelişimine yönelik bilgi kartlarını inceleyiniz.",
     "a": "Kartlarda gökyüzü gözlemlerinin doğa olaylarını anlama ve önceden tahmin etme amacıyla yapıldığı; gözlemevleri, astronomlar ve gelgit olayı gibi bilgiler yer alır."
+=======
+    "q": "Astronominin doğuşu ve gelişiminin nedenleri konusunda varsayımlarınızı yazınız.",
+    "a": "İnsanların gökyüzünü gözlemleyip düzenli gök olaylarını fark etmesi; bu olayları zaman, takvim, yön bulma, tarım ve doğa olaylarını önceden tahmin etme gibi ihtiyaçlar için kullanması."
+   },
+   {
+    "q": "Astronominin doğuşuna ve gelişimine yönelik bilgi kartlarını inceleyiniz.",
+    "a": "Gökyüzü gözlemleri yaşamı kolaylaştırmış (örn. Nil'in taşma zamanının belirlenmesi), kozmolojik olayların sistematik incelenmesini başlatmış; gözlemevleri kurulmuş ve astronomlar yetişmiştir."
+   },
+   {
+    "q": "Gelgit olayı nedir?",
+    "a": "Yer kendi ekseni etrafında dönerken Ay'ın ve kısmen Güneş'in çekim kuvvetleriyle okyanus ve deniz seviyesinin periyodik olarak alçalıp yükselmesidir."
+   },
+   {
+    "q": "Etkinliğin sonunda Çıkış Kartı'nı doldurunuz.",
+    "a": "Astronomi, gökyüzü gözlemlerinden doğmuş; pratik ihtiyaçlar ve doğa olaylarını tahmin etme isteğiyle gelişmiş, gözlemevleri ve astronomlarla günümüze ulaşmıştır."
+>>>>>>> Stashed changes
    }
   ],
   "24": [
    {
     "q": "Astronominin doğma nedenlerinden üçünü yazınız.",
+<<<<<<< Updated upstream
     "a": "1) İnsanların merakı, 2) gök cisimlerine duyulan ilgi, 3) tarım ve takvim (mevsimleri önceden bilme) ihtiyacı."
    },
    {
@@ -164,24 +237,40 @@
    {
     "q": "Astronominin önemi hakkında görüşlerinizi yazınız ve paylaşınız.",
     "a": "Astronomi sayesinde mevsimler ve takvim bilinmiş, tarım ve günlük yaşam kolaylaşmış; evreni anlamamıza ve bilimin gelişmesine katkı sağlanmıştır."
+=======
+    "a": "1) Gökyüzüne duyulan ilgi ve merak, 2) tarımda mevsimleri önceden bilme ihtiyacı, 3) takvim ve gök cisimlerinin hareketlerini bilme ihtiyacı."
+   },
+   {
+    "q": "Astronominin gelişme nedenleri hakkında iki soru hazırlayınız.",
+    "a": "1) Tarım faaliyetleri astronominin gelişimini nasıl etkilemiştir? 2) Takvim ihtiyacı gök cisimlerinin incelenmesini neden gerekli kılmıştır?"
+   },
+   {
+    "q": "Astronominin önemi hakkında görüşlerinizi yazınız.",
+    "a": "Astronomi; mevsimlerin, zamanın ve takvimin belirlenmesini sağlayarak tarımı ve yaşamı düzenlemiş, gök cisimlerinin hareketlerinin anlaşılmasına ve bilimsel birikime katkıda bulunmuştur."
+>>>>>>> Stashed changes
    }
   ],
   "27": [
    {
     "q": "Eski uygarlıklardaki astronomi ile günümüz modern astronomisi arasındaki temel farklar nelerdir? Açıklayınız.",
-    "a": "Eski astronomi çıplak gözle, günlük ihtiyaç ve inançlar için ve bulunulan coğrafyayla sınırlıyken; modern astronomi gelişmiş teleskoplar, uzay sondaları ve bilimsel yöntemlerle evrenin her yerini inceler."
+    "a": "Eski astronomi çıplak gözle, günlük ihtiyaç ve inançlar için ve yerel gözlemlere dayanırken modern astronomi gelişmiş teleskoplar, uzay sondaları ve bilimsel yöntemlerle evreni inceler."
    },
    {
     "q": "Eski uygarlıkların gökyüzüyle ve gökyüzü olaylarıyla ilgilenmelerinin nedenleri nelerdir? Açıklayınız.",
-    "a": "Doğa olaylarını öngörmek, takvim ve zaman kavramını geliştirmek, tarım-hasat zamanını belirlemek, yön bulmak ve inançlarını açıklamak için gökyüzünü incelemişlerdir."
+    "a": "Doğa olaylarını önceden kestirmek, takvim ve zamanı belirlemek, tarım faaliyetlerini planlamak, yön bulmak ve dinî inançlarını açıklamak."
    },
    {
     "q": "Astronomi bilimi gelişmeseydi bilimde ve günlük hayatınızda ne gibi eksiklikler olurdu? Açıklayarak yazınız.",
+<<<<<<< Updated upstream
     "a": "Evren ve gök cisimlerine dair bilgiler eksik kalırdı; takvim, saat, yön bulma, hava tahmini, uydu haberleşmesi ve GPS gibi günlük hayatı kolaylaştıran teknolojiler gelişmezdi."
+=======
+    "a": "Takvim ve saat düzeni, mevsimlerin ve tarım zamanlarının belirlenmesi, yön bulma ve navigasyon, uydu ve iletişim teknolojileri ile evren hakkındaki bilgiler büyük ölçüde gelişemezdi."
+>>>>>>> Stashed changes
    }
   ],
   "28": [
    {
+<<<<<<< Updated upstream
     "q": "Konuya Başlarken metnine göre bilim insanlarının ortak özellikleri nelerdir?",
     "a": "Fedakârlık göstermiş, zorluklara rağmen öğrenme ve keşfetme tutkularını kaybetmemişlerdir."
    },
@@ -196,16 +285,29 @@
    {
     "q": "Yaratıcı drama veya rol oynama etkinliğinde ne yapılacaktır?",
     "a": "Bir bilim insanının hayatı, düşünceleri ve astronomiye katkıları verilen işlem basamakları sırasıyla canlandırılacaktır."
+=======
+    "q": "Etkinlik öncesi hazırlıkta gruplar nasıl oluşturulur?",
+    "a": "Öğretmenin rehberliğinde, bilgi kartlarındaki bilim insanı sayısı kadar gruba ayrılarak."
+   },
+   {
+    "q": "Yaratıcı drama veya rol oynama yöntemiyle bilim insanının hayatı, düşünceleri ve astronomiye katkıları nasıl canlandırılır?",
+    "a": "Verilen işlem basamakları sırasıyla uygulanır; seçilen bilim insanının hayatı, düşünceleri ve katkıları drama veya rol oynama ile canlandırılır."
+>>>>>>> Stashed changes
    }
   ],
   "31": [
    {
     "q": "Sayfadaki sorular ve etkinlikler nelerdir?",
+<<<<<<< Updated upstream
     "a": "Verilen sayfa metninde soru veya etkinlik bulunmuyor."
+=======
+    "a": "Verilen sayfa metninde soru veya etkinlik yer almamaktadır."
+>>>>>>> Stashed changes
    }
   ],
   "33": [
    {
+<<<<<<< Updated upstream
     "q": "Etkinliğin adı nedir?",
     "a": "Astronomi Tarihine Damga Vuranlar"
    },
@@ -280,20 +382,97 @@
    {
     "q": "Dönemi yansıtmak için hangi hazırlıklar yapılabilir?",
     "a": "Dönemin kıyafetini giyebilir ve makyaj için ön çalışma yapabilirim"
+=======
+    "q": "Canlandırmaların kronolojik sırası neye göre belirlenir?",
+    "a": "Bilim insanlarının yaşadığı dönemlere göre eskiden yeniye sıralanır."
+   },
+   {
+    "q": "Canlandırma öncesi sınıf nasıl düzenlenir?",
+    "a": "Rahat ve samimi bir ortam oluşturulacak şekilde düzenlenir; izleyenlerin aktif katılımı sağlanır."
+   },
+   {
+    "q": "Seçilen bilim insanı nasıl sunulur?",
+    "a": "Hayatı, düşünceleri ve astronomiye katkıları canlandırılarak sunulur."
+   },
+   {
+    "q": "Merak edilen sorular kime ve nasıl sorulur?",
+    "a": "Araştırma yapmış gruplara saygı çerçevesinde sorulur."
+   },
+   {
+    "q": "Astronomi biliminin tarihsel süreçteki ilerlemesi nasıl yorumlanır?",
+    "a": "Mitolojik açıklamalardan gözleme, matematiksel modellemeye ve modern uzay teknolojilerine doğru evrilmiştir."
+   },
+   {
+    "q": "Etkinliğin sonunda ne yapılır?",
+    "a": "Öz Değerlendirme Formu doldurulur."
+   },
+   {
+    "q": "Bu çalışmada neler yaptım?",
+    "a": "Bilim insanını seçtim, araştırdım, canlandırdım ve sundum."
+   },
+   {
+    "q": "Bu çalışmada neler öğrendim?",
+    "a": "Astronomiye katkı sağlayan bilim insanlarını ve düşüncelerini öğrendim."
+   },
+   {
+    "q": "Bu çalışmada başarılı olduğum bölümler hangileriydi?",
+    "a": "Araştırma, iş bölümü ve canlandırma/sunum bölümleri."
+   },
+   {
+    "q": "Bu çalışmada en çok zorlandığım bölümler hangileriydi?",
+    "a": "Kronolojik sıralama ve döneme uygun hazırlık."
+   },
+   {
+    "q": "Zorlandığım bölümlerde kendimi motive etme yöntemlerim nelerdi?",
+    "a": "Görevleri küçük parçalara böldüm ve grup arkadaşlarımdan destek aldım."
+   },
+   {
+    "q": "Çalışmamı yaparken beklemediğim nelerle karşılaştım?",
+    "a": "Bilim insanlarının hayatlarıyla ilgili yeni ve şaşırtıcı bilgilerle."
+   },
+   {
+    "q": "Bu çalışmayı tekrar yapsaydım şu şekilde yapardım:",
+    "a": "Daha ayrıntılı araştırır, provayı artırır ve sunumu daha akıcı yapardım."
+   },
+   {
+    "q": "Bilgi kartlarından bir bilim insanı seçilince ne yapılır?",
+    "a": "Güvenilir kaynaklardan astronomiye katkıları araştırılarak bilgi toplanır."
+   },
+   {
+    "q": "Grup içinde hangi roller için seçim yapılır?",
+    "a": "Anlatıcı ve bilim insanı rolünü canlandıracak birer arkadaş seçilir."
+   },
+   {
+    "q": "Dönemi yansıtmak için ne yapılabilir?",
+    "a": "Döneme uygun kıyafet giyilir ve makyaj için ön çalışma yapılır."
+>>>>>>> Stashed changes
    }
   ],
   "35": [
    {
     "q": "a) Astronomların yaptığı çalışmaların bilime katkıları nelerdir?",
+<<<<<<< Updated upstream
     "a": "Bilinmeyenleri açığa çıkarır, yeni bilim dallarının doğmasına ve teknolojik ilerlemeye katkı sağlar."
    },
    {
     "q": "b) Aşağıdaki bilimsel keşifleri ya da olayları kronolojik şekilde sıralayınız.",
     "a": "Ç – A – B – D – E – C"
+=======
+    "a": "Bilinmeyen gerçekleri ortaya çıkarır, yeni problemlerin çözümüne ışık tutar, yeni bilim dallarının doğmasını sağlar ve teknolojik üstünlük kazandırır."
+   },
+   {
+    "q": "b) Verilen bilimsel keşifleri/olayları kronolojik olarak sıralayınız.",
+    "a": "Ç – A – B – D – E – C"
+   },
+   {
+    "q": "4. Örnek: Ali Kuşçu, Johannes Kepler ve Isaac Newton'ın çalışmalarını anlatan videolara nasıl ulaşılır?",
+    "a": "Karekodları sırasıyla Ali Kuşçu, Kepler ve Newton için kullanarak."
+>>>>>>> Stashed changes
    }
   ],
   "36": [
    {
+<<<<<<< Updated upstream
     "q": "Bir bilim insanı olarak Tycho Brahe’ın başarısında hangi özellikleri öne çıkmıştır?",
     "a": "Gökyüzüne duyduğu merak, kararlılık, gözlem yapmaya devam etmesi, eski verileri sorgulaması ve titiz ölçümler yapması."
    },
@@ -307,6 +486,21 @@
    },
    {
     "q": "Aşağıdaki kurgulanmış cümlelerden hangisi Tycho Brahe’a ait olamaz?",
+=======
+    "q": "1. Bir bilim insanı olarak Tycho Brahe’ın başarısında hangi özellikleri öne çıkmıştır?",
+    "a": "Gökyüzüne duyduğu merak, azim ve kararlılık, titiz gözlem ve ölçüm yapması, verileri sorgulaması ve zorluklara rağmen çalışmalarını sürdürmesi."
+   },
+   {
+    "q": "2. Tycho Brahe’ın bilimsel çalışmalara etkileri neler olmuştur?",
+    "a": "777 yıldızın konumunu ölçüp katalog hazırlamış, “Tycho’nun yıldızı”nı keşfetmiş ve Kepler’in eliptik gezegen yörüngeleri yasasını oluşturmasına katkı sağlamıştır."
+   },
+   {
+    "q": "3. Tycho Brahe’ın gözlemleri ve çalışmaları, kendisine ve insanlığa neler katmıştır?",
+    "a": "Kendisine gözlemevi ve fon kazandırmış; insanlığa hassas astronomik veriler, yıldız kataloğu ve sonraki bilimsel çalışmalara temel olacak bilgiler sunmuştur."
+   },
+   {
+    "q": "4. Aşağıdaki kurgulanmış cümlelerden hangisi Tycho Brahe’a ait olamaz?",
+>>>>>>> Stashed changes
     "a": "E) Astronomi araştırmaları gözleme dayanmaz, sezgi ve yaratıcılıkla yürütülür."
    }
   ],
@@ -321,21 +515,31 @@
    },
    {
     "q": "Görev nedir?",
+<<<<<<< Updated upstream
     "a": "Grupça ortak çalışarak astronomlarla ilgili açıklamalı tarih şeridi hazırlamak ve sınıfla paylaşmak."
+=======
+    "a": "Grup içinde ortak sorumluluk üstlenerek astronomlarla ilgili açıklamalı tarih şeridi hazırlamak ve sınıf arkadaşlarıyla paylaşmak."
+>>>>>>> Stashed changes
    },
    {
     "q": "Süre ne kadardır?",
     "a": "1 hafta."
    },
    {
+<<<<<<< Updated upstream
     "q": "Değerlendirme nasıl yapılacak?",
     "a": "Analitik Dereceli Puanlama Anahtarı ile."
+=======
+    "q": "Performans görevi nasıl değerlendirilir?",
+    "a": "Öğretmen tarafından Analitik Dereceli Puanlama Anahtarı ile."
+>>>>>>> Stashed changes
    },
    {
     "q": "Puanlama anahtarına nasıl ulaşılır?",
-    "a": "Yandaki karekod kullanılarak."
+    "a": "Sayfadaki karekod kullanılarak."
    },
    {
+<<<<<<< Updated upstream
     "q": "Performans görevi için grupça ne yapılmalı?",
     "a": "Verilen süreye uygun planlama yapılmalı."
    },
@@ -353,59 +557,100 @@
    },
    {
     "q": "Araştırma nasıl kolaylaştırılır?",
+=======
+    "q": "Görevi verilen sürede tamamlamak için ne yapılır?",
+    "a": "Grupça planlama yapılır."
+   },
+   {
+    "q": "Tarih şeridine alınacak astronomların ölçütleri nasıl belirlenir?",
+    "a": "Grupça birlikte belirlenir."
+   },
+   {
+    "q": "Astronomlar hakkında ne araştırılır?",
+    "a": "Yaşadıkları dönem ve dönemin bilimsel şartları."
+   },
+   {
+    "q": "Araştırmada nelere dikkat edilir?",
+    "a": "Güvenilir kaynaklar kullanılır."
+   },
+   {
+    "q": "Araştırmayı kolaylaştırmak için ne yapılır?",
+>>>>>>> Stashed changes
     "a": "Astronomlar grup içinde paylaşılır."
    },
    {
-    "q": "Tarih şeridi malzemeleri için ne yapılır?",
+    "q": "Tarih şeridi tasarımı için ne yapılır?",
     "a": "Malzemeler belirlenip temin edilir."
    },
    {
     "q": "Şeride alınacak bilgilerin ölçütleri ne zaman belirlenir?",
-    "a": "Araştırma sonrasında belirlenir."
+    "a": "Araştırma sonuçlarına göre."
    },
    {
-    "q": "Tarih şeridi hazırlanırken neye dikkat edilir?",
-    "a": "Özenli ve düzenli hazırlanır."
+    "q": "Tarih şeridi hazırlanırken neye özen gösterilir?",
+    "a": "Çalışmanın özenli yapılmasına."
    },
    {
-    "q": "Tarih şeridi kimlere sunulur?",
-    "a": "Sınıf arkadaşlarına."
+    "q": "Tarih şeridi tamamlanınca ne yapılır?",
+    "a": "Sınıf arkadaşlarına sunulur."
    },
    {
     "q": "Sunum sonrası ne yapılır?",
-    "a": "Dönütlere göre şerit geliştirilir ve düzeltilir."
+    "a": "Gelen dönütlerle geliştirilip düzeltilir."
    },
    {
+<<<<<<< Updated upstream
     "q": "Son hâli verilen şerit ne yapılır?",
     "a": "Öğretmene teslim edilir."
    },
    {
     "q": "Prof. Dr. Feryal Özel kimdir?",
+=======
+    "q": "Son aşamada ne yapılır?",
+    "a": "Son hâli verilerek öğretmene teslim edilir."
+   },
+   {
+    "q": "Prof. Dr. Feryal Özel nerede çalışmaktadır?",
+>>>>>>> Stashed changes
     "a": "Arizona Üniversitesinde astronomi ve fizik profesörüdür."
    },
    {
-    "q": "Feryal Özel'in NASA görevleri nelerdir?",
-    "a": "Astrofizik Komitesi, Lynx Uzay Teleskobu Bilim ve Teknik Ekibi ile Olay Ufku Teleskobu Bilim Konseyi ve Modelleme-Analiz Çalışma Grubu başkanlıkları."
+    "q": "Feryal Özel'in NASA'daki görevleri nelerdir?",
+    "a": "NASA Astrofizik Komitesi Başkanlığı; NASA Lynx Uzay Teleskobu Bilim ve Teknik Ekibi Başkanlığı; Olay Ufku Teleskobu Bilim Konseyi ile Modelleme ve Analiz Çalışma Grubu Başkanlığı."
    },
    {
-    "q": "Hangi tarihi başarıda yer almıştır?",
-    "a": "2019'da bir kara deliğin olay ufkunu ilk kez görüntüleyen 200 kişilik ekipte."
+    "q": "2019'da hangi başarıda yer aldı?",
+    "a": "200 kişilik ekiple bir kara deliğin olay ufkunu ilk kez doğrudan görüntüledi."
    },
    {
-    "q": "Feryal Özel proje sürecini nasıl anlatmıştır?",
-    "a": "20 yıldır adım adım çalıştığını, yorulup zorlandığını ama yılmadığını."
+    "q": "Evren hakkında ne söylemiştir?",
+    "a": "\"Evren harika bir laboratuvardır.\""
    },
    {
-    "q": "Feryal Özel'in gençlere tavsiyesi nedir?",
-    "a": "Keyif alacakları alanda uzmanlaşmaları."
+    "q": "Bilinmeyenleri bilinen kılmak için ne vurgulamıştır?",
+    "a": "Araştırma yapılabilecek birçok alan olduğunu."
    },
    {
+<<<<<<< Updated upstream
     "q": "\"Evren harika bir laboratuvar\" sözü neyi vurgular?",
     "a": "Evrende araştırılacak çok alan olduğunu."
+=======
+    "q": "Projesi için ne kadar süre çalıştığını belirtmiştir?",
+    "a": "20 yıldır."
+   },
+   {
+    "q": "Proje sürecini nasıl anlatmıştır?",
+    "a": "Adım adım ilerlediğini, yorulup zorlandığını ama yılmadığını."
+   },
+   {
+    "q": "Gençlere tavsiyesi nedir?",
+    "a": "Keyifle çalışacakları alanda uzmanlaşmaları."
+>>>>>>> Stashed changes
    }
   ],
   "38": [
    {
+<<<<<<< Updated upstream
     "q": "1. etkinlik adımı nedir?",
     "a": "Verilen metni incelemek."
    },
@@ -436,32 +681,53 @@
    {
     "q": "Uzaya gönderilecek malzemelerde hangi özellikler aranır?",
     "a": "Az yakıt tüketimi, yüksek sıcaklık ve radyasyona dayanıklılık, hafiflik."
+=======
+    "q": "Astronomi neden farklı bilim dallarıyla etkileşim içindedir?",
+    "a": "Evrenin sırlarını çözmek ve yaşamın kökenini araştırmak için."
+   },
+   {
+    "q": "Astronominin ilişkili olduğu bilim dalları hangileridir?",
+    "a": "Fizik, kimya, biyoloji, matematik, jeoloji, meteoroloji ve mühendislik."
+   },
+   {
+    "q": "Astronominin alt dalları hangileridir?",
+    "a": "Astrofizik, astrokimya, astrobiyoloji, astrometri, kozmoloji, gezegen bilimi ve radyo astronomi."
+   },
+   {
+    "q": "Uzaya gönderilecek malzemelerde hangi özellikler aranır?",
+    "a": "Hafiflik, az yakıt tüketimi, yüksek sıcaklık ve radyasyona dayanıklılık."
+>>>>>>> Stashed changes
    },
    {
     "q": "Uzay araçları neden Ekvator'a yakın bölgelerden gönderilir?",
     "a": "Daha az yakıt tüketmek için."
    },
    {
-    "q": "Uzay mekiklerinin dış yüzeyi neden seramikle kaplanır?",
-    "a": "Yüksek sıcaklığa dayanıklı, sert, hafif ve ısı yalıtımı sağladığı için."
+    "q": "ISS'te malzemeler neden test edilir?",
+    "a": "Uzayda kütle çekimi, sürtünme, basınç ve sıcaklık Dünya'dan farklı olduğu için."
    },
    {
-    "q": "Titanyum alaşımlarının avantajları nelerdir?",
+    "q": "Seramik malzemelerin uzay araçlarındaki görevi nedir?",
+    "a": "Isı yalıtımı sağlamak."
+   },
+   {
+    "q": "Titanyum alaşımları neden kullanılır?",
     "a": "Yüksek sıcaklığa dayanır; aşınma ve çatlamaya direnç gösterir."
    },
    {
-    "q": "James Webb Teleskobu'nun aynası neden altınla kaplanmıştır?",
-    "a": "Berilyum üzerine yansıtma özelliği yüksek ve aşınmaya dirençli olduğu için."
+    "q": "James Webb teleskobunun aynası neden altınla kaplanmıştır?",
+    "a": "Yansıtma özelliği yüksek ve aşınmaya dirençli olduğu için."
    },
    {
-    "q": "Astronot kasklarının vizöründe neden altın kaplama kullanılır?",
+    "q": "Astronot kasklarının vizöründe neden altın kaplama vardır?",
     "a": "Gözleri Güneş ışığından korumak için."
    },
    {
-    "q": "Astronot kaskları hangi malzemeden üretilir?",
-    "a": "Polikarbon."
+    "q": "Astronot kaskları hangi malzemeden ve neden yapılır?",
+    "a": "Polikarbon; radyasyon ve dış basınç yoksunluğuna dayanıklılık için."
    },
    {
+<<<<<<< Updated upstream
     "q": "Polikarbon kaskların amacı nedir?",
     "a": "Radyasyondan korunmak ve dış basınç yoksunluğunu muhafaza etmek."
    },
@@ -472,28 +738,44 @@
    {
     "q": "Sayfada değerlendirme soruları verilmiş mi?",
     "a": "Hayır, sayfa metninde yer almıyor."
+=======
+    "q": "Etkinliğin amacı nedir?",
+    "a": "İlişkili bilim dallarından yararlanarak astronominin alt dallarını belirleyebilme."
+>>>>>>> Stashed changes
    }
   ],
   "40": [
    {
+<<<<<<< Updated upstream
     "q": "Astronomi, fizik biliminden hangi çalışmalarda yararlanır?",
     "a": "Gök cisimlerinin hareketini, enerjisini, ışığını ve evrenin temel yasalarını açıklamada yararlanır."
    },
    {
+=======
+>>>>>>> Stashed changes
     "q": "Astronomi, kimya biliminden hangi çalışmalarda yararlanır?",
-    "a": "Gök cisimlerinin kimyasal bileşimini, element oluşumunu ve yıldızlardaki kimyasal tepkimeleri incelemede yararlanır."
+    "a": "Gök cisimlerinin kimyasal bileşimini, yıldızlararası maddeleri, molekül oluşumunu ve kimyasal tepkimeleri inceler."
+   },
+   {
+    "q": "Astronomi, fizik biliminden hangi çalışmalarda yararlanır?",
+    "a": "Gök cisimlerinin hareketini, kütleçekimi, ışığı, enerji dönüşümlerini ve manyetik olayları açıklar."
    },
    {
     "q": "Astronomi, biyoloji biliminden hangi çalışmalarda yararlanır?",
-    "a": "Astrobiyolojide yaşamın kökenini, dünya dışı yaşam izlerini ve canlıların uzay koşullarına etkisini araştırmada yararlanır."
+    "a": "Astrobiyoloji, yaşamın kökeni, gezegenlerde yaşam izi ve canlıların uzay koşullarına uyumu araştırılır."
    },
    {
     "q": "Astronomi, matematik biliminden hangi çalışmalarda yararlanır?",
+<<<<<<< Updated upstream
     "a": "Gök cisimlerinin hareketlerini hesaplamada, evren modelleri kurmada ve ölçümleri çözümlemede yararlanır."
+=======
+    "a": "Gök cisimlerinin konum ve hareketlerini hesaplar, yörünge modelleri kurar ve verileri analiz eder."
+>>>>>>> Stashed changes
    }
   ],
   "41": [
    {
+<<<<<<< Updated upstream
     "q": "D) Jeoloji — Tahmininiz?",
     "a": "Dünya’nın yapısını, bileşimini, tarihini ve yüzey ile iç yapısındaki süreçleri inceleyen yer bilimi."
    },
@@ -504,42 +786,60 @@
    {
     "q": "4. Astrofizik hangi alanı inceler?",
     "a": "Gök cisimlerinin yapısını, ışınımını ve evrimini fizik yasalarıyla inceler."
+=======
+    "q": "D) Jeolojinin astronomiyle ilişkisi hakkındaki tahmininiz nedir?",
+    "a": "Gezegenlerin yüzeyleri, kayaları ve iç yapıları jeolojiden yararlanılarak incelenir."
+   },
+   {
+    "q": "E) Arkeolojinin astronomiyle ilişkisi hakkındaki tahmininiz nedir?",
+    "a": "Eski uygarlıkların gökyüzü gözlemleri arkeolojik kalıntılardan öğrenilir."
+   },
+   {
+    "q": "Astrofizik hangi alanı inceler?",
+    "a": "Gök cisimlerinin fiziksel yapısını, madde ve ışınım etkileşimlerini inceler."
+>>>>>>> Stashed changes
    },
    {
     "q": "Astromatematik hangi alanı inceler?",
-    "a": "Astronomik olayları ve gök cisimlerinin hareketlerini matematiksel yöntemlerle hesaplar."
+    "a": "Gök cisimlerinin yörüngelerini hesaplar, gözlemsel verileri sayısal olarak değerlendirir."
    },
    {
     "q": "Astrokimya hangi alanı inceler?",
-    "a": "Uzaydaki ve gök cisimlerindeki kimyasal bileşim ve tepkimeleri inceler."
+    "a": "Gök cisimlerinin ve yıldızlar arası ortamın kimyasal yapısını inceler."
    },
    {
     "q": "Astrobiyoloji hangi alanı inceler?",
-    "a": "Uzayda yaşamın kökeni, olasılığı ve dağılımını inceler."
+    "a": "Evrenin herhangi bir yerindeki canlı yaşamın oluşumunu ve gelişimini inceler."
    },
    {
     "q": "Astrojeoloji hangi alanı inceler?",
-    "a": "Gök cisimlerinin yüzeyini, iç yapısını ve jeolojik süreçlerini inceler."
+    "a": "Güneş sistemindeki gezegenlerin, gök taşlarının ve diğer cisimlerin yapılarını, oluşum ve gelişimini inceler."
    },
    {
     "q": "Arkeoastronomi hangi alanı inceler?",
-    "a": "Eski toplumların gök olaylarıyla ilişkisini ve astronomi bilgilerini arkeolojik kalıntılarla inceler."
+    "a": "Eski çağlardaki astronomi hakkında bilgi edinmek için arkeolojik kalıntıları inceler."
    },
    {
     "q": "5. Astronominin ilişkili olduğu bilim dalları ile alt dalları arasındaki ilişkileri içeren bilgi görselini düzenleyip sununuz.",
-    "a": "Astronomi merkezli; fizik–astrofizik, matematik–astromatematik, kimya–astrokimya, biyoloji–astrobiyoloji, jeoloji–astrojeoloji, arkeoloji–arkeoastronomi ilişkilerini gösteren görsel hazırlanıp sunulur."
+    "a": "Astronomi merkezli kavram haritasında fizik–astrofizik, matematik–astromatematik, kimya–astrokimya, biyoloji–astrobiyoloji, jeoloji–astrojeoloji ve arkeoloji–arkeoastronomi ilişkilerini gösterip sununuz."
    },
    {
-    "q": "Değerlendirme 1. Astronominin ilişkili olduğu bilim dalları hangileridir? Her biri için örnek yazınız.",
-    "a": "Fizik (yıldız ışıması), matematik (yörünge hesabı), kimya (yıldız bileşimi), biyoloji (uzayda yaşam), jeoloji (gezegen yüzeyi), arkeoloji (antik gökbilim yapıları)."
+    "q": "Değerlendirme 1. Astronominin ilişkili olduğu bilim dalları hangileridir? Her biri için bir örnek yazınız.",
+    "a": "Fizik (gezegen hareketleri), kimya (yıldızların yapısı), biyoloji (uzayda yaşam), matematik (uzaklık hesabı), jeoloji (Ay kayaçları), arkeoloji (eski gökyüzü gözlemleri)."
    },
    {
+<<<<<<< Updated upstream
     "q": "Değerlendirme 2. Bu ilişkileri günlük hayattan örneklerle açıklayınız.",
     "a": "Fizik–astrofizik: güneş panelleri; matematik–astromatematik: GPS/takvim; kimya–astrokimya: meteorit analizi; biyoloji–astrobiyoloji: uzayda mikrop deneyleri; jeoloji–astrojeoloji: Mars toprağı incelemesi; arkeoloji–arkeoastronomi: Göbeklitepe’nin gök olaylarıyla ilişkisi."
+=======
+    "q": "Değerlendirme 2. Astronominin ilişkili olduğu bilim dalları ile alt dalları arasındaki ilişkileri günlük hayattan birer örnek vererek açıklayınız.",
+    "a": "Güneş’in ısıtması fizik–astrofizik; takvim hazırlanması matematik–astromatematik; elementlerin yıldızlarda araştırılması kimya–astrokimya; uzayda yaşam için su ve hava ihtiyacı biyoloji–astrobiyoloji; taşların Ay taşlarıyla karşılaştırılması jeoloji–astrojeoloji; müzedeki eski takvimler arkeoloji–arkeoastronomi ilişkisine örnektir."
+>>>>>>> Stashed changes
    }
   ],
   "43": [
    {
+<<<<<<< Updated upstream
     "q": "Astronomi bilimi temel olarak kaç ana alt dala ayrılır?",
     "a": "İki ana alt dala ayrılır: gözlemsel astronomi ve kuramsal astronomi."
    },
@@ -590,28 +890,77 @@
    {
     "q": "Astronominin çalışma alanı nedir?",
     "a": "Evren ve evreni oluşturan gök cisimleridir."
+=======
+    "q": "Astronomi bilimi temel olarak hangi iki ana alt dala ayrılır?",
+    "a": "Gözlemsel astronomi ve kuramsal astronomi."
+   },
+   {
+    "q": "Gözlemsel astronomi nedir?",
+    "a": "Evreni ve gök cisimlerini çıplak gözle veya teleskopla gözlemleyip verileri kaydeden alandır."
+   },
+   {
+    "q": "Kuramsal astronomi nedir?",
+    "a": "Fizik ve kimya yasalarına bağlı kalarak matematiksel bağıntılarla gök cisimlerini ve evreni açıklamaya çalışan alandır."
+   },
+   {
+    "q": "Astrofizik nedir?",
+    "a": "Gök cisimlerinden gelen ışığı analiz ederek hareketlerini ve fiziksel yapılarını inceler; Büyük Patlama, maddenin oluşumu, karanlık madde ve karanlık enerjiyi araştırır."
+   },
+   {
+    "q": "Astromatematik nedir?",
+    "a": "Çekim kuvveti altındaki gök cisimlerinin yörüngelerini hesaplar ve gözlemsel verileri sayısal olarak değerlendirir."
+   },
+   {
+    "q": "Astrokimya nedir?",
+    "a": "Gök cisimleri ile yıldızlar arası ortamın kimyasal bileşimini, yıldızların yaşam döngüsünü ve elementlerin oluşumunu inceler."
+   },
+   {
+    "q": "Astrobiyoloji nedir?",
+    "a": "Dünya'daki biyolojik ve jeolojik verileri diğer gezegenlerle karşılaştırarak bu gezegenlerdeki yaşam koşullarını araştırır."
+   },
+   {
+    "q": "Astrojeoloji nedir?",
+    "a": "Güneş sistemindeki gezegenlerin, gök taşlarının ve diğer cisimlerin yapılarını, oluşumlarını ve gelişimlerini konu alır."
+   },
+   {
+    "q": "Arkeoastronomi nedir?",
+    "a": "Eski çağlarda insanların gök cisimlerini ve gökyüzü olaylarını anlamak için yaptıklarını arkeolojik kalıntılar üzerinden inceler."
+   },
+   {
+    "q": "Bir ülke veya şirket Ay'da toprak sahibi olabilir mi?",
+    "a": "1967 Dış Uzay Antlaşması'na göre hiçbir ülke gök cisimleri üzerinde egemenlik iddia edemez."
+>>>>>>> Stashed changes
    }
   ],
   "44": [
    {
-    "q": "Bu çalışma sırasında astronominin ilişkili olduğu hangi bilim dallarından söz edilmektedir?",
+    "q": "1. Bu çalışma sırasında astronominin ilişkili olduğu hangi bilim dallarından söz edilmektedir?",
     "a": "Fizik, biyoloji, tıp, matematik, sosyoloji ve hukuk."
    },
    {
-    "q": "Metinde astronominin hangi alt dallarından söz edilmektedir?",
+    "q": "2. Metinde astronominin hangi alt dallarından söz edilmektedir?",
     "a": "Astrofizik, astrobiyoloji ve astromatematik."
    },
    {
+<<<<<<< Updated upstream
     "q": "Laika’nın uzaya gönderilmesi ile insanların uzaya çıkabilmesi arasındaki ilişkiyi kısaca özetleyiniz.",
     "a": "Laika’nın uçuşunda yaşanan zorluklar ve elde edilen veriler, insanların uzaya daha güvenli çıkmasına ve geri dönmesine katkı sağladı."
    },
    {
     "q": "Aşağıdakilerden hangisi Laika’nın uzay yolculuğunun doğrudan sonuçları arasında yer almaz?",
+=======
+    "q": "3. Laika'nın uzaya gönderilmesi ile insanların uzaya çıkabilmesi arasındaki ilişkiyi kısaca özetleyiniz.",
+    "a": "Laika’dan elde edilen veriler uzay yolculuğunun risklerini gösterdi; bu bilgiler diğer canlıların ve insanların güvenli şekilde uzaya gönderilmesine, dolayısıyla Gagarin’in uçuşuna zemin hazırladı."
+   },
+   {
+    "q": "4. Aşağıdakilerden hangisi Laika’nın uzay yolculuğunun doğrudan sonuçları arasında yer almaz?",
+>>>>>>> Stashed changes
     "a": "C) Kütle çekim dalgalarının keşfine öncülük etti."
    }
   ],
   "45": [
    {
+<<<<<<< Updated upstream
     "q": "Ay yüzeyindeki kraterlerin oluşumu veya Mars’ta suyun varlığıyla ilgili izlerin araştırılması hangi bilim dalı ve astronomi alt dalıyla ilişkilidir?",
     "a": "Jeoloji – Astrojeoloji"
    },
@@ -634,52 +983,86 @@
    {
     "q": "Mars yüzeyindeki kaya örneklerinin yapısını incelemek, Satürn’ün atmosferindeki hidrojen ve helyum oranını araştırmak, evrende yaşamın olup olmadığını araştırmak sırasıyla hangi alt dallarla ilgilidir?",
     "a": "Astrojeoloji – Astrokimya – Astrobiyoloji (A)"
+=======
+    "q": "4. UYGULAMA – Ay yüzeyindeki kraterlerin oluşumu veya Mars’ta suyun varlığı ile ilgili izlerin araştırılması hangi bilim dalı ve astronomi alt dalıyla ilgilidir?",
+    "a": "Jeoloji – Astrojeoloji"
+   },
+   {
+    "q": "4. UYGULAMA – Asteroit madenciliği için kaynak analizi hangi bilim dalı ve astronomi alt dalıyla ilgilidir?",
+    "a": "Kimya – Astrokimya (ayrıca Jeoloji – Astrojeoloji)"
+   },
+   {
+    "q": "4. UYGULAMA – Güneş’in merkezindeki sıcaklık ve basıncın hesaplanması hangi bilim dalı ve astronomi alt dalıyla ilgilidir?",
+    "a": "Fizik – Astrofizik (ayrıca Matematik – Astromatematik)"
+   },
+   {
+    "q": "4. UYGULAMA – Uzak galaksilerin görüntülerinin ışığın bükülmesiyle farklı görünmesi hangi bilim dalı ve astronomi alt dalıyla ilgilidir?",
+    "a": "Fizik – Astrofizik"
+   },
+   {
+    "q": "5. UYGULAMA – Bir gök cisminin atmosferinde yaşam için gerekli moleküllerin olup olmadığını inceleyen araştırma astronominin hangi alt dalına aittir?",
+    "a": "A) Astrobiyoloji"
+   },
+   {
+    "q": "6. UYGULAMA – I. Mars yüzeyindeki kaya örneklerinin yapısını incelemek, II. Satürn’ün atmosferindeki hidrojen ve helyum oranını araştırmak, III. Evrende yaşamın olup olmadığını araştırmak sırasıyla hangi alt dallarla ilgilidir?",
+    "a": "A) Astrojeoloji - astrokimya - astrobiyoloji"
+>>>>>>> Stashed changes
    }
   ],
   "46": [
    {
     "q": "1.a) Yaz ve kış mevsimlerinde gece ve gündüz süreleri nasıl değişir?",
-    "a": "Gözlemsel yöntem."
+    "a": "Gözlemsel yöntem; yazın gündüz uzar, gece kısalır, kışın tersi olur."
    },
    {
     "q": "1.b) Mevsimler neden oluşur?",
-    "a": "Kuramsal yöntem."
+    "a": "Kuramsal yöntem; Dünya’nın eksen eğikliği ve Güneş çevresindeki hareketi nedeniyle."
    },
    {
     "q": "1.c) Ay evre gösterir mi?",
-    "a": "Gözlemsel yöntem."
+    "a": "Gözlemsel yöntem; evet, Ay evre gösterir."
    },
    {
     "q": "1.ç) Ay neden evre gösterir?",
-    "a": "Kuramsal yöntem."
+    "a": "Kuramsal yöntem; Ay’ın Dünya çevresindeki hareketi ve Güneş ışığının geliş açısı nedeniyle."
    },
    {
     "q": "1.d) Ay yüzeyindeki kraterler neden oluşmuştur?",
-    "a": "Kuramsal yöntem."
+    "a": "Kuramsal yöntem; meteor çarpmaları ve volkanik etkilerle."
    },
    {
     "q": "1.e) Güneş tutulması nasıl gerçekleşir?",
-    "a": "Kuramsal yöntem."
+    "a": "Kuramsal yöntem; Ay’ın Güneş ile Dünya arasına girmesiyle."
    },
    {
     "q": "1.f) Yıldızlar neden farklı renktedir?",
-    "a": "Kuramsal yöntem."
+    "a": "Kuramsal yöntem; yüzey sıcaklıkları farklı olduğundan."
    },
    {
     "q": "1.g) Yıldızlar neden geceleri yanıp sönüyormuş gibi görünür?",
-    "a": "Kuramsal yöntem."
+    "a": "Kuramsal yöntem; atmosferdeki ışık kırılması ve hava türbülansı nedeniyle."
    },
    {
+<<<<<<< Updated upstream
     "q": "2) Astronomideki gözlemsel ve kuramsal yöntemler arasındaki farklar nelerdir?",
     "a": "Gözlemsel yöntem gözlem ve ölçümle bilgi toplar; kuramsal yöntem bu bilgileri fizik ve matematikle açıklar ve yeni tahminler yapar."
    },
    {
     "q": "5. Etkinlik – Gözlem ve kuramın astronomideki önemi nedir?",
     "a": "Gözlem veri sağlar; kuramlar bu verileri açıklar, sınar ve gelecekteki olayları öngörür."
+=======
+    "q": "2. Astronomideki gözlemsel ve kuramsal yöntemler arasındaki farklar nelerdir?",
+    "a": "Gözlemsel yöntem veri toplar ve ölçer; kuramsal yöntem verileri açıklayan modeller kurar, nedenleri açıklar ve öngörüde bulunur; kuramlar yeni gözlemlerle test edilir."
+   },
+   {
+    "q": "5. Etkinlik: Astronomide Gözlem ve Kuramın Önemi — amaç, süre, adımlar ve değerlendirme soruları nedir?",
+    "a": "Amaç: gözlem ve kuramın önemini özetleyebilme; süre: 35 dakika. Adımlar ve değerlendirme soruları sayfada yer almıyor."
+>>>>>>> Stashed changes
    }
   ],
   "47": [
    {
+<<<<<<< Updated upstream
     "q": "Tycho Brahe hangi çalışma yöntemini kullandı?",
     "a": "Gözlemsel yöntem (gökyüzü gözlemleri ve veri toplama)."
    },
@@ -698,38 +1081,72 @@
    {
     "q": "Johann Galle hangi çalışma yöntemini kullandı?",
     "a": "Gözlemsel yöntem (teleskopla gözlem yaparak Neptün'ü gördü)."
+=======
+    "q": "Tycho Brahe hangi çalışma yöntemini kullanmıştır?",
+    "a": "Gözlemsel yöntem"
+   },
+   {
+    "q": "Johannes Kepler hangi çalışma yöntemini kullanmıştır?",
+    "a": "Kuramsal yöntem"
+   },
+   {
+    "q": "Isaac Newton hangi çalışma yöntemini kullanmıştır?",
+    "a": "Kuramsal yöntem"
+   },
+   {
+    "q": "Jean-Joseph Le Verrier hangi çalışma yöntemini kullanmıştır?",
+    "a": "Kuramsal yöntem"
+   },
+   {
+    "q": "Johann Galle hangi çalışma yöntemini kullanmıştır?",
+    "a": "Gözlemsel yöntem"
+>>>>>>> Stashed changes
    }
   ],
   "48": [
    {
     "q": "Astronomi tarihindeki Brahe, Kepler, Newton, Le Verrier ve Johann Galle gibi bilim insanlarının çalışmalarını göz önünde bulundurarak gözlemsel ve kuramsal yöntemlerin birbirini destekleyerek ilerlemesinin neden kritik olduğunu yorumlayınız.",
-    "a": "Gözlemler kuramlara veri sağlar, kuramlar da gözlemleri açıklar ve yönlendirir. Brahe’nin verileri Kepler’in yasalarına, Kepler’in yasaları Newton’un kütle çekim kuramına temel olmuş; Le Verrier’in kuramsal öngörüsü Galle’nin gözlemiyle doğrulanmıştır. Bu etkileşim bilginin sınanmasını, düzeltilmesini ve yeni keşifleri sağlar."
+    "a": "Brahe’nin gözlemleri Kepler’in yasalarına, Kepler’in yasaları Newton’un kütle çekim kuramına, Le Verrier’in kuramsal öngörüsü de Galle’nin Neptün’ü gözlemesine yol açmıştır; gözlem kuramı sınar, kuram gözleme yön verir."
    },
    {
     "q": "Astronomi biliminde gözlemsel ve kuramsal yöntemlerle yapılan çalışmalar hangi yönlerden birbirini etkiler ve tamamlar?",
-    "a": "Gözlem, teleskop ve dedektörlerle veri toplar; kuram bu verileri fizik yasaları, matematiksel modeller ve simülasyonlarla açıklar. Kuramlar gözlem hedeflerini ve yöntemlerini belirler; gözlemler de kuramların öngörülerini sınar, doğrular veya düzeltir."
+    "a": "Gözlemler veri ve kanıt sağlar; kuramlar bu verileri açıklar, modeller kurar ve yeni gözlemler için öngörüde bulunur. Kuramın öngörüsü gözlemlenir, gözlem sonucu kuramı doğrular veya değiştirir."
    },
    {
     "q": "Gözlemsel ve kuramsal yöntemler arasındaki etkileşimin astronomi çalışmalarındaki rolü nelerdir?",
-    "a": "Bu etkileşim verilerin anlamlandırılmasını, kuramların test edilip geliştirilmesini ve yeni olayların öngörülmesini sağlar. Böylece bilimsel güvenilirlik artar, yanlışlar ayıklanır ve keşif süreci hızlanır."
+    "a": "Evrenin yapısını ve fiziksel süreçlerini anlamayı sağlar; kör varsayımları ayıklar, modelleri test eder, yeni keşiflerin ve daha isabetli öngörülerin önünü açar."
    },
    {
     "q": "Astronomi biliminde gözlemsel ve kuramsal yöntemler neden birbirini tamamlayan iki temel unsurdur?",
+<<<<<<< Updated upstream
     "a": "Gözlem tek başına evrenin nedenlerini açıklayamaz; kuram da tek başına doğrulanmış kanıt üretemez. Gözlem kurama dayanak, kuram gözleme açıklama ve öngörü kazandırdığı için ikisi birlikte güvenilir astronomi bilgisi oluşturur."
+=======
+    "a": "Gözlem tek başına “nasıl”ı, kuram ise “neden”i açıklamada yetersiz kalır; birlikte kullanıldıklarında veriler anlam kazanır ve kuramlar sınanarak güvenilir bilgi üretilir."
+>>>>>>> Stashed changes
    }
   ],
   "49": [
    {
+<<<<<<< Updated upstream
     "q": "Astronomide gözlem ve kuramın birbirini tamamlayan rolü, evrenle ilgili bilgilerin gelişmesi açısından nasıl bir öneme sahiptir?",
     "a": "Gözlemler somut veri sağlar, kuramlar bu verileri açıklar ve yeni öngörüler üretir; birbirini sınayarak bilginin derinleşmesini ve sağlam temellenmesini sağlar (ör. genel göreliliğin 1919 ve 2015 gözlemleriyle doğrulanması)."
    },
    {
     "q": "Metinde verilen bilgilerin ışığında gözlem ve kuramın astronomi çalışmalarında beraber kullanımının önemini açıklayınız.",
     "a": "Gözlemsel yöntem veri toplar, kuramsal yöntem bu veriyi açıklar ve öngörü üretir; birlikte kullanımları kuramların değişmesine (Galileo örneği) ve yeni keşif alanlarının doğmasına (kütle çekim dalgaları) yol açar."
+=======
+    "q": "6. Örnek – Astronomide gözlem ve kuramın birbirini tamamlayan rolü, evrenle ilgili bilgilerin gelişmesi açısından nasıl bir öneme sahiptir?",
+    "a": "Gözlem somut veri sağlar, kuram bu verileri açıklar ve öngörü üretir; kuram gözlemlere yön verir, gözlemler de kuramı sınar, doğrular veya yenilenmesini sağlar. Bu etkileşim bilgiyi derinleştirip sağlamlaştırır."
+   },
+   {
+    "q": "7. Uygulama – Metinde verilen bilgilerin ışığında gözlem ve kuramın astronomi çalışmalarında beraber kullanımının önemini açıklayınız.",
+    "a": "Gözlem veri toplar, kuram bu veriyi açıklar ve yeni öngörüler yapar; birlikte kullanım kuramların test edilmesini, yanlış modellerin değişmesini, yeni keşifleri ve yeni astronomi alanlarının doğmasını sağlar."
+>>>>>>> Stashed changes
    }
   ],
   "51": [
    {
+<<<<<<< Updated upstream
     "q": "Yengeç Bulutsusu’nun radyo dalgası, kızılötesi ışın ve görünür ışık görüntüleri için teleskoplar hangi niteliklere sahip olmalıdır?",
     "a": "Her dalga boyuna uygun dedektör ve optik sistem bulunmalıdır; radyoda radyo teleskobu, kızılötesinde soğutmalı kızılötesi teleskop, görünür ışıkta optik teleskop kullanılmalıdır. Ayrıca yüksek çözünürlük, büyük ışık toplama gücü ve atmosferin engellediği bantlar için uzay teleskobu gerekir."
    },
@@ -744,10 +1161,19 @@
    {
     "q": "6. Etkinlik değerlendirme: Atmosfer hangi dalga boylarına büyük ölçüde geçirgendir?",
     "a": "Görünür ışık, radyo dalgaları ve bazı kızılötesi ile mikrodalga aralıkları."
+=======
+    "q": "Yengeç Bulutsusu’nun farklı dalga boylarındaki görüntülerinin alınabilmesi için teleskoplar hangi niteliklere sahip olmalıdır?",
+    "a": "Farklı dalga boylarına duyarlı alıcı ve detektörlere sahip olmalı; radyo, kızılötesi, görünür ışık, morötesi, X ve gama ışınlarını gözleyebilmeli; atmosferin soğurduğu ışınlar için atmosfer dışına yerleştirilmelidir."
+   },
+   {
+    "q": "6. Etkinlik – Teleskoplar: Teleskoplar nasıl sınıflandırılır?",
+    "a": "Gözledikleri dalga boyuna göre radyo, kızılötesi, görünür ışık, morötesi, X ışını ve gama teleskopları; bulundukları yere göre yer teleskopları ve uzay teleskopları olarak sınıflandırılır."
+>>>>>>> Stashed changes
    }
   ],
   "53": [
    {
+<<<<<<< Updated upstream
     "q": "5. Tablo – Işığın göze ulaşıncaya kadar teleskop içinde izlediği yol",
     "a": "Mercekli: mercekten geçip odaklanır; aynalı: aynada yansıyıp odaklanır; katadioptrik: mercek ve aynadan geçip yansıyarak odaklanır."
    },
@@ -785,24 +1211,61 @@
    },
    {
     "q": "5.e) Hangileri radyo dalgalarını analiz eder?",
+=======
+    "q": "5. Tablo — Işığın izlediği yol, optik davranış, ana malzeme ve kullanım alanları",
+    "a": "Mercekli: ışık mercekten kırılarak geçer; cam mercek; Ay, Güneş, gezegen gözlemi. Aynalı: ışık aynadan yansır; ayna; derin uzay ve soluk gök cisimleri. Katadioptrik: ışık hem mercekten geçer hem aynadan yansır; mercek+ayna; geniş alan ve astrofotoğrafçılık."
+   },
+   {
+    "q": "a) Hangilerinde ışığı toplamak için mercek kullanılır?",
+    "a": "Mercekli (2) ve katadioptrik (3) teleskoplar."
+   },
+   {
+    "q": "b) Hangilerinde ışığı toplamak için ayna kullanılır?",
+    "a": "Aynalı (1) ve katadioptrik (3) teleskoplar."
+   },
+   {
+    "q": "c) Hangilerinde ışığı toplamak için hem mercek hem de ayna kullanılır?",
+    "a": "Katadioptrik (3) teleskoplar."
+   },
+   {
+    "q": "ç) Hangileri elektromanyetik tayfın görünür ışık dalga boylarını gözlemler?",
+    "a": "Optik teleskoplar (9); mercekli, aynalı ve katadioptrik türleri."
+   },
+   {
+    "q": "d) Hangileri atmosfer dışına konumlandırılır?",
+    "a": "Morötesi (6), X ışını (7), gama ışını (8) ve kızılötesi (5) teleskoplar."
+   },
+   {
+    "q": "e) Hangileri radyo dalgalarını analiz eder?",
+>>>>>>> Stashed changes
     "a": "Radyo teleskopları (4)."
    },
    {
-    "q": "6. Optik teleskobun ışığı toplayan kısmı ile topladığı ışığın niteliği arasındaki ilişki nedir?",
-    "a": "Toplayıcı mercek/aynanın çapı büyüdükçe toplanan ışık miktarı, görüntü parlaklığı ve çözünürlük artar."
+    "q": "6. Işığı toplayan kısım ile toplanan ışığın niteliği arasındaki ilişki nedir?",
+    "a": "Açıklık (mercek/ayna çapı) büyüdükçe toplanan ışık miktarı artar; soluk cisimler görülür ve çözünürlük yükselir."
    },
    {
-    "q": "7. İncelenen optik teleskobun türü nasıl belirlenir?",
-    "a": "Işık mercekle toplanıyorsa mercekli, aynayla toplanıyorsa aynalı, ikisi birlikte kullanılıyorsa katadioptrik türdür."
+    "q": "7. İncelenen optik teleskobun türü nedir?",
+    "a": "Yalnız mercek varsa mercekli, yalnız ayna varsa aynalı, ikisi birlikteyse katadioptriktir."
    },
    {
+<<<<<<< Updated upstream
     "q": "8. Optik teleskop türlerinin avantaj ve dezavantajları nelerdir?",
     "a": "Mercekli: basit ve keskin görüntü; renk sapması ve büyük mercek zorluğu. Aynalı: renk sapması yok, büyük açıklık; merkezî engel ve ayar ihtiyacı. Katadioptrik: kompakt ve uzun odak; karmaşık, pahalı yapı."
+=======
+    "q": "8. İncelenen teleskop türünün avantaj ve dezavantajları nelerdir?",
+    "a": "Mercekli: keskin görüntü, kolay bakım; renk sapması ve büyük açıklık zorluğu. Aynalı: renk sapması yok, büyük açıklık; ayar-bakım zorluğu. Katadioptrik: kompakt, geniş alan; yüksek maliyet ve karmaşık yapı."
+   },
+   {
+    "q": "Değerlendirme — yapılandırılmış grid soruları",
+    "a": "Sayfa metninde gridin altındaki sorular yer almadığı için bu bölüm cevaplanamadı."
+>>>>>>> Stashed changes
    }
   ],
   "58": [
    {
     "q": "Topladığı ışığın niteliklerine göre teleskoplar neden farklı türlerde tasarlanır?",
+<<<<<<< Updated upstream
     "a": "Elektromanyetik spektrumun farklı bölgelerindeki ışımaların dalga boyu, enerjisi ve maddeyle etkileşimi farklıdır; her ışınımı etkin algılamak için farklı yapıda teleskoplar gerekir."
    },
    {
@@ -812,10 +1275,22 @@
    {
     "q": "Düşük bütçeli amatör bir gök bilimci, sönük derin uzay cisimlerini gözlemlemek için hangi optik teleskop türünü tercih etmelidir?",
     "a": "Aynalı (yansıtıcı) teleskop; özellikle büyük açıklıklı Newton/Dobson tipi, düşük maliyetle daha fazla ışık toplar."
+=======
+    "a": "Elektromanyetik spektrumun farklı bölgelerindeki ışımaları etkin biçimde algılamak için; her dalganın dalga boyu, enerjisi ve maddeyle etkileşimi farklıdır."
+   },
+   {
+    "q": "a) Aynalı, mercekli ve katadioptrik teleskopların ışığı toplama ve odaklama mekanizmaları arasındaki temel farklar nelerdir?",
+    "a": "Aynalı teleskop ışığı çukur aynayla toplayıp odaklar; mercekli teleskop mercekle toplayıp kırarak odaklar; katadioptrik teleskop ise ayna ve merceği birlikte kullanır."
+   },
+   {
+    "q": "b) Düşük bütçeli amatör bir gök bilimci, sönük derin uzay cisimlerini gözlemlemek için hangi optik teleskop türünü tercih etmelidir?",
+    "a": "Aynalı (yansıtıcı) teleskopu; büyük açıklık daha düşük maliyetle elde edilir ve renk sapması görülmez."
+>>>>>>> Stashed changes
    }
   ],
   "59": [
    {
+<<<<<<< Updated upstream
     "q": "Performans görevi verilen sürede nasıl planlanır?",
     "a": "Birinci hafta araştırma, tasarım ve malzeme temini; ikinci hafta prototip yapımı, test, düzeltme, sunum ve rapor olacak şekilde planlanır."
    },
@@ -872,6 +1347,8 @@
     "a": "Öğretmen tarafından Analitik Dereceli Puanlama Anahtarı ile değerlendirilir."
    },
    {
+=======
+>>>>>>> Stashed changes
     "q": "Performans görevinin adı nedir?",
     "a": "Basit Teleskop Tasarımı."
    },
@@ -881,19 +1358,81 @@
    },
    {
     "q": "Görev nedir?",
-    "a": "Grupça seçilen bir optik teleskop türünde özgün bir tasarım üretmek ve sınıf arkadaşlarıyla paylaşmak."
+    "a": "Seçilen optik teleskop türüne ait özgün bir tasarım yapmak ve sınıf arkadaşlarıyla paylaşmak."
    },
    {
     "q": "Süre ne kadardır?",
     "a": "2 hafta."
    },
    {
+<<<<<<< Updated upstream
     "q": "Puanlama anahtarına nasıl ulaşılır?",
     "a": "Sayfadaki karekod okutularak."
+=======
+    "q": "Değerlendirme nasıl yapılacaktır?",
+    "a": "Öğretmen tarafından Analitik Dereceli Puanlama Anahtarı ile değerlendirilecektir."
+   },
+   {
+    "q": "Analitik Dereceli Puanlama Anahtarı’na nasıl ulaşılır?",
+    "a": "Sayfadaki karekod kullanılarak."
+   },
+   {
+    "q": "Performans görevi için planlama nasıl yapılır?",
+    "a": "Görevi verilen sürede tamamlamak için iş bölümü ve zaman planı yapılır."
+   },
+   {
+    "q": "Problem durumu nasıl ortaya konur?",
+    "a": "Teleskop türü, karşılayacağı ihtiyaçlar ve kullanım alanı belirlenir."
+   },
+   {
+    "q": "Teleskobun çalışma prensibiyle ilgili ne yapılır?",
+    "a": "Seçilen optik teleskop türünün çalışma prensibi araştırılır."
+   },
+   {
+    "q": "Teleskop modeli nasıl hazırlanır?",
+    "a": "Tasarlanacak optik teleskobun modeli çizilir."
+   },
+   {
+    "q": "Malzemeler konusunda ne yapılır?",
+    "a": "Kullanılacak malzemeler belirlenir ve temin edilir."
+   },
+   {
+    "q": "Malzemelerle kullanılabilirlik nasıl test edilir?",
+    "a": "Malzemelerle teleskop modelinin kullanılabilirliği test edilir."
+   },
+   {
+    "q": "Prototip nasıl oluşturulur?",
+    "a": "Yapılan testlerin sonuçlarına göre teleskop prototipi oluşturulur."
+   },
+   {
+    "q": "Prototip gece gökyüzünde nasıl test edilir?",
+    "a": "Parlak bir gök cismine çevrilir ve göz merceği hareket ettirilerek odaklama yapılır."
+   },
+   {
+    "q": "Görüntü net değilse ne yapılır?",
+    "a": "Hatanın yeri araştırılır, hata düzeltilir ve prototip yeniden test edilir."
+   },
+   {
+    "q": "Test sonrası prototip için ne yapılır?",
+    "a": "Uygun koşullarda teleskop tasarımı sergilenmeye hazır hâle getirilir."
+   },
+   {
+    "q": "Tasarım nasıl paylaşılır?",
+    "a": "Tasarım sınıf arkadaşlarına sergilenir."
+   },
+   {
+    "q": "Dönütler doğrultusunda ne yapılır?",
+    "a": "Arkadaşlardan gelen dönütlere göre tasarımda geliştirmeler yapılır."
+   },
+   {
+    "q": "Proje sonunda ne hazırlanır?",
+    "a": "Tasarım süreci ve sonucuyla ilgili rapor hazırlanıp öğretmene sunulur."
+>>>>>>> Stashed changes
    }
   ],
   "61": [
    {
+<<<<<<< Updated upstream
     "q": "İnsanların bilimsel bilgiye sahip olması batıl inançlara karşı nasıl bir koruma sağlar? Açıklayınız.",
     "a": "Olayları sorgulayıp kanıta dayalı açıklamalar yapmayı sağlar; böylece batıl inançların etkisinden kurtarır."
    },
@@ -904,11 +1443,24 @@
    {
     "q": "Astronominin günümüz bilimine ve teknolojisine etkisi nelerdir? Yazınız.",
     "a": "Uydu, iletişim, navigasyon, uzay teknolojileri, tıp, malzeme ve enerji gibi birçok alanda bilimsel ve teknolojik gelişmelere katkı sağlar."
+=======
+    "q": "İnsanların bilimsel bilgiye sahip olması batıl inançlara karşı nasıl bir koruma sağlar?",
+    "a": "Olayları akıl, gözlem ve kanıtla açıklamayı sağlar; bilinmeyene bağlı korku ve yanlış inançları azaltır."
+   },
+   {
+    "q": "Astronomi biliminin tarih boyunca önemli olmasının temel nedenleri nelerdir?",
+    "a": "Takvim, zaman, tarım, denizcilik gibi pratik ihtiyaçları karşılamış ve evrene dair büyük sorulara yanıt aramıştır."
+   },
+   {
+    "q": "Astronominin günümüz bilimine ve teknolojisine etkisi nelerdir?",
+    "a": "Uzay araştırmaları, uydu-iletişim, GPS, meteoroloji, tıbbi görüntüleme ve bilgisayar teknolojilerine katkı sağlar."
+>>>>>>> Stashed changes
    }
   ],
   "62": [
    {
     "q": "Modern astronomiye geçiş hangi olayların etkisiyle başlamıştır?",
+<<<<<<< Updated upstream
     "a": "Rönesans, matbaanın icadı, Kopernik’in Güneş merkezli modeli, Tycho’nun gözlemleri, Kepler yasaları, Galileo’nun teleskop gözlemleri ve Newton’un yerçekimi yasasıyla."
    },
    {
@@ -922,64 +1474,364 @@
    {
     "q": "6. soru (metin eksik)",
     "a": "Sayfa metninde soru içeriği yer almadığı için yanıtlanamıyor."
+=======
+    "a": "Kopernik'in güneş merkezli modeli, Galileo'nun teleskop gözlemleri, Kepler'in yasaları ve Newton'un yer çekimi kuramıyla başlamıştır."
+   },
+   {
+    "q": "Astronominin gelecekte daha çok hangi alanlarda gelişmesi beklenebilir? Gerekçesiyle yazınız.",
+    "a": "Uzay teknolojileri, astrofizik, kozmoloji, ötegezegen ve astrobiyoloji alanlarında gelişmesi beklenir; çünkü gözlem araçları gelişmekte ve evrenin kökeni ile dünya dışı yaşam merak edilmektedir."
+   },
+   {
+    "q": "Carl Sagan'ın insanlığa katkıları neler olmuştur?",
+    "a": "Bilimi halka ve gençlere sevdirmiş, bilim iletişimciliğinin doğmasına öncülük etmiş, belgesel ve kitaplarıyla astronomiyi tanıtmış, NASA projelerine danışmanlık yapmıştır."
+>>>>>>> Stashed changes
    }
   ],
   "63": [
    {
-    "q": "7) Bilim insanları ile astronomiye katkılarını eşleştiriniz.",
-    "a": "I-B (Ali Kuşçu), II-D (Copernicus), III-A (Takiyüddin), IV-C (Caroline Herschel), V-Ç (El-Biruni)"
+    "q": "7-I) İstanbul’un enlem ve boylamını ölçen, Dünya’nın eğikliğini ve Ay’ın evrelerini hesaplayan bilim insanı kimdir?",
+    "a": "B) Ali Kuşçu"
    },
    {
-    "q": "8) Tablodaki gibi dolduran öğrencinin testten aldığı puan kaçtır?",
+    "q": "7-II) Eserinde Güneş merkezli evren modeline ilk kez yer veren kimdir?",
+    "a": "D) Copernicus"
+   },
+   {
+    "q": "7-III) Tophane sırtlarında İstanbul Gözlemevi’ni kuran bilim insanı kimdir?",
+    "a": "A) Takiyüddin"
+   },
+   {
+    "q": "7-IV) Dünyanın ilk profesyonel kadın astronomu olarak bilinen ve Messier 110’u keşfeden kimdir?",
+    "a": "C) Caroline Herschel"
+   },
+   {
+    "q": "7-V) Güneş’in hareketlerini inceleyip mevsimleri belirleyen ve Dünya’nın çapını hesaplayan kimdir?",
+    "a": "Ç) El-Biruni"
+   },
+   {
+    "q": "8) Tablodaki testi dolduran öğrencinin testten aldığı puan kaçtır?",
     "a": "A) 20"
    }
   ],
   "64": [
    {
-    "q": "9. Verilen olay veya keşifleri geçmişten günümüze doğru sıralayınız.",
+    "q": "9) Aşağıda verilen olay veya keşifleri geçmişten günümüze doğru sıralayınız.",
     "a": "B – D – A – Ç – E – C"
    },
    {
-    "q": "10. a) Defne’nin projesi hangi bilim dalları ve astronominin hangi alt dallarıyla doğrudan ilişkilidir?",
-    "a": "Jeoloji, kimya, biyoloji, fizik ve atmosfer/iklim bilimleriyle; astronomide gezegen bilimi (planetoloji) ve astrobiyolojiyle."
+    "q": "10.a) Defne’nin projesinde kullandığı veriler ve araştırma konuları göz önüne alındığında projesi hangi bilim dalları ve astronominin hangi alt dallarıyla doğrudan ilişkilidir?",
+    "a": "Jeoloji, meteoroloji, kimya, fizik ve biyoloji; astronomide gezegen bilimi ve astrobiyoloji."
    },
    {
-    "q": "10. b) Defne’nin çalışmalarının diğer disiplinlerle ilişkisi nedir?",
-    "a": "Disiplinler arasıdır; Mars’ın yapısı ve atmosferi için fizik, kimya, jeoloji ve meteorolojiden, yaşam olasılığı için biyolojiden, veri analizi ve uzay araçları için matematik ile mühendislikten yararlanır."
+    "q": "10.b) Defne'nin yaptığı çalışmaların diğer disiplinlerle ilişkisi nedir? Kısaca açıklayınız.",
+    "a": "Disiplinler arasıdır; Mars’ın yüzeyi, atmosferi, suyu ve yaşam koşulları jeoloji, kimya, fizik, meteoroloji ve biyolojinin bilgi ve yöntemleriyle incelenir."
    }
   ],
   "65": [
    {
-    "q": "11. a) Bu araştırmada hangi bilim dalları, hangi astronomi alt dallarıyla birlikte kullanılmaktadır?",
-    "a": "Jeoloji–gezegen bilimi, fizik–astrofizik, kimya–astrokimya ve biyoloji–astrobiyoloji."
+    "q": "11.a) Bu araştırmada hangi bilim dalları, hangi astronomi alt dallarıyla birlikte kullanılmaktadır?",
+    "a": "Jeoloji–gezegen jeolojisi (planetoloji), fizik–astrofizik, kimya–astrokimya ve biyoloji–astrobiyoloji."
    },
    {
-    "q": "11. b) Her bilim dalı ve ilgili astronomi alt dalının Europa’daki yaşam olasılığı araştırmasındaki rolünü gerekçesiyle açıklayınız.",
-    "a": "Jeoloji/gezegen bilimi yüzey ve yer altı okyanusunu; fizik/astrofizik manyetik alan ve ısınma süreçlerini; kimya/astrokimya kimyasal bileşim ve yaşam moleküllerini; biyoloji/astrobiyoloji mikrobiyal yaşam ve yaşanabilirliği inceler."
+    "q": "11.b) Her bilim dalı ve ilgili astronomi alt dalının Europa’daki yaşam olasılığı araştırmasındaki rolünü gerekçesiyle açıklayınız.",
+    "a": "Jeoloji/gezegen jeolojisi yüzey ve buz kabuğunu inceleyerek yer altı okyanusuna dair kanıt sağlar; fizik/astrofizik manyetik alan etkileşimlerinden tuzlu okyanusun varlığını ve özelliklerini çıkarır; kimya/astrokimya kimyasal bileşimi ve organik molekülleri belirleyerek yaşamın yapı taşlarını araştırır; biyoloji/astrobiyoloji su, enerji ve kimyasal koşulların mikrobiyal yaşama elverişliliğini değerlendirir."
    },
    {
-    "q": "12. Gözlem ile kuram arasındaki karşılıklı etkileşim astronominin ilerlemesine nasıl temel teşkil eder?",
-    "a": "Gözlemler kuramları sınar ve veri sağlar; kuramlar gözlemleri açıklar, yeni gözlem ve tahminlere yol gösterir; bu döngü bilginin güvenilir biçimde derinleşmesini sağlar."
+    "q": "12. Gözlem ile kuram arasındaki karşılıklı ve sürekli etkileşim, astronominin ilerlemesi ve evrenin işleyişinin anlaşılması açısından nasıl bir temel teşkil eder?",
+    "a": "Gözlemler kuramları sınar ve veri sağlar; kuramlar yeni gözlemleri yönlendirir ve tahminler üretir. Bu döngü bilginin güvenilirliğini artırır, yeni keşifleri tetikler ve evrenin temel mekanizmalarının anlaşılmasını derinleştirir."
    }
   ],
   "66": [
    {
-    "q": "14. Tablo – Derin uzay cisimlerini görüntüleme için hangi optik teleskop türü ve neden seçilmelidir?",
-    "a": "Aynalı (reflektör) teleskop; geniş açıklıkla yüksek ışık toplama kapasitesi ve geniş görüş alanı sağlar."
+    "q": "14. Derin uzay cisimlerini görüntüleme için en uygun optik teleskop türü ve seçim nedeni nedir?",
+    "a": "Newtonyen/Dobson reflektör; yüksek ışık toplama kapasitesi ve geniş görüş alanı sağlar."
    },
    {
-    "q": "14. Tablo – Gezegen gözlemleri için hangi optik teleskop türü ve neden seçilmelidir?",
-    "a": "Mercekli (refraktör) teleskop; kapalı tüpü sayesinde az bakım gerektirir ve yüksek görüntü kalitesi sunar."
+    "q": "14. Gezegen gözlemleri için en uygun optik teleskop türü ve seçim nedeni nedir?",
+    "a": "Refraktör; az bakım gerektirir ve yüksek görüntü kalitesi sunar."
    },
    {
-    "q": "14. Tablo – Derin uzay gözlemleri ve astrofotoğrafçılık için hangi optik teleskop türü ve neden seçilmelidir?",
-    "a": "Aynalı-mercekli (katadioptrik) teleskop; kompakt ve taşınabilir yapıdadır."
+    "q": "14. Derin uzay gözlemleri ve astrofotoğrafçılık için en uygun optik teleskop türü ve seçim nedeni nedir?",
+    "a": "Schmidt-Cassegrain (katadioptrik); kompakt ve taşınabilir yapıdadır."
    },
    {
     "q": "13. Astronomide elektromanyetik tayfın farklı dalga boylarında gözlem yapılmasının önemi nedir?",
-    "a": "Farklı dalga boyları gök cisimlerinin sıcaklık, kimyasal bileşim ve dinamik süreçlerine dair veri sağlar; bu veriler birleştirilerek evren daha kapsamlı ve tutarlı biçimde anlaşılır."
+    "a": "Her dalga boyu farklı sıcaklık, bileşim ve fiziksel süreçlere duyarlıdır; veriler birleştirilerek gök cisimleri ve evren bütünsel olarak anlaşılır."
    }
   ],
+  "67": [
+   {
+    "q": "15. Astronomide gözlem ve kuram arasındaki döngüsel ve tamamlayıcı ilişkiyi en iyi ifade eden tanım hangisidir?",
+    "a": "C) Gözlemler kuramları sınar, kuramlar da gözlemlere yön ve anlam kazandırır."
+   },
+   {
+    "q": "16. Teleskop türlerini ilgili özelliklerle eşleştiriniz.",
+    "a": "Mercekli teleskop – B; Aynalı teleskop – C; Katadioptrik teleskop – A."
+   }
+  ],
+  "70": [
+   {
+    "q": "Yıldızlar ve gezegenler çıplak gözle yapılan gökyüzü gözlemlerinde nasıl ayırt edilir?",
+    "a": "Yıldızlar gökyüzünde titreşir (parıldar), gezegenler genellikle parıldamaz; gezegenler yıldızlara göre konum değiştirir."
+   },
+   {
+    "q": "Bir gök cisminin uydu olabilmesi için sağlaması gereken şartlar nelerdir?",
+    "a": "Bir gezegenin çevresinde yörüngede dolanmalı ve onun çekim etkisi altında bulunmalıdır."
+   },
+   {
+    "q": "Güneş sisteminin ögeleri nelerdir?",
+    "a": "Güneş, gezegenler, uydular, cüce gezegenler, asteroitler, meteorlar, kuyruklu yıldızlar ve gezegenler arası maddeler."
+   },
+   {
+    "q": "Yıldızlar yaşam süreçlerinin sonunda hangi gök cisimlerine dönüşür?",
+    "a": "Kütlesine göre beyaz cüce, nötron yıldızı veya kara deliğe dönüşür."
+   }
+  ],
+  "71": [
+   {
+    "q": "Gök adanın fiziksel özellikleri nelerdir?",
+    "a": "Yıldızlar, gaz ve tozdan oluşan büyük gök cismi sistemidir."
+   },
+   {
+    "q": "Bulutsunun fiziksel özellikleri nelerdir?",
+    "a": "Gaz ve tozdan oluşan, yıldızların doğduğu veya öldüğü bulutsu yapıdır."
+   },
+   {
+    "q": "Yıldızın fiziksel özellikleri nelerdir?",
+    "a": "Kendi ışığını üreten, sıcak gazlardan oluşan küresel gök cismidir."
+   },
+   {
+    "q": "Gezegenin fiziksel özellikleri nelerdir?",
+    "a": "Bir yıldızın çevresinde dolanan, yuvarlak şekilli büyük gök cismidir."
+   },
+   {
+    "q": "Cüce gezegenin fiziksel özellikleri nelerdir?",
+    "a": "Gezegenden küçük, yuvarlak şekilli, yörüngesini temizleyememiş gök cismidir."
+   },
+   {
+    "q": "Doğal uydunun fiziksel özellikleri nelerdir?",
+    "a": "Gezegenlerin çevresinde dolanan doğal gök cismidir."
+   },
+   {
+    "q": "Asteroitin fiziksel özellikleri nelerdir?",
+    "a": "Kayalık ve metalik yapıda, küçük boyutlu gök cismidir."
+   },
+   {
+    "q": "Kuyruklu yıldızın fiziksel özellikleri nelerdir?",
+    "a": "Buz, toz ve kaya parçalarından oluşur; “kirlikartopu” denir, Güneş’e yaklaşınca iyon ve toz kuyruğu oluşur."
+   },
+   {
+    "q": "Gök taşının fiziksel özellikleri nelerdir?",
+    "a": "Uzaydan gelip atmosfere giren veya Yer’e düşen kaya/metal parçasıdır."
+   },
+   {
+    "q": "Etkinlik sonunda hangi form doldurulur?",
+    "a": "Öz Değerlendirme Formu."
+   }
+  ],
+  "74": [
+   {
+    "q": "2) Benzer özelliklere sahip olduğunu düşündüğünüz gök cisimlerini gruplandırınız; ortak ve ayırt edici özelliklerini yazınız.",
+    "a": "4-Kuyruklu yıldız: buz, toz ve kayadan oluşur; Güneş'e yaklaşınca kuyruk oluşturur. 2-Doğal uydu: gezegen çevresinde dolanır; insan yapımı değildir. 15-Gök ada: yıldız, gaz ve toz içerir; çok büyük yıldız sistemidir. 5-Cüce gezegen: küreseldir, Güneş'i dolanır; yörünge çevresini temizleyemez. 6-Bulutsu: gaz ve toz bulutudur; yıldız oluşumu veya ölümüyle ilişkilidir. 7-Asteroit: kaya ve metal içerir; küçük ve düzensiz şekillidir. 8-Gezegen: küreseldir, Güneş'i dolanır; yörünge çevresini temizlemiştir. 14,16-Yıldız: sıcak gazlardan oluşur; kendi ısı ve ışığını üretir. 17,18-Gök taşı: küçük kaya parçalarıdır; atmosferde ışıklı iz bırakır."
+   }
+  ],
+  "77": [
+   {
+    "q": "5. Gök cisimleri için kendi yaptığınız isimlendirmeleri gözden geçiriniz ve yanlışlarınızı düzeltiniz.",
+    "a": "İsimlendirmeler bilimsel kaynaklarla karşılaştırıldı; yanlış adlandırmalar düzeltildi."
+   },
+   {
+    "q": "a) Hangileri kendi yer çekiminin etkisiyle küresel yapıdadır?",
+    "a": "3, 4 ve 5 (yıldız, gezegen, cüce gezegen)."
+   },
+   {
+    "q": "b) Hangileri kendi enerjilerini üretecek enerji üretim mekanizmasına sahiptir?",
+    "a": "3 (yıldız)."
+   },
+   {
+    "q": "c) Hangileri içinde birden fazla gök cismini barındırır?",
+    "a": "1 ve 2 (gök ada, bulutsu)."
+   },
+   {
+    "q": "ç) Gök cisimleri ölçeksel büyüklüğüne göre büyükten küçüğe sıralandığında sıralama nasıl olur?",
+    "a": "1 > 2 > 3 > 4 > 5 > 6 > 7 > 8 > 9 (gök ada > bulutsu > yıldız > gezegen > cüce gezegen > doğal uydu > asteroit > kuyruklu yıldız > gök taşı)."
+   },
+   {
+    "q": "Öz değerlendirme formu (1-6. davranışlar)",
+    "a": "Kişisel değerlendirmedir; her davranış için Evet/Kısmen/Hayır işaretlenir."
+   }
+  ],
+  "83": [
+   {
+    "q": "Uzay madenciliği konusunu araştırınız. Araştırmalarınızın sonucunda elde ettiğiniz bilgileri arkadaşlarınızla kısaca paylaşınız.",
+    "a": "Uzay madenciliği, asteroit ve diğer gök cisimlerinden demir, nikel, altın, platin ve su gibi kaynakların çıkarılmasıdır; su yakıt ve oksijen, metaller ise yapı malzemesi olarak kullanılabilir. Bu yöntem, Dünya'dan taşınan malzeme maliyetini azaltarak uzun süreli uzay görevlerini kolaylaştırır."
+   },
+   {
+    "q": "Dünya tarihinde yaşanan kitlesel yok oluşları asteroit çarpmasıyla ilişkilendiren teorileri araştırınız. Araştırmalarınızın sonucunda elde ettiğiniz bilgileri arkadaşlarınızla kısaca paylaşınız.",
+    "a": "En bilinen teori, yaklaşık 66 milyon yıl önce 10 km çapındaki bir asteroidin Meksika'daki Chicxulub kraterine çarpmasının dinozorların ve birçok türün yok olmasına yol açtığıdır. Permiyen-Triyas yok oluşu gibi başka kitlesel yok oluşlar da asteroit veya kuyruklu yıldız çarpmalarıyla ilişkilendirilmektedir."
+   }
+  ],
+  "85": [
+   {
+    "q": "Sayfadaki sorular ve etkinlikler nelerdir?",
+    "a": "Verilen sayfa metninde soru veya etkinlik bulunmamaktadır."
+   }
+  ],
+  "86": [
+   {
+    "q": "Gök cisimlerini kendine ait özelliklerle eşleştiriniz.",
+    "a": "1-D, 2-G, 3-B, 4-Ğ, 5-A, 6-F, 7-E, 8-Ç; C açıkta kalır (asteroit)."
+   },
+   {
+    "q": "Gök adalar ve bulutsular, yapı ve büyüklük açısından birbirinden nasıl ayrılır?",
+    "a": "Gök adalar yıldız, gaz, toz ve karanlık maddeden oluşan çok büyük sistemlerdir; bulutsular ise genellikle çok daha küçük, yıldızlar arası gaz ve toz bulutlarıdır."
+   },
+   {
+    "q": "Fiziksel özellikleri bakımından yıldızların gezegenlerden farkı nedir?",
+    "a": "Yıldızlar çekirdeğinde füzyonla kendi enerjisini ve ışığını üretir; gezegenler kendi ışığını üretmez, yıldız ışığını yansıtır."
+   },
+   {
+    "q": "Bir gök cisminin cüce gezegen şeklinde sınıflandırılması için gezegenden farklı olarak hangi özellikleri taşıması gerekir?",
+    "a": "Küresel şekil alacak kütleye sahip olmalı, Güneş çevresinde dolanmalı ancak yörüngesini diğer gök cisimlerinden temizleyememiş olmalıdır."
+   },
+   {
+    "q": "Gök taşlarının asteroit ve kuyruklu yıldızlarla ilişkisi nedir?",
+    "a": "Asteroit ve kuyruklu yıldızlardan kopan parçalar gök taşlarını oluşturur; atmosfere girenler arkalarında ışıklı iz bırakır."
+   },
+   {
+    "q": "Doğal uydu ile cüce gezegen arasındaki benzerlikler ve farklılıklar nelerdir?",
+    "a": "İkisi de doğal gök cismidir ve küresel şekil alabilir; doğal uydu başka bir gök cisminin etrafında dolanır, cüce gezegen ise doğrudan Güneş çevresinde dolanır ve yörüngesini temizleyememiştir."
+   }
+  ],
+  "87": [
+   {
+    "q": "Gök adaları birbirinden ayıran nitelikler nelerdir?",
+    "a": "Şekilleri, yapısal özellikleri ve sarmal kollarının varlığı ya da biçimidir."
+   },
+   {
+    "q": "NGC 4150 gök adası hangi tipe girer?",
+    "a": "Merceksi (S0) gök adadır; belirgin sarmal kolları yoktur."
+   },
+   {
+    "q": "NGC 4449 gök adası hangi tipe girer?",
+    "a": "Düzensiz (irregular) gök adadır."
+   },
+   {
+    "q": "NGC 7292 gök adası hangi tipe girer?",
+    "a": "Düzensiz (irregular) gök adadır."
+   }
+  ],
+  "88": [
+   {
+    "q": "Gök adaları benzer niteliklerine göre gruplandırınız.",
+    "a": "Eliptik: NGC 4621, NGC 2865; sarmal: NGC 4321, NGC 1376; çubuklu sarmal: NGC 1300; düzensiz: NGC 1427A."
+   },
+   {
+    "q": "Gruplar için düşünülen isimler nelerdir?",
+    "a": "Eliptik gök adalar, sarmal gök adalar, çubuklu sarmal gök adalar, düzensiz gök adalar."
+   },
+   {
+    "q": "Gruptaki gök adaların benzer nitelikleri nelerdir?",
+    "a": "Eliptikler yaşlı yıldız ve az gaz/toz içerir, sarmal kolları yoktur; sarmallar disk, gaz-toz ve sarmal kollara sahiptir; çubuklu sarmallarda merkezde çubuk bulunur; düzensizler belirgin şekil göstermez, bol gaz-toz ve genç yıldız içerir."
+   },
+   {
+    "q": "Grupların diğer gruplardan farklı nitelikleri nelerdir?",
+    "a": "Eliptikler düzgün ve kolsuz; sarmallar düzlemsel diskli ve kollu; çubuklu sarmallar merkezî çubuklu; düzensizler şekilsiz ve düzensiz yapılıdır."
+   }
+  ],
+  "89": [
+   {
+    "q": "Hubble’ın gök ada sınıflandırması ile kendi sınıflandırmanızın benzerliklerini ve farklılıklarını listeleyiniz; iki sınıflandırmayı karşılaştırıp hatalarınızı düzeltiniz.",
+    "a": "Benzerlik: Her ikisi de gök adaları görünür biçim/özelliklerine göre gruplar ve temel olarak eliptik, spiral ve düzensiz türleri ayırır. Farklılık: Hubble yalnızca morfolojiye dayanır; kendi sınıflandırmamda renk, yıldız oluşumu, boyut veya yaş gibi ek ölçütler kullanılabilir. Karşılaştırma sonucu, Hubble’ın üçlü ana grubuna uymayan ölçütlerimi düzelterek sınıflandırmamı biçimsel özelliklere göre yeniden düzenlerim."
+   }
+  ],
+  "92": [
+   {
+    "q": "1. M84, NGC4373 hangi gök ada sınıfına girer?",
+    "a": "Eliptik gök ada."
+   },
+   {
+    "q": "1. Büyük Macellan Bulutu hangi gök ada sınıfına girer?",
+    "a": "Düzensiz gök ada."
+   },
+   {
+    "q": "1. Centaurus A hangi gök ada sınıfına girer?",
+    "a": "Eliptik gök ada."
+   },
+   {
+    "q": "1. NGC2997 hangi gök ada sınıfına girer?",
+    "a": "Sarmal gök ada."
+   },
+   {
+    "q": "1. NGC4622 hangi gök ada sınıfına girer?",
+    "a": "Sarmal gök ada."
+   },
+   {
+    "q": "1. M59, NGC4621 hangi gök ada sınıfına girer?",
+    "a": "Eliptik gök ada."
+   },
+   {
+    "q": "1. NGC5383 hangi gök ada sınıfına girer?",
+    "a": "Sarmal gök ada."
+   },
+   {
+    "q": "1. M83 hangi gök ada sınıfına girer?",
+    "a": "Sarmal (çubuklu sarmal) gök ada."
+   },
+   {
+    "q": "1. NGC1365 hangi gök ada sınıfına girer?",
+    "a": "Sarmal (çubuklu sarmal) gök ada."
+   },
+   {
+    "q": "2. Sarmal gök ada ile eliptik gök ada arasındaki farklar nelerdir? Görsellerden örnek vererek açıklayınız.",
+    "a": "Sarmal gök adalarda disk, sarmal kollar, gaz-toz ve genç yıldızlar bulunur (NGC2997, M83); eliptiklerde belirgin sarmal kol yoktur, şekil elips gibidir, gaz-toz azdır ve çoğunlukla yaşlı yıldızlar vardır (M84, M59)."
+   },
+   {
+    "q": "3a. Belirgin şekli olmayan, parlak mavi tonlarda görünen yeni gök ada Hubble sınıflandırmasına göre hangi sınıfa girer? Gerekçeleriyle açıklayınız.",
+    "a": "Düzensiz gök ada; belirgin eliptik veya sarmal yapı göstermez, mavi renk genç sıcak yıldızları ve gaz-toz bakımından zenginliği düşündürür."
+   },
+   {
+    "q": "3b. Bu gök adada hangi tür yıldızlar daha fazladır ve bunu hangi veri destekler?",
+    "a": "Genç yıldızlar daha fazladır; parlak mavi renk genç ve sıcak yıldızların varlığını, gaz-toz varlığı da aktif yıldız oluşumunu destekler."
+   }
+  ],
+  "93": [
+   {
+    "q": "2. ÖRNEK: Edwin Hubble’ın geliştirdiği gök ada sınıflandırma sisteminin astronomi bilimine katkılarını açıklayınız.",
+    "a": "Gök adaları yapısal özelliklerine göre sınıflandırarak karşılaştırma ve incelemeyi kolaylaştırmış, gözlemlere standart kazandırmıştır."
+   },
+   {
+    "q": "2. UYGULAMA 1: Gök adalar, şekil ve yapısal özelliklerine göre ___________, ___________ ve ___________ şeklinde üç ana gruba ayrılır.",
+    "a": "eliptik gök ada, spiral gök ada, düzensiz gök ada"
+   },
+   {
+    "q": "2. UYGULAMA 2: Kolları olmayan, küresel ya da disk şeklinde olabilen gök adalar ___________ olarak adlandırılır.",
+    "a": "eliptik gök ada"
+   },
+   {
+    "q": "2. UYGULAMA 3: Kolları merkezi sıkıca saran normal spiral gök adalar ___________ tipi gök adalardır.",
+    "a": "Sa"
+   },
+   {
+    "q": "2. UYGULAMA 4: Belirgin bir geometrik yapısı olmayan gök adalar ___________ sınıfındadır.",
+    "a": "düzensiz gök ada"
+   },
+   {
+    "q": "2. UYGULAMA 5: Spiral gök adalar kolların merkezi hemen sarmasına veya önce çubuk benzeri uzantı oluşturup sonra sarmasına göre ___________ spiral ve ___________ spiral gök adalar şeklinde alt gruba ayrılır.",
+    "a": "normal, çubuklu"
+   },
+   {
+    "q": "2. UYGULAMA 6: Eliptik gök adalar ___________ harfiyle ve 0’dan 7’ye kadar kodlanır.",
+    "a": "E"
+   }
+  ],
+  "94": [
+   {
+    "q": "Bu sayfada yanıtlanacak soru veya etkinlik var mı?",
+    "a": "Hayır; sayfada yalnızca astronomik birim ve ışık yılı konu anlatımı yer alıyor."
+   }
+  ],
+<<<<<<< Updated upstream
   "67": [],
   "70": [],
   "71": [],
@@ -1001,5 +1853,449 @@
   "99": [],
   "100": [],
   "102": []
+=======
+  "95": [
+   {
+    "q": "Etkinliğin adı nedir?",
+    "a": "Uzay Yolculuğu."
+   },
+   {
+    "q": "Etkinliğin amacı nedir?",
+    "a": "Günlük hayatta kullanılan uzaklık birimlerinin gök cisimleri arasındaki mesafeyi ölçmede yetersiz kalacağını tahmin edebilme."
+   },
+   {
+    "q": "Etkinliğin süresi ve araç gereci nedir?",
+    "a": "35+35 dakika; genel ağ bağlantısı olan cihaz."
+   },
+   {
+    "q": "Etkinlikte nasıl gruplar oluşturulur?",
+    "a": "Öğretmen rehberliğinde 4-6 kişilik heterojen gruplar."
+   },
+   {
+    "q": "WOH G64 yıldızı Yer’den yaklaşık ne kadar uzaktadır?",
+    "a": "160 000 Iy."
+   },
+   {
+    "q": "Samanyolu gök adasının çapı yaklaşık ne kadardır?",
+    "a": "150 000 Iy."
+   },
+   {
+    "q": "Samanyolu ile Andromeda arasındaki mesafe ne kadardır?",
+    "a": "2,3 milyon Iy."
+   },
+   {
+    "q": "1 parsek kaç ışık yılı ve kaç astronomik birimdir?",
+    "a": "3,26 Iy; 206 265 AB."
+   },
+   {
+    "q": "Etkinliğin değerlendirme soruları nelerdir?",
+    "a": "Verilen sayfa metninde yer almamaktadır."
+   }
+  ],
+  "96": [
+   {
+    "q": "2. Görselde verilen gök cisimlerinden birini seçiniz ve bu gök cismine yapacağınız kurgusal bir yolculuk planlayınız.",
+    "a": "Andromeda Gökadası'nı seçtim. Amaç gökadayı gözlemleyip yıldız oluşum bölgelerini incelemek; araç, antimadde-itici motorlu insanlı bir keşif gemisi olacak."
+   },
+   {
+    "q": "3. Planladığınız yolculuk için kullanılabilecek araçların maksimum süratini, hangi yakıt türünün kullanıldığını, yolculukta ne kadar yakıt gerekeceğini ve yolculuğun mesafesini araştırıp tabloyu doldurunuz.",
+    "a": ""
+   },
+   {
+    "q": "4. a) Yapacağınız uzay yolculuğunun amacı nedir?",
+    "a": "Andromeda Gökadası'nı gözlemlemek, yıldız oluşumunu incelemek ve bilimsel veri toplamak."
+   },
+   {
+    "q": "4. b) Ulaşmayı hedeflediğiniz gök cismi hangisidir?",
+    "a": "Andromeda Gökadası."
+   },
+   {
+    "q": "4. c) Yapacağınız uzay yolculuğunun mesafesi kaç km'dir?",
+    "a": "Yaklaşık 2,4×10^19 km (2,54 milyon ışık yılı)."
+   },
+   {
+    "q": "4. ç) Yapacağınız uzay yolculuğu için nasıl bir araç kullanacaksınız?",
+    "a": "Antimadde ve iyon iticili, insanlı \"Andromeda Kaşifi\" keşif gemisi."
+   },
+   {
+    "q": "4. d) Hedeflediğiniz gök cismine ulaşmak için kullanacağınız yakıtın türü ve miktarı nedir?",
+    "a": "Antimadde + iyon itici; yaklaşık 12.000 ton."
+   },
+   {
+    "q": "4. e) Kullanmayı düşündüğünüz uzay aracının maksimum sürati nedir?",
+    "a": "30.000 km/s (ışık hızının %10'u)."
+   }
+  ],
+  "97": [
+   {
+    "q": "5. Yolculuk mesafesini parsek, ışık yılı ve astronomik birim cinsinden hesaplayıp tabloya yazınız.",
+    "a": "Hedefin uzaklığı X Iy ise: Iy = X; pc = X/3,26; km = X×9,46×10¹²; AB = X×63.241. Örnek (X = 4,24): 4,24 Iy; 1,30 pc; 4,01×10¹³ km; 2,68×10⁵ AB."
+   },
+   {
+    "q": "6. Görev süresini belirleyip bu yolculuğun mümkün olup olmayacağını açıklayınız.",
+    "a": "17 km/s hızla yaklaşık 75.000 yıl, 0,1c hızla yaklaşık 42 yıl sürer; mevcut teknolojiyle mümkün değildir, çok daha gelişmiş itki sistemleri gerekir."
+   },
+   {
+    "q": "7. Gözlemlerin gök cisimlerinin şu anki durumuna mı yoksa geçmişteki hâline mi ilişkin olduğunu nezaket kuralları çerçevesinde tartışınız.",
+    "a": "Gözlemler geçmişe aittir; ışık sonlu hızla yayıldığından Güneş’i 8 dk 20 s, Proxima’yı 4,24 yıl, Andromeda’yı 2,5 milyon yıl önceki hâliyle görürüz. Farklı görüşler saygıyla dinlenir."
+   },
+   {
+    "q": "8. Gök cisminin görüntüsünün anlık görüntü olup olamayacağını açıklayınız.",
+    "a": "Anlık değildir; uzaklık arttıkça görüntü o kadar eskiye aittir. Yalnızca çok yakın cisimlerde (Ay için ≈1,3 s) yaklaşık anlık sayılabilir."
+   },
+   {
+    "q": "Değerlendirme 1. Bu etkinlik size uzay hakkında ne tür yeni bakış açıları kazandırdı?",
+    "a": "Evrenin büyüklüğünü, gözlemlerin geçmişi gösterdiğini ve yıldızlararası yolculuğun mevcut teknolojiyle çok zor olduğunu öğretti."
+   },
+   {
+    "q": "Değerlendirme 2. Araştırma sürecinde karşılaştığınız en büyük zorluk neydi ve bu zorluğu nasıl aştınız?",
+    "a": "Birim dönüşümleri ve büyük sayılar zorladı; dijital hesap araçları ve adım adım dönüşüm yaparak aştım."
+   }
+  ],
+  "98": [
+   {
+    "q": "Voyager 1’den gelen bilginin Yer’e ulaşma süresi nedir?",
+    "a": "Yaklaşık 82 777,5 s, yani yaklaşık 23 saat."
+   },
+   {
+    "q": "Işık hızına yakın hızla seyahat edilebilseydi evrenin farklı bölgelerine yolculuk ne ölçüde kolaylaşırdı?",
+    "a": "Çok kolaylaşırdı; yakın yıldızlara yıllar mertebesinde ulaşılabilirdi (ör. Proxima Centauri’ye ~4,2 yıl), ancak enerji, yakıt ve yaşam desteği yine büyük engel olurdu."
+   }
+  ],
+  "99": [
+   {
+    "q": "Samanyolu gök adasındaki yıldızların çoğu spiral kollarda yer alır.",
+    "a": "Katılıyorum; yıldızların büyük bölümü diskteki spiral kollarda bulunur."
+   },
+   {
+    "q": "Samanyolu gök adasındaki tüm yıldızlar birbirine eşit uzaklıktadır.",
+    "a": "Katılmıyorum; yıldızlar gök ada içinde düzensiz ve farklı uzaklıklarda dağılmıştır."
+   },
+   {
+    "q": "Samanyolu gök adasının şekli düz bir disk gibidir ve kenarları daha incedir.",
+    "a": "Katılıyorum; gök ada disk biçiminde olup kenarlara doğru incelir."
+   },
+   {
+    "q": "Samanyolu'nun yapısını Dünya'dan gözlemleyerek tamamen anlamak mümkündür.",
+    "a": "Katılmıyorum; içinde bulunduğumuz için tamamını gözlemleyemeyiz, model ve veriler gerekir."
+   },
+   {
+    "q": "Gök adadaki yıldızlar sabit durur, sadece Güneş hareket eder.",
+    "a": "Katılmıyorum; gök adadaki yıldızlar da hareket eder."
+   },
+   {
+    "q": "Gök adamızın şeklini anlamak için onun dışına çıkmak gerekir.",
+    "a": "Katılıyorum; şeklin tamamını görmek için dışarıdan bakmak gerekir."
+   }
+  ],
+  "100": [
+   {
+    "q": "6. Samanyolu hakkında öğrendiklerinizi ve hazırladığınız modeli nasıl paylaşırsınız?",
+    "a": "Grupça, şişkin bölge, disk ve halo bileşenlerini model üzerinde göstererek sınıfa sunarız."
+   },
+   {
+    "q": "Etkinlikte öğrenip ilginç bulduğunuz üç unsur nelerdir?",
+    "a": "1) Samanyolu’nun kütlesi Güneş’in yaklaşık bir trilyon katıdır. 2) En yaşlı yıldızları evrenin yaşına yakındır. 3) SBc sınıfı çubuklu spiral olup şişkin bölge, disk ve halodan oluşur."
+   },
+   {
+    "q": "Uzay yolculuğuyla ilgili merak ettiğiniz iki soru nedir?",
+    "a": "1) Samanyolu’nun dışına çıkmak için hangi teknolojiler gerekir? 2) Uzay yolculuğunda karanlık madde nasıl tespit edilebilir?"
+   },
+   {
+    "q": "Çalışmada öğrendiklerinizle ilgili görüşünüz nedir?",
+    "a": "Uzay yolculuğu henüz gök adamızın dışına çıkmaya yetmese de teleskop gözlemleri Samanyolu’nu anlamamızı sağlıyor."
+   }
+  ],
+  "102": [
+   {
+    "q": "Samanyolu’nun merkezinin Dünya’dan doğrudan gözlemlenememesinin nedenlerini ve hangi tür teleskoplarla gözlenebileceğini açıklayınız.",
+    "a": "Merkez ile Güneş sistemi arasındaki yoğun gaz ve toz, görünür ışığı soğurup saçar; bu yüzden merkezden gelen ışık Yer’e ulaşamaz. Bölge kızılötesi, radyo ve mikrodalga teleskoplarıyla, ayrıca atmosfer dışındaki teleskoplarla gözlenir."
+   },
+   {
+    "q": "Gece gökyüzünün rahat gözlemlenebildiği yeryüzündeki herhangi bir konumda çıplak gözle veya teleskopla gözlem yaparak Samanyolu gök adasının tamamı görülebilir mi? Cevabınızı gerekçesiyle açıklayınız.",
+    "a": "Hayır. Dünya Samanyolu’nun içinde yer alır; gaz-toz bulutları ve galaktik düzlem görüşü engeller, ayrıca ufuk ve atmosfer gökyüzünün tamamının görülmesini önler. Bu nedenle tek bir yerden gök adanın tamamı görülemez."
+   }
+  ],
+  "103": [
+   {
+    "q": "5. Etkinliğin adı, amacı, süresi ve araç gereçleri nedir?",
+    "a": "Adı Güneş Sistemi; amacı Güneş sisteminin özelliklerini özetleyebilme; süresi 35+35 dakika; araç gereçleri genel ağ bağlantılı cihaz, strafor, kullanılmış kâğıt, gazete ve iptir."
+   },
+   {
+    "q": "Etkinlik nasıl gerçekleştirilir?",
+    "a": "Sorular hazırlanıp doğru cevaplarıyla tabloya yazılır; heterojen küçük gruplarda görev paylaşımı yapılır; sonunda Akran Değerlendirme Formu doldurulur."
+   },
+   {
+    "q": "a) Güneş sistemindeki gezegenlerin Güneş’e yakınlığına göre isimleri sırasıyla nedir?",
+    "a": "Merkür, Venüs, Dünya, Mars, Jüpiter, Satürn, Uranüs, Neptün."
+   },
+   {
+    "q": "b) Güneş sistemi hangi gök cisimlerinden oluşur?",
+    "a": "Güneş, gezegenler, uydular, asteroitler, kuyruklu yıldızlar ve diğer küçük gök cisimleri."
+   },
+   {
+    "q": "c) Güneş sisteminin merkezine en yakın gök cismi hangisidir?",
+    "a": "Güneş."
+   },
+   {
+    "q": "ç) Güneş sistemi yaklaşık ne zaman oluşmuştur?",
+    "a": "Yaklaşık 4,6 milyar yıl önce."
+   },
+   {
+    "q": "d) Güneş sistemindeki gezegenler ve diğer gök cisimleri nerede dolaşır?",
+    "a": "Sistemin kütle merkezi çevresinde."
+   },
+   {
+    "q": "e) Modern astronominin en temel konularından biri nedir?",
+    "a": "Güneş sisteminin nasıl oluştuğu."
+   },
+   {
+    "q": "f) Güneş sisteminin özellikleri nelerdir?",
+    "a": "Merkezinde Güneş bulunan; gezegenler, uydular, asteroitler, kuyruklu yıldızlar ve küçük gök cisimlerinden oluşan geniş bir yapıdır."
+   }
+  ],
+  "104": [
+   {
+    "q": "3. Gezegenlerin Güneş’e uzaklığı, çapı, yapısı, yoğunluğu, sıcaklığı, uyduları, dönme/dolanma periyodu ve ilginç özelliklerini araştırınız.",
+    "a": "Özellikler edu/gov uzantılı kaynaklar ve bilimsel makalelerden araştırılır; sonuçlar 4. maddedeki tabloda verilmiştir."
+   },
+   {
+    "q": "4. Araştırdığınız gezegenlerin özelliklerini tabloya yazınız.",
+    "a": ""
+   },
+   {
+    "q": "5. Gezegenleri karasal (kayaç) ve dev gaz gezegenler olarak sınıflandırınız.",
+    "a": "Karasal: Merkür, Venüs, Dünya, Mars. Dev gaz: Jüpiter, Satürn, Uranüs, Neptün."
+   },
+   {
+    "q": "6. Gezegenlerin boyutlarını, Güneş’e uzaklıklarını ve eksen eğikliğini orantısal olarak modelleyiniz.",
+    "a": "Tüm değerler aynı ölçekle küçültülür; hamur/strafor boyutları, ipler uzaklıkları, eğik çubuklar eksen eğikliğini gösterir."
+   },
+   {
+    "q": "7. Güneş sisteminin oluşumuyla ilgili verilen teorileri okuyunuz.",
+    "a": "Teoriler okunur; günümüzde en çok kabul gören görüş bulutsu (nebula) teorisidir."
+   }
+  ],
+  "107": [
+   {
+    "q": "Güneş sisteminin oluşumunu açıklamak için en güçlü ve bilimsel olarak en tutarlı teori hangisidir?",
+    "a": "Nebula (bulutsu) teorisi."
+   },
+   {
+    "q": "Grubunuzun savunduğu teori nedir?",
+    "a": "Nebula (bulutsu) teorisi."
+   },
+   {
+    "q": "Teorinin güçlü yönleri nelerdir?",
+    "a": "Güneş ve gezegenlerin aynı gaz-toz bulutsusundan oluştuğunu, yörünge ve dönme yönlerinin uyumunu, iç ve dış gezegenlerin bileşim farkını ve meteorit yaşlarını açıklar."
+   },
+   {
+    "q": "Teorinin zayıf yönleri nelerdir?",
+    "a": "Gezegenler arası açısal momentum dağılımını ve bazı ayrıntıları tek başına tam açıklayamaz; başlangıç koşulları kesin değildir."
+   },
+   {
+    "q": "Sunumun içeriği doğru ve anlaşılırdı.",
+    "a": "Evet (X)"
+   },
+   {
+    "q": "Teori açık ve sade bir dille anlatıldı.",
+    "a": "Evet (X)"
+   },
+   {
+    "q": "Görsel materyaller (slaytlar, grafikler) konuyu destekledi.",
+    "a": "Evet (X)"
+   },
+   {
+    "q": "Grup üyeleri görevleri dengeli bir şekilde paylaştı.",
+    "a": "Evet (X)"
+   },
+   {
+    "q": "Sorulara verilen cevaplar konuyla ilgili ve açıklayıcıydı.",
+    "a": "Evet (X)"
+   },
+   {
+    "q": "Sunum anlaşılır ve ilgi çekiciydi.",
+    "a": "Evet (X)"
+   },
+   {
+    "q": "Demokratik tartışma ortamında benimsediğiniz teoriyi nasıl savunursunuz?",
+    "a": "Kanıtlara dayanarak nebula teorisinin gözlemlerle uyumunu açıklar, diğer teorilerin eksiklerini saygılı biçimde belirtir ve soruları verilerle yanıtlarım."
+   },
+   {
+    "q": "Benimsediğiniz teoriyi açıklayan animasyon veya sunu nasıl hazırlanır?",
+    "a": "Bulutsunun çökmesi, dönerek disk oluşumu, Güneş'in merkezde doğuşu ve gezegenlerin yoğunlaşması aşamalarını görsellerle adım adım gösteren kısa bir animasyon/sunu hazırlanır."
+   },
+   {
+    "q": "Etkinlik Adı",
+    "a": "Güneş Sistemi Oluşum Teorileri Sunumu"
+   },
+   {
+    "q": "Değerlendiren Öğrenci",
+    "a": "[Ad soyad yazılır]"
+   },
+   {
+    "q": "Değerlendirilen Grup / Öğrenci",
+    "a": "[Grup veya öğrenci adı yazılır]"
+   },
+   {
+    "q": "Görüş ve Önerileriniz: Sunumun güçlü yönleri ve geliştirilmesi gereken yönleri ile ilgili düşüncelerinizi yazınız.",
+    "a": "Teoriyi görsellerle ve akıcı bir dille anlattılar; bazı kavramlar daha çok örnekle desteklenebilir ve süre daha dengeli kullanılabilir."
+   }
+  ],
+  "108": [
+   {
+    "q": "1. Verilen ifadeler ile kavramları eşleştiriniz.",
+    "a": "1-D, 2-Ç, 3-B, 4-E, 5-A, 6-C, 7-F, 8-G (Ğ eşleşmez.)"
+   },
+   {
+    "q": "2. Güneş sistemindeki gezegenler neden “karasal gezegenler” ve “dev gaz gezegenler” şeklinde gruplandırılmıştır?",
+    "a": "Karasal gezegenler küçük, yoğun, kayalık yüzeyli iç gezegenlerdir; dev gaz gezegenler büyük, düşük yoğunluklu, gaz ve buzdan oluşan dış gezegenlerdir."
+   },
+   {
+    "q": "3. Güneş bir gezegen midir? Gerekçeleriyle açıklayınız.",
+    "a": "Hayır. Güneş bir yıldızdır; kendi ışık ve enerjisini üretir, gezegenler ise Güneş’in çevresinde dolanır ve kendi ışıklarını üretmez."
+   },
+   {
+    "q": "4. Bulutsu teorisine göre bulutsunun çökmesine neden olan etken hangisidir?",
+    "a": "E) Bir süpernova patlamasının etkisi"
+   },
+   {
+    "q": "6. Bulutsu teorisine göre Güneş sisteminin oluşum süreciyle ilgili doğru ifade hangisidir?",
+    "a": "D) Gezegenler ve Güneş, ortamdaki dönen gaz ve toz maddelerin birleşmesiyle aynı zamanda oluşmuştur."
+   }
+  ],
+  "114": [
+   {
+    "q": "Sayfadaki sorular ve etkinlikler nelerdir?",
+    "a": "Sayfa metninde açıkça verilmiş bir soru veya etkinlik bulunmamaktadır."
+   }
+  ],
+  "117": [
+   {
+    "q": "Sayfada soru veya etkinlik var mı?",
+    "a": "Hayır, verilen sayfa metninde soru ya da etkinlik bulunmuyor."
+   }
+  ],
+  "119": [
+   {
+    "q": "5. ÖRNEK – Güneş sistemindeki en sıcak gezegen konusunda hangi öğrencinin görüşü doğrudur? Gerekçeleriyle açıklayınız.",
+    "a": "Betül'ün görüşü doğrudur; yüzeyi en sıcak gezegen Venüs'tür. Kalın karbondioksit atmosferi sera etkisiyle ısıyı tutar; Merkür'ün atmosferi olmadığından aldığı enerjiyi uzaya geri verir."
+   },
+   {
+    "q": "a) Merkür ve Venüs'ün uydularının bulunmamasının nedeni nedir?",
+    "a": "Güneş'e çok yakın olduklarından Güneş'in güçlü çekim etkisi uydu yörüngelerini kararsız kılar; uydular tutunamaz."
+   },
+   {
+    "q": "b) Merkür'ün atmosferinin olmamasının nedeni nedir?",
+    "a": "Kütlesi küçük olduğu için çekim gücü zayıftır; Güneş'e yakınlığı nedeniyle yüksek sıcaklık ve Güneş rüzgârları gazların tutulmasını engeller."
+   },
+   {
+    "q": "c) Güneş'ten uzaya savrulan elektrik yüklü parçacıkların sistemin diğer üyelerine etkileri nelerdir?",
+    "a": "Gezegenlerin manyetik alanlarıyla etkileşerek kutup ışıklarına yol açar; atmosferlerin uzaya kaçmasına, uydu ve elektronik sistemlerin zarar görmesine neden olabilir."
+   }
+  ],
+  "122": [
+   {
+    "q": "Bir süpernovanın Güneş sisteminin oluşumunda nasıl bir rolü olabilir?",
+    "a": "Patlama dalgası gaz-toz bulutunu sıkıştırarak çökmesini başlatmış ve ortama ağır elementler kazandırmış olabilir."
+   },
+   {
+    "q": "Bu durum hangi kanıtlarla desteklenmektedir?",
+    "a": "Gezegenlerin aynı düzlemde ve aynı yönde hareket etmesi, Güneş ile gök cisimlerinin aynı ortam ve zamanda oluşması ve gök taşlarında süpernova kaynaklı elementlerin bulunması."
+   },
+   {
+    "q": "Bu gözlemden yola çıkarak Güneş sisteminin nasıl oluştuğu hakkında ne tür çıkarımlar yapılabilir?",
+    "a": "Dönen bir gaz-toz bulutu kütle çekimiyle çöküp düzleşmiş; merkezde Güneş, çevresindeki diskte gezegenler oluşmuştur."
+   }
+  ],
+  "123": [
+   {
+    "q": "1. Etkinlik adımı: Videoyu izleyerek yıldızların yaşam döngüsüne ait bilgileri not alınız.",
+    "a": "Yıldızlar gaz bulutlarının çökmesiyle doğar; kütlelerine göre anakol, kırmızı dev, beyaz cüce, süpernova, nötron yıldızı veya kara delik evrelerinden geçer."
+   },
+   {
+    "q": "2. Etkinlik adımı: Kütlesi 8 Güneş kütlesinden küçük yıldızlar için tabloyu doldurunuz.",
+    "a": "Yaşam süresi 8 milyar yıl ve daha fazlası; süpernova patlaması yapmaz; yaşamının sonunda beyaz cüceye dönüşür."
+   }
+  ],
+  "124": [
+   {
+    "q": "3.a) Tüm yıldızların oluşum ve yaşam döngüsünü tamamlama süreçleri aynı mıdır?",
+    "a": "Hayır; oluşumları benzer olsa da kütlelerine göre yaşam süreleri ve son evreleri farklıdır."
+   },
+   {
+    "q": "3.b) Yıldızların yaşamlarının sonunda hangi gök cismine dönüşeceğini belirleyen en önemli etmen nedir?",
+    "a": "Başlangıç kütlesidir."
+   },
+   {
+    "q": "3.c) Küçük kütleli yıldızlar neden süpernova patlaması yapmaz?",
+    "a": "Çekirdek çöküşü için yeterli kütleye sahip değildir; dış katmanlarını atıp beyaz cüceye dönüşür."
+   },
+   {
+    "q": "3.ç) Güneş, yaşam sürecinin sonunda kara deliğe dönüşebilir mi? Neden?",
+    "a": "Hayır; kütlesi kara delik oluşturacak kadar büyük değildir, beyaz cüceye dönüşür."
+   },
+   {
+    "q": "3.d) Büyük kütleli yıldızların yaşam süresi neden kısadır?",
+    "a": "Kütle arttıkça çekirdek daha sıcak ve yoğun olur, yakıt çok daha hızlı tükenir."
+   },
+   {
+    "q": "3.e) Dünya’daki elementlerin kaynağı nedir?",
+    "a": "Hidrojen ve helyum Büyük Patlama’dan; daha ağır elementler yıldız içi füzyon, süpernova ve nötron yıldızı birleşmelerinden gelir."
+   },
+   {
+    "q": "4) Yıldızların kütleleri ile yaşam süreçleri arasındaki örüntüyü bilimsel gerekçelerle yazınız.",
+    "a": "Kütle arttıkça füzyon hızı ve enerji üretimi artar, yakıt hızlı tükenir; bu yüzden büyük kütleli yıldızlar kısa, küçük kütleli yıldızlar uzun yaşar. Son evre de kütleye göre beyaz cüce, nötron yıldızı veya kara delik olur."
+   },
+   {
+    "q": "5) Yıldızların kütleleri ile yaşam süreçleri arasındaki ilişkiyi genelleyerek yazınız.",
+    "a": "Yıldızın kütlesi arttıkça yaşam süresi kısalır ve sonu daha şiddetli olur; kütle azaldıkça yaşam süresi uzar ve son evre daha sakin gerçekleşir."
+   },
+   {
+    "q": "Değerlendirme 1) Çok büyük kütleli yıldızlarda görülen süpernova patlaması evren için neden önemlidir?",
+    "a": "Ağır elementleri uzaya dağıtır, yeni yıldız ve gezegenlerin oluşumuna malzeme sağlar; nötron yıldızı ve kara delik oluşumuna yol açar."
+   },
+   {
+    "q": "Değerlendirme 2) Bir yıldızın sonunun ne olacağını belirleyen temel faktör nedir? Açıklayınız.",
+    "a": "Kütlesidir; düşük kütleli yıldızlar beyaz cüce olur, büyük kütleli yıldızlar süpernova sonrası nötron yıldızına veya kara deliğe dönüşebilir."
+   },
+   {
+    "q": "Değerlendirme 3) Güneş’in şu anda hangi evrede olduğunu ve gelecekte nasıl bir değişim geçireceğini açıklayınız.",
+    "a": "Şu anda ana kol evresinde, çekirdeğinde hidrojen füzyonu yapmaktadır; gelecekte kırmızı devleşip dış katmanlarını atarak beyaz cüceye dönüşecektir."
+   }
+  ],
+  "126": [
+   {
+    "q": "Sayfada yanıtlanacak soru veya etkinlik var mı?",
+    "a": "Hayır, sayfada yalnızca bilgilendirici metin ve görsel açıklamaları yer alıyor."
+   }
+  ],
+  "127": [
+   {
+    "q": "Bu sayfada yanıtlanacak soru veya etkinlik var mı?",
+    "a": "Hayır; verilen metin yalnızca yıldız evrimini anlatan bilgilendirici paragraflardan oluşuyor, soru ya da etkinlik içermiyor."
+   }
+  ],
+  "129": [],
+  "130": [],
+  "131": [],
+  "132": [],
+  "133": [],
+  "134": [],
+  "135": [],
+  "136": [],
+  "137": [],
+  "140": [],
+  "141": [],
+  "142": [],
+  "143": [],
+  "144": [],
+  "147": [],
+  "148": [],
+  "149": [],
+  "150": [],
+  "153": [],
+  "159": []
+>>>>>>> Stashed changes
  }
 }
