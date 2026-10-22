@@ -124,13 +124,36 @@ def save_state(state):
 
 
 def download(url, dest):
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    with urllib.request.urlopen(req, timeout=120) as r, open(dest, "wb") as f:
-        while True:
-            chunk = r.read(1 << 20)
-            if not chunk:
-                break
-            f.write(chunk)
+    import requests
+
+    last = None
+    for attempt in range(4):
+        try:
+            with requests.get(url, stream=True, timeout=(20, 90), headers={"User-Agent": "Mozilla/5.0"}) as r:
+                r.raise_for_status()
+                expected = int(r.headers.get("Content-Length") or 0)
+                got = 0
+                with open(dest, "wb") as f:
+                    for chunk in r.iter_content(1 << 20):
+                        if chunk:
+                            f.write(chunk)
+                            got += len(chunk)
+            if expected and got < expected * 0.99:
+                raise IOError(f"short download {got}/{expected}")
+            d = pymupdf.open(dest)
+            if d.page_count <= 0:
+                raise IOError("empty pdf")
+            d.close()
+            return
+        except Exception as e:
+            last = e
+            print(f"  download attempt {attempt+1} failed: {e}", flush=True)
+            try:
+                Path(dest).unlink()
+            except OSError:
+                pass
+            time.sleep(5)
+    raise RuntimeError(f"download failed: {last}")
 
 
 def git_commit(msg):
