@@ -1761,10 +1761,1709 @@
   "102": [],
   "103": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "104": []
 =======
   "104": [],
   "107": []
+>>>>>>> Stashed changes
+=======
+  "104": [],
+  "107": [
+   {
+    "q": "8a) Güneş sisteminin oluşumunu açıklamak için en güçlü ve bilimsel olarak en tutarlı teori hangisidir?",
+    "a": "Modern Güneş Bulutsusu Teorisi."
+   },
+   {
+    "q": "8b) Gruplar ve Rolleri tablosunu doldurunuz.",
+    "a": "Grup: Gezegen Bilimciler; Teori: Güneş Bulutsusu Teorisi; Güçlü yönleri: Güneş ve gezegenlerin aynı bulutsudan oluştuğunu, genel olarak aynı yönde dönüşü ve iç/dış gezegen farkını açıklar; Zayıf yönleri: Güneş’in açısal momentumu ve bazı küçük cisimlerin yörüngelerini tam açıklayamaz."
+   },
+   {
+    "q": "Değerlendirme kriterlerini (1-6) işaretleyiniz.",
+    "a": "Örnek: 1 Evet, 2 Evet, 3 Kısmen, 4 Evet, 5 Evet, 6 Evet."
+   },
+   {
+    "q": "8c) Demokratik tartışma ortamında benimsediğiniz teoriyi nasıl savunursunuz?",
+    "a": "Bilimsel kanıtlara dayanarak, saygılı ve açık bir dille savunur; soruları kanıtla yanıtlarım."
+   },
+   {
+    "q": "9. Benimsediğiniz teoriyi açıklayan animasyon veya sunu hazırlayınız.",
+    "a": "Bulutsunun çöküşü, dönen disk, gezegenesimal birleşmesi ve Güneş’in doğuşunu gösteren kısa animasyon hazırlarım."
+   },
+   {
+    "q": "Akran Değerlendirme Formu’nu doldurunuz.",
+    "a": "Etkinlik: Güneş Sistemi Oluşum Teorileri Sunumu; Değerlendiren: Öğrenci; Değerlendirilen: Diğer grup."
+   },
+   {
+    "q": "Görüş ve Önerileriniz: Sunumun güçlü ve geliştirilmesi gereken yönleri nelerdir?",
+    "a": "Güçlü yönü bilimsel içerik ve görsellerdi; daha fazla kanıt ve örnek eklenmesi geliştirir."
+   }
+  ],
+  "108": [
+   {
+    "q": "1. Aşağıdaki tabloda verilen ifadeler ile kavramları doğru bir şekilde eşleştiriniz.",
+    "a": "Merkür-D, Venüs-Ç, Yer-B, Mars-E, Jüpiter-A, Satürn-C, Uranüs-F, Neptün-G (Ğ boşta kalır; Ceres’i ifade eder)."
+   },
+   {
+    "q": "2. Güneş sistemindeki gezegenler neden “karasal gezegenler” ve “dev gaz gezegenler” şeklinde gruplandırılmıştır?",
+    "a": "Karasal gezegenler küçük, yoğun ve kayalık yapıdadır; dev gaz gezegenler büyük, düşük yoğunluklu ve gaz/ buz yapısındadır."
+   },
+   {
+    "q": "3. Güneş bir gezegen midir? Gerekçeleriyle açıklayınız.",
+    "a": "Hayır. Güneş, kendi ışık ve enerjisini üreten bir yıldızdır; gezegen değildir."
+   },
+   {
+    "q": "4. Bulutsu teorisine göre Güneş sistemini oluşturan bulutsunun çökmesine neden olan etken hangisidir?",
+    "a": "E) Bir süpernova patlamasının etkisi."
+   },
+   {
+    "q": "6. Bulutsu teorisine göre Güneş sisteminin oluşum süreciyle ilgili doğru ifade hangisidir?",
+    "a": "D) Gezegenler ve Güneş, dönen gaz ve toz maddelerin birleşmesiyle aynı zamanda oluşmuştur."
+   }
+  ],
+  "114": [
+   {
+    "q": "Sayfadaki sorular ve etkinlikler nelerdir?",
+    "a": "Bu sayfada soru veya etkinlik yoktur; yalnızca Satürn’ü tanıtan metin ve “Rakamlarla Satürn” veri tablosu yer almaktadır."
+   }
+  ],
+  "117": [
+   {
+    "q": "Bu sayfada yanıtlanacak soru veya etkinlik var mı?",
+    "a": "Hayır, sayfada yalnızca bilgilendirici metin yer alıyor."
+   }
+  ],
+  "119": [
+   {
+    "q": "Güneş sistemindeki en sıcak gezegen konusunda hangi öğrencinin görüşü doğrudur? Gerekçeleriyle açıklayınız.",
+    "a": "Betül doğrudur. Venüs'ün kalın ve çoğunlukla karbondioksitten oluşan atmosferi sera etkisi yaparak yüzeyinin Merkür'den daha sıcak olmasına neden olur; Merkür'ün atmosferi olmadığı için ısısı doğrudan uzaya yansır."
+   },
+   {
+    "q": "Merkür ve Venüs'ün uydularının bulunmamasının nedeni nedir?",
+    "a": "Güneş'e çok yakın olmaları nedeniyle Güneş'in güçlü kütle çekim etkisi ve gelgit kuvvetleri, çevrelerinde uyduların kalıcı yörüngede bulunmasını engeller."
+   },
+   {
+    "q": "Merkür'ün atmosferinin olmamasının nedeni nedir?",
+    "a": "Kütlesi ve çekim gücü küçük olduğundan gazları tutamaz; Güneş'e yakınlığın getirdiği yüksek sıcaklık ve Güneş rüzgârları da atmosferin oluşmasını ve kalmasını engeller."
+   },
+   {
+    "q": "Güneş'ten uzaya savrulan elektrik yüklü parçacıkların sistemin diğer üyelerine etkileri nelerdir?",
+    "a": "Gezegenlerin manyetik alanları ve atmosferleriyle etkileşerek kutup ışıklarına, atmosferlerin aşınmasına, uydu ve elektronik sistemlerde arızalara yol açabilirler."
+   }
+  ],
+  "122": [
+   {
+    "q": "a) Bir süpernovanın Güneş sisteminin oluşumunda nasıl bir rolü olabilir?",
+    "a": "Süpernova patlamasının şok dalgası gaz-toz bulutunu sıkıştırarak çökmesini başlatmış ve sistemdeki ağır elementlerin oluşmasına katkı sağlamış olabilir."
+   },
+   {
+    "q": "b) Bu durum hangi kanıtlarla desteklenmektedir?",
+    "a": "Gök cisimlerinin aynı düzlemde ve aynı yönde hareket etmesi, yaklaşık 4,6 milyar yıllık yaşları ve meteoritlerdeki element/izotop yapılarıyla desteklenir."
+   },
+   {
+    "q": "6. Uygulama: Bu gözlemden yola çıkarak Güneş sisteminin nasıl oluştuğu hakkında ne tür çıkarımlar yapılabilir?",
+    "a": "Güneş sistemi, dönen bir gaz ve toz bulutunun kütle çekimiyle çökmesi sonucu oluşmuştur; Güneş merkezde, gezegenler ise çevresindeki diskte aynı anda ve aynı yönde meydana gelmiştir."
+   }
+  ],
+  "123": [
+   {
+    "q": "Videoyu izleyerek yıldızların yaşam döngüsüne ait bilgileri not alınız.",
+    "a": "Yıldızlar gaz ve toz bulutlarının çökmesiyle doğar; çekirdeğinde füzyonla enerji üretir; kütlesine göre beyaz cüce, nötron yıldızı veya kara deliğe dönüşür."
+   },
+   {
+    "q": "Kütlesi 8 Güneş kütlesinden küçük yıldızların yaşam süresi, süpernova yapıp yapmayacağı ve sonunda dönüşeceği gök cismi nedir?",
+    "a": "8 milyar yıl ve daha fazlası; Hayır; Beyaz cüce."
+   },
+   {
+    "q": "Kütlesi 8–20 Güneş kütlesi arasında olan yıldızların yaşam süresi, süpernova yapıp yapmayacağı ve sonunda dönüşeceği gök cismi nedir?",
+    "a": "Milyonlarca–milyarlarca yıl; Evet; Nötron yıldızı."
+   },
+   {
+    "q": "Kütlesi 20 Güneş kütlesinden büyük yıldızların yaşam süresi, süpernova yapıp yapmayacağı ve sonunda dönüşeceği gök cismi nedir?",
+    "a": "Birkaç milyon yıl; Evet; Kara delik."
+   },
+   {
+    "q": "Yıldızların kütlesi ile yaşam süresi arasındaki ilişki nedir?",
+    "a": "Kütle arttıkça yaşam süresi kısalır."
+   }
+  ],
+  "124": [
+   {
+    "q": "Tüm yıldızların oluşum ve yaşam döngüsünü tamamlama süreçleri aynı mıdır?",
+    "a": "Hayır; süreçler yıldızın başlangıç kütlesine göre farklılık gösterir."
+   },
+   {
+    "q": "Yıldızların yaşamlarının sonunda hangi gök cismine dönüşeceğini belirleyen en önemli etmen nedir?",
+    "a": "Yıldızın başlangıç kütlesidir."
+   },
+   {
+    "q": "Küçük kütleli yıldızlar neden süpernova patlaması yapmaz?",
+    "a": "Çekirdeklerinde demir gibi ağır elementleri oluşturmaya yetecek sıcaklık ve basınca ulaşamadıkları için dış katmanlarını atıp beyaz cüceye dönüşürler."
+   },
+   {
+    "q": "Güneş, yaşam sürecinin sonunda kara deliğe dönüşebilir mi? Neden?",
+    "a": "Hayır; kütlesi kara delik oluşturacak kadar büyük olmadığından beyaz cüceye dönüşür."
+   },
+   {
+    "q": "Büyük kütleli yıldızların yaşam süresi neden kısadır?",
+    "a": "Kütle arttıkça çekirdek sıcaklığı ve basıncı artar, yakıt çok daha hızlı tüketilir."
+   },
+   {
+    "q": "Dünya’daki elementlerin kaynağı nedir?",
+    "a": "Yıldızlardaki füzyon ve özellikle süpernova patlamaları ile nötron yıldızı birleşmeleridir."
+   },
+   {
+    "q": "Tartışma sonunda yıldızların kütleleri ile yaşam süreçleri arasındaki örüntüyü yazınız.",
+    "a": "Kütle arttıkça yaşam süresi kısalır; küçük kütleli yıldızlar uzun yaşayıp beyaz cüceye, büyük kütleli yıldızlar kısa yaşayıp süpernova sonrası nötron yıldızına veya kara deliğe dönüşür."
+   },
+   {
+    "q": "Belirlediğiniz örüntü üzerinden yıldızların kütleleri ile yaşam süreçleri arasındaki ilişkiyi genelleyerek yazınız.",
+    "a": "Yıldızın kütlesi ne kadar büyükse yakıtını o kadar hızlı tüketir, yaşam süresi o kadar kısa olur ve son evresi kütlesine bağlı olarak değişir."
+   },
+   {
+    "q": "Çok büyük kütleli yıldızlarda görülen süpernova patlaması evren için neden önemlidir?",
+    "a": "Ağır elementleri üretip uzaya yayarak yeni yıldızların, gezegenlerin ve yaşamın yapı taşlarını oluşturur."
+   },
+   {
+    "q": "Bir yıldızın sonunun ne olacağını belirleyen temel faktör nedir? Açıklayınız.",
+    "a": "Kütledir; kütle, çekirdekte ulaşılabilecek sıcaklık ve füzyon aşamalarını belirleyerek beyaz cüce, nötron yıldızı veya kara delik sonucunu tayin eder."
+   },
+   {
+    "q": "Güneş’in şu anda hangi evrede olduğunu ve gelecekte nasıl bir değişim geçireceğini açıklayınız.",
+    "a": "Şu anda ana kol evresinde olup çekirdeğinde hidrojen füzyonu yapmaktadır; gelecekte kırmızı deve dönüşecek, dış katmanlarını atarak beyaz cüce olacaktır."
+   }
+  ],
+  "126": [
+   {
+    "q": "Sayfada yanıtlanacak soru veya etkinlik var mı?",
+    "a": "Hayır, sayfa yalnızca ana kol evresi ve kırmızı dev evresi konu anlatımını içeriyor."
+   }
+  ],
+  "127": [
+   {
+    "q": "Sayfadaki sorular ve etkinlikler nelerdir?",
+    "a": "Verilen sayfa metninde soru veya etkinlik bulunmamaktadır; metin yalnızca yıldızların evrimi ve süpernova konusunu anlatmaktadır."
+   }
+  ],
+  "129": [
+   {
+    "q": "Süpernova sonrası çekirdekte kalan kütle ne zaman kara deliğe dönüşür?",
+    "a": "3 Güneş kütlesinden büyükse."
+   },
+   {
+    "q": "Kara delik nedir?",
+    "a": "Aşırı sıkışmış, yıldızdan geriye kalan yoğun yıldız çekirdeğidir."
+   },
+   {
+    "q": "Kara delikleri diğer gök cisimlerinden ayıran en önemli özellik nedir?",
+    "a": "Çevresinde olay ufku oluşmasıdır."
+   },
+   {
+    "q": "Olay ufkunu geçen madde veya ışığa ne olur?",
+    "a": "Bir daha olay ufkunun dışına çıkamaz."
+   },
+   {
+    "q": "Olay ufku nedir?",
+    "a": "Kara deliği çevreleyen, fiziksel inceleme imkânı olmayan küresel yüzeydir."
+   },
+   {
+    "q": "Olay ufkunun içinde doğa yasalarının nasıl işlediği neden bilinmez?",
+    "a": "Mevcut yöntem ve tekniklerle inceleme imkânı yoktur."
+   },
+   {
+    "q": "Olay ufkunun genişliği neye bağlıdır?",
+    "a": "Yıldızın çökmeden önceki kütlesiyle orantılıdır."
+   },
+   {
+    "q": "10 Güneş kütleli bir yıldız kara deliğe dönüşünce olay ufkunun çapı ne olur?",
+    "a": "60 km."
+   },
+   {
+    "q": "Kara delik madde yuttukça ne olur?",
+    "a": "Olay ufku genişler ve çekim alanı güçlenir."
+   },
+   {
+    "q": "Olay ufkunda zaman ne olur?",
+    "a": "Teorik olarak tümüyle durur."
+   },
+   {
+    "q": "Süper kütleli kara delikler nerede bulunur?",
+    "a": "Çoğunlukla gök adaların merkezlerinde."
+   },
+   {
+    "q": "Süper kütleli kara deliklerin oluşumuyla ilgili kabul gören fikirler nelerdir?",
+    "a": "Büyük gaz kütlelerinin çökmesi, kara deliklerin çarpışıp birleşmesi ve yoğun yıldız kümelerinin merkezde çökmesi."
+   }
+  ],
+  "130": [],
+  "131": [
+   {
+    "q": "7. ÖRNEK a) Bir yıldızın ana kol aşamasında kararlı bir durumda kalmasını sağlayan fiziksel dengeler nelerdir?",
+    "a": "İçe doğru kütle çekim kuvveti ile dışa doğru ışınım basıncının oluşturduğu basınç kuvveti arasındaki hidrostatik dengedir."
+   },
+   {
+    "q": "7. ÖRNEK b) Bu dengenin bozulması yıldızın yaşam süreci açısından ne anlama gelir?",
+    "a": "Füzyon için hidrojen azalınca denge bozulur; çekirdekte yeni elementlerin füzyonu başlar, dış katmanlar genişler ve yıldız kırmızı dev veya kırmızı süper deve dönüşerek bir sonraki evreye geçer."
+   },
+   {
+    "q": "7. UYGULAMA Buna göre yıldızın yaşam sürecinde geçirdiği evreler evrendeki kimyasal çeşitlilik ve yaşam olasılığı açısından nasıl bir anlam taşır?",
+    "a": "Yıldızlar füzyonla ağır elementler üretip ölümlerinde bunları uzaya saçar; bu elementler yeni yıldız, gezegen ve canlıların yapı taşlarını oluşturarak kimyasal çeşitliliği ve yaşam olasılığını artırır."
+   }
+  ],
+  "132": [
+   {
+    "q": "Performans görevi boyunca hangi zorluklar ve problemlerle karşılaştınız? Bu zorluk ve problemlerle nasıl başa çıktınız?",
+    "a": "Güvenilir görsel bulma ve evreleri doğru sıralamada zorlandım; kaynakları karşılaştırıp plan yaparak ve süreyi bölerek çözdüm."
+   },
+   {
+    "q": "Bu görev sırasında sınıf arkadaşlarınızdan veya dışarıdan yardım aldınız mı? Belirtiniz.",
+    "a": "Evet; arkadaşlarımdan görsel seçimi ve sunum provası, öğretmenimden kaynak doğrulama konusunda yardım aldım."
+   },
+   {
+    "q": "Bu performans görevini yeniden planlasaydınız ne tür değişiklikler önerirdiniz?",
+    "a": "Kaynakları ve poster taslağını önceden hazırlar, sunum provasını daha erken yapardım."
+   },
+   {
+    "q": "Bu performans görevinin topluma hizmet ettiğini düşünüyor musunuz? Açıklayınız.",
+    "a": "Evet; doğru bilgiyi akranlarıma aktararak bilimsel farkındalığa ve toplum yararına katkı sağladım."
+   },
+   {
+    "q": "Edindiğiniz deneyimleri hayatınızda nasıl kullanacağınızı düşünüyorsunuz? Açıklayınız.",
+    "a": "Araştırma, kaynak doğrulama, planlama, görsel düzenleme ve sunum becerilerimi derslerde ve günlük hayatta kullanırım."
+   },
+   {
+    "q": "Performans görevi: Yıldızların toplam ve çekirdek kütlelerine göre geçireceği yaşam sürecini poster hâline getirerek arkadaşlarınıza sunum yapınız.",
+    "a": "Düşük/orta kütleli yıldızlarda bulutsu→ana kol→kırmızı dev→gezegenimsi bulutsu→beyaz cüce; yüksek kütleli yıldızlarda bulutsu→ana kol→kırmızı süperdev→süpernova→nötron yıldızı/karadelik evrelerini görsellerle gösteren poster hazırlayıp sundum."
+   }
+  ],
+  "133": [
+   {
+    "q": "1. “İnsanlı uzay yolculukları yerine robotik görevler daha verimlidir.” ifadesi hakkındaki görüşünüzü gerekçelendirerek açıklayınız.",
+    "a": "Katılıyorum; robotik görevler insan sağlığını riske atmaz, daha düşük maliyetlidir ve uzun süre kesintisiz veri toplayabilir."
+   },
+   {
+    "q": "2. Işık hızında hareket edebilen bir araçla uzayda seyahat ederken Yer ile iletişim kurmak mümkün olur muydu? Gerekçelendiriniz.",
+    "a": "İki yönlü iletişim mümkün olmaz; iletişim sinyalleri de ışık hızında gittiği için ışık hızında uzaklaşan araca yetişemez."
+   },
+   {
+    "q": "3a) Samanyolu’nun belirlediğiniz bileşenlerini isimlendirerek yazınız.",
+    "a": "Merkez (çekirdek), spiral kollar, disk ve halo."
+   },
+   {
+    "q": "3b) Güneş sistemi gök adanın hangi bölgesinde yer almaktadır? Şema üzerinde gösteriniz.",
+    "a": "Spiral kollardan Avcı (Orion) Kolu’nda, merkezden yaklaşık 26.000 ışık yılı uzakta yer alır."
+   },
+   {
+    "q": "3c) Gök adanın merkezinden gelen ışığın Yer’e yaklaşık 25.000 yılda ulaşması, gök adanın yapısını anlamada neden önemlidir?",
+    "a": "Merkezin yaklaşık 25.000 ışık yılı uzakta olduğunu gösterir; bu, gök adanın boyutunu ve Güneş’in konumunu anlamayı sağlar, merkezi geçmişteki hâliyle gördüğümüzü ortaya koyar."
+   }
+  ],
+  "134": [
+   {
+    "q": "a) Uzay aracı 60.000 km/saat hızla Proxima Centauri’ye ne kadar sürede ulaşır?",
+    "a": "Yaklaşık 76.000 yıl (yaklaşık 6,7×10⁸ saat)."
+   },
+   {
+    "q": "b) Uzun yolculukta karşılaşılabilecek teknik ve lojistik zorluklar nelerdir?",
+    "a": "Yakıt/enerji temini, radyasyon, mikrometeorit çarpmaları, iletişim gecikmesi, bakım-onarım imkânsızlığı, seyir ve varışta yavaşlama."
+   },
+   {
+    "q": "Samanyolu gök adasının merkezi, Yer’den çıplak gözle doğrudan gözlemlenebilir.",
+    "a": "Yanlış — Merkez, toz ve gaz bulutları nedeniyle çıplak gözle görülemez; kızılötesi/radyo gözlemleri gerekir."
+   },
+   {
+    "q": "Işığın boşlukta bir yılda katettiği mesafeye 1 ışık yılı denir.",
+    "a": "Doğru."
+   },
+   {
+    "q": "Güneş sistemi Samanyolu’nun merkezinde yer alır.",
+    "a": "Yanlış — Güneş sistemi, merkezden yaklaşık 26.000–27.000 ışık yılı uzakta yer alır."
+   },
+   {
+    "q": "Proxima Centauri, Güneş sistemine en yakın yıldızdır.",
+    "a": "Doğru — Güneş hariç, yaklaşık 4,24 ışık yılı uzaklıktadır."
+   },
+   {
+    "q": "Samanyolu, çubuklu spiral yapıdaki tek gök adadır.",
+    "a": "Yanlış — Samanyolu çubuklu spiraldir; ancak evrende çok sayıda çubuklu spiral gök ada vardır."
+   }
+  ],
+  "135": [
+   {
+    "q": "Plüto’nun gezegenlikten çıkarılarak cüce gezegen sayılmasının bilimsel gerekçeleri nelerdir?",
+    "a": "Yörüngesindeki bölgeyi diğer cisimlerden temizlemediği için IAU’nun üçüncü koşulunu sağlamaz; Kuiper Kuşağı’ndaki cisimlerle yörüngesini paylaşır."
+   },
+   {
+    "q": "Kuyruklu yıldızların Güneş’e yaklaştıkça kuyruk oluşturmasının nedeni nedir?",
+    "a": "Güneş ısısıyla yüzeydeki buz ve uçucu maddeler gazlaşır; Güneş rüzgârı ve ışınım basıncı gaz ve tozu iterek kuyruk oluşturur."
+   },
+   {
+    "q": "Bir kuyruklu yıldızın iyon ve toz kuyruğu neden farklı doğrultudadır?",
+    "a": "İyon kuyruğu Güneş rüzgârıyla Güneş’in ters yönüne itilir; toz kuyruğu ise ışınım basıncı ve yörünge hareketinin etkisiyle eğik bir doğrultuda sürüklenir."
+   },
+   {
+    "q": "Bir asteroidin Dünya’ya çarpmasının olası sonuçları neler olabilir?",
+    "a": "Krater oluşumu, yangınlar, deprem ve tsunami, atmosfere yayılan tozla iklim değişikliği ve canlıların kitlesel yok oluşu."
+   },
+   {
+    "q": "Böyle bir çarpışmanın geçmişte yaşanmış olabileceğini düşündüren bilimsel kanıtlar nelerdir?",
+    "a": "Çarpışma kraterleri, şok kuvarsı, tektitler, iridyum anomalisi, ejecta tabakaları ve fosil kayıtlarındaki kitlesel yok oluş izleri."
+   }
+  ],
+  "136": [
+   {
+    "q": "8. Bu farklı çevresel koşullar, karasal gezegenler ile dev gaz gezegenlerin yapısının ve Güneş’e uzaklıklarının farklılıklarında nasıl etkili olmuştur?",
+    "a": "Güneş’e yakın bölgelerde sıcaklık yüksek olduğu için uçucu maddeler uzaklaşmış, kayalar ve metaller yoğunlaşarak küçük, katı karasal gezegenler oluşmuştur. Dış bölgelerde sıcaklık düşük olduğundan gazlar ve buzlar yoğunlaşabilmiş, bol maddeyle büyük gaz devleri oluşmuştur."
+   },
+   {
+    "q": "9. Küçük ve büyük kütleli yıldızların yaşam süreçlerini karşılaştırarak neden bazılarının beyaz cüceye, bazılarının nötron yıldızına veya kara deliğe dönüştüğünü açıklayınız.",
+    "a": "Küçük kütleli yıldızlar yakıtını yavaş tüketip uzun yaşar; dış katmanlarını atınca çekirdeği beyaz cüce olarak kalır. Büyük kütleli yıldızlar yakıtını hızlı tüketip süpernova patlaması geçirir; çekirdek kütlesi orta düzeydeyse nötron yıldızı, çok büyükse kara delik oluşur."
+   },
+   {
+    "q": "10. Dünya’da ve başka gök cisimlerinde görülen altın, platin, uranyum gibi ağır elementlerin oluşum kaynağı nedir?",
+    "a": "Süpernova patlamaları ve nötron yıldızı birleşmeleri gibi yüksek enerjili olaylardır; oluşan ağır elementler uzaya dağılarak gezegenlere karışır."
+   },
+   {
+    "q": "11. Aşağıdakilerden hangisi yıldızların yaşam sonu kalıntısı değildir?",
+    "a": "E) Süpernova (patlama olayıdır, kalıntı değildir)."
+   }
+  ],
+  "137": [
+   {
+    "q": "12. Yıldız tiplerini olası son hâlleriyle eşleştiriniz.",
+    "a": "A–IV (kırmızı cüce), B–III (beyaz cüce), C–I (kara delik), Ç–II (nötron yıldızı); V eşleşmez."
+   },
+   {
+    "q": "13.a) Kırmızı dev aşamasında dış katmanların genleşmesinin ve parlaklığın aşırı artmasının fiziksel nedeni nedir?",
+    "a": "Çekirdekte hidrojen tükenince çekirdek büzülüp ısınır ve kabukta hidrojen füzyonu başlar; açığa çıkan enerji dış katmanları genleştirir, yüzey alanı büyüdüğü için parlaklık artar."
+   },
+   {
+    "q": "13.b) Bu yıldızın yaşam sürecinde geçireceği evreler nelerdir ve sonunda hangi gök cismine dönüşür?",
+    "a": "Bulutsu → önyıldız → ana kol → kırmızı dev → gezegenimsi bulutsu → beyaz cüce; sonunda beyaz cüceye dönüşür."
+   }
+  ],
+  "140": [
+   {
+    "q": "1. a) Güneş ışınlarının geliş açısındaki değişimin Yer'deki etkileri nelerdir?",
+    "a": "Mevsimler oluşur; sıcaklık, gölge boyu ve gündüz süresi değişir."
+   },
+   {
+    "q": "1. b) Güney yarım kürede yaz ve kış mevsimlerinde Güneş ışınlarının düşme açısı nasıl değişir, sonuçları nelerdir?",
+    "a": "Yazın ışınlar daha dik, kışın daha eğik gelir; yazlar sıcak ve gündüzler uzun, kışlar soğuk ve gündüzler kısa olur."
+   },
+   {
+    "q": "2. a) Kutup Yıldızı neden diğer gök cisimleri gibi hareket etmez?",
+    "a": "Dünya'nın dönme eksenine çok yakın olduğu için gökyüzü dönerken yerinde sabit görünür."
+   },
+   {
+    "q": "2. b) Güney yarım kürede seyahat eden denizciler yön bulmada Kutup Yıldızı'ndan faydalanabilirler mi?",
+    "a": "Hayır; Kutup Yıldızı güney yarım küreden görünmez, bu nedenle yön bulmada kullanılamaz."
+   }
+  ],
+  "141": [
+   {
+    "q": "Gözlemcinin bulunduğu yer değişince ne değişir?",
+    "a": "Gök cisimlerinin konumu ve hareketleri değişir."
+   },
+   {
+    "q": "Gökyüzü herkes için aynı görünür mü?",
+    "a": "Hayır, farklı noktalardan yapılan gözlemlerde farklı görünür."
+   },
+   {
+    "q": "Farklı gözlemciler için neden ortak bir dil kullanılması gerekir?",
+    "a": "Astronomik olayların ortak yorumlanabilmesi ve bütüncül bir bakış açısı geliştirilebilmesi için."
+   },
+   {
+    "q": "Gök küre nedir?",
+    "a": "Merkezinde Yer'in olduğu, yarıçapı sonsuz kabul edilen hayalî küredir."
+   },
+   {
+    "q": "Gök uçlağı nedir?",
+    "a": "Yer'in dönme ekseninin gök küresini kestiği kuzey ve güney uç noktalarıdır."
+   },
+   {
+    "q": "Yer eşleği nedir?",
+    "a": "Yer'in merkezinden geçen ve dönme eksenine dik düzlemin yeryüzüyle ara kesiti olan çemberdir."
+   },
+   {
+    "q": "Görselde gök küresinin merkezinde hangi cisim vardır?",
+    "a": "Yer."
+   },
+   {
+    "q": "Görselde gök küresini kuzey-güney doğrultusunda kesen eksen nedir?",
+    "a": "Yer'in dönme ekseni."
+   },
+   {
+    "q": "Görselde dönme ekseninin gök küresini kestiği üst ve alt noktalar nedir?",
+    "a": "Kuzey gök uçlağı ve güney gök uçlağı."
+   },
+   {
+    "q": "Görselde gök küresini yatay olarak çevreleyen çember hangi kavramı temsil eder?",
+    "a": "Yer eşleğini."
+   },
+   {
+    "q": "Etkinliğin amacı nedir?",
+    "a": "Gök cisimlerinin hareketini ifade etmede kullanılan temel kavramları açıklayabilme."
+   },
+   {
+    "q": "Etkinlik sonunda hangi kart doldurulur?",
+    "a": "Çıkış Kartı."
+   }
+  ],
+  "142": [
+   {
+    "q": "1. Gözlemci için gök küre neresidir?",
+    "a": "Merkezinde gözlemcinin bulunduğu, gök cisimlerinin üzerine iz düşürüldüğü hayalî küredir."
+   },
+   {
+    "q": "2. Farklı enlemlerdeki gözlemcilere ait görsellerde astronomik kavramlar hangi kritere göre gösterilir?",
+    "a": "Zenit tam üstte, nadir tam altta; çevren düzlemi gözlemciye teğet ufuk düzlemi, çevren çemberi ufuk çemberidir. Gök eşleği dönme eksenine dik olup ufka enleme göre eğiktir; gök kutupları dönme ekseni üzerinde ve kutup yüksekliği enleme eşittir. Gök kürenin merkezi gözlemci, yer eşleği düzlemi dönme eksenine dik, tutulum çemberi ise Güneş’in yıllık görünen yolu olup gök eşleğine yaklaşık 23,5° eğiktir."
+   }
+  ],
+  "143": [
+   {
+    "q": "Gözlemci için gök uçlağı neresidir?",
+    "a": "Yer’in dönme ekseninin gök küresini kestiği noktadır; gözlemcinin ufku üzerindeki yüksekliği enlemine eşittir."
+   },
+   {
+    "q": "Gözlemci için yer eşleği ve gök eşleği neresidir?",
+    "a": "Yer eşleği Yer’i kuzey-güney yarım kürelere ayıran çember; gök eşleği ise onun gök küresindeki izdüşümü olan, gök uçlaklarından 90° uzak büyük çemberdir."
+   },
+   {
+    "q": "Gözlemci için tutulum çemberi neresidir?",
+    "a": "Güneş’in gök küresinde bir yıl boyunca izlediği görünür yoldur; gök eşleğine yaklaşık 23°27′ eğik büyük çemberdir."
+   },
+   {
+    "q": "Gözlemci için çevren düzlemi ve çevren çemberi neresidir?",
+    "a": "Çevren düzlemi gözlemciden geçen ve başucu-nadir doğrusuna dik olan ufuk düzlemidir; çevren çemberi bu düzlemin gök küresiyle kesiştiği büyük çemberdir."
+   }
+  ],
+  "144": [
+   {
+    "q": "Gözlemcinin konumuna bağlı değişen ve değişmeyen kavramlar nelerdir?",
+    "a": "Değişenler: ufuk düzlemi, zenit, nadir, yükseklik ve azimut. Değişmeyenler: yıldızların birbirine göre konumu, takımyıldızlar, gök kutbu ve gök ekvatoru."
+   },
+   {
+    "q": "Daha önce hiç duymadığınız ve bu etkinlik sayesinde öğrendiğiniz üç bilgiyi yazınız.",
+    "a": "1) Zenit gözlemcinin tam tepesindeki noktadır. 2) Nadir, zenitin tam karşıtı olan ayak altı noktasıdır. 3) Ufuk düzlemi gözlemcinin konumuna göre değişir."
+   },
+   {
+    "q": "Konuyla ilgili öğrendiklerinizden size ilginç gelen iki bilgiyi yazınız.",
+    "a": "1) Zenit ile nadiri birleştiren doğru Yer'in merkezinden geçer. 2) Gözlemci yer değiştirdikçe zenit ve nadir değişir; yıldızların birbirine göre konumu değişmez."
+   },
+   {
+    "q": "Anlamakta zorluk çektiğiniz kısmı bir soru hâlinde yazınız.",
+    "a": "Zenit ve nadir gözlemciye göre değişirken gök kutbu neden gözlemciye göre değişmez?"
+   },
+   {
+    "q": "Gözlemci için zenit ve nadir neresidir? Açıklama",
+    "a": "Zenit, gözlemcinin tam tepesinden geçen düşey doğrultunun gökyüzünü kestiği noktadır; nadir ise aynı doğrultunun tam karşıtı olup gözlemcinin ayakları altındaki noktadır. Zenit ufkun 90° üstünde, nadir 90° altındadır."
+   }
+  ],
+  "147": [
+   {
+    "q": "Kavramlarla tanımları eşleştiriniz.",
+    "a": "1-Ç, 2-D, 3-B, 4-F, 5-E, 6-A, 7-C, 8-G; 9. Eşlek düzlemi eşleşmez."
+   },
+   {
+    "q": "a) Gök uçlakları hangi noktalardan oluşur?",
+    "a": "Yer’in dönme ekseninin gök küresini kestiği kuzey ve güney noktalarından."
+   },
+   {
+    "q": "b) Zenit ve nadir kavramlarının birbirinden farkı nedir?",
+    "a": "Zenit gözlemcinin tam yukarısında, nadir tam altındadır."
+   },
+   {
+    "q": "c) Çevren çemberi her gözlemci için neden farklıdır?",
+    "a": "Gözlemcinin bulunduğu yere bağlıdır; yeryüzüne teğet düzlem her gözlemci için farklıdır."
+   }
+  ],
+  "148": [
+   {
+    "q": "Uzun pozlama tekniğiyle elde edilen görsellerde yıldız izlerinin oluşumuna yönelik tahmininiz nedir?",
+    "a": "Dünya'nın kendi ekseni etrafında dönmesi nedeniyle yıldızlar gök kutbu çevresinde çembersel izler bırakır; kutba yakın yıldızların izleri daha kısa, uzak olanlarınki daha uzundur."
+   },
+   {
+    "q": "Gökyüzünde görünen bu hareketlerin nedeni nedir?",
+    "a": "Dünya'nın batıdan doğuya doğru kendi ekseni etrafında dönmesidir."
+   },
+   {
+    "q": "Gerçekten gök cisimleri mi hareket eder yoksa başka bir olgu mu bu görünümü oluşturur?",
+    "a": "Gök cisimlerinin gerçek hareketleri de vardır; ancak günlük görünür hareketin asıl nedeni Dünya'nın dönüşüdür."
+   }
+  ],
+  "149": [],
+  "150": [
+   {
+    "q": "Yıldız izlerinin çembersel olmasından Yer’in yapısı, hareketi ve yıldızların hareketiyle ilgili nasıl bir sonuca ulaşılabilir?",
+    "a": "Yer’in küresel yapıda ve kendi ekseni etrafında döndüğü, yıldızların günlük çembersel görünür hareketinin bu dönüşten kaynaklandığı, ayrıca yıldızların kendi hareketlerinin de olduğu sonucuna ulaşılır."
+   },
+   {
+    "q": "6. Sorulara verdiğiniz cevapları diğer gruplarla paylaşınız. Paylaşılan cevaplardan yola çıkarak gök cisimlerinin günlük görünür hareketiyle ilgili genelleme yapınız.",
+    "a": "Gök cisimleri günlük görünür hareketini doğudan batıya yapar; yıldızlar göksel kutup çevresinde çembersel hareket ediyormuş gibi görünür ve bu, Yer’in kendi ekseni etrafında batıdan doğuya dönmesinin sonucudur."
+   },
+   {
+    "q": "7. Simülasyonda belirtilen değişiklikleri uygulayarak gök cisimlerinin günlük görünür hareketiyle ilgili genellemenin doğruluğunu test ediniz.",
+    "a": "Simülasyonda Polaris ve seçilen yıldızların izleri ortak bir merkez çevresinde çembersel görünür; hız ve görünüm değiştirildiğinde de aynı düzen korunur, böylece genelleme doğrulanır."
+   },
+   {
+    "q": "Değerlendirme 1. Etkinliği gerçekleştirirken hangi sorunlarla karşılaştınız?",
+    "a": "Simülasyonu tam ekran yapma, doğru gökyüzü görünümünü seçme ve yıldız izlerini yorumlama sırasında zorlandım."
+   },
+   {
+    "q": "Değerlendirme 2. Zorlandığınız kısımlarda etkinliğe devam etmenizi sağlayan motivasyon kaynaklarınız nelerdi?",
+    "a": "Konuyu öğrenme isteğim, grup arkadaşlarımın desteği ve öğretmenin yönlendirmesi devam etmemi sağladı."
+   },
+   {
+    "q": "Değerlendirme 3. Etkinliği yeniden gerçekleştirseydiniz uyguladığınız strateji, yöntem veya tekniklerden hangilerini nasıl değiştirirdiniz?",
+    "a": "Simülasyonu daha yavaş hızda ve adım adım çalıştırır, önce tüm ayarları kontrol edip sonra gözlem yapardım."
+   }
+  ],
+  "153": [
+   {
+    "q": "Gök uçlağından farklı bir konuma yönlendirilmiş fotoğraf makinesiyle uzun pozlama tekniği kullanılarak izli yıldız fotoğrafları çekilirse yıldızların izli görüntüleri nasıl olurdu?",
+    "a": "Gök uçlağı merkezli, tam çember olmayan yay biçiminde izler görünürdü."
+   },
+   {
+    "q": "Yer kendi ekseni etrafında dönmeseydi gök cisimlerinin görünür hareketleri nasıl olurdu? Kısaca açıklayınız.",
+    "a": "Günlük doğma-batma ve çembersel hareket olmazdı; gök cisimleri gökyüzünde sabit görünürdü."
+   },
+   {
+    "q": "Ülkelerin enlemleri göz önünde bulundurulduğunda Türkiye’de gece yıldız gözlemi yapan bir astronom aynı gözlemi Panama’ya giderek yaptığında ne gibi değişiklikler fark eder?",
+    "a": "Yıldızlar ufka daha dik açıyla hareket eder; doğup batan yıldız sayısı artar, hiç batmayan ve hiç doğmayan yıldız sayısı azalır."
+   }
+  ],
+  "159": [
+   {
+    "q": "Etkinlik Öncesi Hazırlık’ta ne yapılmalıdır?",
+    "a": "Beş gün boyunca sabah ve akşam Güneş’in doğuş/batış noktaları ile gökyüzündeki yörüngesi gözlenir; tarih ve çizimlerle gözlem defterine kaydedilir."
+   },
+   {
+    "q": "37° kuzey enlemindeki gözlemci için 6 Mayıs’ta Güneş’in doğma-batma noktaları ve izleyeceği yörünge nasıldır; Şekil 2’ye nasıl çizilir?",
+    "a": "Güneş doğu-kuzeydoğudan doğar, batı-kuzeybatıdan batar; yörünge güney gökyüzünde ve kuzeye doğru yatık olup Güneş yaklaşık 13 saat 40 dakika ufkun üzerinde kalır. Şekil 2’de doğuş noktası doğunun kuzeyine, batış noktası batının kuzeyine, en yüksek noktası güney yönünde yaklaşık 70° yüksekliğe çizilir."
+   },
+   {
+    "q": "Etkinliğin sonunda yansıtıcı metin olarak ne yazılabilir?",
+    "a": "Güneş’in günlük görünür hareketinin Dünya’nın kendi ekseni etrafında dönmesinden kaynaklandığı, doğuş-batış noktaları ile yörüngenin eksen eğikliği ve Dünya’nın Güneş etrafındaki dolanımına bağlı olarak mevsimlere göre değiştiği belirtilir."
+   }
+  ],
+  "160": [
+   {
+    "q": "2. 37°K’de 29 Ekim, 19 Mayıs ve 30 Ağustos’ta Güneş’in günlük hareketine ilişkin önermeler, gerekli bilgi-araçlar, hedef-plan ve sonuçlar nelerdir?",
+    "a": "Gerekli bilgiler: 37°K enlemi, tarihler, Güneş’in deklinasyonu, doğma/batma azimutları, öğle yüksekliği ve gündüz süresi; araçlar: pusula, ufuk düzlemi, saat, Güneş konumu uygulaması, gözlem defteri. Hedef üç tarihi karşılaştırmak; plan veri toplama, gözlem, kayıt, şekle işleme ve değerlendirme; motivasyon için aşamalı hedef ve düzenli kayıt. Sonuç: 29 Ekim’de Güneş güneydoğudan doğar, güneybatıdan batar; yörünge alçak ve kısa. 19 Mayıs’ta kuzeydoğudan doğar, kuzeybatıdan batar; yörünge yüksek ve uzun. 30 Ağustos’ta doğuya yakın kuzeydoğudan doğar, batıya yakın kuzeybatıdan batar; yörünge orta yükseklikte. Öğle yüksekliği ve gündüz süresi: 19 Mayıs > 30 Ağustos > 29 Ekim."
+   },
+   {
+    "q": "3. Üç tarih için Güneş’in doğma-batma noktaları ve gökyüzündeki yörüngesi Şekil 1, 2 ve 3’te nasıl gösterilir?",
+    "a": "Şekil 1 (29 Ekim): doğma noktası doğu-güneydoğu, batma noktası batı-güneybatı; yörünge gök eşleğine paralel ve onun güneyinde, alçak/kısa, öğle tepe noktası güneyde. Şekil 2 (19 Mayıs): doğma doğu-kuzeydoğu, batma batı-kuzeybatı; yörünge gök eşleğine paralel ve kuzeyinde, yüksek/uzun. Şekil 3 (30 Ağustos): doğma doğuya yakın kuzeydoğu, batma batıya yakın kuzeybatı; yörünge gök eşleğine paralel ve biraz kuzeyinde, orta yükseklikte."
+   },
+   {
+    "q": "4. Beş günlük gözlem sonuçlarına göre doğma ve batma noktalarının değişimi oklarla nasıl gösterilir?",
+    "a": "Doğu ufkunda doğma, batı ufkunda batma noktaları beş gün için işaretlenir; 1. günden 5. güne kayma yönü okla gösterilir. Kayma gözlem tarihine göre kuzeye (ilkbaharda) veya güneye (sonbaharda) olur; 29 Ekim ve 30 Ağustos civarında güneye, 19 Mayıs civarında kuzeye doğru ok çizilir."
+   },
+   {
+    "q": "5. Tahminlerle gözlemler karşılaştırıldığında yıl boyunca doğma-batma noktaları ve yörünge nasıl değişir?",
+    "a": "Tahminler gözlemlerle uyumludur. Yıl boyunca doğma-batma noktaları doğu-batı çizgisi çevresinde kuzey-güney arasında salınır: 21 Mart ve 23 Eylül’de tam doğudan doğar, tam batıdan batar; 21 Haziran’da en kuzeydoğu/en kuzeybatı (en uzun gün, en yüksek öğle); 21 Aralık’ta en güneydoğu/en güneybatı (en kısa gün, en düşük öğle). Yörünge yazın yüksek/uzun, kışın alçak/kısa, ekinokslarda orta düzeydedir."
+   }
+  ],
+  "161": [
+   {
+    "q": "Değerlendirme: Öğrenme sürecinizin gelişimini, zorlandığınız aşamaları ve bu anlarda kendinizi nasıl motive ettiğinizi yansıtan kısa bir metin yazınız.",
+    "a": "Güneş’in yıllık görünür hareketini ve analemmayı öğrendim; yörünge değişimlerini tahmin etmekte zorlandım, simülasyonu tekrar izleyip arkadaşlarımla tartışarak motive oldum."
+   },
+   {
+    "q": "6. Türkiye dışında iki farklı konumdaki gözlemciler için Güneş’in doğma, batma noktaları ve gökyüzünde izlediği yörünge yıl boyunca nasıl değişir?",
+    "a": "Kuzey Kutup Noktası’nda yaklaşık altı ay Güneş batmaz, ufka paralel daireler çizerek yükselip alçalır; Ekvator’da doğu-batıdan doğup batar, noktalar ±23,5° kayar, yörünge ekinoksta zenitten geçer ve gün süresi 12 saattir."
+   },
+   {
+    "q": "7. Simülasyonda farklı gözlem noktaları seçerek Güneş’in yıllık görünür hareketini izleyiniz ve önceki tahminlerinizin geçerliliğini sorgulayınız.",
+    "a": "Gözlemler tahminlerimi doğruladı: Ekvator’da gün doğumu-batımı doğu-batı çevresinde kayarken gün süresi sabit kaldı; Kuzey Kutbu’nda altı ay gündüz, altı ay gece ve ufka paralel yörünge görüldü."
+   },
+   {
+    "q": "8. Güneş’in yıllık görünür hareketinin sebep olduğu doğa olaylarına örnekler bulup sınıf arkadaşlarınızla paylaşınız.",
+    "a": "Analemma, doğma-batma noktalarının kayması, öğle Güneş yüksekliği ile gölge boyunun değişmesi, gece-gündüz süresinin değişmesi ve kutup gündüzü/gecesi örnek verilebilir."
+   }
+  ],
+  "162": [
+   {
+    "q": "Model veya posterden hangisini hazırlayacağınıza nasıl karar verirsiniz?",
+    "a": "Konu ve malzemeye göre; üç boyutlu anlatım için model, hızlı görsel sunum için poster seçilir."
+   },
+   {
+    "q": "Performans görevini belirlenen sürede hazırlamak için nasıl planlama yapılır?",
+    "a": "35+35 dakika; araştırma, tasarım, malzeme temini ve sunum adımlarına bölünerek planlanır."
+   },
+   {
+    "q": "Model veya poster oluştururken dikkat edilmesi gereken hususlar nelerdir?",
+    "a": "Doğru bilgi, açık etiketleme, uygun ölçek ve düzen; gün dönümleri ile ekinoksların doğru gösterimi."
+   },
+   {
+    "q": "Kuzey enlemlerinde yıl içinde Güneş'in doğma ve batma noktaları nasıl değişir?",
+    "a": "21 Mart ve 23 Eylül'de tam doğu-batıdan; 21 Haziran'da kuzeydoğu-kuzeybatıdan; 21 Aralık'ta güneydoğu-güneybatıdan doğup batar."
+   },
+   {
+    "q": "Kaynakların doğruluğu ve güvenilirliği nasıl sağlanır?",
+    "a": "Ders kitabı ve resmî/bilimsel kaynaklar kullanılır, bilgiler birden fazla kaynakla karşılaştırılır."
+   },
+   {
+    "q": "Model veya poster için şablon nasıl belirlenir?",
+    "a": "Görevin amacına ve süresine uygun, dört önemli tarihi gösterecek sade bir şablon seçilir."
+   },
+   {
+    "q": "Gerekli materyal ve görseller nasıl temin edilir?",
+    "a": "Karton, boya ve maket malzemeleri ile güvenilir kaynaklardan Güneş-Yer görselleri önceden hazırlanır."
+   },
+   {
+    "q": "Model veya postere hangi tarihler dâhil edilmelidir?",
+    "a": "21 Haziran ve 21 Aralık gün dönümleri; 21 Mart ve 23 Eylül ekinoksları."
+   },
+   {
+    "q": "Performans görevi nasıl değerlendirilecek?",
+    "a": "Öğretmen tarafından Analitik Dereceli Puanlama Anahtarı ile değerlendirilecek."
+   },
+   {
+    "q": "Performans görevinin adı, beklenen performansı ve süresi nedir?",
+    "a": "Adı \"Güneş'in Günlük Görünür Hareketi\"; yıl içindeki doğma-batma değişimini gösteren model/poster hazırlamak; süre 35+35 dakika."
+   },
+   {
+    "q": "Güneş'in gökyüzündeki yıllık görünür hareketinin temel nedeni nedir?",
+    "a": "Yer'in Güneş etrafında dolanması ve dönme ekseninin yörünge düzlemine eğik olması."
+   },
+   {
+    "q": "Eksen eğikliği hangi sonuçları doğurur?",
+    "a": "Güneş ışınlarının geliş açısı ile gündüz süreleri değişir; mevsimler oluşur."
+   },
+   {
+    "q": "Tutulum çemberi ile eşlek hangi tarihlerde kesişir?",
+    "a": "21 Mart ve 23 Eylül'de iki kez kesişir."
+   },
+   {
+    "q": "Güneş tutulum çemberi üzerinde dönüm noktalarına hangi tarihlerde ulaşır?",
+    "a": "21 Haziran ve 21 Aralık'ta."
+   },
+   {
+    "q": "Güneş'in her gün farklı noktadan doğup batmasının nedeni nedir?",
+    "a": "Tutulum çemberi üzerindeki konumunun her gün değişmesi."
+   },
+   {
+    "q": "Güneş'in doğma ve batma noktaları nasıl bulunur?",
+    "a": "Önce tutulum çemberi üzerindeki konumu belirlenir; sonra eşleklere paralel yörünge izlediği düşünülerek bulunur."
+   }
+  ],
+  "166": [
+   {
+    "q": "Kuzey enlemlerindeki bir şehirde Güneş’in doğma ve batma noktalarının her geçen gün güneye kaydığını gören kişi hangi ayda gözlem yapıyor olabilir?",
+    "a": "21 Haziran ile 21 Aralık arasında; haziran sonu, temmuz, ağustos, eylül, ekim, kasım veya aralık başında."
+   },
+   {
+    "q": "21 Haziran ve 21 Aralık için Güneş’in ufukta izlediği yörüngeler arasındaki en belirgin farklar nelerdir?",
+    "a": "21 Haziran’da Güneş kuzeydoğudan doğup kuzeybatıdan batar; yörüngesi daha yüksek, gün daha uzundur. 21 Aralık’ta güneydoğudan doğup güneybatıdan batar; yörüngesi daha alçak, gün daha kısadır."
+   },
+   {
+    "q": "21 Haziran’dan 21 Aralık’a kadar Güneş’in doğma-batma noktalarındaki ve gökyüzündeki yörüngesindeki değişim ortalama hava sıcaklıklarını, evlerdeki enerji tüketimini ve mimarların pencere konumlandırma tercihlerini nasıl etkiler?",
+    "a": "Sıcaklıklar düşer; ısınma enerjisi tüketimi artar; mimarlar kışın Güneş’ten yararlanmak için güney cephede daha büyük/fazla pencere, kuzey cephede daha az pencere tercih eder."
+   },
+   {
+    "q": "3. Uygulama metnine göre Güneş’in yıllık görünür hareketinin sonuçları nelerdir?",
+    "a": "Mevsimler, gece-gündüz süresi ve sıcaklık değişimleri oluşur; farklı yarım kürelerde zıt mevsimler yaşanır; bitkilerin çiçek açma/yaprak dökmesi ve hayvanların göç, üreme, kış uykusu davranışları bu değişimlere göre düzenlenir."
+   }
+  ],
+  "167": [
+   {
+    "q": "a) Hangileri gözlemcinin konumuna bağlı olarak değişir?",
+    "a": "2, 6, 7, 8, 9"
+   },
+   {
+    "q": "b) Hangileri hayalî çember olarak tanımlanır?",
+    "a": "3, 4, 5, 7"
+   },
+   {
+    "q": "c) Hangileri evrensel olup tüm gözlemciler için aynıdır?",
+    "a": "1, 3, 4, 5"
+   },
+   {
+    "q": "2. Gökyüzünü izleyen bir gözlemcinin gökyüzünü dönüyormuş gibi görmesini açıklayan temel kavram hangisidir?",
+    "a": "A) Gök küre"
+   },
+   {
+    "q": "3. Aynı gece iki farklı konumdaki gözlemci için gökyüzü görünümünün farklı olmasının nedeni hangi kavramla ilişkilidir?",
+    "a": "C) Çevren düzlemi"
+   },
+   {
+    "q": "4. Gökyüzünde tam tepesindeki noktayı tarif etmek isteyen gözlemci hangi kavramı kullanmalıdır?",
+    "a": "B) Zenit"
+   }
+  ],
+  "168": [
+   {
+    "q": "5. Güneş’in yıllık görünür hareketinde yıl boyunca gökyüzündeki izlediği yolun adı nedir?",
+    "a": "B) Tutulum çemberi"
+   },
+   {
+    "q": "6. Aşağıdaki kavramlardan hangisi gözlemcinin konumuna bağlı değildir?",
+    "a": "D) Gök eşleği"
+   },
+   {
+    "q": "7. Her iki gözlemci için yıldızların küresel bir düzlem üzerinde görülmesi hangi kavramla ilişkilidir?",
+    "a": "Gök küre"
+   },
+   {
+    "q": "8. Her iki gözlemcinin tam tepesinde gördüğü yıldızların farklı olması hangi kavramlarla ilişkilidir?",
+    "a": "Zenit ve çevren düzlemi"
+   },
+   {
+    "q": "9. Gözlem notlarında bahsedilen kavramlardan hangileri gözlemcinin konumundan bağımsız, hangileri konumuna bağlıdır?",
+    "a": "Konumdan bağımsız: gök küre, Yer’in dönme ekseni, gök uçlakları, tutulum çemberi; konuma bağlı: zenit ve çevren düzlemi."
+   }
+  ],
+  "169": [
+   {
+    "q": "10. Gök cisimlerinin hareketini açıklamakta kullanılan bu kavramların astronomi açısından önemi nedir?",
+    "a": "Dönme, dolanma ve yörünge gibi kavramlar gök cisimlerinin hareketlerini modellemeyi, konumlarını ve gece-gündüz, mevsimler gibi sonuçlarını açıklamayı sağlar."
+   },
+   {
+    "q": "11. Yıldızlar gökyüzünde neden çembersel yörünge çizerek hareket ediyormuş gibi görülür? Bu durumu Yer’in hareketiyle ilişkilendirerek açıklayınız.",
+    "a": "Yer kendi ekseni etrafında döndüğü için yıldızlar sabitken gözlemciye ters yönde hareket ediyormuş gibi görünür; bu görünür hareket, gökyüzü kutbu çevresinde çembersel izler oluşturur."
+   }
+  ],
+  "170": [
+   {
+    "q": "12. Yıldızların çizdiği tüm çembersel yörüngenin ortak merkezini oluşturan nokta neresidir? Bu noktanın astronomi ve günlük yaşamdaki önemi nedir?",
+    "a": "Gök uçlağıdır (gök kutbu). Astronomide koordinat ve enlem belirlemede, günlük yaşamda yön bulma ve navigasyonda referanstır."
+   },
+   {
+    "q": "13. Gözlemcinin enleminin değişmesi neden çemberlerin merkezinin değişimine yol açar?",
+    "a": "Gök uçlağının ufuktan yüksekliği enleme eşit olduğundan enlem değişince ufka göre konumu ve çembersel yörüngelerin merkezi değişir."
+   },
+   {
+    "q": "14. Pozlama süresi yıldız izi fotoğraflarında izlerin uzunluğunu neden değiştirir? Açıklayınız.",
+    "a": "Pozlama süresi arttıkça Yer’in dönüşü nedeniyle yıldız izleri daha uzun süre hareket eder; iz uzunluğu süreyle birlikte artar."
+   },
+   {
+    "q": "15. Gök cisimlerinin günlük görünür hareketlerini yaparken izlediği yörünge ..................................... çizgilerine paraleldir.",
+    "a": "eşlek"
+   },
+   {
+    "q": "16. Gök cisimleri Yer’in yaptığı ..................................... sonucunda gökyüzünde çembersel yörüngelerde dönüyormuş gibi görünür.",
+    "a": "günlük hareket"
+   },
+   {
+    "q": "17. Tam kutup noktasında gök uçlakları, ..................................... ve ..................................... ile çakışıktır.",
+    "a": "zenit ve nadir"
+   },
+   {
+    "q": "18. Gözlemcinin enlemine göre ufkun altına hiç inmeyen gök cisimlerine ..................................... adı verilir.",
+    "a": "hiç batmayan gök cismi"
+   },
+   {
+    "q": "19. Gözlemcinin enlemi azaldıkça ..................................... sayısında artış meydana gelir.",
+    "a": "doğup batan gök cismi"
+   }
+  ],
+  "171": [
+   {
+    "q": "20. I, II, III, IV ve V numaralı gök cisimlerinden hangileri hiç batmayan, doğup batan ve hiç doğmayan gök cismidir?",
+    "a": "Hiç batmayan: I; doğup batan: II, III, IV; hiç doğmayan: V."
+   },
+   {
+    "q": "21. Gözlemcinin enlemi düşünüldüğünde gözlemci yeryüzünde hangi konumda kesinlikle bulunamaz? Açıklayınız.",
+    "a": "Ekvator’da veya kutup noktalarında bulunamaz. Ekvator’da hiç batmayan/hiç doğmayan yıldız yoktur; kutuplarda ise doğup batan yıldız gözlenmez."
+   }
+  ],
+  "172": [
+   {
+    "q": "22) Gözlemci aynı yarım kürenin daha büyük enlemindeki bir ülkede bu gözlemini gerçekleştirseydi gök cisimlerinin görünür hareketi nasıl değişirdi?",
+    "a": "Kutba yaklaşıldığından hiç batmayan ve hiç doğmayan yıldızların sayısı artar, doğup batan yıldızların sayısı azalır; günlük yörüngeler ufka daha paralel görünür."
+   },
+   {
+    "q": "23) Gök cisimlerinin görünür hareketinin temel sebebi nedir?",
+    "a": "Dünya’nın kendi ekseni etrafındaki dönme hareketidir."
+   },
+   {
+    "q": "24) Güneş’in doğduğu ve battığı noktalar yıl boyunca değişir mi? Güneş’in yıllık ve günlük görünür hareketini dikkate alarak açıklayınız.",
+    "a": "Evet, değişir. Güneş’in tutulum çemberi üzerindeki konumu yıllık görünür hareketle değişir; Dünya’nın günlük dönmesiyle de doğuş ve batış noktaları ufukta yer değiştirir."
+   }
+  ],
+  "173": [
+   {
+    "q": "25. Kuzey yarım kürede yaşayan bir kişi 21 Aralık’tan başlayarak 15 gün boyunca her gün Güneş’in doğuşunu izliyor. Bu gözlemci Güneş’in doğduğu yerin değişimiyle ilgili hangi çıkarıma ulaşır?",
+    "a": "Güneş’in doğuş noktası giderek kuzeye kayar; gündüzler uzamaya başlar."
+   },
+   {
+    "q": "26. Kuzey enlemlerinde yaşayan bir kişi aralık ayında Güneş’in öğle vakti gökyüzünde yaz aylarına göre daha alçakta olduğunu fark ediyor. Bu durumu Güneş’in yıllık hareketiyle ilişkilendirerek nasıl açıklarsınız?",
+    "a": "Dünya’nın eksen eğikliği ve yıllık hareketi nedeniyle aralıkta Kuzey Yarım Küre Güneş’ten uzaklaşır; ışınlar daha eğik gelir ve öğle Güneş yüksekliği azalır."
+   },
+   {
+    "q": "27. Kuzey enlemlerinde yaşayan bir kişi sokak lambasının gölgesini her gün aynı saatte ölçerek gölgenin önce uzadığını, maksimuma ulaştığını, sonra kısaldığını görmüştür. Buna göre ölçümünü hangi günler arasında yapmış olabilir?",
+    "a": "E) 15 Kasım-30 Aralık"
+   },
+   {
+    "q": "28. Kuzey yarım kürede yaşayan bir kişi için Güneş’in gökyüzünde izlediği yörüngenin en büyük olduğu, en uzun gündüz ve en kısa gecenin yaşandığı gün hangisidir?",
+    "a": "A) 21 Haziran"
+   }
+  ],
+  "174": [
+   {
+    "q": "30. Aynı anda biri Ekvator’da, diğeri Türkiye’de bulunan iki gözlemci için hangi kavram aynı konuma sahiptir?",
+    "a": "C) Gök uçlağı"
+   },
+   {
+    "q": "31. “Çevren çemberi tüm gözlemciler için aynıdır...” ifadesinin bilimsel olarak yanlış olmasının temel nedeni nedir?",
+    "a": "E) Çevren çemberinin gözlemcinin konumuna bağlı tanımlanması"
+   },
+   {
+    "q": "32. Aşağıdaki kavram eşleştirmelerinden hangisi doğru bir ilişkiyi ifade eder?",
+    "a": "A) Tutulum çemberi Yer’in dolanma hareketine bağlıdır."
+   }
+  ],
+  "175": [
+   {
+    "q": "33. Kutup Yıldızı çevresinde çekilmiş uzun pozlama fotoğrafta yıldız izlerinin çembersel görünmesinin temel nedeni nedir?",
+    "a": "Yer'in kendi ekseni etrafında dönmesi (E)"
+   },
+   {
+    "q": "34. Türkiye'den yapılan gözlemde kuzeydeki bazı yıldızların hiç batmamasının temel nedeni nedir?",
+    "a": "Gözlemcinin kuzey yarım kürede bulunması (E)"
+   },
+   {
+    "q": "35. Ekvator'dan yapılan gözlemlerde hiç batmayan yıldız bulunmaması nasıl açıklanır?",
+    "a": "Gök uçlaklarının ufuk düzlemi üzerinde yer alması (B)"
+   },
+   {
+    "q": "36. Günlük görünür harekette gök cisimlerinin çembersel yörüngelerinin merkezlerinin gökyüzündeki konumu neye bağlıdır?",
+    "a": "Gözlemcinin enlemine (B)"
+   }
+  ],
+  "177": [],
+  "178": [],
+  "179": [],
+  "182": [],
+  "183": [],
+  "185": [],
+  "186": [
+   {
+    "q": "1. ÖRNEK a) Büyük patlama ve sabit durum teorilerinin temel varsayımları arasındaki farklılıklar nelerdir?",
+    "a": "Büyük patlama evrenin ~13,8 milyar yıl önce aşırı sıcak ve yoğun bir başlangıçtan genişlediğini, zamanla soğuyup yapısal değişime uğradığını savunur; sabit durum teorisi ise evrenin başlangıcı olmadığını, yapısının hep aynı kaldığını ve yeni maddenin sürekli oluştuğunu iddia eder."
+   },
+   {
+    "q": "1. ÖRNEK b) Kozmik mikrodalga arka alan ışımasının gözlemlenmesi ve ölçülmesi sabit durum teorisini neden desteklemez?",
+    "a": "Bu ışıma evrenin geçmişte sıcak ve yoğun olduğunun kanıtıdır; sabit durum teorisi evrenin hep aynı kaldığını savunduğu için bu bulguyla çelişir."
+   },
+   {
+    "q": "1. UYGULAMA a) Büyük patlama teorisinin bilimsel olarak daha güçlü kabul edilmesinin temel nedenleri nelerdir?",
+    "a": "Kozmik mikrodalga arka alan ışıması ve gök adaların kırmızıya kayması gibi güçlü gözlemsel kanıtlarla desteklenmesidir."
+   },
+   {
+    "q": "1. UYGULAMA b) Sicim teorisinin deneysel olarak kanıtlanamamasının nedenini açıklayınız.",
+    "a": "Öngördüğü olgular günümüz teknolojisiyle test edilemeyecek kadar küçük ölçeklerde/erişilemez durumlarda kaldığından doğrudan gözlemsel kanıtı yoktur."
+   }
+  ],
+  "187": [
+   {
+    "q": "Evrenin durağan ve değişmez olduğu görüşü neden değişti?",
+    "a": "20. yüzyıl başlarındaki astronomik gözlemlerde uzak gök adaların ışığının kırmızıya kaydığı keşfedildi."
+   },
+   {
+    "q": "Kırmızıya kayma neyin kanıtıdır?",
+    "a": "Gök ada kümelerinin Samanyolu'ndan ve birbirinden uzaklaştığının."
+   },
+   {
+    "q": "Evrenin genişlemesi nasıl yorumlanır?",
+    "a": "Gök adaların uzayda hareketi değil, uzayın kendisinin genişlemesi ve gök adaları sürüklemesi olarak."
+   },
+   {
+    "q": "Bu gözlemler hangi teoriyi destekler?",
+    "a": "Büyük Patlama teorisini."
+   },
+   {
+    "q": "Hubble Yasası nedir?",
+    "a": "Gök adaların uzaklaşma hızının uzaklıklarıyla doğru orantılı olmasıdır (v = H₀·d)."
+   },
+   {
+    "q": "Etkinliğin amacı nedir?",
+    "a": "Evrenin genişleme süratine ilişkin hesaplamalar yaparak geleceğiyle ilgili bilimsel veriye dayalı tahminde bulunabilme."
+   },
+   {
+    "q": "Etkinlik sonunda yansıtıcı metin yazınız.",
+    "a": "Hubble'ın Mount Wilson Gözlemevi'ndeki gözlemleri, evrenin durağan değil genişleyen dinamik bir yapıda olduğunu gösterir. Kırmızıya kayma gök adaların uzaklaştığını ve Büyük Patlama'yı destekler; genişleme hızı verileri evrenin geleceğine dair bilimsel tahmin yapmayı sağlar."
+   }
+  ],
+  "188": [
+   {
+    "q": "Metindeki bilimsel verilere ve ön bilgilerinize dayanarak evrenin genişlemesiyle ilgili çeşitli önermeler oluşturunuz.",
+    "a": "1) Gök adaların uzaklaşma hızı, uzaklıklarıyla doğru orantılıdır. 2) Evren zamanla genişlemektedir. 3) Uzak gök adalardan gelen ışık kırmızıya kayar. 4) Evrenin merkezi Samanyolu’dur. 5) Gök adaların birbirinden uzaklaşması uzayın genişlemesinden kaynaklanır."
+   },
+   {
+    "q": "Oluşturduğunuz önermelerin hangilerinin bilimsel verilere dayalı olup hangilerinin olmadığını gerekçeleriyle açıklayınız.",
+    "a": "1, 2, 3 ve 5 bilimseldir; Hubble yasası, kırmızıya kayma gözlemleri ve genişleyen evren modeliyle desteklenir. 4 bilimsel değildir; gözlemler evrenin belirli bir merkezden değil, her yerden genişliyormuş gibi göründüğünü gösterir."
+   }
+  ],
+  "189": [
+   {
+    "q": "4. Tablodaki Hubble sabiti değerlerini ve Hubble yasasını kullanarak 10 ve 20 Mpc uzaklıklardaki gök adaların uzaklaşma hızını ve evrenin genişleme hızını hesaplayıp tabloyu doldurunuz.",
+    "a": "1929: 10 Mpc → 5000, 20 Mpc → 10000; 1958: 750, 1500; 2015: 670, 1340; 2018: 730, 1460 km/s (genişleme hızı sütunu da aynı değerlerdir)."
+   },
+   {
+    "q": "5. Farklı tarihler için hesapladığınız evrenin genişleme hızındaki değişimi göz önünde bulundurarak evrenin geleceğiyle ilgili tahminlerde bulununuz.",
+    "a": "Tablodaki farklılık çoğunlukla ölçüm yöntemlerinin gelişmesinden kaynaklanır; Hubble yasasına göre uzak gök adalar daha hızlı uzaklaşır. Gelecekte evren genişlemeye devam eder, uzaklıklar artar ve yoğunluk azalır; gözlemler genişlemenin hızlandığını gösterdiğinden genişleme hızı artabilir."
+   },
+   {
+    "q": "6. Yaptığınız tahminlerin geçerliliğini ve olası hataları arkadaşlarınızla birbirinizin düşüncelerini anlamaya çalışarak tartışınız.",
+    "a": "Tahminler Hubble sabitinin ölçüm belirsizliğine, uzaklık ölçüm hatalarına ve karanlık enerji varsayımlarına bağlıdır; bu nedenle kesin değil, olasılıklı ve sınırlı geçerliliği olan tahminlerdir."
+   },
+   {
+    "q": "7. Karanlık madde ve karanlık enerji hakkındaki metni okuyunuz.",
+    "a": "Evrenin yaklaşık %5'i sıradan madde, %27'si karanlık madde, %68'i karanlık enerjidir; karanlık madde çekim etkisiyle yavaşlatıcı, karanlık enerji itici etkisiyle hızlandırıcıdır."
+   }
+  ],
+  "190": [
+   {
+    "q": "Karanlık madde ve karanlık enerjinin evrenin genişlemesi üzerindeki etkilerini tartışınız.",
+    "a": "Karanlık madde kütleçekimiyle genişlemeyi yavaşlatır ve galaksi yapılarının oluşumunu sağlar; karanlık enerji negatif basınçla genişlemeyi hızlandırır. Bugün karanlık enerji baskın olduğundan evren ivmeli genişler."
+   },
+   {
+    "q": "Etkinlik boyunca öğrenme sürecinizin gelişimini, zorlandığınız aşamaları ve bu anlarda kendinizi nasıl motive ettiğinizi yansıtan bir metin yazınız.",
+    "a": "Araştırma ve poster taslağı sürecinde bilgileri sadeleştirmekte zorlandım. Kanıtları grupla tartışıp görselleştirerek ve küçük hedefler koyarak motive oldum."
+   },
+   {
+    "q": "Verilen süre içinde görevi tamamlamak için bir çalışma takvimi oluşturunuz; hangi teoriyi kimin araştıracağını ve sunuyu kimin hazırlayacağını belirleyiniz.",
+    "a": "Araştırma, taslak, geri bildirim ve sunum için tarih belirlenir; görevler grup üyelerine dağıtılır."
+   },
+   {
+    "q": "Karanlık madde ve karanlık enerjinin ne olduğunu ve neden görünmez olduklarını açıklayarak araştırma konunuzun sınırlarını çiziniz.",
+    "a": "Karanlık madde ışık yaymayan, soğurmayan ama kütleçekimsel etki gösteren maddedir; karanlık enerji evrenin ivmeli genişlemesini sağlayan bileşendir. Elektromanyetik ışınım yaymadıkları için görünmezler; varlıkları kütleçekimsel etkilerle anlaşılır."
+   },
+   {
+    "q": "Bu kavramların varlığını destekleyen bilimsel kanıtları ve teorileri araştırınız.",
+    "a": "Kanıtlar: galaksi dönüş eğrileri, kütleçekimsel merceklenme, kozmik mikrodalga fon ışınımı ve uzak süpernovalar. Teoriler: ΛCDM ve karanlık enerji/kozmolojik sabit modelleri."
+   },
+   {
+    "q": "Araştırmalarınızda “edu”, “gov” uzantılı veya bilimsel makalelerin yer aldığı güvenilir genel ağ adreslerini kullanınız.",
+    "a": "Üniversite ve devlet kurumlarının siteleri ile hakemli bilimsel dergi makaleleri kullanılır."
+   },
+   {
+    "q": "Araştırma sonuçlarınızı anlaşılır ve etkili sunacak bir bilgi görseli (poster, dijital sunu) hazırlayınız.",
+    "a": "Başlık, kısa metin, şema ve görsellerle düzenlenmiş poster veya dijital sunu hazırlanır."
+   },
+   {
+    "q": "Bilgi görselindeki bilgileri basit çizimler, şemalar ve kısa metinlerle zenginleştiriniz.",
+    "a": "Kavramlar çizim, ok, grafik ve kısa açıklamalarla desteklenir."
+   },
+   {
+    "q": "Bilgi görselini oluşturmak için kullanacağınız yazılımları veya fiziksel malzemeleri belirleyiniz.",
+    "a": "Canva, PowerPoint gibi yazılımlar ya da karton, renkli kalem ve kâğıt gibi malzemeler seçilir."
+   },
+   {
+    "q": "Bilgi görselinizin taslağını oluşturunuz; ana başlıkları, görselleri ve metinleri nereye yerleştireceğinizi kararlaştırınız.",
+    "a": "Taslakta başlık, görsel ve metinlerin yerleşimi belirlenir."
+   },
+   {
+    "q": "Grup arkadaşlarınızdan aldığınız geri bildirimler doğrultusunda bilgi görselinizin taslağını gözden geçiriniz ve gerekli düzeltmeleri yapınız.",
+    "a": "Geri bildirimlere göre yerleşim, içerik ve görseller düzeltilir."
+   },
+   {
+    "q": "Geri bildirimlerle bilgi görselinizin son hâlini oluşturunuz; sunumunuzun görsel olarak dikkat çekici ve bilgilendirici olmasına dikkat ediniz.",
+    "a": "Son hâl; renk, düzen ve okunabilirlik kontrol edilerek tamamlanır."
+   },
+   {
+    "q": "Hazırladığınız bilgi görselini sınıf arkadaşlarınıza sununuz ve araştırma sonuçlarınızı arkadaşlarınızla paylaşınız.",
+    "a": "Bilgi görseli sınıfta sunulur ve temel bulgular paylaşılır."
+   },
+   {
+    "q": "Performans görevi sonunda araştırma ve tasarım sürecinizi anlatan bir raporla bilgi görselinizi öğretmeninize teslim ediniz.",
+    "a": "Süreci anlatan rapor ve son bilgi görseli öğretmene teslim edilir."
+   },
+   {
+    "q": "Performans görevinin adı ve süresi nedir?",
+    "a": "Karanlık Madde ve Karanlık Enerji; 35+35 dakika."
+   },
+   {
+    "q": "Performans görevinde ne yapılması beklenir?",
+    "a": "8 kişilik grupla karanlık madde ve karanlık enerjiyi destekleyen teorileri araştırıp bilgi görseli hazırlamak ve sunmak."
+   },
+   {
+    "q": "Performans görevi nasıl değerlendirilecektir?",
+    "a": "Öğretmen tarafından Analitik Dereceli Puanlama Anahtarı ile değerlendirilir; anahtara karekoddan ulaşılır."
+   }
+  ],
+  "191": [
+   {
+    "q": "Bu sayfadaki sorular ve etkinlikler",
+    "a": "Sayfada soru veya etkinlik bulunmamaktadır."
+   }
+  ],
+  "192": [
+   {
+    "q": "Bu sayfadaki sorular ve etkinlikler nelerdir?",
+    "a": "Sayfada soru veya etkinlik yoktur; yalnızca evrenin genişlemesi, karanlık madde ve kütle çekimsel merceklenme anlatılmaktadır."
+   }
+  ],
+  "193": [
+   {
+    "q": "a) 20 Mpc uzaklıktaki bir gök adanın uzaklaşma hızı 1400 km/s ise Hubble sabiti kaç km/s/Mpc'dir?",
+    "a": "H = v/d = 1400/20 = 70 km/s/Mpc"
+   },
+   {
+    "q": "b) Balon analojisini kullanarak daha uzaktaki gök adaların neden daha hızlı uzaklaştığını açıklayınız.",
+    "a": "Balon şiştikçe yüzeydeki noktalar arasındaki uzaklık artar; uzak noktalar aynı sürede daha fazla yol aldığından daha hızlı uzaklaşır."
+   },
+   {
+    "q": "c) Hubble sabitindeki ölçme yöntemleri arasındaki tutarsızlık bilim insanlarını neden yeni modeller geliştirmeye yönlendirmiştir?",
+    "a": "Farklı yöntemlerin farklı H değerleri vermesi evrenin genişleme geçmişi ve karanlık enerji konusunda belirsizlik yaratır; bu da yeni modeller ve ölçümler geliştirilmesini gerektirir."
+   }
+  ],
+  "195": [
+   {
+    "q": "1. Büyük ölçekli yapıları ve bileşenlerini fizik yasalarıyla ilişkilendirerek açıklamak için nasıl bir araştırma planı hazırlanır?",
+    "a": "Gruplara ayrılıp yerel küme, süper küme ve ipliksi yapıların bileşenleri, uzaklıkları ve kütleçekim etkileri araştırılır; kaynak taraması, not alma ve sunum aşamaları planlanır."
+   },
+   {
+    "q": "2. Araştırma konusuyla ilgili bilgilere ulaşmak için hangi araçlar belirlenir?",
+    "a": "Ders kitabı, ansiklopedi, güvenilir internet siteleri, bilimsel makaleler, veri tabanları ve görseller."
+   },
+   {
+    "q": "3. Doğru bilgiye ulaşmak için hangi kaynaklardan yararlanılabilir?",
+    "a": "Kütüphane, güvenilir genel ağ adresleri, alanında uzman kişiler ve üniversitelerin astronomi veya fizik bölümleri."
+   },
+   {
+    "q": "4. Evrendeki büyük ölçekli yapılarla ilgili merak edilen sorular neler olabilir?",
+    "a": "Yerel küme ile süper kümeler arasındaki uzaklık ne kadardır? İpliksi yapılar nasıl oluşur? Karanlık madde ve karanlık enerji bu yapıları nasıl etkiler?"
+   },
+   {
+    "q": "5. Araştırma sürecinde bilgi toplama ve sorumluluk nasıl yürütülür?",
+    "a": "Belirlenen araçlarla düzenli bilgi toplanır, notlar düzenli tutulur, görev paylaşımı yapılır ve her grup üyesi sorumluluğunu yerine getirir."
+   }
+  ],
+  "196": [
+   {
+    "q": "1. Adım: Evrende bulunan büyük ölçekli yapılar konusunda bilgiler nasıl doğrulanır?",
+    "a": "Uzmanlardan ve güncel bilimsel kaynaklardan bilgi toplanır; sınıf arkadaşlarıyla tartışılarak doğrulanır."
+   },
+   {
+    "q": "2. Adım: Araştırma sonucunda ne hazırlanır?",
+    "a": "Gök adalar, gök ada kümeleri, süper kümeler, filamentler ve boşluklardan oluşan kozmik ağ yapısını açıklayan poster veya sunu hazırlanır."
+   },
+   {
+    "q": "3. Adım: Hazırlanan poster veya sunu ne yapılır?",
+    "a": "Öğretmen rehberliğinde arkadaşlarla paylaşılır."
+   },
+   {
+    "q": "4. Adım: Diğer grupların sunumu dinlenirken ne yapılır?",
+    "a": "Bulgular karşılaştırılır; doğruluğundan emin olunan bilgiler not edilir."
+   },
+   {
+    "q": "Bu sayı başka bir kaynakta farklı verilmişti, bu farkın nedeni ne olabilir?",
+    "a": "Laniakea'nın sınır tanımı, gök ada sayım yöntemleri, uzaklık ölçümleri ve kaynakların güncelliği farklı olabilir."
+   },
+   {
+    "q": "Bu yapının sınırları nasıl belirlenmiş?",
+    "a": "Gök adaların dağılımı, hareketleri ve kütleçekimsel etkileri incelenerek belirlenir."
+   },
+   {
+    "q": "Senin kaynağın güncel mi?",
+    "a": "Kaynağın yayın tarihi kontrol edilir; eskiyse güncel kaynaklarla doğrulanır."
+   },
+   {
+    "q": "Öz Değerlendirme 1: Araştırma konusunu anladın ve çalışma amacını net kavradın mı?",
+    "a": "Evet."
+   },
+   {
+    "q": "Öz Değerlendirme 2: Araştırma planını grup arkadaşlarınla oluşturdun mu?",
+    "a": "Evet."
+   },
+   {
+    "q": "Öz Değerlendirme 3: Görev dağılımında üzerine düşen sorumluluğu yerine getirdin mi?",
+    "a": "Evet."
+   },
+   {
+    "q": "Öz Değerlendirme 4: Bilgi toplamak için uygun araçları belirledin mi?",
+    "a": "Evet."
+   },
+   {
+    "q": "Öz Değerlendirme 5: Güvenilir kaynaklardan bilgi toplayıp gerekli bilgileri not ettin mi?",
+    "a": "Evet."
+   },
+   {
+    "q": "Öz Değerlendirme 6: Planlı ve düzenli çalıştın mı?",
+    "a": "Evet."
+   },
+   {
+    "q": "Öz Değerlendirme 7: Topladığın bilgileri arkadaşlarınla tartışarak doğruladın mı?",
+    "a": "Evet."
+   },
+   {
+    "q": "Öz Değerlendirme 8: Bilgileri fizik yasalarıyla ilişkilendirmeye çalıştın mı?",
+    "a": "Evet."
+   },
+   {
+    "q": "Öz Değerlendirme 9: Araştırma sonuçlarını postere veya sunuya dönüştürmeye katkıda bulundun mu?",
+    "a": "Evet."
+   },
+   {
+    "q": "Öz Değerlendirme 10: Poster veya sunuda kullanılan görselleri konuya uygun seçtin mi?",
+    "a": "Evet."
+   },
+   {
+    "q": "Formda \"Hayır\" veya \"Kısmen\" işaretlenen davranışlar için ne yapılır?",
+    "a": "İlgili davranışlardaki eksikler tamamlanır."
+   }
+  ],
+  "200": [
+   {
+    "q": "a) Kozmik ağın yapısı evrenin yaşam süreci hakkında hangi bilgileri sunar? Açıklayınız.",
+    "a": "Evrenin ilk dönemlerindeki küçük madde yoğunluk farklarının kütle çekimiyle büyüyerek gök ada kümeleri ve ipliksi yapıları oluşturduğunu gösterir; evrenin genişleme hızı, karanlık madde miktarı ve kozmik geçmişi hakkında bilgi verir."
+   },
+   {
+    "q": "b) Evrenin büyük kısmını oluşturan boşlukların kozmoloji açısından önemi nedir? Açıklayınız.",
+    "a": "Maddenin evrende eşit dağılmadığını gösterir; karanlık enerjinin ve genişlemenin incelenmesi için uygun bölgelerdir, gök ada oluşumu ile kütle çekiminin etkileri hakkında bilgi sağlar."
+   }
+  ],
+  "201": [
+   {
+    "q": "3.a) Süper kümelerdeki gök adaların kütle çekimiyle bağlı kalması, evrenin genişlemesine karşı nasıl bir denge oluşturur?",
+    "a": "Kütle çekimi genişlemeden güçlüyse gök adalar bir arada kalır ve süper küme bütünlüğünü korur."
+   },
+   {
+    "q": "3.b) Bu denge bozulduğunda ne gibi sonuçlar ortaya çıkar? Gerekçeleriyle açıklayınız.",
+    "a": "Kütle çekimi yetersiz kalır; gök ada kümeleri uzaklaşır, süper küme dağılır ve uzak yapılar gözlemlenebilir evrenden çıkar. Gerekçe: genişleme, kütle çekimini yener."
+   },
+   {
+    "q": "3.c) Süper kümelerdeki gök ada kümelerinin dağılmadan bir arada kalmasındaki en büyük etki nedir?",
+    "a": "E) Kütle çekimi"
+   },
+   {
+    "q": "4.a) Yer'in kozmik adresini en küçük yapıdan en büyük yapıya doğru sırasıyla yazınız.",
+    "a": "Yer → Güneş Sistemi → Samanyolu Gök Adası → Yerel Grup → Başak Kümesi → Laniakea Süper Kümesi → gözlemlenebilir evren"
+   },
+   {
+    "q": "4.b) Evrende bilinen tek yaşamın bu kadar büyük yapılar içinde küçük bir noktada yer alması, insanlık olarak evren algısını nasıl etkiler?",
+    "a": "Evrendeki yerimizin çok küçük olduğunu gösterir; alçakgönüllülük ve merak kazandırır. Buna rağmen evreni anlayabilmemiz insan zekâsının gücünü ortaya koyar."
+   },
+   {
+    "q": "4.c) Gök ada kümelerinden oluşan büyük ve düzenli yapı aşağıdakilerden hangisidir?",
+    "a": "D) Üst küme"
+   }
+  ],
+  "202": [
+   {
+    "q": "Evren nasıl son bulacak?",
+    "a": "Modellere göre ısı ölümü/büyük donma, sürekli genişleme, kütle çekimiyle içe çöküş veya karanlık enerjiyle parçalanma senaryolarından biriyle son bulabilir."
+   },
+   {
+    "q": "Evrenin bir sonu var mı?",
+    "a": "Kesin olarak bilinmemektedir; bu, hâlâ yanıt bekleyen temel sorulardan biridir."
+   },
+   {
+    "q": "Evrenin muhtemel sonunu anlamada hangi bilimsel kavramlar rol oynar?",
+    "a": "Entropi, evrenin yoğunluk değeri ve genişleme hızındaki değişim."
+   },
+   {
+    "q": "Entropi nedir?",
+    "a": "Bir sistemdeki düzensizliğin ya da rastlantısallığın ölçüsüdür."
+   },
+   {
+    "q": "Görsel 4.17'ye göre buz, su ve su buharının entropi düzeyi nasıl sıralanır?",
+    "a": "Buz düşük, su orta, su buharı yüksek entropiye sahiptir."
+   },
+   {
+    "q": "Buz ısı alarak su buharına dönüşürken entropisi nasıl değişir?",
+    "a": "Artar."
+   },
+   {
+    "q": "Evrenin entropisi zamanla nasıl değişir?",
+    "a": "Artar; evren giderek daha düzensiz bir yapıya evrilir."
+   },
+   {
+    "q": "Evrenin entropisinin artması hangi son senaryosuyla adlandırılır?",
+    "a": "Isı ölümü veya büyük donma."
+   },
+   {
+    "q": "Evrenin olası sonlarına ilişkin hangi senaryolar tartışılmaktadır?",
+    "a": "Sonsuza kadar genişleme, kütle çekiminin baskın gelmesiyle içe çöküş ve karanlık enerji etkisiyle hızla parçalanma."
+   }
+  ],
+  "206": [
+   {
+    "q": "Evrenin muhtemel sonuna ilişkin verilere dayanarak mantıksal temellendirme yapınız.",
+    "a": "Evren genişliyor; kütle çekimi baskın gelirse büzülür, kuantum etkileri tekilliği önleyip yeniden genişlemeye yol açabilir. Bu nedenle evren döngüsel olabilir."
+   }
+  ],
+  "207": [
+   {
+    "q": "2. Evrenin muhtemel sonuyla ilgili farklı senaryolar arasındaki mantıksal çelişkiler veya tutarsızlıklar nelerdir?",
+    "a": "Büyük Çöküş genişlemenin yavaşlayıp tersine dönmesini gerektirirken gözlenen hızlanan genişleme bununla çelişir; Büyük Yırtılma artan karanlık enerji yoğunluğu varsayar, Isı Ölümü ise sonsuz genişlemeyi öngörür. Bu tutarsızlıklar madde yoğunluğu, karanlık enerjinin doğası ve evrenin eğriliğine ilişkin farklı varsayımlardan kaynaklanır."
+   },
+   {
+    "q": "3. Tespit ettiğiniz çelişkiler bilimsel verilerle nasıl açıklanır ve neden kaynaklanır?",
+    "a": "Ia süpernova, CMB ve BAO verileri genişlemenin hızlandığını gösterir; bu, Büyük Çöküş’ü zayıflatır. Çelişkiler karanlık enerjinin eşitlik durumunun ve zamanla değişiminin kesin bilinmemesinden, ölçüm belirsizliklerinden ve modellerin gözlem sınırlarının ötesine uzatılmasından kaynaklanır."
+   },
+   {
+    "q": "4. Farklı senaryoların kabul edilebilirliği bilimsel verilere dayalı ve nezaket çerçevesinde nasıl tartışılır; çürütme veya kabul nedenleri nelerdir?",
+    "a": "Büyük Çöküş mevcut hızlanma verileriyle uyuşmadığı için zayıftır; Isı Ölümü ΛCDM ve entropi artışıyla en tutarlı senaryodur; Büyük Yırtılma ancak karanlık enerji için w < -1 doğrulanırsa kabul edilebilir; döngüsel model yeterli kanıt sunmaz."
+   },
+   {
+    "q": "5. Tartışmalar sonucunda evrenin muhtemel sonu hakkındaki fikriniz nedir?",
+    "a": "Mevcut gözlemlere göre evrenin sonsuza kadar genişleyerek soğuması ve entropinin maksimuma yaklaşması, yani Isı Ölümü/Büyük Donma en olasıdır; ancak karanlık enerjinin doğası netleşince bu görüş değişebilir."
+   },
+   {
+    "q": "1. Evrenin genişlemesinin durarak kendi içine çökmesi hangi fiziksel koşullar altında mümkün olabilir? Açıklayınız.",
+    "a": "Evrenin madde yoğunluğu kritik yoğunluğu aşmalı, kütleçekim genişlemeyi yenmeli ve karanlık enerji yok olmalı ya da çekim etkisi yapacak kadar zayıf veya negatif olmalıdır; yani kapalı ve yavaşlayan bir evren gerekir. Gözlenen hızlanan genişleme bu koşulları desteklemez."
+   },
+   {
+    "q": "2. Günümüzde yapılan kozmolojik gözlemler evrenin sonu hakkında hangi senaryoyu daha olası kılıyor? Gözlemsel verilere dayalı olarak açıklayınız.",
+    "a": "Karanlık enerjinin baskın olması ve genişlemenin hızlanması, evrenin sonsuza kadar genişleyip soğuyacağı Büyük Donma/Isı Ölümü senaryosunu daha olası kılar. Büyük Çöküş için gereken yavaşlama gözlenmemektedir."
+   },
+   {
+    "q": "3. Evrenin entropisinin zamanla artması evrenin sonuyla ilgili hangi senaryoyu destekler? Bu ilişkiyi açıklayınız.",
+    "a": "Entropinin artması, enerjinin giderek kullanılamaz hale geldiği ve evrenin homojen, soğuk bir dengeye yaklaştığı Isı Ölümü/Büyük Donma senaryosunu destekler. Bu durumda yeni yapılar oluşamaz ve iş yapabilme kapasitesi azalır."
+   }
+  ],
+  "208": [
+   {
+    "q": "Evrenin sonu “Kaçınılmaz mı, değiştirilebilir mi?”",
+    "a": "Henüz kesin değildir; karanlık enerjinin doğası tam bilinmediğinden bilim insanları bu soruyu araştırmaya devam etmektedir."
+   }
+  ],
+  "209": [
+   {
+    "q": "a) Evrenin sonunu belirleyen en önemli fiziksel değişkenler nelerdir?",
+    "a": "Evrenin genişleme hızı, madde yoğunluğu ve karanlık enerjinin doğası."
+   },
+   {
+    "q": "b) Bu değişkenler evrenin sonunun ne olacağının belirlenmesinde neden kritik öneme sahiptir?",
+    "a": "Evrenin genişleyip çökmesini belirledikleri için; karanlık enerji evrenin muhtemel sonunda baskın etkendir."
+   },
+   {
+    "q": "c) Büyük donma senaryosu neden bilim insanları tarafından evrenin en olası sonu olarak kabul ediliyor?",
+    "a": "Gözlemler genişlemenin hızlandığını gösteriyor; karanlık enerji sabit kalırsa genişleme sürer, enerji kullanılamaz hâle gelir ve evren soğuyup karanlıklaşır."
+   },
+   {
+    "q": "ç) Evrenin muhtemel sonuyla ilgili senaryolardan hangisi evrenin yeniden bir başlangıç yapabileceğini ima eder ve bu nasıl mümkün olabilir?",
+    "a": "Büyük sıçrama; evren büzülüp yoğun ve sıcak hâle gelir, ardından yeniden genişleyerek oluşur. Döngüsel yapı mümkündür ancak doğrudan gözlemsel kanıt yoktur."
+   },
+   {
+    "q": "d) Karanlık enerjinin zamanla artan bir kuvvete dönüşmesi hâlinde evrenin geleceği nasıl değişebilir?",
+    "a": "Genişleme hızlanarak yıkıcı boyuta ulaşır; gök adalar, yıldızlar, gezegenler ve atom altı parçacıklar parçalanır; büyük yırtılma yaşanır."
+   }
+  ],
+  "210": [
+   {
+    "q": "Evrenin sonuna dair senaryoların farklı olmasının ve kesin sonun bilinmemesinin temel sebebi nedir?",
+    "a": "Evrenin toplam madde-enerji miktarı, genişleme hızı ve karanlık enerjinin özelliklerinin kesin olarak bilinmemesi."
+   },
+   {
+    "q": "Büyük çöküş senaryosunun doğasını en iyi açıklayan yorum hangisidir?",
+    "a": "C) Evren bir noktada tamamen çöker ve yeniden doğar."
+   },
+   {
+    "q": "Toplam madde-enerji içeriği kritik değerden büyükse ve karanlık enerji zamanla zayıflıyorsa hangi senaryo öne çıkar?",
+    "a": "Büyük Çöküş; kütleçekimi baskın gelir, genişleme durur ve evren büzülerek çöker."
+   }
+  ],
+  "211": [
+   {
+    "q": "Kozmik mikrodalga arka alan ışımasının keşfi, Büyük Patlama ve sabit durum teorilerine olan bakışı nasıl etkilemiştir?",
+    "a": "Büyük Patlama teorisini desteklemiş, sabit durum teorisini zayıflatmıştır."
+   },
+   {
+    "q": "Vesto Slipher'ın gözlemleriyle Hubble'ın keşfi arasındaki temel farkı açıklayınız.",
+    "a": "Slipher bulgularını teoriye dönüştürememiş, Hubble ise uzaklık ile uzaklaşma hızı arasındaki ilişkiyi matematiksel olarak ifade edip evrenin genişlediği fikrini ortaya koymuştur."
+   },
+   {
+    "q": "Karanlık madde ve karanlık enerjinin varlığına ilişkin kanıtların neden dolaylı kanıtlar olarak kabul edildiğini açıklayınız.",
+    "a": "Bu bileşenler henüz doğrudan gözlemlenememiş, varlıkları gök adaların dönüş hızları ve uzak süpernova gözlemleri gibi dolaylı etkilerden çıkarılmıştır."
+   }
+  ],
+  "212": [
+   {
+    "q": "Evrenin oluşum teorilerini özellikleriyle eşleştiriniz.",
+    "a": "A-II, B-I, C-IV, Ç-III, D-V (Sicim teorisi)"
+   },
+   {
+    "q": "Uzaklığı 3,6 Mpc ve Hubble sabiti 73 km/Mpc·s olan Messier 81’in genişleme hızı kaç km/s’dir?",
+    "a": "Yaklaşık 263 km/s"
+   },
+   {
+    "q": "Evrenin her zaman var olduğunu ve genişlemeyle yeni madde oluştuğunu savunan teori hangisidir?",
+    "a": "B) Sabit durum teorisi"
+   }
+  ],
+  "213": [
+   {
+    "q": "7) Evrende gök ada kümeleri ve gök ada duvarları gibi yoğun madde birikim bölgeleri ile gök ada duvarları arasında büyük kozmik boşlukların oluşmasının sebebi nedir? Gerekçeleriyle açıklayınız.",
+    "a": "Kütle çekimi maddeyi yoğun bölgelere çeker, aradaki alanlar maddece fakirleşir; evrenin genişlemesi ve karanlık enerji bu boşlukları büyütür."
+   },
+   {
+    "q": "8) Evrende gök ada kümeleri genellikle filamentler boyunca dizilidir. Bu durumun oluşumunda hangi fiziksel kuvvetlerin etkili olduğunu yazınız.",
+    "a": "Kütle çekimi (özellikle karanlık maddenin çekimi); evrensel genişleme de filamentlerin dağılımını etkiler."
+   },
+   {
+    "q": "9a) Aşağıdakilerden hangisi gök adaların evrendeki en küçük bir araya geliş düzeyidir?",
+    "a": "C) Gök ada kümesi."
+   },
+   {
+    "q": "9b) Gök adaların uzun hatlar boyunca dizilmesiyle oluşan yapı aşağıdakilerden hangisidir?",
+    "a": "B) Filamentler (gök ada ipliği)."
+   },
+   {
+    "q": "9c) Gök ada duvarlarının oluştuğu bölgelerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "a": "E) İpliksi yapıların birleşme noktalarında bulunur."
+   }
+  ],
+  "214": [
+   {
+    "q": "10. a) Karanlık enerji evrenin kaderini nasıl belirler?",
+    "a": "Evrenin genişlemesini hızlandıran itici güçtür; baskınlığı ve zamanla değişimi evrenin donma, çöküş veya yırtılma ile sonlanmasını belirler."
+   },
+   {
+    "q": "10. b) Büyük çöküş senaryosu günümüzde neden zayıf bir olasılık olarak görülmektedir?",
+    "a": "Gözlemler genişlemenin hızlandığını ve karanlık enerjinin baskın olduğunu gösterir; madde yoğunluğu kritik yoğunluğun altındadır, bu yüzden genişlemenin tersine dönmesi beklenmez."
+   },
+   {
+    "q": "10. c) Aşağıdaki ifadelerden hangisi büyük yırtılma senaryosunun sonucunu en doğru biçimde tanımlar? Cevabınızın gerekçesini yazınız.",
+    "a": "D) Evrenin genişleme hızı öylesine artar ki tüm yapılar parçalanır. Gerekçe: Karanlık enerji genişlemeyi aşırı hızlandırırsa, yapıları bir arada tutan kuvvetler yenilir ve galaksilerden atomlara kadar her şey parçalanır."
+   },
+   {
+    "q": "10. ç) Evrenin büyük çöküş ile son bulması için hangi koşul gerekir?",
+    "a": "E) Madde yoğunluğunun kritik yoğunluğun üstünde olması."
+   },
+   {
+    "q": "10. d) Bilim insanlarının büyük donma senaryosunu daha olası bulmalarının temel nedeni nedir?",
+    "a": "E) Gözlemlerin karanlık enerjinin evrende baskın olduğunu göstermesi."
+   }
+  ],
+  "215": [
+   {
+    "q": "11) Evrenin muhtemel sonu kesin bir \"son\" mudur yoksa yeni bir başlangıcın parçası olabilir mi? Gerekçelendirerek açıklayınız.",
+    "a": "Kesin olmayabilir; Büyük Çöküş'ü yeni bir Büyük Patlama'nın izlemesi gibi döngüsel (Büyük Sıçrama) senaryolar mümkündür, ancak bunlar henüz gözlemsel olarak doğrulanmamıştır."
+   },
+   {
+    "q": "12) Evrenin genişleme hızının artması gök ada kümeleri arası mesafeleri zamanla nasıl etkiler ve bu durumun uzun vadeli sonuçları neler olabilir?",
+    "a": "Gök ada kümeleri ve gök adalar birbirinden giderek daha hızlı uzaklaşır; uzun vadede iletişim ve gözlem imkânsızlaşır, madde yoğunluğu düşer ve evren karanlık, yalnız bir yapıya dönüşebilir."
+   },
+   {
+    "q": "13) Bilim insanları evrenin geleceğini anlamak için evrensel genişlemenin hızını, evrendeki madde yoğunluğunu ve karanlık enerjiyi incelerler. Büyük donma senaryosu, evrenin genişlemeye devam etmesi ve zamanla sıcaklıkların mutlak sıfıra yaklaşması sonucunda tüm yıldızların sönmesiyle ilgilidir. Buna göre büyük donma senaryosu evrendeki yaşam ve enerji akışı açısından ne gibi sonuçlar doğurabilir? Açıklayınız.",
+    "a": "Evren sürekli genişler, yıldızlar söner ve yeni yıldızlar oluşamaz; enerji kaynakları tükenir, gezegenler donar ve evren soğuk, karanlık, durağan bir hâle gelir."
+   },
+   {
+    "q": "14) Aşağıdakilerden hangisi büyük yırtılma senaryosunun temel varsayımlarından biridir?",
+    "a": "E) Karanlık enerjinin giderek artan bir ivmeyle genişlemeye neden olduğu."
+   },
+   {
+    "q": "15) Evrenin büyük çöküş senaryosunu savunan bir bilim insanı, evrenin bugünkü genişleme eğilimini nasıl yorumluyor olabilir?",
+    "a": "Genişlemenin bir noktada yavaşlayıp duracağını, kütle çekiminin baskın hâle gelerek evreni kendi içine çöktüreceğini düşünür."
+   }
+  ],
+  "218": [
+   {
+    "q": "Bilimsel veri toplamak amacıyla uzaya gönderilen, Dünya’dan yönetilen insansız araçlara ne ad verilir?",
+    "a": "Uzay sondaları (insansız uzay araçları)."
+   },
+   {
+    "q": "Uzay istasyonlarının uzay araştırmalarındaki temel rolü nedir?",
+    "a": "Uzun süreli araştırma ortamı sağlar; mikro yer çekimi deneyleri, gözlem, teknoloji testi ve derin uzay görevlerine hazırlık yapılır."
+   },
+   {
+    "q": "Uzay için geliştirilen hangi teknolojiler günlük yaşamda kullanılmaktadır? En az üç örnek veriniz.",
+    "a": "GPS/navigasyon, hava durumu uyduları, iletişim uyduları, güneş panelleri, su filtreleri ve çizilmeye dayanıklı lensler."
+   },
+   {
+    "q": "Günlük hayatta kullanılan hangi teknolojik araçların çalışma sistemi doğrudan uydulara bağlıdır? En az iki örnek veriniz.",
+    "a": "GPS/navigasyon cihazları, uydu telefonları, uydu televizyonu ve hava durumu takibi."
+   },
+   {
+    "q": "Ülkemizde millî ve yerli olarak geliştirilmiş veya geliştirilmekte olan uzay araçları nelerdir? Bu araçlar uzay çalışmalarına hangi alanlarda katkıda bulunmaktadır?",
+    "a": "Türksat 6A, İMECE, Göktürk ve RASAT uyduları; haberleşme, yer gözlemi, uzaktan algılama, görüntüleme, savunma, afet yönetimi ve haritalama alanlarında katkı sağlar."
+   }
+  ],
+  "219": [
+   {
+    "q": "Etkinlik Öncesi Hazırlık 1. basamak: Uzay çalışmalarının amacı, tarihsel gelişimi ile ülkemizdeki ve dünyadaki güncel uzay çalışmaları hakkında araştırma planı nasıl hazırlanır ve grup içinde görev paylaşımı nasıl yapılır?",
+    "a": "Plan; konu belirleme, kaynak tarama, bilgi toplama, düzenleme ve sunum basamaklarından oluşturulur. Görevler; kaynak araştırma, not tutma, görsel/veri toplama ve sunum olarak paylaştırılır."
+   },
+   {
+    "q": "2. basamak: Hedefe ulaşmakta zorlanılırsa ne yapılmalıdır?",
+    "a": "Araştırma planı gözden geçirilir; gerekirse kaynaklar, süre ve görev dağılımı yeniden düzenlenir."
+   },
+   {
+    "q": "3. basamak: Araştırma konusuyla ilgili bilgilere ulaşmak için hangi araçlar belirlenmelidir?",
+    "a": "Kütüphane, basılı kaynaklar (kitap, dergi, ansiklopedi), güvenilir genel ağ adresleri ve öğretmen rehberliği."
+   },
+   {
+    "q": "4. basamak: Belirlenen araçlarla bilgi toplarken ne yapılmalıdır?",
+    "a": "Uzay çalışmalarının amacı, tarihsel gelişimi ve güncel çalışmalar hakkında bilgi toplanır; elde edilenler not edilir."
+   },
+   {
+    "q": "Uzay çalışmalarının amacı ve tarihsel gelişimine yönelik bilgilere nereden ulaşabilirim?",
+    "a": "Kütüphaneden, basılı bilimsel kaynaklardan ve güvenilir kurumsal genel ağ sitelerinden."
+   },
+   {
+    "q": "Bu bilgiler kütüphanede hangi bölümde bulunabilir?",
+    "a": "Bilim, astronomi, fizik ve uzay bilimleri bölümlerinde; genel başvuru ve ansiklopedi raflarında."
+   },
+   {
+    "q": "Hangi güvenilir genel ağ siteleri bu bilimsel bilgilere ulaşmamı sağlar?",
+    "a": "TUA, TÜBİTAK Uzay, NASA ve ESA gibi resmî kurumların siteleri."
+   }
+  ],
+  "220": [
+   {
+    "q": "1.a) Uzay çalışmalarının amacı neler olabilir?",
+    "a": "Bilimsel araştırma yapmak, haberleşme ve gözlem sağlamak, evreni keşfetmek ve teknoloji geliştirmektir."
+   },
+   {
+    "q": "1.b) Uzay çalışmalarının yararları nelerdir?",
+    "a": "Haberleşme, hava tahmini, navigasyon, afet izleme, tıp ve teknoloji alanında gelişmeler sağlar."
+   },
+   {
+    "q": "1.c) Uzaya gönderilen ilk uydudan sonra ne gibi bilimsel gelişmeler ortaya çıkmış olabilir?",
+    "a": "Haberleşme ve hava uyduları, uzaktan algılama, GPS ve uzay araştırmaları gelişmiştir."
+   },
+   {
+    "q": "1.ç) Uzaya gönderilen araçların içine canlı türlerinin konulmasının amacı nedir?",
+    "a": "Canlıların uzay ortamından nasıl etkilendiğini incelemek ve insanlı uçuşların güvenliğini sağlamaktır."
+   },
+   {
+    "q": "1.d) Ay’a ilk insanlı yolculuk ne zaman yapılmıştır?",
+    "a": "20 Temmuz 1969’da Apollo 11 ile yapılmıştır."
+   },
+   {
+    "q": "1.e) Uzaya gönderilen ilk insan kimdir?",
+    "a": "Yuri Gagarin’dir (12 Nisan 1961)."
+   },
+   {
+    "q": "1.f) Uzay çalışmaları sırasında karşılaşılan sorunlar neler olabilir?",
+    "a": "Radyasyon, yerçekimsizlik, yaşam desteği, yüksek maliyet, uzay çöpü ve güvenli dönüş sorunlarıdır."
+   },
+   {
+    "q": "2. Tarih şeridi oluşturma ve sunum yapma",
+    "a": "Sputnik 1 (1957), Yuri Gagarin (1961) ve Apollo 11 (1969) gibi olayları kronolojik olarak gösteren bir şerit hazırlanıp sunulmalıdır."
+   },
+   {
+    "q": "3. Diğer grupların sunumlarını dinleyerek karşılaştırma yapma",
+    "a": "Bulgular karşılaştırılmalı, doğruluğu kesinleşen bilgiler not edilmelidir."
+   },
+   {
+    "q": "5. Ulaşılan bilgilerin doğruluğunu kontrol etme",
+    "a": "Bilgiler birden fazla kaynaktan kontrol edilmeli, kaynağın kurumu incelenmeli, diğer gruplarla karşılaştırılmalı ve emin olunmayanlar öğretmene sorulmalıdır."
+   }
+  ],
+  "221": [
+   {
+    "q": "a) Güneş sistemi dışına çıkmayı başaran araç hangisidir?",
+    "a": "Voyager I."
+   },
+   {
+    "q": "b) Hangi araçlar insanlık tarihinde yaptığı görev açısından bir “ilk” olma özelliği taşır?",
+    "a": "Sputnik I, Vostok I, Apollo 11 ve Voyager I."
+   },
+   {
+    "q": "c) Hangi araçlar Yer’in yörüngesinde faaliyet göstermiştir?",
+    "a": "Sputnik I, Vostok I, Hubble Uzay Teleskobu ve Uluslararası Uzay İstasyonu."
+   },
+   {
+    "q": "ç) Hangi araçlar veri toplamaya devam etmektedir?",
+    "a": "Voyager I, Hubble Uzay Teleskobu ve Uluslararası Uzay İstasyonu."
+   },
+   {
+    "q": "d) Hangi araçlar Ay görevleri veya daha uzak görevler için kullanılmıştır?",
+    "a": "Apollo 11 ve Voyager I."
+   },
+   {
+    "q": "e) Hangi araçlar insanlı görevlerde kullanılmıştır?",
+    "a": "Vostok I, Apollo 11 ve Uluslararası Uzay İstasyonu."
+   }
+  ],
+  "222": [
+   {
+    "q": "Sayfada yanıtlanması istenen soru veya etkinlik var mı?",
+    "a": "Hayır, sayfada soru veya etkinlik bulunmamaktadır."
+   }
+  ],
+  "230": [
+   {
+    "q": "Sayfadaki sorular ve etkinlikler nelerdir?",
+    "a": "Sayfada soru veya etkinlik yok; yalnızca bilgilendirici metin ve karekod yönlendirmesi bulunuyor."
+   }
+  ],
+  "232": [
+   {
+    "q": "Uzay araştırmalarında insan yerine robotların kullanılması daha mı avantajlıdır? Gerekçelendirerek açıklayınız.",
+    "a": "Evet, genellikle daha avantajlıdır; insan hayatı risk altına girmez, zor koşullarda uzun süre çalışabilir ve maliyet daha düşüktür. Ancak esneklik ve karar verme gereken görevlerde insan da gerekebilir."
+   },
+   {
+    "q": "Vostok 1 hangi tarihsel önemle eşleştirilir?",
+    "a": "A — Yuri Gagarin’in uzaya çıkan ilk insan olduğu görev aracı."
+   },
+   {
+    "q": "Parker Solar Probe hangi tarihsel önemle eşleştirilir?",
+    "a": "B — Güneş’e en çok yaklaşan ve Güneş rüzgârlarını inceleyen uzay sondası."
+   },
+   {
+    "q": "Galileo Uzay Aracı hangi tarihsel önemle eşleştirilir?",
+    "a": "C — Jüpiter ve uydularını inceleyerek Galileo’nun gözlemlerini uzaydan doğrulayan araç."
+   },
+   {
+    "q": "Voyager 1 hangi tarihsel önemle eşleştirilir?",
+    "a": "Ç — Güneş sisteminin dış sınırlarını aşarak yıldızlar arası uzaya ulaşan ilk insan yapımı araç."
+   },
+   {
+    "q": "Skylab hangi tarihsel önemle eşleştirilir?",
+    "a": "D — ABD tarafından kurulan, uzun süreli bilimsel deneylerin yapıldığı ilk uzay istasyonu."
+   }
+  ],
+  "233": [
+   {
+    "q": "Roketin kullanım amacı ve temel nitelikleri nelerdir?",
+    "a": "Uzay araçlarını ve astronotları yer çekimini yenerek uzaya fırlatır; yüksek hızda itme gücü sağlayan taşıma aracıdır."
+   },
+   {
+    "q": "Uzay mekiğinin kullanım amacı ve temel nitelikleri nelerdir?",
+    "a": "İnsanları ve yükleri uzaya taşır; görevini tamamladıktan sonra Yer’e dönerek tekrar kullanılabilir."
+   },
+   {
+    "q": "Yapay uydunun kullanım amacı ve temel nitelikleri nelerdir?",
+    "a": "Başka bir gök cisminin yörüngesinde döner; iletişim, gözlem, navigasyon, hava durumu ve bilimsel araştırmalarda kullanılır."
+   }
+  ],
+  "234": [
+   {
+    "q": "2. Uzay araçlarının benzer ve farklı yönleri nelerdir?",
+    "a": "Benzer yönleri bilimsel araştırma yapıp veri toplamalarıdır; farklı yönleri uzay istasyonunun insanlı ve Yer yörüngesinde, uzay sondasının ise insansız ve uzak gök cisimlerini incelemek üzere olmasıdır."
+   },
+   {
+    "q": "3. Öğretmeninizin rehberliğinde 4-6 kişilik heterojen gruplara ayrılınız.",
+    "a": "Dörder-altışar kişilik heterojen gruplar oluşturulur."
+   },
+   {
+    "q": "4. Uzay araçlarının adlarını, görevlerini ve birbirleriyle olan ilişkilerini gösteren bir kavram haritası hazırlayınız.",
+    "a": "Uzay araçları → Uzay istasyonu: insanlı, Yer yörüngesinde yaşam ve araştırma; Uzay sondası: insansız, uzak gezegen, asteroid ve kuyruklu yıldız incelemesi. İlişki: İkisi de bilimsel veri toplar; istasyon yakın yörüngede, sonda uzak hedeflerde görev yapar."
+   },
+   {
+    "q": "5. Görevlerini tamamlayan uzay araçlarına ne olduğu hakkında tartışınız.",
+    "a": "Bazıları Dünya’ya döner, bazıları yörüngede kalır; çoğu terk edilerek uzay atığı olur, bazıları kontrollü şekilde atmosferde yanar veya mezarlık yörüngesine gönderilir."
+   },
+   {
+    "q": "6. Karekodu kullanarak “Uzay Atıkları” konulu videoyu izleyiniz.",
+    "a": "Video izlenir; uzay atıkları yörüngedeki işlevini yitirmiş uydu parçaları ve roket kalıntılarıdır, çarpışma riski oluşturur ve temizlenmeleri gerekir."
+   }
+  ],
+  "235": [
+   {
+    "q": "Bu etkinlikte neler yaptım?",
+    "a": "Uzay araştırmalarıyla ilgili kaynakları inceledim, bilgileri derledim ve etkinliği tamamladım."
+   },
+   {
+    "q": "Bu etkinlikte neler öğrendim?",
+    "a": "Uzay araştırmalarının amaçlarını, tarihçesini ve teknolojiye katkılarını öğrendim."
+   },
+   {
+    "q": "Bu etkinlikte başarılı olduğum bölümler hangileriydi?",
+    "a": "Araştırma yapma ve bilgileri düzenleme bölümleriydi."
+   },
+   {
+    "q": "Bu etkinlikte en çok zorlandığım bölümler hangileriydi?",
+    "a": "Güvenilir kaynak seçme ve bilgileri özetleme bölümleriydi."
+   },
+   {
+    "q": "Etkinliği gerçekleştirirken zorlandığım bölümlerde kendimi nasıl motive ettim?",
+    "a": "Konunun önemini hatırladım, işi küçük adımlara böldüm ve kendime süre koydum."
+   },
+   {
+    "q": "Bu etkinliği tekrar gerçekleştirseydim şu şekilde yapardım:",
+    "a": "Kaynakları önceden belirleyip daha planlı ve düzenli çalışırdım."
+   }
+  ],
+  "240": [
+   {
+    "q": "Tekrar kullanılabilir roketlerin geliştirilmesi uzay araştırmalarını nasıl etkileyebilir? Açıklayınız.",
+    "a": "Maliyetleri düşürerek uzaya erişimi kolaylaştırır; bilimsel çalışmaları artırır, atık ve çevresel zararı azaltır."
+   },
+   {
+    "q": "Uzaydaki araçlar için ortaya çıkan teknik sorunları gidermek neden zordur ve bu zorluklara ne tür çözümler düşünülebilir? Açıklayınız.",
+    "a": "Uzayda müdahale zor, riskli ve gecikmelidir. Uzaktan kumanda, otonom onarım, yedek sistemler, robotik bakım ve modüler tasarım çözüm olabilir."
+   }
+  ],
+  "241": [
+   {
+    "q": "Sıkıştırılmış toz içeceklere neden ihtiyaç duyulmuştur?",
+    "a": "Astronotların yerçekimsiz ortamda kolayca tüketebileceği; hafif, uzun süre bozulmadan saklanabilen ve az yer kaplayan gıda sağlamak için."
+   },
+   {
+    "q": "Tempur köpüğünden yapılan yastığa neden ihtiyaç duyulmuştur?",
+    "a": "Uzay aracındaki titreşim ve basınca karşı astronotlara konfor ve destek sağlamak; günlük hayatta da basıncı dağıtarak boyun ve omurga ağrılarını azaltmak için."
+   },
+   {
+    "q": "Bisiklet kaskına neden ihtiyaç duyulmuştur?",
+    "a": "Kaza anında başı darbelerden korumak için; uzay araçlarında kullanılan darbe emici köpüklerden yararlanılarak geliştirilmiştir."
+   },
+   {
+    "q": "Havadaki hastalık yapıcıları temizleyen sistemlere neden ihtiyaç duyulmuştur?",
+    "a": "Kapalı uzay ortamında temiz hava sağlayıp astronot sağlığını korumak için; bu filtreler günlük hayatta hastane ve kapalı alanlarda mikrop ve toz temizliğinde kullanılır."
+   }
+  ],
+  "242": [
+   {
+    "q": "2. Etkinlik öncesinde yaptığınız araştırmalardan elde ettiğiniz bilgileri sınıftaki diğer arkadaşlarınızla paylaşınız.",
+    "a": "Uzay teknolojilerinin günlük hayatta sağlık, güvenlik, iletişim ve ulaşımda kullanıldığını paylaşırım."
+   },
+   {
+    "q": "3. Diğer grupların sunumları sırasında size ilginç gelen teknolojileri not alınız.",
+    "a": "Tempur köpüğü, hava temizleme sistemi, ısı yalıtım malzemesi ve su arıtma sistemini not alırım."
+   },
+   {
+    "q": "4. Uzay çalışmalarının toplum yaşamında hangi alanları ne şekilde etkilediğini tartışınız.",
+    "a": "Sağlık, güvenlik, iletişim, ulaşım, gıda ve çevreyi etkiler; yeni malzeme ve teknolojilerle yaşamı kolaylaştırır."
+   },
+   {
+    "q": "5. Uzay çalışmaları sırasında geliştirilen teknolojilerin adını, Dünya’da ve uzayda kullanım amaçlarını, ortak özelliklerini tabloya yazınız; en sık tekrar eden ortak temayı “Kategori” sütununa yazınız.",
+    "a": "Tempur köpüğü: uzayda astronotu darbeden korur, Dünya’da yastık ve kaskta kullanılır; hava temizleme sistemi: uzayda kabin havasını, Dünya’da ortam havasını temizler; ısı yalıtımı: uzayda sıcaklığı korur, Dünya’da bina ve giysilerde kullanılır. Ortak özellik: güvenlik ve konfor sağlama. Kategori: Güvenlik/Konfor."
+   }
+  ],
+  "243": [
+   {
+    "q": "6. 5. maddedeki tabloda yer alan verilerden yararlanarak uzay çalışmalarının günlük yaşamınıza etkilerini ifade eden kapsayıcı bir genelleme cümlesi yazınız.",
+    "a": "Uzay araştırmaları için geliştirilen teknolojiler, sağlıktan iletişime ve ulaşıma kadar birçok alanda günlük yaşamı kolaylaştıran ürün ve yöntemlere dönüşmektedir."
+   },
+   {
+    "q": "7. Bilimsel bilginin insanların yaşamını iyileştirmedeki rolünü dikkate alarak uzay çalışmalarının günlük yaşam kalitesini nasıl artırdığını ve bu teknolojilerin neden önemli olduğunu ele alan kısa bir rapor hazırlayınız ve raporunuzu sınıftaki arkadaşlarınıza sununuz.",
+    "a": "Uzay çalışmaları, zorlu koşullar için geliştirilen malzeme, görüntüleme, haberleşme ve enerji teknolojilerinin günlük hayata uyarlanmasını sağlar. Tıbbi görüntüleme, uydu haberleşmesi, su arıtma ve dayanıklı malzemeler gibi ürünler sağlık, iletişim ve güvenlik alanlarında yaşam kalitesini yükseltir. Bu teknolojiler hayatı kolaylaştırdığı, erken teşhis ve hızlı iletişim gibi imkânlar sunduğu için önemlidir."
+   },
+   {
+    "q": "1. Eğer bir mühendis olsaydınız uzay çalışmaları için hangi alanda bir teknoloji geliştirmek isterdiniz ve bu teknoloji günlük hayatta hangi soruna çözüm olurdu?",
+    "a": "Su geri kazanım ve arıtma teknolojisi geliştirmek isterdim; bu teknoloji su kıtlığı yaşanan bölgelerde temiz su ihtiyacına çözüm olurdu."
+   },
+   {
+    "q": "2. Uzay çalışmalarında geliştirilip Dünya’da kullanılan bir teknolojinin hem uzay hem de Dünya için farklı şekilde işe yaramasının nedenleri neler olabilir? Açıklayınız.",
+    "a": "Uzayda hafiflik, sınırlı enerji, bakım zorluğu ve güvenilirlik ön plandayken Dünya’da maliyet, dayanıklılık, kullanım kolaylığı ve yaygınlık önemlidir. Bu nedenle aynı teknoloji farklı koşullara uyarlanarak değişik amaçlarla kullanılır."
+   },
+   {
+    "q": "3. Gelecekte uzay teknolojileri alanındaki hangi çalışmaların günlük hayata aktarılarak yaygınlaşacağını düşünüyorsunuz? Gerekçesiyle açıklayınız.",
+    "a": "Uydu interneti, yenilenebilir enerji, su arıtma ve uzaktan sağlık teknolojilerinin yaygınlaşacağını düşünüyorum; çünkü bunlar kırsal ve afet bölgelerinde de iletişim, enerji ve sağlık hizmetine erişimi kolaylaştırır."
+   },
+   {
+    "q": "4. Uzay çalışmaları olmasaydı bugün hayatınızda hangi teknolojiler olmazdı?",
+    "a": "Uydu haberleşmesi ve navigasyon, bazı tıbbi görüntüleme yöntemleri, hafızalı köpük ve ısı yalıtımlı malzemeler gibi günlük hayatta kullandığımız birçok teknoloji olmazdı."
+   }
+  ],
+  "246": [
+   {
+    "q": "Sayfada cevaplanması gereken soru veya etkinlik var mı?",
+    "a": "Hayır; sayfada yalnızca bilgilendirici metin, görsel açıklamaları ve video karekodu yer almaktadır."
+   }
+  ],
+  "247": [],
+  "248": [],
+  "250": [],
+  "251": [],
+  "258": [],
+  "259": [],
+  "260": [],
+  "261": [],
+  "265": [],
+  "267": [],
+  "268": [],
+  "272": [],
+  "273": []
 >>>>>>> Stashed changes
  }
 }
