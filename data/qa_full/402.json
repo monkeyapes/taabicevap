@@ -1,0 +1,429 @@
+{
+ "bookId": 402,
+ "done": false,
+ "pages": {
+  "3": [
+   {
+    "q": "Bu sayfada yanıtlanacak soru veya etkinlik var mı?",
+    "a": "Hayır. Verilen sayfa metni yalnızca Mehmet Âkif Ersoy'un İstiklal Marşı şiirini içeriyor; herhangi bir soru veya etkinlik yönergesi bulunmuyor."
+   }
+  ],
+  "12": [
+   {
+    "q": "Demokrasi hangi kavramla benzerdir ve neden?",
+    "a": "Demokrasi, bir takımın kurallarını birlikte belirlemesine benzer; çünkü herkes söz hakkına sahiptir ve kararlara ortaklaşa uyulur."
+   },
+   {
+    "q": "Demokrasi neye benzetilebilir ve neden?",
+    "a": "Demokrasi bir orkestra gibidir; çünkü farklı düşünceler uyum içinde ortak bir sonuç oluşturur."
+   },
+   {
+    "q": "Herkes her konuda özgür olmalı mıdır?",
+    "a": "Hayır; özgürlük sınırsız değildir, başkalarının hakları ve kamu düzeniyle sınırlanır."
+   },
+   {
+    "q": "Eşitlik ve adalet arasında nasıl bir ilişki vardır?",
+    "a": "Eşitlik herkese aynı hakları tanır; adalet ise bu hakların hakkaniyetle kullanılmasını sağlar."
+   },
+   {
+    "q": "Haklar hangi koşullarda sınırlandırılmalıdır?",
+    "a": "Başkalarının hakları, kamu güvenliği, sağlığı ve düzeni tehlikeye girdiğinde, kanunla ve ölçülü olarak sınırlandırılmalıdır."
+   },
+   {
+    "q": "Vatandaşın sorumlulukları nelerdir?",
+    "a": "Kanunlara uymak, vergi vermek, oy kullanmak, kamu malını korumak ve başkalarına saygı göstermektir."
+   },
+   {
+    "q": "Demokrasi nasıl işlemelidir?",
+    "a": "Seçim ve oylamayla, temsilciler aracılığıyla ve halkın kararlara katılımıyla işlemelidir."
+   },
+   {
+    "q": "Eşitlik anayasanızda nasıl yer almalıdır?",
+    "a": "Herkes kanun önünde eşittir; dil, din, ırk ve cinsiyet ayrımı yapılamaz."
+   },
+   {
+    "q": "Özgürlük anayasanızda nasıl yer almalıdır?",
+    "a": "Herkes temel hak ve özgürlüklere sahiptir; bu özgürlükler başkalarının haklarını ihlal etmeden kullanılır."
+   },
+   {
+    "q": "Adalet anayasanızda nasıl yer almalıdır?",
+    "a": "Herkes hakkı olanı alır; yargı bağımsız ve tarafsız çalışır."
+   },
+   {
+    "q": "Hak anayasanızda nasıl yer almalıdır?",
+    "a": "Yaşama, eğitim, sağlık, ifade ve seçme-seçilme gibi temel haklar güvence altına alınır."
+   },
+   {
+    "q": "Sorumluluk anayasanızda nasıl yer almalıdır?",
+    "a": "Vatandaşlar kanunlara uyar ve vergi gibi yükümlülüklerini yerine getirir."
+   },
+   {
+    "q": "Demokrasi anayasanızda nasıl yer almalıdır?",
+    "a": "Yönetim; seçim, oylama, temsil ve katılım yoluyla halkın iradesine dayanır."
+   },
+   {
+    "q": "Vatandaşlık anayasanızda nasıl yer almalıdır?",
+    "a": "Vatandaşlık, hak ve görevleri birlikte taşıyan hukuki ve toplumsal bağı ifade eder."
+   },
+   {
+    "q": "Kura sonucu bir kavram anayasadan çıkarılırsa hangi sorunlar ortaya çıkar?",
+    "a": "Eşitlik çıkarsa ayrımcılık, adalet çıkarsa haksızlık, özgürlük çıkarsa baskı, hak çıkarsa güvencesizlik, sorumluluk çıkarsa düzensizlik, demokrasi çıkarsa otoriter yönetim, vatandaşlık çıkarsa katılım ve aidiyet zayıflığı görülür."
+   }
+  ],
+  "13": [
+   {
+    "q": "Demokrasinin temel ilkeleri nelerdir?",
+    "a": "Halk egemenliği, seçme ve seçilme hakkı, hukukun üstünlüğü, çoğulculuk ve katılım, kuvvetler ayrılığı."
+   },
+   {
+    "q": "Halk egemenliği ilkesine günlük hayattan örnek nedir?",
+    "a": "Seçimlerde oy kullanarak ülkeyi yönetecek kişileri belirlemek."
+   },
+   {
+    "q": "Seçme ve seçilme hakkına günlük hayattan örnek nedir?",
+    "a": "Belirli yaşa gelen herkesin seçimde oy vermesi ve aday olabilmesi."
+   },
+   {
+    "q": "Hukukun üstünlüğü ilkesine günlük hayattan örnek nedir?",
+    "a": "Trafik kurallarına herkesin, makam sahibi olsa da uyması."
+   },
+   {
+    "q": "Çoğulculuk ve katılım ilkesine günlük hayattan örnek nedir?",
+    "a": "Farklı görüşlerin mecliste, sivil toplum kuruluşlarında ve oylamalarda temsil edilmesi."
+   },
+   {
+    "q": "Kuvvetler ayrılığı ilkesine günlük hayattan örnek nedir?",
+    "a": "Yasama, yürütme ve yargı görevlerinin birbirinden bağımsız organlarca yürütülmesi."
+   }
+  ],
+  "14": [
+   {
+    "q": "Adalet kavramının tanımı ve demokrasi açısından önemi nedir?",
+    "a": "Tanım: Herkese hakkını verme, haklara uygun davranma. Önemi: Demokraside bireyler arası dengeyi ve güveni sağlar, haksızlıkları önler."
+   },
+   {
+    "q": "Anayasa kavramının tanımı ve demokrasi açısından önemi nedir?",
+    "a": "Tanım: Devletin temel yapısını, organlarını ve birey haklarını düzenleyen en üst hukuk kuralları. Önemi: Devlet iktidarını sınırlar, hak ve özgürlükleri güvence altına alır."
+   },
+   {
+    "q": "Egemenlik kavramının tanımı ve demokrasi açısından önemi nedir?",
+    "a": "Tanım: Devlet gücünü kullanma yetkisi. Önemi: Demokraside egemenlik millete aittir; yönetim halkın iradesine dayanır."
+   },
+   {
+    "q": "Eşitlik kavramının tanımı ve demokrasi açısından önemi nedir?",
+    "a": "Tanım: Bireylerin hak ve fırsatlarda ayrım gözetilmeksizin aynı konumda olması. Önemi: Herkesin yönetime ve haklara eşit katılımını sağlar."
+   },
+   {
+    "q": "Hak kavramının tanımı ve demokrasi açısından önemi nedir?",
+    "a": "Tanım: Bireyin hukuken sahip olduğu ve korunan yetkiler. Önemi: Bireyi devlete karşı korur, katılım ve özgürlüklerin temelini oluşturur."
+   },
+   {
+    "q": "Hesap verebilirlik kavramının tanımı ve demokrasi açısından önemi nedir?",
+    "a": "Tanım: Yöneticilerin yaptıkları işlerden ilgililere karşı sorumlu tutulması. Önemi: İktidarın denetlenmesini sağlar, keyfî yönetimi önler."
+   },
+   {
+    "q": "Hukukun üstünlüğü kavramının tanımı ve demokrasi açısından önemi nedir?",
+    "a": "Tanım: Devlet ve bireylerin hukuk kurallarına bağlı olması. Önemi: İktidarın hukukla sınırlanmasını, hakların korunmasını sağlar."
+   },
+   {
+    "q": "İnsan onuru kavramının tanımı ve demokrasi açısından önemi nedir?",
+    "a": "Tanım: İnsanın yalnızca insan olmasından doğan değeri ve saygınlığı. Önemi: Temel hakların kaynağıdır; bireyin araç değil amaç olmasını sağlar."
+   },
+   {
+    "q": "Kuvvetler ayrılığı kavramının tanımı ve demokrasi açısından önemi nedir?",
+    "a": "Tanım: Yasama, yürütme ve yargı yetkilerinin ayrı organlara verilmesi. Önemi: İktidarın yoğunlaşmasını ve keyfîliği önler, denge sağlar."
+   },
+   {
+    "q": "Şeffaflık kavramının tanımı ve demokrasi açısından önemi nedir?",
+    "a": "Tanım: Yönetim faaliyetlerinin ve kararların açık, denetlenebilir olması. Önemi: Halkın bilgilenmesini ve denetimini sağlar, güveni artırır."
+   },
+   {
+    "q": "Özgürlük kavramının tanımı ve demokrasi açısından önemi nedir?",
+    "a": "Tanım: Bireyin başkalarına zarar vermeden düşünme, ifade etme ve davranma serbestliği. Önemi: Demokrasinin varlık koşuludur; katılım ve çoğulculuğu mümkün kılar."
+   }
+  ],
+  "15": [
+   {
+    "q": "Antik Çağ Atina şehir devletinde vatandaşların yönetime doğrudan katılmasının toplumsal yaşama etkileri neler olabilir? Açıklayınız.",
+    "a": "Siyasal katılım ve sorumluluk artar; ortak tartışma, uzlaşma ve dayanışma güçlenir; kararlar halk tarafından benimsenir. Ancak kadınlar, köleler ve metekler dışlandığı için katılım eşit değildir."
+   },
+   {
+    "q": "Antik Çağ Atina şehir devletinde uygulanan doğrudan demokrasi ile günümüzde birçok ülkede uygulanan temsilî demokrasi arasındaki farkı gösteren iki cümle yazınız.",
+    "a": "Atina'da yurttaşlar kararları agora'da bizzat tartışıp oylarken temsilî demokraside halk, seçtiği temsilciler aracılığıyla yönetime katılır. Doğrudan demokraside egemenlik doğrudan halk tarafından kullanılır; temsilî demokraside ise halk egemenliğini temsilciler eliyle kullanır."
+   }
+  ],
+  "16": [
+   {
+    "q": "Antik Çağ Atina şehir devletinde vatandaşların yönetime doğrudan katılmasının toplumsal yaşama etkileri neler olabilir? Açıklayınız.",
+    "a": "Siyasi sorumluluk ve aidiyet duygusunu güçlendirir, toplumsal dayanışmayı artırır; ancak kadın, köle ve yabancıların dışlanması ve karar süreçlerinin yavaşlaması gibi olumsuz etkiler de doğurabilir."
+   },
+   {
+    "q": "Antik Çağ Atina şehir devletinde uygulanan doğrudan demokrasi ile günümüzde birçok ülkede uygulanan temsilî demokrasi arasındaki farkı gösteren iki cümle yazınız.",
+    "a": "Doğrudan demokraside halk egemenlik yetkisini aracısız kullanırken temsilî demokraside bu yetki seçilen temsilciler aracılığıyla kullanılır. Atina'da yurttaşlar halk meclisine bizzat katılıp karar alırken günümüzde temsilciler halk adına karar verir."
+   }
+  ],
+  "17": [
+   {
+    "q": "Kurultayın hangi özellikleri demokratik nitelik taşımaktadır?",
+    "a": "Danışma meclisi olması, devlet meselelerinin karşılıklı görüşülüp ortak karara bağlanması, yönetime katılım ve dayanışmayı esas alması, hükümdarın tek başına karar verememesi, hatunun yönetime katılması ve meclisin hükümdarın tekliflerini reddedebilmesi."
+   }
+  ],
+  "18": [
+   {
+    "q": "Magna Carta'da hukukun üstünlüğünü öne çıkaran anlayış hangisidir? Açıklayınız.",
+    "a": "Kralın keyfî iradesi yerine hukuk normlarının üstünlüğü esas alınmıştır; kral da dâhil kimse yasal yargılama olmadan tutuklanamaz, cezalandırılamaz veya haklarından yoksun bırakılamaz."
+   }
+  ],
+  "19": [
+   {
+    "q": "Fransız İhtilali'nin getirdiği yeniliklerin toplumsal yaşama etkilerini açıklayınız.",
+    "a": "Feodal sınıf ayrıcalıkları kaldırıldı, kanun önünde eşitlik sağlandı; birey hakları yasal güvenceye alındı, din-devlet ayrılığı ve dini hoşgörü benimsendi, halk egemenliğine dayalı temsili yönetim güçlendi."
+   }
+  ],
+  "20": [
+   {
+    "q": "Sened-i İttifak ile ilgili metin ve kaynaktan yararlanarak etkinliği yapınız.",
+    "a": "Sened-i İttifak, 1808'de II. Mahmut Dönemi'nde Sadrazam Alemdar Mustafa Paşa başkanlığında devlet görevlileri ile âyanlar arasında hazırlanmıştır. İlk dört maddede padişahın mutlak otoritesi tasdik edilmiş, sonraki maddelerde âyanların yönetim bölgelerinin dokunulmazlığı ve haklarının babadan oğula geçmesi güvence altına alınmıştır."
+   },
+   {
+    "q": "Uygulama adımlarını takip ederek \"Zıt Panel\" etkinliğini yapınız.",
+    "a": "Soru ve cevap grupları oluşturulur; Sened-i İttifak'ın demokratikleşmeye etkisi soru-cevap yöntemiyle tartışılır, ardından roller değiştirilerek süreç tekrarlanır."
+   },
+   {
+    "q": "Neden Sened-i İttifak imzalanmıştır?",
+    "a": "Taşrada güçlenen âyanlarla merkezî yönetim arasındaki anlaşmazlık ve çatışmalar merkezî otoriteyi sarsmıştı; âyanlarla uzlaşarak devlet nüfuzunu tüm ülkede hâkim kılmak amacıyla imzalanmıştır."
+   },
+   {
+    "q": "Sened-i İttifak padişahın yetkilerini nasıl etkilemiştir?",
+    "a": "İlk dört maddede mutlak otorite tasdik edilse de sonraki maddelerle padişahın yetkileri belirli ölçülerde sınırlandırılmış; vergilerin padişahın vükelası ile hanedanlar arasında müzakereyle kararlaştırılması öngörülmüştür."
+   },
+   {
+    "q": "Bu belgeyle Osmanlı Devleti'nde ilk kez ne yaşanmıştır?",
+    "a": "Padişahın yetkileri ilk kez bir belgeyle sınırlandırılmış ve padişah kendi tuğrasıyla bu belgeye bağlanmıştır; merkezî otorite âyanlarla uzlaşma yoluna gitmiştir."
+   },
+   {
+    "q": "Sened-i İttifak'ın demokratikleşme açısından önemini kısa bir rapor hâline getirerek arkadaşlarınızla paylaşınız.",
+    "a": "Sened-i İttifak, padişahın yetkilerini sınırlayan ve âyanlarla merkezî yönetim arasında uzlaşı sağlayan ilk belge olması bakımından demokratikleşme yolunda önemli bir adımdır; ancak Alemdar Mustafa Paşa ve âyan ileri gelenlerinin siyasi süreçten çekilmesiyle uzun süre yürürlükte kalamamıştır."
+   }
+  ],
+  "21": [
+   {
+    "q": "Tanzimat Fermanı’nda yer alan \"padişahın da ilan edilen kurallara uyacağına dair yemin etmesi\" ifadesini, Osmanlı Devleti’ndeki mutlak otorite anlayışının değişimi ve hukuk devletine geçiş süreci açısından açıklayınız.",
+    "a": "Padişahın kendi ilan ettiği kurallara uyacağını yeminle taahhüt etmesi, sınırsız mutlak otoritesinin ilk kez kendi iradesiyle sınırlandırılmasıdır; böylece yönetim keyfîlikten çıkarılıp hukuka bağlanmış, padişah da kanun karşısında sorumlu sayılarak hukuk devletine ve anayasal yönetime geçiş yolunda önemli bir adım atılmıştır."
+   }
+  ],
+  "22": [
+   {
+    "q": "Islahat Fermanı'nın Osmanlı Devleti'nde demokratikleşme hareketlerine etkisini tartışınız.",
+    "a": "Temel hak ve özgürlükleri genişletmiş; eşitlik, din-vicdan özgürlüğü, açık yargılama, işkencenin kaldırılması ve temsil haklarıyla demokratikleşmeyi ilerletmiştir; ancak uygulamada sınırlı kalmıştır."
+   }
+  ],
+  "23": [
+   {
+    "q": "1876 Kanun-ı Esasi ile kurulan Meclis-i Umûmi'nin Osmanlı yönetim sisteminde oluşturduğu değişimi açıklayınız.",
+    "a": "Padişahın yanında halkın seçtiği Mebusan Meclisi yönetime ortak olmuş, halk ilk kez genel seçimlere katılmış ve meşrutiyet (anayasal-parlamenter) yönetime geçilerek demokratikleşme yolunda önemli bir adım atılmıştır."
+   }
+  ],
+  "27": [
+   {
+    "q": "Uygulayalım: Özel gereksinimli bireylerin başarı hikâyelerini ön plana çıkaran video çekimi nasıl gerçekleştirilebilir?",
+    "a": "Bireylerin izniyle; onları zayıf yönleriyle damgalamadan, azim ve başarılarına odaklanan, empati ve farkındalık oluşturan, erişilebilir bir dille."
+   },
+   {
+    "q": "Örnek olaylardan yola çıkarak özgürlükleri kullanırken insan onurunu korumanın, bireysel hak ve özgürlükleri dikkate almanın gerekliliği nedir?",
+    "a": "Özgürlük başkalarının hakları ve onuruyla sınırlıdır; izin almak, empati kurmak ve saygı göstermek gerekir. İzinsiz paylaşım ve lakap takma kişiyi incitir."
+   },
+   {
+    "q": "Aşağıda verilenlerin demokrasinin tarihsel gelişimine etkilerini “halk iradesi” ve “temel özgürlükler” açısından karşılaştıran tabloyu hazırlayıp arkadaşlarınızla paylaşınız.",
+    "a": ""
+   }
+  ],
+  "28": [
+   {
+    "q": "1. Gazete haberinde \"Başka yerde zorla alınan bu hakkı, bizde hükûmet veriyor.\" sözüyle anlatılmak istenen nedir?",
+    "a": "Başka ülkelerde kadınların bu hakkı mücadele ve zorla kazandığı, Türkiye'de ise hükûmetin/Atatürk'ün bu hakkı kendiliğinden verdiği anlatılmak istenmiştir."
+   },
+   {
+    "q": "2. Kadınlara tanınan milletvekili seçme ve seçilme hakkının insan ve toplum yaşamına etkilerini değerlendiriniz.",
+    "a": "Kadınların siyasete katılımını artırmış, toplumsal cinsiyet eşitliğini güçlendirmiş, demokrasiyi genişletmiş ve kadınların toplumda etkin bireyler olmasını sağlamıştır."
+   },
+   {
+    "q": "3.1 (....) Hukukun üstünlüğü ilkesi, keyfî karar alımına kısmi sınırlama getirmektedir.",
+    "a": "Y — Doğrusu: Hukukun üstünlüğü ilkesi, keyfî karar alımına tam/kesin sınırlama getirmektedir."
+   },
+   {
+    "q": "3.2 (....) Kuvvetler ayrılığı ilkesi yalnızca devlet kurumlarının işleyişini etkilemektedir.",
+    "a": "Y — Doğrusu: Kuvvetler ayrılığı ilkesi bireylerin hak ve özgürlüklerini de etkilemektedir."
+   },
+   {
+    "q": "3.3 (....) Halk egemenliği ilkesi bireyin hakkı olan özgür bir vatandaş olmasını sağlamaktadır.",
+    "a": "D"
+   },
+   {
+    "q": "3.4 (....) Doğrudan demokraside halk, seçtiği temsilciler aracılığıyla yönetimde söz sahibi olabilmektedir.",
+    "a": "Y — Doğrusu: Temsili demokraside halk, seçtiği temsilciler aracılığıyla yönetimde söz sahibi olabilmektedir."
+   },
+   {
+    "q": "4. Fransız İhtilali'nin insan ve toplum yaşamına etkileri ile ilgili yanlış ifade hangisidir?",
+    "a": "E) Köylülerin tüm vergi yükümlülükleri kaldırılmıştır."
+   }
+  ],
+  "29": [],
+  "30": [
+   {
+    "q": "Yukarıdaki zihin haritasında boş bırakılan alanlara insan hak ve özgürlükleri ile ilgili aklınıza gelen ifadeleri yazınız.",
+    "a": "Yaşama hakkı, eğitim hakkı, eşitlik, özgürlük, adalet, ifade özgürlüğü, din ve vicdan özgürlüğü, mülkiyet hakkı, seçme ve seçilme hakkı, seyahat özgürlüğü."
+   },
+   {
+    "q": "Zihin haritasını inceleyerek soruyu cevaplayınız.",
+    "a": "İnsan hak ve özgürlükleri; Magna Carta, Fransız İhtilali ve İnsan Hakları Evrensel Beyannamesi gibi gelişmelerle tarihsel süreçte genişleyerek bugünkü hâlini almıştır."
+   },
+   {
+    "q": "Verilen yönergeler doğrultusunda aşağıdaki etkinlikleri yapınız.",
+    "a": "İnsan hak ve özgürlüklerine örnekler yazılarak zihin haritasındaki boş alanlar tamamlanır."
+   }
+  ],
+  "31": [
+   {
+    "q": "Demokrasi ve insan hakları ile ilgili verilen sözlerden yararlanarak etkinliği yapınız.",
+    "a": "Atatürk evrensel barış ve ortak refahı, Roosevelt hakların günlük yaşamda başladığını, Locke özgürlük-eşitlik ve rıza ile yönetimi, İkbal ise demokraside insanların eşit sayıldığını vurgular."
+   },
+   {
+    "q": "Yukarıdaki sözlerden hareketle demokrasi ve insan hakları arasındaki ilişkiye dair beyin fırtınası yapınız.",
+    "a": "Demokrasi insan haklarını korur; insan hakları demokrasiyi besler. Özgürlük, eşitlik, katılım ve ortak iyilik ikisinin ortak temelidir."
+   }
+  ],
+  "34": [
+   {
+    "q": "Ne?",
+    "a": "İnsan hak ve özgürlüklerinin tarihsel süreçteki değişimi."
+   },
+   {
+    "q": "Neden?",
+    "a": "Baskı, eşitsizlik ve keyfî yönetimin hak ihlallerine yol açması."
+   },
+   {
+    "q": "Nasıl?",
+    "a": "Magna Carta, Bill of Rights ve Fransız İnsan Hakları Bildirisi gibi belgeler ve devrimlerle."
+   },
+   {
+    "q": "Nerede?",
+    "a": "Başta İngiltere, ABD ve Fransa olmak üzere Avrupa ve Kuzey Amerika'da."
+   },
+   {
+    "q": "Ne zaman?",
+    "a": "Eski Çağ'dan Yakın Çağ'a; özellikle 1215, 1689, 1776 ve 1789'da."
+   },
+   {
+    "q": "Kim?",
+    "a": "Hükümdarlar, soylular, düşünürler ve halk hareketleri."
+   }
+  ],
+  "35": [
+   {
+    "q": "Sahip olduğunuz temel haklar hakkında ne düşünüyorsunuz?",
+    "a": "Doğuştan, evrensel ve vazgeçilemez olduklarını; herkesin bunlardan eşit yararlanması gerektiğini düşünüyorum."
+   },
+   {
+    "q": "Bu hakların ihlal edildiği bir durumda hangi yolları izlersiniz?",
+    "a": "İlgili kurumlara dilekçe/şikâyetle başvurur, hukuki yolları kullanır, gerekirse AİHM’e giderim."
+   }
+  ],
+  "36": [
+   {
+    "q": "Sümer Kanunları'nın yazılı hâle getirilerek suç ve cezanın önceden belirlenmesinin insan hakları düşüncesinin gelişimindeki etkileri neler olabilir? Açıklayınız.",
+    "a": "Suç ve cezanın önceden bilinmesi keyfî cezalandırmayı önleyip hukuk güvenliği sağladı; bireylerin can, mal ve özgürlüklerini korudu, eşitlik ve adalet ilkelerinin yerleşmesine katkıda bulundu ve insan haklarının hukuk yoluyla korunmasının temelini attı."
+   }
+  ],
+  "37": [
+   {
+    "q": "Babil Kanunları'nın birey ve toplum hayatında nasıl bir yenilik getirdiği savunulabilir? Açıklayınız.",
+    "a": "Önceki kanunlarla örf ve âdet kurallarını yeni toplumsal ihtiyaçlara göre birleştirerek yazılı ve kapsamlı bir hukuk düzeni oluşturdu; bireysel mülkiyeti saray mülkiyetiyle eşit düzeyde korudu, kamu güvenliği ve toplumsal refahı sağlayacak kurallar getirdi ve adaleti tesis etti."
+   },
+   {
+    "q": "Babil Kanunları ile ilgili metin ve kaynaklardan yararlanarak soruyu cevaplayınız.",
+    "a": "Kaynak Ç'de kanunların mahkeme, hırsızlık, arazi, ticaret, evlilik-aile-mülkiyet, kısas, ziraat ve esirler gibi geniş konuları düzenlediği; Kaynak D'de Hammurabi'nin adaleti tanrı Şamas'ın emriyle tesis ettiğini belirttiği görülür. Böylece Babil Kanunları toplum hayatını düzenleyen, mülkiyeti ve kamu düzenini koruyan yenilikçi bir hukuk sistemi getirmiştir."
+   }
+  ],
+  "38": [
+   {
+    "q": "Kyros'un silindirinde ele alınan temel konular günümüz insan hakları anlayışıyla hangi yönlerden benzerlik göstermektedir? Yazınız.",
+    "a": "Din ve inanç özgürlüğü, ibadet yerlerinin korunması, ağır vergilerin kaldırılması, sürgünlerin yurtlarına dönmesi, kültürel yaşam özgürlüğü ve barış-adalet-güvenlik ilkeleri bakımından günümüz insan hakları anlayışıyla benzerlik gösterir."
+   }
+  ],
+  "39": [
+   {
+    "q": "On İki Levha Kanunları'nın herkes tarafından görülebilecek şekilde sergilenmesi hukuk devleti anlayışına nasıl katkıda bulunmuştur?",
+    "a": "Yasaların halka açık ve okunabilir olması hukukta şeffaflık, eşitlik ve hukuki güvenlik sağlamış; keyfî yönetimi sınırlandırarak hukuk devleti anlayışının gelişmesine katkıda bulunmuştur."
+   }
+  ],
+  "40": [
+   {
+    "q": "Medine Sözleşmesi'nin amacı ve temel özelliği nedir?",
+    "a": "Toplumsal dayanışmayı sağlamak, farklı toplulukların hak ve yükümlülüklerini baskı olmadan belirlemektir; tek kimlik dayatmayan, katılımcı ve demokratik bir birlikte yaşama projesidir."
+   },
+   {
+    "q": "Medine Sözleşmesi din ve hukuk özgürlüğünü nasıl sağlamıştır?",
+    "a": "Her topluluğun kendi dinini yaşamasına izin vermiş, inanç sahiplerinin istedikleri hukuk sistemiyle yargılanmasına olanak tanımıştır."
+   }
+  ],
+  "41": [
+   {
+    "q": "Veda Hutbesi'nin insan haklarına ve toplumsal yaşama getirdiği düzenlemeler nelerdir?",
+    "a": "İnsanların eşitliği ve ayrımcılığın yasaklanması, can-mal-namus dokunulmazlığı, kadın haklarının korunması, kan davalarının kaldırılması, bireysel sorumluluk, miras hakkının güvenceye alınması, kardeşlik ve zulmün yasaklanmasıdır."
+   },
+   {
+    "q": "Veda Hutbesi'ni kişiler arası iletişim açısından değerlendirerek günümüzde bireylerin bu mesajlardan nasıl yararlanabileceğini açıklayınız.",
+    "a": "Hitabı tüm insanlığa yönelik, eşitlikçi ve saygılı bir dille kurması örnek alınabilir; bireyler önyargısız ve empatik iletişim kurma, karşısındakini eşit görme, kadın haklarına saygı gösterme, ayrımcılık ve şiddetten kaçınma ile sorumluluk almada bu mesajlardan yararlanabilir."
+   }
+  ],
+  "42": [
+   {
+    "q": "Kudüs Emannamesi, Medine Sözleşmesi ve Veda Hutbesi'nde yer alan ortak değerler nelerdir?",
+    "a": "Can ve mal güvenliği, din ve ibadet özgürlüğü, adalet, eşitlik, hoşgörü, antlaşmaya bağlılık ve farklı inançlara saygı."
+   }
+  ],
+  "43": [
+   {
+    "q": "Fatih Sultan Mehmet'in Bosna Fermanı ile ilgili metin ve kaynaklardan yararlanarak fermanın insan hakları açısından önemini açıklayınız.",
+    "a": "Ferman, farklı din ve mezhepteki insanlara özgürlük ve hoşgörü tanımış; Fransız İnsan ve Yurttaş Hakları Bildirgesi'nden 326, İnsan Hakları Evrensel Bildirgesi'nden 485 yıl önce yayımlandığı için insan hakları alanında öncü bir belge sayılmıştır."
+   }
+  ],
+  "44": [
+   {
+    "q": "Bosna Fermanı'nın temel mesajını tek bir cümle ile söylemeniz gerekseydi bunu nasıl ifade ederdiniz?",
+    "a": "Bosnalı Fransiskenlerin can, mal ve kiliselerinin padişah fermanıyla güvence altına alındığı ve özgürce yaşayabilecekleri ilan edilmiştir."
+   },
+   {
+    "q": "Yandaki karekod üzerinden uygulama adımlarını takip ederek \"Bir Dakika\" etkinliğini yapınız.",
+    "a": "Karekod ve uygulama adımları sayfa metninde yer almadığından etkinlik bu metne göre yapılamaz."
+   }
+  ],
+  "45": [
+   {
+    "q": "Amerikan Bağımsızlık Bildirgesi'nin demokrasinin gelişimine katkıları neler olabilir?",
+    "a": "İnsanların eşit ve doğal haklara (yaşam, özgürlük, mutluluk arayışı) sahip olduğunu, yönetimin halkın rızasına dayandığını ve adaletsiz yönetimi değiştirme hakkını ilan ederek halk egemenliği, temsil ve insan hakları düşüncesini güçlendirmiş; ABD'de anayasal demokratik cumhuriyetin kurulmasına zemin hazırlamış, Fransız İhtilali ve Haiti Devrimi gibi hareketlere ilham vermiştir."
+   }
+  ],
+  "46": [],
+  "47": [],
+  "48": [],
+  "49": [],
+  "50": [],
+  "51": [],
+  "52": [],
+  "53": [],
+  "54": [],
+  "56": [],
+  "57": [],
+  "59": [],
+  "60": [],
+  "61": [],
+  "62": [],
+  "64": [],
+  "66": [],
+  "68": [],
+  "69": [],
+  "70": []
+ }
+}

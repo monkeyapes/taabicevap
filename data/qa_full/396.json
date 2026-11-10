@@ -1,6 +1,6 @@
 {
  "bookId": 396,
- "done": false,
+ "done": true,
  "pages": {
   "3": [],
   "10": [],
@@ -155,6 +155,242 @@
   "251": [],
   "258": [],
   "259": [],
-  "260": []
+  "260": [],
+  "261": [
+   {
+    "q": "5. Elde ettiğiniz bilgileri değerlendirip düzenleyerek sınıf arkadaşlarınıza grup sözcüsü aracılığıyla sununuz.",
+    "a": "Bilgiler konulara göre düzenlenip özetlenir; grup sözcüsü sınıfa sunar."
+   },
+   {
+    "q": "6. SETİ Projesi ve öte gezegen çalışmaları hakkında tartışıp Dünya dışı yaşam olasılığına dair çıkarım yapınız.",
+    "a": "SETİ radyo sinyalleri arar, öte gezegenlerde yaşanabilir bölgeler araştırılır. Dünya dışı yaşam olasıdır ancak henüz kanıt yoktur."
+   },
+   {
+    "q": "7. Çıkarımlarınızı sanal panoya ya da bülten panosuna kısa açıklamalar hâlinde yazınız.",
+    "a": "Çıkarımlar kısa notlar hâlinde panoya yazılır; örnek: \"Su ve uygun sıcaklık varsa yaşam olabilir.\""
+   },
+   {
+    "q": "Neleri yeni öğrendim?",
+    "a": "SETİ projesini, öte gezegenleri ve Dünya dışı yaşam arama yöntemlerini öğrendim."
+   },
+   {
+    "q": "Öğrendiklerimi başka yerlerde veya durumlarda nasıl kullanabilirim?",
+    "a": "Bilimsel araştırma ve eleştirel düşünme becerilerini derslerde ve günlük hayatta kullanabilirim."
+   },
+   {
+    "q": "Öğrendiklerimden yola çıkarak neleri merak ettim?",
+    "a": "Evrende başka akıllı canlıların olup olmadığını ve onlarla iletişim kurulup kurulamayacağını merak ettim."
+   },
+   {
+    "q": "Öğrendiklerim arasında benim için en önemli olan hangisiydi?",
+    "a": "Öte gezegenlerde yaşanabilir ortamların araştırılmasıydı."
+   },
+   {
+    "q": "Öğrendiklerim arasında hangi kısımları anlamakta zorlandım?",
+    "a": "Radyo sinyallerinin analizini ve öte gezegen tespit yöntemlerini anlamakta zorlandım."
+   }
+  ],
+  "265": [
+   {
+    "q": "Bu sayfada yanıtlanacak soru veya etkinlik var mı?",
+    "a": "Hayır; sayfa yalnızca Gliese 12 b, Europa ve Titan hakkında bilgilendirici metin ve görseller içeriyor."
+   }
+  ],
+  "267": [
+   {
+    "q": "Sayfada yanıtlanacak soru veya etkinlik var mı?",
+    "a": "Hayır; sayfa yalnızca Drake Denklemi hakkında bilgilendirici bir metin içeriyor, soru ya da etkinlik bulunmuyor."
+   }
+  ],
+  "268": [
+   {
+    "q": "1. Güneş sisteminde ya da diğer yıldız sistemlerinde yaşayan zeki varlıklara dair kanıt bulunabilir mi?",
+    "a": "Evet"
+   },
+   {
+    "q": "2. Yaşanabilir başka gezegen, uydu gibi gök cisimleri bulunabilir mi?",
+    "a": "Hayır"
+   },
+   {
+    "q": "3. Evrende yaşayan olası varlıklarla iletişim kurulabilir mi?",
+    "a": "Evet"
+   },
+   {
+    "q": "4. Evrendeki yıldızların oluşumları incelenirken Dünya'nın oluşumu hakkında da bilgi edinilebilir mi?",
+    "a": "Hayır"
+   },
+   {
+    "q": "A Tablosu A — Dünya'nın su döngüsüne benzer sıvı döngüsüne sahip olup canlı yaşamı barındırabileceği düşünülen gök cismi",
+    "a": "5 - Titan"
+   },
+   {
+    "q": "A Tablosu B — NASA öncülüğünde Ay'da kalıcı yapılar inşa etme ve Ay'a yerleşme projesi",
+    "a": "3 - ARTEMİS"
+   },
+   {
+    "q": "A Tablosu C — 2018'de fırlatılan, gökyüzünü tarayarak öte gezegenleri tespit eden uzay teleskobu",
+    "a": "6 - TESS"
+   },
+   {
+    "q": "A Tablosu Ç — Dünya dışı uygarlıklardan gelen mesajları saptayıp iletişime geçmeyi amaçlayan uluslararası proje",
+    "a": "1 - SETI"
+   },
+   {
+    "q": "A Tablosu D — Dünya'ya benzeyen, yüzey sıcaklığı yaşanabilir düzeyde olan ve en yakın öte gezegen",
+    "a": "4 - Gliese 12 b"
+   }
+  ],
+  "272": [
+   {
+    "q": "Çin’in uzay alanındaki gelişimi, küresel uzay çalışmalarını nasıl etkileyebilir? Açıklayınız.",
+    "a": "Rekabeti ve iş birliğini artırır; fırlatma maliyetlerini düşürüp teknolojiyi hızlandırır, Ay ve Mars görevlerine katkı sağlar; ancak uzayda güç yarışını da derinleştirebilir."
+   },
+   {
+    "q": "Özel şirketlerin uzay faaliyetlerine katılması bilimsel çalışmaları nasıl etkileyebilir? Gerekçelendirerek açıklayınız.",
+    "a": "Fon ve rekabeti artırarak maliyetleri düşürür, daha çok uydu ve veri üretip keşfi hızlandırır; ancak kâr odaklılık temel bilimsel araştırmaları ve veri paylaşımını sınırlayabilir."
+   },
+   {
+    "q": "Ece ve Kerem’in görüşlerini karşılaştırarak değerlendiriniz. Sizce hangisinin görüşü daha geçerlidir? Bu görüşleri bilimsel, teknolojik ve toplumsal açılardan değerlendirerek gerekçenizi yazınız.",
+    "a": "Kerem’in görüşü daha geçerlidir; uzay çalışmaları uydu, tıp ve malzeme teknolojileriyle günlük hayata katkı sağlar, iklim ve kaynak sorunlarına çözüm üretir; Ece’nin acil sorunlar önceliği haklı olsa da bunları uzay araştırmalarına karşıt görmek yanlıştır, ikisi birlikte yürütülmelidir."
+   }
+  ],
+  "273": [
+   {
+    "q": "Bu görevde geliştirilen yön bulma ve sensör teknolojileri bugün hangi alanlarda kullanılabilir? Bu teknolojilerin yaşamımıza etkileri nelerdir?",
+    "a": "GPS/navigasyon, otonom araçlar, robotik, havacılık, tıbbi görüntüleme ve savunmada kullanılabilir; güvenli ulaşım, hassas konum bulma ve çarpışmadan kaçınma gibi kolaylıklar sağlar."
+   },
+   {
+    "q": "Aşağıdakilerden hangisi uzay çalışmalarının temel amaçları arasında yer almaz?",
+    "a": "D) Dünya’nın manyetik alanını güçlendirmek"
+   },
+   {
+    "q": "Uzay araştırmalarıyla ilgili aşağıdaki yorumlardan hangisi en doğru çıkarım olur?",
+    "a": "D) İnsan hayatına doğrudan etki eden uygulamalar geliştirir."
+   },
+   {
+    "q": "6. soru",
+    "a": "Sayfada soru metni ve seçenekler eksik olduğu için cevaplanamaz."
+   }
+  ],
+  "274": [
+   {
+    "q": "Uzay görevlerini sağladıkları katkılarla eşleştiriniz.",
+    "a": "1-A, 2-C, 3-D, 4-Ç, 5-B (E kullanılmaz.)"
+   },
+   {
+    "q": "James Webb gibi bir teleskobun yeryüzü yerine uzayda konumlandırılmasının sebebi ne olabilir?",
+    "a": "Atmosfer kızılötesi ışınları soğurur; ışık kirliliği, hava olayları ve ısı etkisi olmadan zayıf sinyaller daha net algılanır."
+   },
+   {
+    "q": "Mars’a insan yerine sondaların gönderilmesini görev süresi ve araştırma hedefleri açısından insanlı görevlerle karşılaştırarak değerlendiriniz.",
+    "a": "Sondalar yaşam desteği ve dönüş gerektirmeden yıllarca çalışıp geniş alanı güvenli ve düşük maliyetle araştırır; insanlı görevler daha esnek ama daha kısa süreli, riskli ve pahalıdır."
+   },
+   {
+    "q": "9. soru",
+    "a": "Sayfa metninde 9. sorunun içeriği bulunmuyor."
+   }
+  ],
+  "275": [
+   {
+    "q": "Metinde tanımlanan uzay atıklarının gelecekteki uzay görevleri için oluşturabileceği riskler nelerdir ve bu soruna bilimsel/teknolojik çözüm öneriniz nedir?",
+    "a": "Çarpışma, görev kaybı, astronot güvenliği ve yeni atık oluşumu riski vardır. Aktif atık toplama, lazerle yörünge dışına itme, daha iyi takip ve görev sonunda yörüngeden çıkma tasarımı önerilebilir."
+   },
+   {
+    "q": "10. Saturn V roketinin kademeli olarak tasarlanmasının ana nedeni nedir?",
+    "a": "Yakıtı biten alt kademeleri atarak ağırlığı azaltmak ve kalan yakıtla aracı daha verimli şekilde uzaya taşımak."
+   },
+   {
+    "q": "11. Yukarıdaki metinde bahsedilen görevler hangi tür uyduyla gerçekleştirilmiştir?",
+    "a": "A) Gözlem uydusu"
+   }
+  ],
+  "276": [
+   {
+    "q": "13. Metinde özellikleri tanıtılan uzay aracı aşağıdakilerden hangisi olabilir?",
+    "a": "C) Challenger uzay mekiği"
+   },
+   {
+    "q": "14. TÜRKSAT uyduları hangi türden uydulara örnektir?",
+    "a": "C) Haberleşme uydusu"
+   },
+   {
+    "q": "15. Metinde özellikleri anlatılan GPS uyduları hangi türden uydulardır?",
+    "a": "D) Yolbul (navigasyon) uyduları"
+   },
+   {
+    "q": "16. Voyager 1 hangi uzay görev aracı türünün örneğidir?",
+    "a": "E) Uzay sondası"
+   }
+  ],
+  "277": [
+   {
+    "q": "Bu battaniyelerin hangi farklı alanlarda kullanılabileceğini ve topluma nasıl bir fayda sağlayabileceğini açıklayınız.",
+    "a": "Afet yardımı, kamp/doğa sporları, sağlık, uzay-havacılık ve yalıtımda kullanılabilir; hafif ve ucuz olup hipotermiyi önleyerek can kurtarır, enerji tasarrufu sağlar."
+   },
+   {
+    "q": "17. Uzayda kurulacak bir koloninin yaşanabilirliğini uzun vadeli sağlamak için hangi temel ihtiyaçların karşılanması gerekir?",
+    "a": "Hava, su, gıda, barınma ve radyasyon koruması, enerji, atık yönetimi, sağlık/psikolojik destek ve yapay yerçekimi."
+   },
+   {
+    "q": "18. NASA, ESA, TUA gibi bilimsel kuruluşlarla bu kuruluşların bulunduğu ülkeler ve ticari kuruluşlar çok yüksek maliyetleri olmasına rağmen farklı amaçlarla uzay çalışmalarına destek vermektedir. Bu desteğin amacına uygun olduğunu düşündüğünüz maddelere tik atınız.",
+    "a": "Bilimsel merak, canlı yaşam arayışı, yeni kaynak bulma, felaketleri önleme ve teknolojik ilerleme işaretlenmeli; uzay hâkimiyeti/egemenlik maddesi işaretlenmemelidir."
+   },
+   {
+    "q": "19. Amaca uygun olası nedenler",
+    "a": "Uygun: bilimsel merak, canlı yaşam bulma, yeni yerler/kaynaklar bulma, felaketleri önleme, teknoloji ilerleme. Uygun değil: uzay hâkimiyetiyle egemenliği artırma."
+   }
+  ],
+  "278": [
+   {
+    "q": "Dünyamız hakkında bilgiler içeren altın plakların uzay aracında bulundurulmasının nedeni ne olabilir? (Birden fazla seçeneği işaretleyebilirsiniz.)",
+    "a": "1, 2 ve 4. seçenekler: Bilim insanlarının olası zeki varlıklara inanması; onlarla iletişim kurmak istenmesi; kendimizi tanıtıp anlatmak istenmesi."
+   }
+  ],
+  "279": [
+   {
+    "q": "20. Voyager uzay araçlarına yerleştirilen plaklarda kullanılan uranyum-238 izotopunun kullanılma nedeni nedir?",
+    "a": "E) Uranyumun bozunmasından yararlanarak plakaların kaç yıl önce üretildiğinin anlaşılabilmesi."
+   },
+   {
+    "q": "21. Voyager 1 ve Voyager 2'den gelen verilerden beklenen bilgiler neler olabilir? Bu bilgilerle hangi sonuçlara varılabilir? Gerekçesiyle açıklayınız.",
+    "a": "Helyosferin sınırı, yıldızlararası ortamın plazma yoğunluğu, manyetik alanı ve kozmik ışınları ile dış gezegenlerin atmosfer, uydu ve halkalarına ait veriler beklenir. Bu veriler Güneş'in etki alanının sınırını, yıldızlararası ortamın yapısını ve dış gezegenlerde yaşam olasılığını gösterir."
+   },
+   {
+    "q": "22. Uzay kolonisi ile ilgili verilen bilgi kartlarını doğru kavramla eşleştiriniz.",
+    "a": "A-4 (Artemis), B-3 (Uzay kolonizasyonu), C-1 (Kozmik ışın), Ç-5 (Biyosfer); 2 (Ames) eşleşmez."
+   }
+  ],
+  "280": [
+   {
+    "q": "Tasarlanan bu projeye göre karşılaşılabilecek sorunlar nelerdir?",
+    "a": "Ürün yetiştirirken oksijen oranının artıp boğulmaya yol açması, içme suyunun önce analiz edilmesi gerekliliği ve yedek parça için sürekli Dünya’dan nakliye gerekip maliyetin artması."
+   },
+   {
+    "q": "Bilim insanlarının bu projenin gerçekleşmesi ile ilgili görüşlerini yorumlayınız.",
+    "a": "Bilim insanları projeyi bilimsel açıdan riskli ve henüz uygulanabilir bulmuyor; yaşamı tehdit eden oksijen sorunu, su analizi ihtiyacı ve yüksek maliyet nedeniyle gerçekleşmesinin zor olduğunu düşünüyorlar."
+   }
+  ],
+  "281": [
+   {
+    "q": "26. Bu projenin gerçekleşmesi için hangi sorunun giderilmesi öncelikli değildir?",
+    "a": "A) Mürettebatın sabit olması, dönüşümlü olmaması"
+   },
+   {
+    "q": "27. Bir gök cisminde yaşam arayışı çalışmaları sırasında aranan önemli özellik aşağıdakilerden hangisi olamaz?",
+    "a": "C) Kendi manyetik alanına sahip olması"
+   },
+   {
+    "q": "28. Uzayda koloni kurmanın önünde birçok engel vardır. Bu engelleri aşmak için yapılması gerekenler teknolojiyi geliştirmek ve araştırmaları hızlandırmaktır. Dünya’dakine benzer su döngüsü olan Titan uydusunda koloni kurmak için ilk aşılması gereken engel ve ilk geliştirilmesi gereken özellik aşağıdakilerden hangisidir?",
+    "a": "B) Titan uydusunun Yer’e uzaklığı çok olduğundan oraya ulaşımı kısa sürede sağlayacak teknolojiyi geliştirmek"
+   },
+   {
+    "q": "29. Dünya’daki yaşam alanlarının daralması, doğal kaynakların kirlenmesi gibi sorunlar, neden uzay kolonileşmesini gerekli kılmış olabilir?",
+    "a": "Dünya’da yaşam alanları daralıp kaynaklar kirlendiği için insanlığın yeni yaşam alanları ve kaynaklar bulması gerekir; bu da uzay kolonileşmesini gerekli kılar."
+   },
+   {
+    "q": "5. Ünite e-içerik sorularına ve cevaplarına ulaşmak için ne yapılmalıdır?",
+    "a": "Karekod kullanılmalıdır."
+   }
+  ]
  }
 }
