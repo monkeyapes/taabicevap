@@ -249,6 +249,513 @@
   "42": [],
   "44": [],
   "45": [],
-  "46": []
+  "46": [],
+  "47": [
+   {
+    "q": "1. Aşağıda verilen din eğitimi dersindeki uygulama yöntemlerini inceleyiniz.",
+    "a": "1. uygulama geleneksel ve öğretmen merkezli; 2. uygulama etkileşimli ve öğrenci merkezlidir."
+   },
+   {
+    "q": "1. Uygulama – Dersin işleniş biçimi",
+    "a": "Anlatım merkezli ve geleneksel; öğrenci sorularına yer verilmez, konular yüzeysel kalır."
+   },
+   {
+    "q": "1. Uygulama – Öğrenci katılımı",
+    "a": "Düşük; öğrenci katılımı arka planda kalır, sorgulayıcı sorulara doyurucu cevap verilmez."
+   },
+   {
+    "q": "1. Uygulama – Eleştirel düşünmeye katkısı",
+    "a": "Sınırlı; sorgulama ve tartışma ortamı yoktur."
+   },
+   {
+    "q": "2. Uygulama – Dersin işleniş biçimi",
+    "a": "Etkileşimli; beyin fırtınası kullanılır, açıklamalar İslami kaynaklar, modern araştırmalar ve pozitif bilimlerle desteklenir."
+   },
+   {
+    "q": "2. Uygulama – Öğrenci katılımı",
+    "a": "Yüksek; merak edilen sorular teşvik edilir, farklı görüşler ifade edilip tartışılır."
+   },
+   {
+    "q": "2. Uygulama – Eleştirel düşünmeye katkısı",
+    "a": "Yüksek; sorgulama, tartışma ve gerekçeli açıklamalarla desteklenir."
+   },
+   {
+    "q": "Değerlendirme – \"Bana göre etkili bir din eğitimcisinin sahip olması gereken 3 temel sorumluluk\" ifadesini tamamlayınız.",
+    "a": "1) Pedagojik ilkelere uygun ders işlemek, 2) öğrenci sorularını ve katılımını önemsemek, 3) bilgileri güncel ve güvenilir kaynaklarla desteklemek."
+   },
+   {
+    "q": "3. Öğretim yöntemlerinden hangisi daha etkili ve kalıcıdır? Düşüncelerinizi gerekçelendirerek açıklayınız.",
+    "a": "2. uygulama; öğrenci merkezli, sorgulamaya ve tartışmaya dayalı olduğu ve bilgiyi çok yönlü kaynaklarla desteklediği için daha etkili ve kalıcıdır."
+   }
+  ],
+  "48": [
+   {
+    "q": "İşlem öncesi, somut işlemler ve soyut işlemler dönemlerinin özellikleri ve bu dönemlerde din eğitiminin nasıl verilmesi gerektiğiyle ilgili araştırma yapınız.",
+    "a": "İşlem öncesinde somut, sembolik ve hayale dayalı; somut işlemlerde kurallı, örnekli ve uygulamalı; soyut işlemlerde kavramsal, sorgulayıcı ve tartışmaya dayalı din eğitimi verilmelidir."
+   },
+   {
+    "q": "İşlem öncesi, somut işlemler ve soyut işlemler dönemlerinde din eğitiminin özellikleri nelerdir?",
+    "a": "İşlem öncesi: hikâye, görsel, somut örnek ve sevgi temelli; somut işlemler: kural, ibadet ve ahlak örnekleriyle uygulamalı; soyut işlemler: inanç, ahlak ve anlam üzerine akıl yürütmeye dayalı."
+   },
+   {
+    "q": "Bu dönemlerde din eğitiminde hangi hususlara dikkat edilmelidir?",
+    "a": "Gelişim düzeyine uygun dil kullanılmalı, soyut konular erken zorlanmamalı, sevgi-güven ve örneklik esas alınmalı, soru sorma ve yaşayarak öğrenmeye imkân verilmelidir."
+   },
+   {
+    "q": "Gelişim dönemlerine göre din eğitimi hangi açılardan farklılaşmaktadır?",
+    "a": "İçerik somuttan soyuta, yöntem anlatımdan sorgulama ve tartışmaya, öğretmen rolü yönlendirmeden rehberliğe doğru değişir; dil, örnek ve etkinlikler yaşa göre farklılaşır."
+   },
+   {
+    "q": "Hazırladığınız raporu sınıfta arkadaşlarınıza sununuz.",
+    "a": "Raporu ana başlıklarla özetleyip dönemlere göre örnek ve görsellerle sununuz."
+   },
+   {
+    "q": "Öz değerlendirme formunu doldurarak çalışmanızla ilgili kendinizi değerlendiriniz.",
+    "a": "Her ölçütü çalışmanıza göre Evet/Kısmen/Hayır şeklinde işaretleyip eksik yönlerinizi belirleyiniz."
+   },
+   {
+    "q": "Öz değerlendirme formundaki ölçütler nelerdir?",
+    "a": "Gelişim dönemlerinin özelliklerini doğru inceleme, dönemlerin benzerlik ve farklılıklarını karşılaştırma, çalışmada kendi yorum ve değerlendirmelerine yer verme."
+   },
+   {
+    "q": "Hazırladığınız performans görevi nasıl değerlendirilecektir?",
+    "a": "Karekoddaki analitik dereceli puanlama anahtarıyla değerlendirilecektir."
+   }
+  ],
+  "49": [
+   {
+    "q": "İşlem Öncesi Dönem’in özellikleri, din eğitimi özellikleri ve örnek öğrenme yöntemi nedir?",
+    "a": "Sembolik ve sihirli düşünce, benmerkezcilik, animizm; din eğitimi sevgi temelli, somut ve duyusaldır, basit dua ve davranışlar taklit edilir; oyun, hikâye, drama ve görsel materyal kullanılır."
+   },
+   {
+    "q": "Somut İşlemler Dönemi’nin özellikleri, din eğitimi özellikleri ve örnek öğrenme yöntemi nedir?",
+    "a": "Korunum, sınıflama, sıralama ve tersine çevrilebilirlik; din eğitimi somut örnekler, ibadet uygulamaları, peygamber kıssaları ve kurallarla verilir; gösterip yaptırma, gezi-gözlem, soru-cevap ve tekrar kullanılır."
+   },
+   {
+    "q": "Soyut İşlemler Dönemi’nin özellikleri, din eğitimi özellikleri ve örnek öğrenme yöntemi nedir?",
+    "a": "Soyut ve hipotetik düşünme, tümdengelim, eleştirel düşünme; din eğitimi soyut inanç konuları, ahlaki akıl yürütme, sorgulama ve karşılaştırmayı içerir; tartışma, problem çözme, araştırma ve kavram haritası kullanılır."
+   }
+  ],
+  "50": [
+   {
+    "q": "Farklı yaş gruplarında dinî tutumu belirleyen çevresel faktörler neler olabilir?",
+    "a": "Aile, okul, akran çevresi, öğretmenler, sosyal kültür ve medya gibi sosyal çevre unsurları ile bireyin bilişsel ve duygusal gelişim özellikleri."
+   }
+  ],
+  "51": [
+   {
+    "q": "Sayfada yer alan sorular ve etkinlikler nelerdir?",
+    "a": "Bu sayfada soru veya etkinlik bulunmuyor; yalnızca din eğitimiyle ilgili bilgilendirici metin ve “dinî tutum” tanımı yer alıyor."
+   }
+  ],
+  "52": [
+   {
+    "q": "Ön Hazırlık – Gelişim dönemlerinde dinî gelişimi etkileyen unsurlar hangileridir?",
+    "a": "Aile, sosyal çevre, eğitim, akranlar, medya, yaş ve bilişsel özellikler, bireysel ilgi ve yetenekler."
+   },
+   {
+    "q": "Sınıf İçi Uygulama – Hangi istasyonlar oluşturulur?",
+    "a": "Ana fikir bulma, afiş hazırlama ve slogan yazma istasyonları."
+   },
+   {
+    "q": "Sınıf İçi Uygulama – İstasyon çalışması nasıl yürütülür?",
+    "a": "Üç gruba ayrılır, her istasyonda beş dakika çalışılır, sırayla diğerlerine geçilir ve ürünler sınıfça incelenir."
+   },
+   {
+    "q": "Ana Fikir Bulma İstasyonu – Hadisin ana fikri nedir?",
+    "a": "Kur'an okumada ölçülü ve sürekli olmak esastır; aşırıya kaçmadan düzenli okunmalıdır."
+   },
+   {
+    "q": "Afiş Hazırlama İstasyonu – İmam Şafii'nin tavsiyeleri nelerdir?",
+    "a": "Öğretmen önce kendini ıslah etmeli, çocuklara örnek olmalı, onları dersten bıktırmamalı ve aşamalı öğretim yapmalıdır."
+   },
+   {
+    "q": "Slogan Yazma İstasyonu – İbni Cemaa'nın görüşüne uygun slogan nedir?",
+    "a": "\"Her çocuğun zihinsel kapasitesi farklıdır; öğretim bireysel farklılıklara göre yapılmalıdır.\""
+   },
+   {
+    "q": "Değerlendirme – \"Bu etkinlikten hareketle ... öğrendim.\" cümlesini tamamlayınız.",
+    "a": "Din eğitiminde yaş, bilişsel özellik ve bireysel farklılıkların dikkate alınması gerektiğini öğrendim."
+   },
+   {
+    "q": "Değerlendirme – \"... konularını araştıracağım.\" cümlesini tamamlayınız.",
+    "a": "Gelişim dönemlerine ve bireysel farklılıklara göre din eğitimi konularını araştıracağım."
+   },
+   {
+    "q": "\"Bu etkinlikten ...\" bölümünü tamamlayınız.",
+    "a": "Bu etkinlikten dinî anlayışı etkileyen unsurları ve bunların din eğitimindeki önemini öğrendim."
+   }
+  ],
+  "54": [
+   {
+    "q": "Çocuğun çizgi film veya canlandırma yoluyla temel dinî kavramları öğrenmesi",
+    "a": "Kitle iletişim araçları; canlandırma için okul ve akran çevresi"
+   },
+   {
+    "q": "Bir çocuğun bayram hazırlıkları sırasında ailesiyle birlikte dinî ve geleneksel uygulamaları öğrenmesi",
+    "a": "Aile, toplumsal kültür ve değerler"
+   },
+   {
+    "q": "Dinî eğitimin ilk başladığı yer",
+    "a": "Aile"
+   },
+   {
+    "q": "Bireyin kişisel bilgi ve deneyimlerine göre dinî davranışlarını şekillendirmesi",
+    "a": "Bilişsel ve duygusal faktörler"
+   },
+   {
+    "q": "Sistematik din eğitiminin başladığı yer",
+    "a": "Okul"
+   },
+   {
+    "q": "Öğrencilerin derste yeni bir dinî kavram öğrenmesi ve kavramı arkadaşlarıyla paylaşması",
+    "a": "Okul, akran çevresi"
+   },
+   {
+    "q": "Tablodaki unsurların hangi yaş grubu üzerinde daha etkili olduğunu ve bireyin din algısını nasıl etkileyebileceğini yazınız.",
+    "a": "Çocuklukta aile ve kitle iletişim araçları; ergenlikte okul, akran çevresi ile bilişsel-duygusal faktörler daha etkilidir. Bu unsurlar din algısını olumlu ya da olumsuz yönde şekillendirebilir."
+   }
+  ],
+  "55": [
+   {
+    "q": "Öğrenme günlüğü – Konu ile ilgili önceden bildiklerim",
+    "a": "Dinî anlayışın aileden, çevreden ve eğitimden etkilendiğini; çocuklukta somut, gençlikte sorgulayıcı bir din anlayışı geliştiğini biliyorum."
+   },
+   {
+    "q": "Öğrenme günlüğü – Konu ile ilgili yeni öğrendiklerim",
+    "a": "Dinî anlayışın bilişsel, duygusal, ahlaki ve sosyal gelişimle birlikte evreler hâlinde şekillendiğini; Fowler'ın iman gelişimi evrelerini ve aile, akran, okul, medya gibi unsurların etkisini öğrendim."
+   },
+   {
+    "q": "Öğrenme günlüğü – Konu ile ilgili çıkarımlarım",
+    "a": "Din eğitimi gelişim dönemlerine uygun verilmeli; bireyin sorularına saygı gösterilmeli ve çevresel etkiler olumlu yönde yönlendirilmelidir."
+   }
+  ],
+  "56": [
+   {
+    "q": "Bu ayetten hareketle din, kişinin kimlik inşasına hangi yönleriyle katkıda bulunur? Kendi tecrübelerinizden örnekler vererek açıklayınız.",
+    "a": "Din, insanın fıtratına uygun bir hayat ve değerler sunarak “Ben kimim?” sorusuna cevap verir; aidiyet, anlam ve öz güven kazandırır. Örneğin ibadet ve ahlak kuralları gence günlük hayatında ölçü ve yön vererek sağlıklı kimlik oluşumuna katkı sağlar."
+   }
+  ],
+  "57": [
+   {
+    "q": "Dinî inanç ve değerler gençlerin kimlik oluşumunu nasıl etkiler?",
+    "a": "Anlam, amaç ve değer kazandırarak kimliğin tutarlı biçimde oluşmasına katkı sağlar."
+   },
+   {
+    "q": "Din, kimlik bunalımı döneminde gence nasıl rehberlik eder?",
+    "a": "Sorgulamaları sağlıklı yöne yönlendirir; aidiyet ve güven duygusu verir."
+   },
+   {
+    "q": "Dinî aidiyet ile millî kimlik arasında nasıl bir ilişki vardır?",
+    "a": "Ortak değerler etrafında bütünleşmeyi destekler; ikisi birbirini besler."
+   },
+   {
+    "q": "Dinin kimlik inşası üzerindeki etkisine dair merak ettiğim en önemli konu",
+    "a": "Dinin genç kimliğine etkisi ve anlam arayışındaki rolü."
+   },
+   {
+    "q": "Dinin kimlik inşası üzerindeki etkisine dair öğrendiğim en önemli bilgi",
+    "a": "Din, kimlik bunalımı ve sorgulamaları hakikate ulaşmada bir merhale kılabilir."
+   }
+  ],
+  "58": [
+   {
+    "q": "Çevrenizde somut ve somut olmayan kültürel miras eserlerini gözlemleyerek verilen ifadeleri tamamlayınız.",
+    "a": "Somut: tarihî yapılar, camiler, köprüler, müzeler. Somut olmayan: halk oyunları, türküler, gelenekler, el sanatları."
+   },
+   {
+    "q": "Kültürel mirasın toplumsal aidiyeti nasıl etkilediğini ve günümüzde korunmasının neden önemli olduğunu tartışınız.",
+    "a": "Ortak geçmiş ve kimlik duygusuyla aidiyeti güçlendirir; kültürel süreklilik ve kuşaklar arası aktarım için korunmalıdır."
+   },
+   {
+    "q": "Kültürel mirasın topluma ... gibi katkıları vardır.",
+    "a": "Kimlik ve aidiyet kazandırma, birlik ve beraberlik, kültürel süreklilik, sosyalleşme, değerleri yaşatma."
+   },
+   {
+    "q": "Çevremde gözlemlediğim somut kültürel miras örnekleri nelerdir?",
+    "a": "Tarihî cami, çeşme, köprü, han, hamam, müze ve geleneksel evler."
+   },
+   {
+    "q": "Çevremde gözlemlediğim somut olmayan kültürel miras örnekleri nelerdir?",
+    "a": "Halk oyunları, türküler, maniler, el sanatları, bayram gelenekleri, yöresel mutfak ve Karagöz-Hacivat."
+   },
+   {
+    "q": "Somut kültürel miras nedir?",
+    "a": "Bir toplumun geçmişten günümüze kalan fiziksel mirasıdır; örnek Kapadokya Göreme Millî Parkı."
+   },
+   {
+    "q": "Somut olmayan kültürel miras nedir?",
+    "a": "Bir topluma ait, kuşaktan kuşağa aktarılan bilgi ve becerilerdir; örnek Karagöz-Hacivat gölge oyunu."
+   },
+   {
+    "q": "Dinî inancın birey üzerindeki psikososyal etkileri nelerdir?",
+    "a": "Hayatı anlamlandırma, öz düzenleme ve öz denetim, toplumsal aidiyet, sosyalleşme, stres ve depresyonla baş etme direnci, iyi davranışlara yönelme."
+   }
+  ],
+  "59": [
+   {
+    "q": "İstiklal şairimizin kişiliğinde iman ve vatan sevgisi nasıl bir bütünlük oluşturmuştur? Açıklayınız.",
+    "a": "İman ve vatan sevgisi iç içedir; dinî değerler vatan sevgisini besler, vatanı korumak imanın gereği sayılır. Âkif, halkı umuda, mücadeleye ve İslam’a bağlılığa davet etmiş; İstiklal Marşı’nı milletine hediye edip para ödülünü reddetmiştir."
+   }
+  ],
+  "60": [
+   {
+    "q": "8. Etkinliğin adı nedir?",
+    "a": "Benim Kimlik Haritam"
+   },
+   {
+    "q": "Etkinliğin amacı nedir?",
+    "a": "Gençlik dönemi kimlik inşasında dinin etkisini müşahede edebilme"
+   },
+   {
+    "q": "Etkinliğin süresi nedir?",
+    "a": "20 dk."
+   },
+   {
+    "q": "Ön hazırlıkta hangi kaynaklardan yararlanılacak?",
+    "a": "DİB ve MEB kaynakları"
+   },
+   {
+    "q": "Ön hazırlıkta ne araştırılacak?",
+    "a": "Bireyin kimlik inşasında dinin etkileri"
+   },
+   {
+    "q": "Elde edilen bilgilerle ne yazılacak?",
+    "a": "Kendi çıkarım ve yorumları içeren bir metin"
+   },
+   {
+    "q": "Gruplar kaç kişilik oluşturulacak?",
+    "a": "Üç-beş kişilik"
+   },
+   {
+    "q": "Her grupta ne seçilecek?",
+    "a": "Bir sözcü"
+   },
+   {
+    "q": "Yazılan metinler kiminle paylaşılacak?",
+    "a": "Grup arkadaşlarıyla"
+   },
+   {
+    "q": "Grup içinde ne yapılacak?",
+    "a": "Metinler tartışılıp ortak çıkarımlar yapılacak"
+   },
+   {
+    "q": "Çıkarımlar kim aracılığıyla diğer gruplarla paylaşılacak?",
+    "a": "Öğretmen rehberliğinde grup sözcüsü"
+   },
+   {
+    "q": "Değerlendirmede ne puanlanacak?",
+    "a": "Diğer grupların çıkarımlarına katılma derecesi (1-5)"
+   },
+   {
+    "q": "Gençlik döneminde dinin kimlik inşası üzerindeki etkileri nelerdir?",
+    "a": "Aidiyet duygusu kazandırır, Müslüman kimliği altında birleştirir, cemaatle ibadetler aidiyeti pekiştirir, anlamlı bir bütünün parçası olma farkındalığı sağlar, rol modellerle inanç ve toplumla bütünleşmeyi destekler."
+   },
+   {
+    "q": "Gençlik dönemi kimlik oluşturma süreci özellikleri nelerdir?",
+    "a": "Aidiyet ihtiyacı, onaylanma isteği, öne çıkan kişilerden ilham alma, çevreyle bütünleşme ve kendini geliştirme çabası."
+   }
+  ],
+  "62": [
+   {
+    "q": "Etkili din eğitimi ile çocuğun biyolojik, bilişsel, sosyal ve duygusal gelişimi arasındaki ilişkiyi örneklerle açıklayınız.",
+    "a": "Etkili din eğitimi gelişim düzeyine uygun içerik ve yöntemlerle beden sağlığını, anlama ve sorgulama becerisini, paylaşma ve adalet duygusunu, sevgi ve güveni destekler; örneğin oruç sabrı, zekât paylaşmayı, ibadet düzeni sorumluluğu geliştirir."
+   },
+   {
+    "q": "Gelişim dönemlerine uygun olmayan bir din eğitiminin çocuğun inanç gelişimi üzerindeki etkileri neler olabilir? Açıklayınız.",
+    "a": "Baskıcı ve yaşına uygun olmayan eğitim korku, güvensizlik, sorgulama yasağı, dinden uzaklaşma, çelişkili ve taklitçi bir inanç, özgüven kaybı ve olumsuz din algısı oluşturabilir."
+   },
+   {
+    "q": "Hz. Peygamber’in kullandığı eğitim metotlarını örnek vererek açıklayınız.",
+    "a": "Örnek olma, sevgi ve şefkat, tedricilik, soru-cevap, benzetme, tekrar, bireysel farklılıklara uygunluk ve uygulamalı öğretme kullanmıştır; “Kolaylaştırın, zorlaştırmayın” buyurmuş, çocuklara sevgiyle yaklaşmış ve soru sormalarına izin vermiştir."
+   },
+   {
+    "q": "Din eğitimi veren bir kişinin gelişim dönemlerine dair bilgi sahibi olması neden önemlidir? Açıklayınız.",
+    "a": "Çünkü gelişim dönemlerini bilen eğitimci çocuğun yaşına uygun dil, yöntem ve içerik seçer; ihtiyaç ve sınırlarını dikkate alır, yanlış yaklaşımlardan kaçınarak sağlıklı inanç ve kişilik gelişimini destekler."
+   },
+   {
+    "q": "Kitle iletişim araçlarının din algısına olumlu veya olumsuz etkilerini örneklerle açıklayınız.",
+    "a": "Olumlu olarak doğru dini bilgiye erişim, farklı yorumları tanıma ve bilinçlenme sağlar; olumsuz olarak yanlış bilgi, önyargı, dine karşı olumsuz imaj, manipülasyon, kutuplaşma ve tüketim odaklı din algısı oluşturabilir."
+   }
+  ],
+  "63": [
+   {
+    "q": "6. İşlem öncesi dönemindeki çocuklara dinî kavramlar soyut örneklerle öğretilmelidir.",
+    "a": "Y – Dinî kavramlar somut örneklerle öğretilmelidir."
+   },
+   {
+    "q": "7. Din eğitimi, her yaş grubunda aynı yöntemlerle etkili biçimde verilebilir.",
+    "a": "Y – Din eğitimi, her yaş grubunun gelişim özelliklerine uygun yöntemlerle verilmelidir."
+   },
+   {
+    "q": "8. Gelişim dönemlerine göre din eğitimi uygulamalarının sınıflandırılmasında bilişsel gelişim kuramı temel alınabilir.",
+    "a": "D"
+   },
+   {
+    "q": "9. Din eğitiminin nasıl verileceğini din görevlilerinin öğrenmesi yeterlidir.",
+    "a": "Y – Din eğitiminin nasıl verileceğini yalnızca din görevlileri değil, aile ve öğretmenler de bilmelidir."
+   },
+   {
+    "q": "10. Peygamber kıssaları, çocukların ahlaki değerleri anlamalarına katkıda bulunur.",
+    "a": "D"
+   },
+   {
+    "q": "11. Farklı yaşlardaki bireylerin dinî tutumları aynı düzeydedir.",
+    "a": "Y – Farklı yaşlardaki bireylerin dinî tutumları farklı düzeylerdedir."
+   },
+   {
+    "q": "12. Çocuğun yaşına uygun bir din eğitimi, inancın içselleştirilmesine katkıda bulunur.",
+    "a": "D"
+   },
+   {
+    "q": "13. 11 yaş ve sonrası, varsayımsal düşünmenin başladığı …………… dönemidir.",
+    "a": "soyut işlemler"
+   },
+   {
+    "q": "14. Dinî tutumların şekillenmesinde gençlik döneminde …………… belirleyici bir rol oynar.",
+    "a": "arkadaş grubu"
+   },
+   {
+    "q": "15. 2-7 yaş arası çocuk, gördüğü nesneleri zihninde canlandırabildiği …………… dönemindedir.",
+    "a": "işlem öncesi"
+   },
+   {
+    "q": "16. Gençlik döneminde “Ben kimim?”, “Bu dünyadaki amacım ne?” vb. sorular …………… arayışıyla ilgilidir.",
+    "a": "kimlik"
+   }
+  ],
+  "64": [],
+  "65": [
+   {
+    "q": "22. Almila, Bilge ve Tuna’nın düşünceleri sırasıyla hangi kavramlarla ilişkilendirilebilir?",
+    "a": "C) Korku ve tehditten kaçınma – rol modeli – toplumsal aidiyet"
+   },
+   {
+    "q": "23. Din eğitiminde “bireysel farklılık” ilkesine uygun davranış hangisidir?",
+    "a": "B) Öğrencilerin yaş ve hazır bulunuşluğuna göre hedef belirlemek"
+   },
+   {
+    "q": "24. Ailenin din eğitimine etkisiyle ilgili doğru ifade hangisidir?",
+    "a": "B) Aileler dinî tutumlarıyla çocuklara rol modeli olur."
+   },
+   {
+    "q": "25. Metne göre yetişkinlerin takip etmesi gereken en etkili yöntem hangisidir?",
+    "a": "D) İyi model olmak ve davranışlarla örneklendirmek"
+   }
+  ],
+  "66": [
+   {
+    "q": "I. Kişinin hayatında bazı özelliklere göre tanımlanan dönemler",
+    "a": "Gelişim dönemi"
+   },
+   {
+    "q": "II. Eğitimin bireyin yaş, kişisel özellik ve hazır bulunuşluk düzeyi dikkate alınarak kademeli biçimde sunulması",
+    "a": "Tedricî eğitim"
+   },
+   {
+    "q": "III. Davranışları, kişiliği ve özel nitelikleriyle başkalarına özellikle gençlere örnek olan kişi",
+    "a": "Rol modeli"
+   },
+   {
+    "q": "IV. Bireyin yaşamını sürdürdüğü toplumu oluşturan aile, okul gibi kurumlar ile kültürden meydana gelen toplumsal yapı",
+    "a": "Sosyal çevre"
+   },
+   {
+    "q": "V. Bireyin dine ilişkin düşünce, tutum ve davranışlarının tümü",
+    "a": "Dinî tutum"
+   },
+   {
+    "q": "VI. İnsanın toplumsal bir varlık olarak kimliğini ortaya koyan belirti, nitelik ve özelliklerin tamamı",
+    "a": "Kimlik"
+   }
+  ],
+  "70": [
+   {
+    "q": "Selvi’nin yerinde siz olsaydınız ne yapardınız? Düşüncelerinizi arkadaşlarınızla paylaşınız.",
+    "a": "Cüzdanı gecikmeden sahibine teslim ederdim; parayı almak doğru olmaz, teyzenin de zor durumda kalabileceğini düşünürdüm."
+   }
+  ],
+  "71": [
+   {
+    "q": "Sayfadaki sorular ve etkinlikler nelerdir?",
+    "a": "Bu sayfada açıkça belirtilmiş soru veya etkinlik bulunmamaktadır."
+   }
+  ],
+  "72": [
+   {
+    "q": "Sınav öncesinde defterini kaybeden arkadaşınız sizden defterinizi istediğinde ne yaparsınız?",
+    "a": "Yardımcı olur, defterimi paylaşırım; ancak kopya çekmesine izin vermem."
+   },
+   {
+    "q": "Alışveriş yaparken kasiyer yanlışlıkla fazla para üstü verdiğinde ne yaparsınız?",
+    "a": "Fazla para üstünü hemen kasiyere geri veririm."
+   },
+   {
+    "q": "Sokakta yardıma ihtiyacı olan yaşlı birini gördüğünüzde nasıl davranırsınız?",
+    "a": "Yardım ederim; gerekirse güvenli şekilde karşıya geçmesine veya işini yapmasına yardımcı olurum."
+   },
+   {
+    "q": "Bir oyunda sıranın size gelmesini beklemek zor geldiğinde nasıl davranırsınız?",
+    "a": "Sıramı sabırla bekler, haksızlık yapmam."
+   },
+   {
+    "q": "Bir pazarcının sattığı limonları tartarken tartıya eliyle bastırdığını ve haksızlık yaptığını görürseniz nasıl davranırsınız?",
+    "a": "Durumu pazarcıya nazikçe söyler, haksızlığa göz yummam."
+   },
+   {
+    "q": "Bu sorular merhamet, adalet, dürüstlük, saygı ve yardımseverlik değerlerinin hangileriyle ilişkilidir?",
+    "a": "a-yardımseverlik, b-dürüstlük ve adalet, c-merhamet, yardımseverlik ve saygı, d-saygı ve adalet, e-adalet ve dürüstlük."
+   },
+   {
+    "q": "Merhamet, adalet, dürüstlük, saygı ve yardımseverlik değerlerini kendi cümlelerinizle ifade ediniz.",
+    "a": "Dürüstlük: doğruyu söylemek, kimseyi kandırmamak. Adalet: herkese hakkını vermek, eşit davranmak. Merhamet: başkalarına şefkat göstermek, acısını paylaşmak. Saygı: başkalarının haklarına ve düşüncelerine özen göstermek. Yardımseverlik: karşılık beklemeden ihtiyaç sahiplerine yardım etmek."
+   },
+   {
+    "q": "\"Doğruyu söylemek, kimseyi kandırmamak ... oldu. Çünkü ...\" cümlesini tamamlayınız.",
+    "a": "Doğruyu söylemek, kimseyi kandırmamak dürüstlük oldu. Çünkü doğru söylemek ve kimseyi aldatmamak dürüstlüğün temelidir."
+   },
+   {
+    "q": "Bu etkinlikte beni etkileyen değer hangisidir?",
+    "a": "Dürüstlük."
+   }
+  ],
+  "73": [
+   {
+    "q": "\"Değerlerimi Yaşatıyorum\" etkinliğinde ne yapılır?",
+    "a": "Beş gruba ayrılıp \"Değer temelli ahlak eğitimi\" merkezli bir kavram haritası hazırlanır; değerler tanımlanır, aralarındaki ilişkiler oklarla gösterilir ve harita sınıf panosunda sergilenir."
+   },
+   {
+    "q": "Bu etkinlikten sonra verilen değerlerle ilgili öğrendiğim yeni bilgiler:",
+    "a": "Değerlerin ahlaki (zorunluluk bildiren) ve ahlaki olmayan (kişisel tercih) değerler olarak ayrıldığını; dinî değerlere saygının toplumsal uyum için önemli olduğunu öğrendim."
+   },
+   {
+    "q": "Bu etkinliğin bana hissettirdikleri:",
+    "a": "Değerlerimi ve aralarındaki bağları fark ettiğim için bilinçli ve sorumlu hissettim."
+   },
+   {
+    "q": "Bu etkinliği yapmadan önce etkinlikte verilen değerlerle ilgili bildiklerim:",
+    "a": "Değerleri genel olarak iyi davranışlar olarak biliyordum; ahlaki değer ile kişisel tercih arasındaki ayrımı bilmiyordum."
+   }
+  ],
+  "75": [],
+  "78": [],
+  "79": [],
+  "80": [],
+  "81": [],
+  "82": [],
+  "83": [],
+  "85": [],
+  "86": [],
+  "87": [],
+  "88": [],
+  "90": [],
+  "91": [],
+  "92": [],
+  "93": [],
+  "94": [],
+  "97": [],
+  "98": [],
+  "99": [],
+  "106": []
  }
 }
