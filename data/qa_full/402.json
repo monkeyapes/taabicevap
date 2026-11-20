@@ -1,6 +1,6 @@
 {
  "bookId": 402,
- "done": false,
+ "done": true,
  "pages": {
   "3": [
    {
@@ -446,6 +446,874 @@
   "94": [],
   "95": [],
   "98": [],
-  "99": []
+  "99": [],
+  "100": [
+   {
+    "q": "Çizgi romandan yararlanarak Ayhan ve Nazan'ın vatandaşlık tutum ve davranışlarını karşılaştırınız.",
+    "a": "Ayhan sorunu kabullenip yalnızca sosyal medyada yorum yazarak pasif kalır; Nazan ise hakkını savunarak sanayi kuruluşlarıyla iletişime geçip çözüm için tedbir ister, yani etkin vatandaşlık sergiler."
+   }
+  ],
+  "101": [
+   {
+    "q": "Ayhan ve Nazan’ın adalet, sorumluluk ve toplumsal kurallara uyma konusundaki yaklaşımlarını karşılaştırarak bu yaklaşımların toplumsal sonuçlarını tartışınız.",
+    "a": "Nazan sorumluluk alıp kurallara uyarak CİMER ve İl Müdürlüğü’ne başvurur; adaleti aktif arar, bireysel sorumluluğu toplumsal eyleme dönüştürür ve ortak değişim sağlar. Ayhan ise duyarsız kalıp yalnızca penceresini kapatır, pasif tutumuyla sistematik adaletsizliği kabullenir; bu da sorunun sürmesine ve toplumsal duyarsızlığın artmasına yol açar."
+   }
+  ],
+  "102": [
+   {
+    "q": "Etkin vatandaş ile ilgili performans görevi nedir?",
+    "a": "Etkin vatandaşın özelliklerini araştırıp rapor hazırlamak ve bu raporu diğer gruplarla paylaşmak."
+   },
+   {
+    "q": "Performans görevinin amacı nedir?",
+    "a": "Etkin vatandaşın özelliklerine yönelik oluşturulan ürünleri paylaşabilmektir."
+   },
+   {
+    "q": "Çalışma sırasında hangi hususlara dikkat edilmelidir?",
+    "a": "Eşit gruplar oluşturulmalı, araştırma yapılmalı, verilen ve kendi belirlenen kaynaklar kullanılmalı, çalışma adımları izlenmeli, rapor hazırlanıp paylaşılmalıdır."
+   },
+   {
+    "q": "Araştırma süreci hangi araç çerçevesinde yürütülmelidir?",
+    "a": "Sayfa 103’teki “Kontrol Listesi” çerçevesinde."
+   },
+   {
+    "q": "Çalışma ve grup performansı hangi araçlarla değerlendirilecektir?",
+    "a": "Sayfa 112’deki “Analitik Dereceli Puanlama Anahtarı” ve sayfa 113’teki “Grup Değerlendirme Formu” ile."
+   },
+   {
+    "q": "Günümüz demokrasi anlayışı bireylerden neyi gerektirir?",
+    "a": "Toplumsal yaşama uyum sağlamalarını ve demokratik katkıda bulunmalarını, yani etkin vatandaşlık yeterliliklerine sahip olmalarını."
+   },
+   {
+    "q": "Etkin vatandaşlık neyi ifade eder?",
+    "a": "Bireyin devlete hukuki bağlılığının yanı sıra toplumsal ve siyasal alanda sorumluluklarını yerine getirme yükümlülüğünü."
+   },
+   {
+    "q": "Etkin vatandaş nasıl bir bireydir?",
+    "a": "Toplumsal ve siyasal yaşamda pasif gözlemci değil; sorunlara duyarlı, sorumluluklarını bilen ve haklarını arayan bireydir."
+   },
+   {
+    "q": "Etkin vatandaşın özellikleri nelerdir?",
+    "a": "Sistemin işleyişinin, özgürlüklerinin ve sınırlılıklarının farkındadır; sorgulayıcı ve eleştireldir; iş birliği yapar; kamu yararını gözetir; etik değerlere bağlıdır; sorumluluk alır; farklı kesimlerin haklarını korur ve toplumsal sorunlara duyarlıdır."
+   }
+  ],
+  "103": [
+   {
+    "q": "Araştırma konusu belirlenmiş midir?",
+    "a": "Evet"
+   },
+   {
+    "q": "Grup üyeleri arasında görev dağılımı yapılmış mıdır?",
+    "a": "Evet"
+   },
+   {
+    "q": "Zaman çizelgesi oluşturulmuş mudur?",
+    "a": "Evet"
+   },
+   {
+    "q": "Çalışma planı hazırlanmış mıdır?",
+    "a": "Evet"
+   },
+   {
+    "q": "Araştırmaya ilişkin ne tür bilgilere ihtiyaç duyulduğu belirlenmiş midir?",
+    "a": "Evet"
+   },
+   {
+    "q": "Araştırma konusuna ilişkin hangi kaynaklardan bilgi toplanacağı belirlenmiş midir?",
+    "a": "Evet"
+   },
+   {
+    "q": "Bilgi toplama yöntemleri (kütüphane, arşiv araştırması, genel ağ vb.) detaylı şekilde belirlenmiş ve uygulanmış mıdır?",
+    "a": "Evet"
+   },
+   {
+    "q": "Kaynakların türü, yazarı, tarihi, dijital kimliği ve genel ağdaki uzantısı gibi temel unsurlar belirlenmiş midir?",
+    "a": "Evet"
+   },
+   {
+    "q": "Kaynakların ön yargı, çelişki veya tutarsızlık içerip içermediği incelenmiş midir?",
+    "a": "Evet"
+   },
+   {
+    "q": "Kaynaklarda yer alan olgu ve görüşler ayırt edilmiş midir?",
+    "a": "Evet"
+   },
+   {
+    "q": "Kaynaktaki bilgilerin güncelliği incelenmiş midir?",
+    "a": "Evet"
+   },
+   {
+    "q": "Kullanılan kaynaklar güvenilirlik açısından eleştirel bir bakış açısıyla incelenmiş midir?",
+    "a": "Evet"
+   },
+   {
+    "q": "Kaynaklardan toplanan bilgilerin yeterli olup olmadığı araştırmanın amacına göre değerlendirilmiş midir?",
+    "a": "Evet"
+   },
+   {
+    "q": "Kaynaklardan elde edilecek bilgiler tespit edilmiş midir?",
+    "a": "Evet"
+   },
+   {
+    "q": "Kaynaklardan elde edilen bilgiler sınıflandırılmış mıdır?",
+    "a": "Evet"
+   },
+   {
+    "q": "Kaynaklardan elde edilen bilgiler analiz edilerek yorumlanmış mıdır?",
+    "a": "Evet"
+   },
+   {
+    "q": "Araştırma konusuna uygun bir başlık seçilmiş midir?",
+    "a": "Evet"
+   },
+   {
+    "q": "Kaynaklardan elde edilen bilgiler yorumlanmış mıdır?",
+    "a": "Evet"
+   },
+   {
+    "q": "Başlıklar, alt başlıklar ve ara başlıklar kullanılmış mıdır?",
+    "a": "Evet"
+   },
+   {
+    "q": "Konuyla ilgili görseller ve materyaller kullanılmış mıdır?",
+    "a": "Evet"
+   },
+   {
+    "q": "Metin içi kaynak gösterimi yapılmış mıdır?",
+    "a": "Evet"
+   },
+   {
+    "q": "Kullanılan kaynaklar \"Kaynakça\" bölümünde uygun biçimde verilmiş midir?",
+    "a": "Evet"
+   },
+   {
+    "q": "Dil bilgisi, yazım ve noktalama kontrolü yapılmış mıdır?",
+    "a": "Evet"
+   },
+   {
+    "q": "Araştırma bulgularına ve sonuçlarına yönelik açık, anlaşılır ve ilgi çekici bir sunum yapılmış mıdır?",
+    "a": "Evet"
+   },
+   {
+    "q": "Sunum sonrasında soru-cevap ve tartışma için zaman ayrılmış mıdır?",
+    "a": "Evet"
+   },
+   {
+    "q": "Sunum sonrasında sorular cevaplanmış mıdır?",
+    "a": "Evet"
+   },
+   {
+    "q": "Değerlendirme sonunda \"Hayır\" işaretlenen bölümler gözden geçirilip eksiklikler tamamlanmış mıdır?",
+    "a": "Evet"
+   }
+  ],
+  "107": [
+   {
+    "q": "Eserin/Kaynağın adı nedir?",
+    "a": "Demokrasi ve İnsan Haklarının Tarihsel Gelişimi"
+   },
+   {
+    "q": "Eserin/Kaynağın yazarı kimdir?",
+    "a": "Gökçe Asya Işıksaçan"
+   },
+   {
+    "q": "Eserin/Kaynağın türü nedir?",
+    "a": "Tarih, felsefe ve vatandaşlık bilgisi; ikinci el kaynak"
+   },
+   {
+    "q": "Yayım yeri ve yayımlandığı tarih nedir?",
+    "a": "Ankara, 2026"
+   },
+   {
+    "q": "Dijital kimliği ve genel ağdaki uzantısı nedir?",
+    "a": "Metinde belirtilmemiştir."
+   },
+   {
+    "q": "Kaynaktaki bilgiler güncel midir?",
+    "a": "Evet, 2026 tarihli güncel bir kaynaktır."
+   },
+   {
+    "q": "Kaynaktaki bilgiler bilimsel metotlarla mı elde edilmiştir?",
+    "a": "Açıkça belirtilmemiştir; alanında ikinci el bilimsel kaynak olduğu anlaşılmaktadır."
+   },
+   {
+    "q": "Kaynaktaki bilgiler diğer bilgilerle uyumlu mudur?",
+    "a": "Evet, demokrasi ve insan haklarının tarihsel gelişimiyle uyumludur."
+   },
+   {
+    "q": "Kaynaktaki bilgilerde çelişki var mıdır?",
+    "a": "Hayır, çelişki yoktur."
+   },
+   {
+    "q": "Kaynağın yazarı ön yargılı bir tutum sergilemiş midir?",
+    "a": "Hayır, ön yargılı olduğuna dair kanıt yoktur."
+   },
+   {
+    "q": "Örnek çalışmada yazarın hangi alanlarda eserleri vardır?",
+    "a": "Tarih ve felsefe."
+   },
+   {
+    "q": "Örnek eser hangi konuyla ilgilidir?",
+    "a": "Demokrasi ve insan hakları."
+   },
+   {
+    "q": "Örnek eserde ne yer almaktadır?",
+    "a": "Farklı kültür ve uygarlıkların katkılarıyla demokrasi ve insan haklarının tarihsel gelişimi."
+   },
+   {
+    "q": "Kaynağın türü, yazarı, yayım tarihi, dijital kimliği ve genel ağ uzantısı nasıl belirlenir?",
+    "a": "Kaynağa uygun sorular sorularak bu bilgiler tespit edilir."
+   },
+   {
+    "q": "Elde edilen bilgiler araştırma konusuna göre nasıl seçilir?",
+    "a": "Konuyla ilgili ve ilgisiz bilgiler ayrıştırılır; uygun olanlar seçilir."
+   },
+   {
+    "q": "Kaynaklar ön yargı, çelişki ve tutarsızlık bakımından nasıl karşılaştırılır?",
+    "a": "Bu ifadeleri ortaya çıkaracak sorular sorulur; aynı konudaki farklı görüşler belirlenir."
+   },
+   {
+    "q": "Kaynaklardaki olay, olgu ve görüşler nasıl not edilir?",
+    "a": "Birbirinden ayrılarak not edilir."
+   },
+   {
+    "q": "Kaynaklardaki bilgilerin güncel olup olmadığı nasıl sorgulanır?",
+    "a": "Bilgilerin tarihi ve güncel gelişmelerle ilişkisi kontrol edilir."
+   },
+   {
+    "q": "Toplanan bilgilerin araştırma konusu için yeterli olup olmadığına nasıl karar verilir?",
+    "a": "Sorgulama sonucunda çıkarım yapılır; yetersizse yeni kaynaklarla devam edilir."
+   },
+   {
+    "q": "Kaynakların incelenmesi aşaması nasıl uygulanır?",
+    "a": "Verilen örnek çalışmalar incelenerek aşamalar uygulanır."
+   },
+   {
+    "q": "Bilgiler yetersiz veya sınırlıysa ne yapılır?",
+    "a": "Farklı kaynaklar kullanılarak araştırmaya devam edilir; gerekirse ikinci ve üçüncü adımlar yeniden uygulanır."
+   },
+   {
+    "q": "Kaynakların araştırmaya katkısı nasıl değerlendirilir?",
+    "a": "\"Kaynak Analiz Formu\" doldurularak değerlendirilir."
+   }
+  ],
+  "108": [
+   {
+    "q": "İncelediğiniz kaynaklar birincil ya da ikincil kaynaklardan hangisine girmektedir? Nedenini açıklayınız.",
+    "a": "Olayın yaşandığı dönemde üretilmişse birincil, sonradan başka kaynaklara dayanılarak yazılmışsa ikincil kaynaktır."
+   },
+   {
+    "q": "Kaynakların türü nedir?",
+    "a": "Yazılı (kitap, belge, gazete), görsel (fotoğraf, harita), sözlü (röportaj) veya arkeolojik/maddi kaynak olabilir."
+   },
+   {
+    "q": "Kaynakları yazan veya oluşturan kişi ya da kişilerin bakış açısı kaynak veya kanıta nasıl yansımıştır?",
+    "a": "Yazarın dönemi, konumu ve amacı; seçtiği bilgiler, kullandığı dil ve yaptığı vurgularla metne yansır."
+   },
+   {
+    "q": "Kaynakların yanlılık ve yanıltıcılık durumu nedir?",
+    "a": "Kaynak taraflı olabilir; abartma, eksik bilgi veya propaganda içerebilir, bu yüzden başka kaynaklarla karşılaştırılmalıdır."
+   },
+   {
+    "q": "Bu kaynaklar çalıştığınız konuya, yazdığınız metne veya yaptığınız tartışmaya nasıl katkıda bulunmaktadır?",
+    "a": "Konuyu kanıt ve örneklerle destekler, farklı bakış açıları sunar ve tartışmayı güçlendirir."
+   }
+  ],
+  "109": [
+   {
+    "q": "Araştırma sürecinde edindiğiniz bilgileri ana fikir, şahıslar, eserler, mekânlar ve kurumlar bağlamında sınıflandırınız.",
+    "a": "Ana fikir: etkin vatandaşlık ve çevre sorumluluğu. Şahıs: Halime Hanım. Mekân: köy ve çevresi. Kurumlar: sivil toplum kuruluşları, kamu kurumları. Eser/faaliyet: ağaçlandırma ve su kaynaklarını koruma çalışmaları."
+   },
+   {
+    "q": "Ulaştığınız bilgileri verilen örnek olaydan hareketle grup olarak yorumlayınız.",
+    "a": "Halime Hanım kuraklık ve çölleşmeye karşı gönüllü ağaçlandırma yaparak sorumluluk, işbirliği ve çevre bilinciyle etkin vatandaşlığı örneklemiştir."
+   },
+   {
+    "q": "Demokratik katılım, insan hak ve özgürlükleri, sosyal sorumluluk, çevre bilinci ve sürdürülebilirlik alanlarındaki faaliyetlerden yola çıkarak etkin vatandaşın özelliklerine yönelik çıkarımlarda bulununuz.",
+    "a": "Etkin vatandaş; sorumluluk alan, gönüllü çalışan, işbirliği yapan, haklarını kullanan, çevreyi koruyan ve gelecek nesilleri düşünen katılımcı bireydir."
+   }
+  ],
+  "110": [
+   {
+    "q": "Etkin vatandaşın yaşadığı çevrenin sürdürülebilirliğine katkıları nelerdir?",
+    "a": "Vatandaş bilim projelerine katılarak çevresel veri toplar ve karbon ayak izini azaltır; suyun verimli kullanımı ve korunması konusunda farkındalık oluşturur; gönüllü çalışmalarla toplumu bilinçlendirip sorumluluk almaya yönlendirir."
+   },
+   {
+    "q": "Etkin bir vatandaş olarak sürdürülebilir bir çevre için günlük hayatınızda yapabileceğiniz üç davranışı belirtiniz ve bu davranışların çevrenin korunmasına katkısını kısaca açıklayınız.",
+    "a": "1) Suyu tasarruflu kullanmak (musluğu kapatmak, damlatan tesisatı onarmak) → su kaynaklarının korunmasını sağlar. 2) Atıkları ayırıp geri dönüşüm yapmak → doğal kaynak tüketimini ve kirliliği azaltır. 3) Gereksiz elektrik kullanımından kaçınıp toplu taşımayı tercih etmek → karbon ayak izini ve iklim değişikliği etkilerini azaltır."
+   }
+  ],
+  "113": [
+   {
+    "q": "1. Grup üyeleri araştırma sürecinde birbirleriyle yardımlaştı.",
+    "a": "Her Zaman – Yardımlaşma güçlüydü."
+   },
+   {
+    "q": "2. Grup üyeleri araştırma sürecinde birbirlerinin görüşlerini dikkatle dinledi.",
+    "a": "Her Zaman – Herkes birbirini dikkatle dinledi."
+   },
+   {
+    "q": "3. Grup üyeleri görev ve sorumluluklarını zamanında yerine getirdi.",
+    "a": "Her Zaman – Görevler zamanında tamamlandı."
+   },
+   {
+    "q": "4. Grup üyeleri her aşamada görüş alışverişinde bulundu.",
+    "a": "Her Zaman – Sürekli görüş alışverişi yapıldı."
+   },
+   {
+    "q": "5. Grup üyeleri araştırma sürecinde birbirine saygılı davrandı.",
+    "a": "Her Zaman – Saygılı bir ortam vardı."
+   },
+   {
+    "q": "6. Grup üyeleri edindikleri bilgileri ve ulaştıkları çıkarımları birbiriyle paylaştı.",
+    "a": "Her Zaman – Bilgi ve çıkarımlar paylaşıldı."
+   },
+   {
+    "q": "7. Grup üyeleri etkinlik sürecinde zamanı verimli şekilde kullandı.",
+    "a": "Çoğu Zaman – Zaman zaman gecikmeler oldu."
+   },
+   {
+    "q": "8. Grubunuzun güçlü yönleri nelerdir?",
+    "a": "İş bölümü, ekip ruhu ve açık iletişim."
+   },
+   {
+    "q": "9. Grubunuz etkinlik sırasında hangi zorluklarla karşılaştı?",
+    "a": "Zaman yönetimi, fikir ayrılıkları ve kaynak bulma."
+   },
+   {
+    "q": "10. Grup olarak yapacağınız sonraki çalışmayı iyileştirmek için ne önerirsiniz?",
+    "a": "Görev planı yapmak, süreyi takip etmek ve düzenli toplantı yapmak."
+   },
+   {
+    "q": "11. Etkin vatandaşın özellikleriyle ilgili \"Anlam Çözümleme\" etkinliğini yapınız.",
+    "a": "Etkin vatandaş; hak ve sorumluluklarını bilir, yasalara uyar, oy kullanır, toplumsal sorunlara duyarlıdır, gönüllü katkı sağlar, vergisini öder ve çevreye saygılıdır."
+   }
+  ],
+  "114": [
+   {
+    "q": "Gazete haberlerinden hareketle günlük yaşamdan çocuk, kadın, yaşlı ve özel gereksinimli bireylerin demokratik süreçlere katılımına örnekler veriniz.",
+    "a": "Çocuk: Berra Koramaz’ın TBMM çocuk özel oturumunu yönetmesi. Kadın: Konya’daki kadın muhtarların mahallelerine hizmet etmesi. Yaşlı: Sandığa gidemeyen seçmenler için seyyar sandık uygulaması. Özel gereksinimli: Çocukların Gazze’deki akranlarına mektup yazması."
+   }
+  ],
+  "115": [
+   {
+    "q": "Doğu Türkistan’da Uygur Türklerine zorunlu mobil uygulama kullandırılmasının bireysel etkileri ve toplumsal sonuçları nelerdir?",
+    "a": "Bireysel: mahremiyet ihlali, gözetim, iletişim özgürlüğünün kısıtlanması ve tutuklanma korkusu. Toplumsal: kitlesel gözetim, etnik baskı, ifade özgürlüğünün ve güvenin zedelenmesi."
+   },
+   {
+    "q": "Hong Kong’da yapay zekâ destekli sahte görüntüyle 25 milyon dolarlık dolandırıcılığın bireysel etkileri ve toplumsal sonuçları nelerdir?",
+    "a": "Bireysel: büyük maddi kayıp, travma ve dijital iletişime güvensizlik. Toplumsal: deepfake dolandırıcılığının yaygınlaşması, dijital güvenin ve işletme güvenliğinin sarsılması."
+   },
+   {
+    "q": "Yemleme yöntemiyle yapılan dijital dolandırıcılığın bireysel etkileri ve toplumsal sonuçları nelerdir?",
+    "a": "Bireysel: kimlik hırsızlığı, banka/kart bilgilerinin ele geçirilmesi ve maddi kayıp. Toplumsal: siber suçların artması, e-ticaret ve dijital sisteme güvenin azalması."
+   },
+   {
+    "q": "Sosyal medya platformunun kişisel verileri işleyerek İngiltere ve ABD seçimlerini etkilemesinin bireysel etkileri ve toplumsal sonuçları nelerdir?",
+    "a": "Bireysel: manipülasyon, mahremiyet ihlali ve düşünce özerkliğinin zedelenmesi. Toplumsal: seçim müdahalesi, kutuplaşma ve demokratik süreçlere güvenin azalması."
+   },
+   {
+    "q": "İngiltere’de postane yazılımı hataları nedeniyle çalışanların haksız yere suçlanmasının bireysel etkileri ve toplumsal sonuçları nelerdir?",
+    "a": "Bireysel: haksız suçlama, itibar/maddi kayıp, adli mağduriyet ve travma. Toplumsal: adalet duygusunun zedelenmesi, kurumlara ve teknolojiye güvenin azalması."
+   }
+  ],
+  "116": [
+   {
+    "q": "Çocuk, kadın, yaşlı ve özel gereksinimli bireylerin hak ihlallerine maruz kalma nedenleri nelerdir?",
+    "a": "Sosyal, ekonomik ve kültürel nedenlerle bu gruplar haklardan eşit yararlanamamakta ve sistematik hak ihlalleri yaşamaktadır."
+   },
+   {
+    "q": "Çocuklara yönelik hak ihlalleri nelerdir?",
+    "a": "Çocuk işçiliği, eğitim hakkına erişim sorunları ve istismar."
+   },
+   {
+    "q": "Kadınlara yönelik hak ihlalleri nelerdir?",
+    "a": "Kadına yönelik şiddet, iş hayatında fırsat eşitsizliği ve toplumsal baskılar."
+   },
+   {
+    "q": "Yaşlılara yönelik hak ihlalleri nelerdir?",
+    "a": "Sosyal hayattan dışlanma, ihmal edilme ve yaş ayrımcılığı."
+   },
+   {
+    "q": "Özel gereksinimli bireylere yönelik hak ihlalleri nelerdir?",
+    "a": "Fiziksel çevre düzenlemelerinin yetersizliği, eğitim ve istihdam olanaklarına erişim güçlükleri."
+   },
+   {
+    "q": "Hak ihlallerinin önlenmesi için neler gerekmektedir?",
+    "a": "Hukuki düzenlemelerin güçlendirilmesi, toplumsal farkındalığın artırılması ve kapsayıcı politikaların geliştirilmesi."
+   },
+   {
+    "q": "Kaynak A'ya göre küresel çocuk hakları sorun alanları nelerdir?",
+    "a": "İnsan ticareti, çocuk yaşta evlilik, çocuk işçiliği, eğitime erişim eksikliği, çocuk askerler, temiz suya ve sağlık hizmetlerine erişim eksikliği."
+   },
+   {
+    "q": "Kaynak A'ya göre çocuk işçiliği ve eğitime erişimle ilgili veriler nelerdir?",
+    "a": "Çocuk işçi sayısı 160 milyona ulaşmıştır; ilkokul çağındaki çocukların %11'i, ortaokul çağındakilerin %20'si okula gitmemektedir."
+   },
+   {
+    "q": "Kaynak A'ya göre Covid-19'un çocuk sağlığına etkisi nedir?",
+    "a": "117 milyondan fazla çocuk, çocuk felci ve kızamık bağışıklığı gibi sağlık ve beslenme hizmetlerine erişim fırsatını kaybetmiştir."
+   }
+  ],
+  "117": [
+   {
+    "q": "Günlük hayatta çocukların, kadınların, yaşlıların veya özel gereksinimli bireylerin haklarının ihlal edildiğini gösteren hangi davranış veya uygulamalarla karşılaşılabilir? Örnekler veriniz.",
+    "a": "Çocukların işe zorlanması ve okula gönderilmemesi; kadınlara eşit olmayan ücret, işe alımda ayrımcılık ve şiddet; yaşlıların bakımsız bırakılması, ihmal ve istismar edilmesi; engellilerin binalara, ulaşıma ve eğitime erişememesi, alay edilmesi ve toplumsal hayattan dışlanması örnek olarak verilebilir."
+   }
+  ],
+  "118": [
+   {
+    "q": "Uygulama adımlarını takip ederek etkinliği yapınız.",
+    "a": "Gruplara ayrılıp bir hak ihlali konusu seçilir, çözüm planı hazırlanır, uygulanır ve sunulur."
+   },
+   {
+    "q": "Öğretmeninizin rehberliğinde eşit sayıda kişiden oluşan gruplara ayrılınız.",
+    "a": "Sınıf, eşit sayıda üyeli gruplara bölünür."
+   },
+   {
+    "q": "Çocuk, kadın, yaşlı ve özel gereksinimli bireyler odağında yaşanan hak ihlallerine yönelik bir çözüm planı hazırlayınız.",
+    "a": "Sorun, nedenleri, çözüm önerileri, sorumlular ve uygulama takvimi belirlenerek plan yazılır."
+   },
+   {
+    "q": "Öğretmeniniz rehberliğinde grup çalışması yoluyla hazırlayacağınız çözüm planını oluştururken çalışma adımlarını takip ediniz.",
+    "a": "Plan, verilen adımlar sırasıyla ve grup işbirliğiyle oluşturulur."
+   },
+   {
+    "q": "Hazırladığınız planı uygulama sürecini ve çalışmaların etkilerini değerlendirdiğiniz bir sunum hazırlayarak sınıf ortamında paylaşınız.",
+    "a": "Uygulama adımları, sonuçlar ve etkiler görsellerle sunulur."
+   },
+   {
+    "q": "Aşağıda verilenleri inceleyiniz.",
+    "a": "Akran zorbalığı (%13,8), otizmli çocuğun eğitim hakkı ihlali, yaşlıların dijital dışlanması, kadınlara yönelik şiddet (%28,2 psikolojik, %18,3 ekonomik, %12,8 ısrarlı takip, %8,3 dijital) ve kadınların parlamentoda %27,2 temsili incelenir."
+   },
+   {
+    "q": "İncelemenizin ardından grup olarak çocuk, kadın, yaşlı ve özel gereksinimli birey konularından birini seçiniz.",
+    "a": "Grupça tek bir konu seçilir (ör. çocuklara yönelik akran zorbalığı)."
+   },
+   {
+    "q": "Çözüm planı oluşturacağınız konu ile ilgili doğrudan gözlemlediğiniz veya küresel ölçekte önem taşıyan toplumsal sorunlardan birini belirleyiniz.",
+    "a": "Seçilen konuya ait somut bir sorun belirlenir (ör. okullarda akran zorbalığı ve sosyal dışlanma)."
+   },
+   {
+    "q": "Belirlenen Sorun:",
+    "a": "Okullarda çocuklara yönelik akran zorbalığı ve sosyal dışlanma."
+   }
+  ],
+  "119": [
+   {
+    "q": "MADDE 10 hangi hakla ilgilidir?",
+    "a": "Kanun önünde eşitlik."
+   },
+   {
+    "q": "MADDE 17 hangi hakla ilgilidir?",
+    "a": "Kişinin dokunulmazlığı, maddî ve manevî varlığı."
+   },
+   {
+    "q": "MADDE 25 hangi hakla ilgilidir?",
+    "a": "Düşünce ve kanaat hürriyeti."
+   },
+   {
+    "q": "MADDE 36 hangi hakla ilgilidir?",
+    "a": "Hak arama hürriyeti."
+   },
+   {
+    "q": "MADDE 41 hangi hakla ilgilidir?",
+    "a": "Ailenin korunması ve çocuk hakları."
+   },
+   {
+    "q": "UNICEF 2025 Çocuk Raporu'ndaki sorun hangi haklarla ilgilidir?",
+    "a": "Kanun önünde eşitlik (md. 10), yaşama ve maddî-manevî varlığı koruma (md. 17), ailenin korunması ve çocuk hakları (md. 41)."
+   },
+   {
+    "q": "Bu sorundan kimler nasıl etkilenir?",
+    "a": "Yoksul ailelerdeki 412 milyondan fazla çocuk; beslenme, sağlık, eğitim ve barınma imkânlarına yeterince ulaşamaz, fırsat eşitliği zedelenir."
+   },
+   {
+    "q": "Türkiye Yaşlı Hakları Raporu'ndaki sorun hangi haklarla ilgilidir?",
+    "a": "Kanun önünde eşitlik (md. 10), kişinin maddî ve manevî varlığının korunması (md. 17), hak arama hürriyeti (md. 36)."
+   },
+   {
+    "q": "Bu sorundan kimler nasıl etkilenir?",
+    "a": "Yaşlılar; yaş ayrımcılığına uğrayarak iş, sağlık, hizmet ve toplumsal hayata katılımda dezavantaj yaşar."
+   }
+  ],
+  "120": [
+   {
+    "q": "Mevcut durumun geliştirilmesi gereken yönleri nelerdir?",
+    "a": "Farkındalık ve bilinç düzeyinin artırılması, katılım ve iş birliğinin güçlendirilmesi, kaynak ve olanakların iyileştirilmesi, uygulamaların düzenli denetlenmesi."
+   },
+   {
+    "q": "Alternatif çözüm önerileri nelerdir?",
+    "a": "Eğitim ve bilgilendirme çalışmaları yapmak, paydaşlarla iş birliği kurmak, yeni uygulama ve politikalar geliştirmek, düzenli izleme ve değerlendirme yapmak."
+   },
+   {
+    "q": "Belirlediğiniz sorun hangi anayasal haklarla ilgilidir?",
+    "a": "Eşitlik (m.10), düşünceyi açıklama ve yayma (m.26), dilekçe ve katılım (m.74) ile eğitim hakkı (m.42) gibi haklarla ilgilidir."
+   }
+  ],
+  "123": [
+   {
+    "q": "Geliştirdiğiniz çözüm önerilerinin çocukların, kadınların, yaşlıların ve özel gereksinimli bireylerin eğitim, güvenlik, çalışma ve sosyal hayata etkin katılımını sağlamadaki rolünü açıklayınız.",
+    "a": "Bu çözümler erişilebilir eğitim ve teknolojiyle fırsat eşitliği sağlar; güvenlik ve çalışma hayatında ayrımcılığı azaltarak bu grupların karar süreçlerine ve sosyal hayata etkin katılımını güçlendirir."
+   },
+   {
+    "q": "Kaynaklarda yer alan uygulamalar, insana ve topluma değer verme anlayışını nasıl yansıtmaktadır?",
+    "a": "TİHEK'in yaş ayrımcılığına ceza vermesi eşitliği ve insan onurunu korur; \"Sesli Kampüs\" uygulaması görme engellilerin eğitime erişimini kolaylaştırarak kapsayıcılık ve toplumsal dayanışmayı yansıtır."
+   }
+  ],
+  "124": [
+   {
+    "q": "Belirlenen sorun nedir?",
+    "a": "Okuldaki fiziksel engeller yüzünden özel gereksinimli öğrencilerin derslik, tuvalet ve bahçeye rahat erişememesi."
+   },
+   {
+    "q": "Sorundan etkilenen grup kimlerdir?",
+    "a": "Özel gereksinimli bireyler (ayrıca çocuklar ve aileleri)."
+   },
+   {
+    "q": "İlgili anayasal hak hangisidir?",
+    "a": "Eğitim hakkı (m.42), eşitlik ilkesi (m.10) ve insan onuruna uygun yaşam hakkı (m.17)."
+   },
+   {
+    "q": "Sorunun nedenleri nelerdir?",
+    "a": "Rampa, asansör ve erişilebilir tuvalet eksikliği; uygun olmayan kapı ve koridorlar; farkındalık ve bütçe yetersizliği."
+   },
+   {
+    "q": "Sorunun sonuçları nelerdir?",
+    "a": "Derslere katılamama, eğitimde geri kalma, sosyal dışlanma ve bağımsız hareket edememe."
+   },
+   {
+    "q": "Çözüm önerileri nelerdir?",
+    "a": "Rampa ve asansör yapımı, erişilebilir tuvalet düzenlemesi, okul yönetimine başvuru ve farkındalık etkinliği."
+   },
+   {
+    "q": "Çözüm önerileri doğrultusunda hangi hak arama yolları kullanılabilir?",
+    "a": "Dilekçe hakkı, Kamu Denetçiliği Kurumu, Türkiye İnsan Hakları ve Eşitlik Kurumu ve mahkemeye başvuru."
+   },
+   {
+    "q": "Seçilen yol ve gerekçesi nedir?",
+    "a": "Önce dilekçe, sonuç alınamazsa TİHEK; hızlı, ücretsiz ve idareyi harekete geçirici olduğu için."
+   },
+   {
+    "q": "Eylem planında yapılacak faaliyetler nelerdir?",
+    "a": "Erişilebilirlik tespiti yapmak, okul yönetimine dilekçe vermek, farkındalık sunumu düzenlemek."
+   },
+   {
+    "q": "Faaliyetlerin sorumlu kişileri kimlerdir?",
+    "a": "Grup üyeleri ve sınıf öğretmeni."
+   },
+   {
+    "q": "Faaliyetler nerede yapılacaktır?",
+    "a": "Okul binası, sınıf ve çevrim içi ortam."
+   },
+   {
+    "q": "Faaliyetler ne zaman yapılacaktır?",
+    "a": "Bir hafta içinde, ders dışı saatlerde."
+   },
+   {
+    "q": "Projenin katkısı nedir?",
+    "a": "Farkındalığı artırır, okulda erişilebilirliği iyileştirir ve hak arama becerisi kazandırır."
+   },
+   {
+    "q": "Geliştirilebilecek yönler nelerdir?",
+    "a": "Daha fazla paydaş katılımı, bütçe desteği ve uzun vadeli izleme yapılması."
+   }
+  ],
+  "125": [
+   {
+    "q": "Öğrencinin Adı ve Soyadı, Sınıfı, Numarası, Tarih",
+    "a": "Öğrenci tarafından doldurulur."
+   },
+   {
+    "q": "Hak İhlalinin Tanımı",
+    "a": "Özel gereksinimli bir öğrencinin okula ve dersliklere rampa/asansör olmadığı için erişememesi."
+   },
+   {
+    "q": "Kişisel Düşüncelerim ve Duygularım",
+    "a": "Üzüldüm; eğitimde eşitlik ve erişilebilirlik hakkının ihlal edildiğini düşündüm."
+   },
+   {
+    "q": "Hak İhlalinin Ortaya Çıkmasının Nedenleri ve Sorunun Kaynağı",
+    "a": "Binaların erişilebilirlik gözetilmeden yapılması, farkındalık ve denetim eksikliği, kaynak yetersizliği."
+   },
+   {
+    "q": "Çözüm Önerileri",
+    "a": "Rampa ve asansör yapılması, erişilebilirlik denetimi, okul yönetimi ve belediyeye başvuru, farkındalık etkinliği."
+   },
+   {
+    "q": "Bu Deneyimin Bana Katkısı",
+    "a": "Empati, hak savunuculuğu, araştırma ve çözüm üretme becerisi kazandım."
+   }
+  ],
+  "128": [
+   {
+    "q": "Dünyanın farklı yerlerinden antidemokratik uygulamaları konu alan gazete manşetlerini araştırınız.",
+    "a": "Basın sansürü, seçim manipülasyonu, muhalefetin tutuklanması, protesto yasakları ve yargıya müdahale gibi örnekleri içeren manşetler derlenir."
+   },
+   {
+    "q": "Ulaştığınız bilgilerden yola çıkarak antidemokratik uygulamalarla ilgili bir kolaj hazırlayınız.",
+    "a": "Farklı ülkelerden seçilen manşet ve görseller başlıklar altında birleştirilerek düzenli bir kolaj oluşturulur."
+   },
+   {
+    "q": "Hazırladığınız kolajı arkadaşlarınızla paylaşınız.",
+    "a": "Kolaj sınıfta sunulur ve uygulamaların demokrasiye etkisi tartışılır."
+   },
+   {
+    "q": "Kolaj Çalışması (Düşünelim)",
+    "a": "Demokrasinin sürdürülebilirliği için ifade özgürlüğü, serbest seçim, hukukun üstünlüğü ve toplumsal katılımın korunması gerektiği vurgulanır."
+   }
+  ],
+  "129": [
+   {
+    "q": "1. \"Rubicon'u geçmek\" ifadesinin demokrasi bağlamındaki metaforik anlamı nedir? Açıklayınız.",
+    "a": "Geri dönüşü olmayan, cesur ve sonuçları kalıcı bir karar anını; hakları savunmak, adaletsizliğe karşı durmak veya toplumsal değişim başlatmak için atılan kritik adımı ifade eder."
+   },
+   {
+    "q": "2. Demokrasinin korunmasıyla ilgili Türkiye'den ve dünyadan örnekler veriniz.",
+    "a": "Türkiye: 15 Temmuz 2016'da halkın darbe girişimine karşı demokrasiyi koruması. Dünya: 1989'da Berlin Duvarı'nın yıkılması ve Doğu Avrupa'da demokrasiye geçiş."
+   }
+  ],
+  "130": [
+   {
+    "q": "Antidemokratik süreçler ve demokrasinin sürdürülebilirliği ile ilgili soruyu metin ve kaynaktan yararlanarak cevaplayınız.",
+    "a": "Antidemokratik süreçler; halk egemenliği, hukukun üstünlüğü, temel hak ve özgürlükler ile çoğulculuk esaslarını aşındıran veya ortadan kaldıran eğilimlerdir. Serbest ve adil seçimler, kuvvetler ayrılığı, bağımsız yargı ve özgür basın gibi güvenceleri zayıflatarak demokrasinin sürdürülebilirliğini tehdit eder."
+   },
+   {
+    "q": "Çoğulculuk nedir?",
+    "a": "Çeşitli eğilimlerin, düşüncelerin yönetimde etkisini kabul eden siyasi yöntemdir."
+   }
+  ],
+  "131": [
+   {
+    "q": "Bir ülkede demokrasinin varlığını uzun süre devam ettirebilmesi için hangi toplumsal ve kurumsal unsurların bulunması gerekir? Açıklayınız.",
+    "a": "Demokratik kültür (çoğulculuk, uzlaşı, barışçıl iktidar değişimi), kurumsallaşmış adil ve özgür seçimler (temsil, katılım, denetim) ve sivil-asker ilişkilerinin demokratik düzenlenmesi (ordunun siyasetten uzak durması) gerekir."
+   }
+  ],
+  "134": [
+   {
+    "q": "Etkinlik için hangi konuyu seçtiniz?",
+    "a": "Türkiye’de darbeler."
+   },
+   {
+    "q": "Belirlediğiniz soruna ilişkin hangi kaynakları kullandınız?",
+    "a": "Anayasa, TBMM tutanakları, akademik makaleler, gazete arşivleri, belgeseller ve güvenilir dijital kaynaklar."
+   },
+   {
+    "q": "Sorunla ilgili görüşler nelerdir?",
+    "a": "Darbeler demokrasiyi, hukuk devletini ve temel hakları zedeler; toplumsal ve ekonomik istikrarsızlığa yol açar."
+   },
+   {
+    "q": "Sorunla ilgili benzer bakış açıları nelerdir?",
+    "a": "Darbelerin antidemokratik olduğu ve sivil yönetimin esas olması gerektiği yönündedir."
+   },
+   {
+    "q": "Sorunla ilgili farklı bakış açıları nelerdir?",
+    "a": "Bazı çevreler darbeleri dönemin koşullarında “düzeni sağlama” gerekçesiyle savunmuştur; bu görüş hukuk ve demokrasi açısından kabul edilemez."
+   },
+   {
+    "q": "Sorunun çözümüne yönelik alınan kararlar nelerdir?",
+    "a": "Askerî vesayetin kaldırılması, demokratikleşme reformları, AB uyum süreci, yargı bağımsızlığı ve temel hakların güçlendirilmesi."
+   },
+   {
+    "q": "Sorunun çözümü için yapılan uygulamalar nelerdir?",
+    "a": "Anayasa değişiklikleri, MGK’nın yapısının değiştirilmesi, sivil denetimin artırılması, darbe girişimlerine karşı hukuki ve toplumsal tepki ve demokrasi eğitimi."
+   }
+  ],
+  "135": [
+   {
+    "q": "Bu sorunun çözümü için uygulanan yöntemler ve alınan kararların güncel sorunların ortaya çıkmasına olan etkilerini belirleyerek aşağıdaki ilgili alana yazınız.",
+    "a": "Sıkıyönetim, parti kapatma ve anayasa değişiklikleri; bugün demokrasi açığı, güvensizlik, kutuplaşma ve hak ihlalleri gibi sorunlara yol açmıştır."
+   },
+   {
+    "q": "Alternatif çözüm önerilerinizi aşağıdaki ilgili alana yazınız.",
+    "a": "Hukuk devletini ve demokratik kurumları güçlendirmek, askerî vesayeti kaldırmak, sivil toplumu ve katılımı desteklemek, darbeleri yargı önünde hesap verir hâle getirmek."
+   },
+   {
+    "q": "Geliştirdiğiniz alternatif önerilerin olası sonuçlarını, Türkiye'deki ve dünyadaki darbe örneklerinin yanı sıra dünyadaki antidemokratik uygulamalara yönelik alınan kararların sonuçlarıyla karşılaştırarak aşağıdaki tabloya yazınız.",
+    "a": "Alternatif öneriler demokrasiyi, güveni ve katılımı güçlendirir; antidemokratik kararlar ise baskı, hak ihlali, kutuplaşma ve meşruiyet kaybına yol açar."
+   }
+  ],
+  "136": [
+   {
+    "q": "Karekodda dünyada yaşanan darbelerle ilgili etkileşimli içerikte ne incelenir?",
+    "a": "Darbelerin nedenleri, sonuçları ve demokrasiye etkileri incelenir."
+   },
+   {
+    "q": "Darbelerin yanı sıra diğer antidemokratik uygulamaların belirli ülke ve bölgelerde yoğunlaşmasının nedenleri nelerdir?",
+    "a": "Ekonomik eşitsizlik, zayıf kurumlar, otoriter gelenek, toplumsal kutuplaşma, dış müdahaleler ve darbe kültürü."
+   },
+   {
+    "q": "Araştırma sonucunda ulaşılan bilgiler nasıl paylaşılır?",
+    "a": "Sunum hazırlanarak arkadaşlarla paylaşılır ve birlikte değerlendirilir."
+   },
+   {
+    "q": "İstasyon çalışması hangi adımlarla yapılır?",
+    "a": "Eşit gruplara ayrılır, üç masa oluşturulur, beş dakikada çalışılır, yer değiştirilir, ürünler paylaşılıp değerlendirilir."
+   },
+   {
+    "q": "1. İstasyonun görevi nedir?",
+    "a": "Hukukun üstünlüğü, çoğulculuk, katılım, hoşgörü ve eşitlik kavramlarını incelemek."
+   },
+   {
+    "q": "Bu kavramlardan üç tanesini seçiniz.",
+    "a": "Hukukun üstünlüğü, çoğulculuk ve katılım."
+   },
+   {
+    "q": "Seçtiğiniz kavramların demokrasinin sürdürülebilirliği açısından neden gerekli olduğunu açıklayınız.",
+    "a": "Hukukun üstünlüğü keyfî yönetimi önler, çoğulculuk farklı görüşleri temsil eder, katılım halkın yönetime ortak olmasını sağlar."
+   },
+   {
+    "q": "“Eğer bu ilke zedelenirse demokrasi ............” cümlesini tamamlayınız.",
+    "a": "...zayıflar; otoriterleşme ve hak ihlalleri artar."
+   }
+  ],
+  "137": [
+   {
+    "q": "Performans görevi: Antidemokratik uygulamalara çözüm önerileri içeren bilgi görseli hazırlayınız.",
+    "a": "Sorun belirlenir; görsel ve metinler toplanır; özgün, yalın, yazım kurallarına uygun bilgi görseli hazırlanıp sunulur."
+   },
+   {
+    "q": "2. İstasyon Vaka İncelemesi: Vakadaki temel sorun nedir?",
+    "a": "İfade özgürlüğünün sınırlarının aşılarak farklı görüştekilerin hedef alınması ve okulda kutuplaşma ile gerginlik yaratılmasıdır."
+   },
+   {
+    "q": "2. İstasyon Çalışma 1: Bu olayda hangi hak söz konusudur?",
+    "a": "İfade özgürlüğü."
+   },
+   {
+    "q": "2. İstasyon Çalışma 2: Hak kullanımındaki hangi davranış demokrasiye zarar vermektedir?",
+    "a": "Farklı görüştekileri hedef alan, kutuplaştıran ve gerginlik yaratan paylaşımlar."
+   },
+   {
+    "q": "2. İstasyon Çalışma 3: Eğer bu durum yaygınlaşırsa demokratik kültür nasıl etkilenir?",
+    "a": "Hoşgörü ve diyalog azalır; kutuplaşma, güvensizlik ve ayrımcılık artar."
+   },
+   {
+    "q": "2. İstasyon Çalışma 4: Demokrasinin sürdürülebilirliği için üç çözüm önerisi yazınız.",
+    "a": "İfade özgürlüğünün sorumlulukla kullanılması eğitimi verilmeli; farklı görüşlere saygı ve diyalog ortamı oluşturulmalı; nefret söylemi ve hedef göstermeye yönelik açık kurallar uygulanmalı."
+   },
+   {
+    "q": "2. İstasyon Çalışma 5: “Demokratik bir toplumda ifade özgürlüğü .................. ile anlam kazanır.” cümlesini tamamlayınız.",
+    "a": "sorumluluk bilinci ve başkalarının haklarına saygı"
+   },
+   {
+    "q": "3. İstasyon Görev: Hak ve özgürlüklerimi kullanırken nelere dikkat etmeliyim?",
+    "a": "Başkalarının haklarına saygı, yasal sınırlar, sorumluluk, kamu düzeni ve ayrımcılık yapmama."
+   },
+   {
+    "q": "3. İstasyon Çalışma 1: Beş maddelik bir “Demokratik Vatandaş Davranış Listesi” oluşturunuz.",
+    "a": "Farklı görüşlere saygı duyarım; haklarımı sorumlulukla kullanırım; nefret söylemi ve şiddetten kaçınırım; kararlara katılır ve oyumu özgürce kullanırım; yasalara ve kamu düzenine uyarım."
+   },
+   {
+    "q": "3. İstasyon Çalışma 2: Listeye bir slogan ekleyiniz.",
+    "a": "“Farklılıklara saygı, demokrasiye güç.”"
+   }
+  ],
+  "139": [
+   {
+    "q": "1. Öğrencilerin etkin vatandaşın özellikleri ile ilgili yapacakları araştırma için önerebileceğiniz iki soru yazınız.",
+    "a": "“Etkin vatandaşın temel özellikleri nelerdir?” ve “Etkin vatandaş toplumsal sorunlara nasıl çözüm üretir?”"
+   },
+   {
+    "q": "2. Parlak Fikirler grubuna kaynaklardan bilgi toplama sürecine yönelik önerileriniz nelerdir?",
+    "a": "Araştırma sorusunu belirleyip güvenilir akademik kaynaklara yönelmeli, not almalı, kaynakları karşılaştırmalı ve ilgili bilgileri ayıklamalıdır."
+   },
+   {
+    "q": "3. İklim Koruyucuları grubunun çelişkili ifadeleri karşılaştırarak doğru sonuca varmaları için neler önerirsiniz?",
+    "a": "Kaynakların güvenilirliğini, tarihini ve yazarını kontrol etmeli; birden fazla güvenilir kaynağı karşılaştırmalı ve görüş ile olguyu ayırmalıdır."
+   },
+   {
+    "q": "4. İklim Koruyucuları, Çevreciler ve Parlak Fikirler grubu için kaynakları sorgulama aşamasında önerileriniz nelerdir? Açıklayınız.",
+    "a": "Kaynağın yazarı, amacı, tarihi, güncelliği ve güvenilirliği sorgulanmalı; önyargı ve taraflılık kontrol edilmeli, bilgiler resmî ve akademik kaynaklarla karşılaştırılmalıdır."
+   }
+  ],
+  "140": [
+   {
+    "q": "Verilen kaynaklara göre etkin bir vatandaş hangi bilgi, beceri ve değerlere sahip olmalıdır?",
+    "a": "Demokratik katılım bilgisine; oy verme, gönüllü faaliyetlere katılma, barışçıl gösteri ve tartışmalara katılma, sorunlara yaratıcı çözümler üretme becerilerine; insan hakları, demokrasi, sosyal adalet, karşılıklı saygı ve sorumluluk değerlerine sahip olmalıdır."
+   },
+   {
+    "q": "Sunum esnasında etkin vatandaşın özelliklerine ilişkin nasıl bir başlık kullanılabilir?",
+    "a": "“Etkin Vatandaşın Özellikleri: Haklar, Sorumluluklar ve Katılım”"
+   },
+   {
+    "q": "Etkin vatandaşların hem kendi haklarını hem de başkalarının haklarını savunmaları aşağıdakilerden hangisine katkıda bulunur?",
+    "a": "E) İnsan haklarına dayalı bir toplum yapısının güçlenmesine"
+   }
+  ],
+  "141": [
+   {
+    "q": "a) Etkin vatandaş hak arama sürecinde kamu kurumlarına yönelik baskıcı davranışları bir yöntem olarak benimser.",
+    "a": "Y — Baskı ve zorbalık değil, hukuki ve meşru yollar kullanılır."
+   },
+   {
+    "q": "b) Etkin vatandaş hukukun üstünlüğü ilkesi doğrultusunda anayasa ve kanunlara uygun davranışlar sergiler.",
+    "a": "D"
+   },
+   {
+    "q": "c) Etkin vatandaş kişisel menfaatleri toplumsal yarardan daha önemli görür.",
+    "a": "Y — Toplumsal yarar kişisel menfaatten önce gelir."
+   },
+   {
+    "q": "ç) Etkin vatandaş kamu kurumlarının ve devlet mallarının tahrip edilmesine karşıdır.",
+    "a": "D"
+   },
+   {
+    "q": "d) Etkin vatandaş siyasal ve toplumsal yaşama demokrasi anlayışı çerçevesinde katılım gösterir.",
+    "a": "D"
+   },
+   {
+    "q": "e) Etkin vatandaş protesto ve gösterilerde can ve mal güvenliğine yönelik ihlalleri meşru görür.",
+    "a": "Y — Can ve mal güvenliğini ihlal eden eylemler meşru değildir."
+   },
+   {
+    "q": "f) Etkin vatandaş gerektiğinde şiddeti ve olumsuz davranışları destekleyen aşırılıkçı gruplara dâhil olabilir.",
+    "a": "Y — Şiddeti destekleyen aşırılıkçı gruplara dâhil olamaz."
+   },
+   {
+    "q": "g) Etkin vatandaş sosyal medyada insan haklarına yönelik ihlalleri sadece okumakla yetinir.",
+    "a": "Y — İhlallere duyarsız kalmaz; bilinçli tepki verir ve mücadele eder."
+   },
+   {
+    "q": "ğ) Etkin vatandaş haklarını ararken her zaman hukuki yollara başvurur.",
+    "a": "D"
+   },
+   {
+    "q": "9. soru",
+    "a": "Sayfa metninde 9. sorunun kendisi yer almıyor; yalnızca dayanak metin verilmiş."
+   },
+   {
+    "q": "10. soru",
+    "a": "Sayfa metninde 10. sorunun kendisi yer almıyor; yalnızca dayanak metin verilmiş."
+   }
+  ],
+  "142": [
+   {
+    "q": "Mehmet Bey’in öz yeterlilik kaybı ve sosyal izolasyon sorunlarına yönelik nasıl bir çözüm önerisi planı hazırlardınız?",
+    "a": "Küçük ve ulaşılabilir hedefler belirleyip başarıları pekiştirerek öz yeterliliği artıran; aile, arkadaş ve uzman desteğiyle sosyal etkinliklere kademeli katılımı sağlayan bir plan hazırlardım."
+   },
+   {
+    "q": "Hazırladığınız çözüm önerisi planını uygularken karşılaşabileceğiniz muhtemel engeller neler olabilir?",
+    "a": "Motivasyon ve özgüven eksikliği, sosyal ortamlardan kaçınma, damgalanma kaygısı, aile/çevre desteğinin yetersizliği, ulaşım ve maddi imkân sınırlılıkları gibi engeller olabilir."
+   },
+   {
+    "q": "Aşağıdakilerden hangisi Dilek’in anne ve babasının hazırladığı planda yer alabilecek uygun hak arama yollarından birisi değildir?",
+    "a": "D) Parktaki salıncağa ve kaydırağa zarar veren çocukları bulup onlarla konuşmak"
+   },
+   {
+    "q": "Dilek’in anne ve babasının sorunun çözümüne yönelik uyguladığı planı inceleyerek değerlendiriniz.",
+    "a": "Plan; sorunu tanımlayan, amaç belirleyen, yetkili kuruma dilekçeyle başvuran, süreci takip eden ve on yedi günde sonuç alan etkili, hukuka uygun ve sistematik bir çözümdür."
+   }
+  ],
+  "143": [
+   {
+    "q": "13. Balık kılçığı diyagramında atık sorununun nedenlerini ve bu nedenlere yönelik ülkemizde uygulanabilecek alternatif çözüm önerilerini yazınız.",
+    "a": "Nedenler: aşırı tüketim, tek kullanımlık ürünler, bilinçsizlik, yetersiz toplama ve altyapı, sanayileşme ve kentleşme. Çözümler: sıfır atık eğitimi, kaynağında ayrıştırma, depozito sistemi, yeniden kullanım, geri dönüşüm tesisleri, yasal teşvik ve yaptırımlar."
+   },
+   {
+    "q": "14. Geliştirdiğiniz alternatif çözüm önerilerinin olası sonuçlarını, verilen uygulamaların sonuçlarıyla karşılaştırarak değerlendiriniz.",
+    "a": "Alternatif çözümler uygulanırsa atık miktarı azalır; geri dönüşüm oranı, ekonomik kazanç, enerji-su-depolama tasarrufu artar ve sera gazı salımı azalır. Bu sonuçlar verilen uygulamaların sonuçlarıyla aynı yöndedir ve onları destekler."
+   }
+  ]
  }
 }
