@@ -1,0 +1,44 @@
+{
+ "bookId": 474,
+ "done": false,
+ "pages": {
+  "3": [
+   {
+    "q": "Bu sayfada yanıtlanacak soru veya etkinlik var mı?",
+    "a": "Hayır; sayfa yalnızca İstiklal Marşı metnini içeriyor, soru ya da etkinlik yok."
+   }
+  ],
+  "12": [
+   {
+    "q": "Temel müzik yazı, işaret ve kavramlarından bildiklerinizi arkadaşlarınızla paylaşınız.",
+    "a": "Nota, porte, sol anahtarı, nota değeri, es (sus), ritim, usul, ölçü, röpriz, senyö ve koma gibi kavramları biliyorum; bunlar sesin yüksekliğini, süresini ve tekrarını gösterir."
+   },
+   {
+    "q": "Size göre usul, makam, temel müzik yazı, işaret ve kavramlarının kullanılması müzikte nasıl bir etki ortaya çıkarmaktadır? Açıklayınız.",
+    "a": "Eserin doğru ve düzenli icra edilmesini sağlar; ortak bir müzik dili oluşturur, eserin kuşaktan kuşağa aktarılmasını kolaylaştırır ve farklı müzik türleri arasında birleştirici bir etki yaratır."
+   }
+  ],
+  "13": [],
+  "14": [],
+  "15": [],
+  "16": [],
+  "17": [],
+  "18": [],
+  "22": [],
+  "23": [],
+  "24": [],
+  "25": [],
+  "26": [],
+  "27": [],
+  "29": [],
+  "30": [],
+  "31": [],
+  "32": [],
+  "33": [],
+  "34": [],
+  "35": [],
+  "36": [],
+  "37": [],
+  "39": []
+ }
+}

@@ -1,6 +1,6 @@
 {
  "bookId": 473,
- "done": false,
+ "done": true,
  "pages": {
   "3": [
    {
@@ -756,6 +756,487 @@
   "97": [],
   "98": [],
   "99": [],
-  "106": []
+  "106": [],
+  "107": [
+   {
+    "q": "Etkinlikte hangi uygulama seçilebilir?",
+    "a": "Din kültürü ve ahlak bilgisi dersinin zorunlu hâle gelmesi."
+   },
+   {
+    "q": "Seçilen uygulamanın sebep-sonuç haritası nasıl oluşturulur?",
+    "a": "Uygulama balığın başına yazılır; kılçıklara sebepleri ve sonuçları yerleştirilir."
+   },
+   {
+    "q": "Seçilen uygulamanın sebepleri nelerdir?",
+    "a": "1982 Anayasası’nın din ve ahlak öğretimini zorunlu kılması, ortak ahlak eğitimi ihtiyacı ve din eğitiminin devlet denetiminde verilmesi."
+   },
+   {
+    "q": "Seçilen uygulamanın sonuçları nelerdir?",
+    "a": "Dersin tüm öğrenciler için zorunlu olması ve örgün eğitimde yaygınlaşması."
+   },
+   {
+    "q": "Eğitim sistemi üzerindeki etkisi nedir?",
+    "a": "Din kültürü ve ahlak bilgisi dersi örgün eğitimin zorunlu bir parçası hâline gelmiştir."
+   },
+   {
+    "q": "Uygulamanın toplumsal etkisi nedir?",
+    "a": "Toplumda ortak din ve ahlak kültürünün yaygınlaşmasına katkı sağlamıştır."
+   },
+   {
+    "q": "Bu uygulamanın olumsuz sonuçları nelerdir?",
+    "a": "Farklı inanç ve mezheplerin ihtiyaçlarını tam karşılamaması ve zorunluluk tartışmalarına yol açmasıdır."
+   }
+  ],
+  "110": [
+   {
+    "q": "Din Kültürü ve Ahlak Bilgisi Dersi Öğretim Programı’ndaki değişimlerin toplumsal ihtiyaçlarla ilişkisini açıklayınız.",
+    "a": "Program, bilgi aktarımından değer ve beceri temelli yaklaşıma geçmiş; toplumsal değişim, teknoloji ve küresel etkiler dikkate alınarak yenilenmiş, böylece toplumun ahlaki, manevi ve sorumluluk sahibi birey ihtiyacına cevap vermeyi amaçlamıştır."
+   }
+  ],
+  "112": [
+   {
+    "q": "Etkinliğin adı nedir?",
+    "a": "Din Eğitimi Modeli."
+   },
+   {
+    "q": "Etkinliğin amacı nedir?",
+    "a": "Türkiye'deki örgün din eğitimi uygulamalarına ilişkin ön bilgilerden yararlanarak uyumlu bir bütün ortaya koymak."
+   },
+   {
+    "q": "Etkinlik için ayrılan süre nedir?",
+    "a": "20 dakika."
+   },
+   {
+    "q": "Ön hazırlıkta kaç kişilik gruplara ayrılmalıdır?",
+    "a": "Dört-altı kişilik gruplara."
+   },
+   {
+    "q": "Ön hazırlıkta hangi program incelenmelidir?",
+    "a": "Din Kültürü ve Ahlak Bilgisi Öğretim Programı."
+   },
+   {
+    "q": "Sınıf içi uygulamada hangi ülkenin din eğitimi araştırılır?",
+    "a": "Belirlenen başka bir ülkenin din eğitimi uygulamaları."
+   },
+   {
+    "q": "Nasıl bir model hazırlanmalıdır?",
+    "a": "Türkiye'deki örgün din eğitimi sisteminin tarihsel ve yapısal modeli."
+   },
+   {
+    "q": "Model hangi biçimlerde tasarlanabilir?",
+    "a": "Zaman çizelgesi, şema veya poster."
+   },
+   {
+    "q": "Modelde ne açıkça gösterilmelidir?",
+    "a": "Nedensel ilişkiler (neden-sonuç bağlantıları)."
+   },
+   {
+    "q": "Hazırlanan model ne yapılmalıdır?",
+    "a": "Sınıfta arkadaşlara sunulmalıdır."
+   },
+   {
+    "q": "Değerlendirme nasıl yapılır?",
+    "a": "Grup değerlendirme formu, grubun performansına göre doldurulur."
+   },
+   {
+    "q": "Öğretim Programı'na nasıl ulaşılır?",
+    "a": "Karekod okutularak."
+   },
+   {
+    "q": "Grup değerlendirme formundaki ölçütler nelerdir?",
+    "a": "Etkin katılım ve görev paylaşımı, güvenilir ve yeterli bilgi toplama, iki ülke sistemini benzerlik ve farklılıklarıyla karşılaştırma, bilgileri neden-sonuç ilişkileriyle modele dönüştürme, modeli düzenli/anlaşılır/estetik tasarlama, çalışmayı açık/akıcı/etkili sunma."
+   },
+   {
+    "q": "Değerlendirme dereceleri nelerdir?",
+    "a": "Hiçbir zaman, ara sıra, çoğu zaman, her zaman."
+   }
+  ],
+  "113": [
+   {
+    "q": "Türkiye'de örgün din eğitimi hakkında öğrendiğim üç bilgi nedir?",
+    "a": "1) Din Kültürü ve Ahlak Bilgisi ilk ve ortaöğretimde zorunludur. 2) İmam hatip liseleri mesleki din eğitimi verir. 3) İlahiyat fakülteleri yüksek din eğitimi sunar."
+   },
+   {
+    "q": "Türkiye'de örgün din eğitimi hakkında ilgimi çeken iki konu nedir?",
+    "a": "1) Seçmeli din dersleri (Kur'an-ı Kerim, Hz. Muhammed'in Hayatı vb.). 2) DKAB dersinin farklı inançlara yaklaşımı."
+   },
+   {
+    "q": "Türkiye'de örgün din eğitimiyle ilgili öğrenmek istediğim bir soru nedir?",
+    "a": "Seçmeli din dersleri hangi sınıflarda ve hangi şartlarda okutulmaktadır?"
+   }
+  ],
+  "114": [
+   {
+    "q": "\"Yaygın din eğitimi\" nedir? Düşüncelerinizi açıklayınız.",
+    "a": "Örgün eğitim dışında veya yanında, plan ve program dâhilinde hayat boyu sürdürülen din eğitimi faaliyetleridir; cami, mescit, Kur'an kursu gibi ortamlarda yapılır."
+   },
+   {
+    "q": "Metinde vurgulanan din eğitimi anlayışı, Türkiye'deki yaygın din eğitimi uygulamalarıyla nasıl ilişkilendirilebilir?",
+    "a": "Metin, eğitimin her ortam ve zamanda süren bir faaliyet olduğunu vurgular; bu anlayış Türkiye'de camilerdeki vaazlar, yaz Kur'an kursları ve Diyanet'in din hizmetleriyle örtüşür."
+   }
+  ],
+  "119": [
+   {
+    "q": "5. Etkinlik’te hangi yaygın din eğitimi türlerinin amacı, hedef kitlesi ve örnek uygulamaları araştırılacaktır?",
+    "a": "Yaz Kur’an Kursu, Cami Sohbeti, Aile Okulu ve Gençlik Merkezi Etkinlikleri."
+   },
+   {
+    "q": "Yaz Kur’an Kursu’nun amacı, hedef kitlesi ve örnek uygulamaları nelerdir?",
+    "a": "Kur’an’ı doğru okumayı ve temel dinî bilgileri öğretmek; ilkokul, ortaokul ve lise çağındaki öğrenciler; yaz tatilinde camilerde Kur’an, namaz ve ahlak dersleri."
+   },
+   {
+    "q": "Cami Sohbeti’nin amacı, hedef kitlesi ve örnek uygulamaları nelerdir?",
+    "a": "Cemaati dinî konularda bilgilendirip manevi gelişimini desteklemek; her yaştan cami cemaati; vaaz, sohbet halkası ve soru-cevap."
+   },
+   {
+    "q": "Aile Okulu’nun amacı, hedef kitlesi ve örnek uygulamaları nelerdir?",
+    "a": "Aile içi iletişim, çocuk eğitimi ve değerler konusunda aileleri bilinçlendirmek; anne-babalar ve aile üyeleri; seminer, atölye ve grup çalışmaları."
+   },
+   {
+    "q": "Gençlik Merkezi Etkinlikleri’nin amacı, hedef kitlesi ve örnek uygulamaları nelerdir?",
+    "a": "Gençlerin dinî, ahlaki ve sosyal gelişimini desteklemek; gençler ve üniversite çağındaki bireyler; kamp, gezi, spor, sohbet ve kitap okuma etkinlikleri."
+   },
+   {
+    "q": "5. Etkinlik kapsamında nasıl bir poster hazırlanır?",
+    "a": "Seçilen yaygın din eğitimi türünün adı, amacı, hedef kitlesi ve örnek uygulamaları görsel ve sloganlarla poster olarak hazırlanıp sunulur."
+   },
+   {
+    "q": "Yaygın din eğitimi uygulamalarını mesleki olarak gerçekleştirmek için hangi ön hazırlıkları yapardınız?",
+    "a": "Hedef kitle ve ihtiyaç analizi, program/plan, mekân ve materyal, eğitimci, izin ve duyuru hazırlığı."
+   },
+   {
+    "q": "Bu uygulamaların süreç ve kurallarını nasıl açıklardınız?",
+    "a": "Amaç ve kazanımları, süre ve yer, katılım koşulları, saygı-disiplin ve güvenlik kurallarını açıkça belirterek."
+   },
+   {
+    "q": "Uygulamanın sonunda süreç ve sonuçları nasıl değerlendirirdiniz?",
+    "a": "Gözlem, anket ve geri bildirim, kazanım kontrolü ve sonuç raporuyla; eksikleri belirleyerek."
+   }
+  ],
+  "120": [
+   {
+    "q": "6. Etkinlik’in adı nedir?",
+    "a": "Yaygın Din Eğitimi Planım."
+   },
+   {
+    "q": "Etkinliğin amacı nedir?",
+    "a": "Türkiye’deki yaygın din eğitimi örneklerini mesleki olarak uygulayabilme."
+   },
+   {
+    "q": "Etkinlik kaç dakikadır?",
+    "a": "35 dakika."
+   },
+   {
+    "q": "Kaç kişilik gruplara ayrılınız?",
+    "a": "Dört-altı kişilik."
+   },
+   {
+    "q": "Yaygın eğitim türleri nasıl paylaşılır?",
+    "a": "Öğretmen rehberliğinde gruplar arasında."
+   },
+   {
+    "q": "İçerik planı neye göre doldurulur?",
+    "a": "Belirlenen yaygın din eğitimi türüne göre."
+   },
+   {
+    "q": "Plana uygun ne tasarlanır?",
+    "a": "Kısa bir ders senaryosu."
+   },
+   {
+    "q": "Senaryo sınıfta kaç dakikada canlandırılır?",
+    "a": "Beş-yedi dakika."
+   },
+   {
+    "q": "Etkinlik sonunda hangi form doldurulur?",
+    "a": "Gözlem formu."
+   },
+   {
+    "q": "Katılımcı Profili (Yaş)",
+    "a": "Yetişkinler, 25-50 yaş."
+   },
+   {
+    "q": "Eğitim Ortamı",
+    "a": "Cami dersliği veya seminer salonu."
+   },
+   {
+    "q": "Süre",
+    "a": "35 dakika."
+   },
+   {
+    "q": "Amaç",
+    "a": "Temel dinî bilgileri günlük hayata uyarlamak."
+   },
+   {
+    "q": "Konu Başlıkları",
+    "a": "İbadet, ahlak, Kur’an okuma."
+   },
+   {
+    "q": "Yöntem/Teknik",
+    "a": "Anlatım, soru-cevap, örnek olay."
+   },
+   {
+    "q": "Kullanılacak Materyaller",
+    "a": "Kur’an, ders kitabı, akıllı tahta."
+   },
+   {
+    "q": "Değerlendirme Yöntemi",
+    "a": "Gözlem formu ve soru-cevap."
+   },
+   {
+    "q": "Gözlem formundaki dereceler nelerdir?",
+    "a": "Çok iyi, İyi, Geliştirilmeli, Yetersiz."
+   },
+   {
+    "q": "Yaygın din eğitimi türüne uygunluk ve plan bütünlüğü",
+    "a": "Çok iyi."
+   },
+   {
+    "q": "Ders senaryosunun açıklığı ve akıcılığı",
+    "a": "Çok iyi."
+   },
+   {
+    "q": "Eğitim ortamı, süre, katılımcı profili ve materyale uygunluk",
+    "a": "İyi."
+   },
+   {
+    "q": "Canlandırmada rol paylaşımı ve grup iş birliği",
+    "a": "Çok iyi."
+   },
+   {
+    "q": "Sunum becerisi ve yaygın din eğitimi anlayışını yansıtma düzeyi",
+    "a": "İyi."
+   }
+  ],
+  "121": [
+   {
+    "q": "Din hizmetleri kavramını \"toplumu din konusunda aydınlatma, cami/mescit, hutbe, vaaz, yaygın din eğitimi ve rehberlik\" anahtar kavramlarını kullanarak en fazla 20 kelimeden oluşan bir metin ile tanımlayınız.",
+    "a": "Din hizmetleri, toplumu din konusunda aydınlatmak için cami/mescitlerde hutbe, vaaz, yaygın din eğitimi ve rehberlik sunan faaliyetlerdir."
+   },
+   {
+    "q": "Cami ve mescitlerin yaygın din eğitimindeki toplumsal işlevini yazınız.",
+    "a": "Toplumun dinî bilgi ihtiyacını karşılar; birlik, beraberlik, dayanışma ve ahlaki değerleri güçlendirir."
+   },
+   {
+    "q": "Cami ve mescitlerin yaygın din eğitimindeki sosyal işlevini yazınız.",
+    "a": "İnsanların bir araya gelip kaynaşmasını, yardımlaşmasını ve sosyal ilişkilerinin güçlenmesini sağlar."
+   }
+  ],
+  "122": [
+   {
+    "q": "Hangi din eğitimi uygulamasını seçtiniz?",
+    "a": "Yaygın din eğitimi; yaz Kur'an kursu (8-12 yaş)."
+   },
+   {
+    "q": "Taslak din eğitimi programının adı nedir?",
+    "a": "Yaz Kur'an Kursu Temel Din Eğitimi Programı."
+   },
+   {
+    "q": "Programın amacı ve öğrenme çıktıları nelerdir?",
+    "a": "Temel din bilgisi ve ahlaki değerler kazandırmak; kısa sureleri okumak, temel ibadetleri açıklamak, dürüstlük ve saygı göstermek."
+   },
+   {
+    "q": "Ders içerikleri ve etkinlikler nelerdir?",
+    "a": "Kur'an okuma, ilmihal, siyer, ahlak; grup okuma, drama, boyama ve örnek olay."
+   },
+   {
+    "q": "Programın değerler eğitimi ile ilişkisi nedir?",
+    "a": "Dürüstlük, saygı, yardımlaşma ve sorumluluk değerleri her derste örnek ve etkinliklerle işlenir."
+   },
+   {
+    "q": "Kullanılacak ölçme ve değerlendirme yöntemleri nelerdir?",
+    "a": "Gözlem, soru-cevap, kısa test, performans görevi ve öz değerlendirme."
+   },
+   {
+    "q": "Programın uygulama süresi nasıl planlanır?",
+    "a": "4 hafta, haftada 5 gün, günde 2 ders saati (40+40 dk)."
+   },
+   {
+    "q": "Her ders için hangi öğretim yöntemleri kullanılır?",
+    "a": "Anlatım, soru-cevap, gösterip yaptırma, drama, işbirlikli öğrenme ve örnek olay."
+   },
+   {
+    "q": "Programı sınıfta nasıl sunacaksınız?",
+    "a": "Görsel materyal ve kısa uygulama örnekleriyle 10-15 dakikada sunarım."
+   },
+   {
+    "q": "Seçtiğim eğitim kademesini ve seçme gerekçemi açıkça belirledim.",
+    "a": "Evet."
+   },
+   {
+    "q": "Programın amacı ve öğrenme çıktılarını net şekilde tanımladım.",
+    "a": "Evet."
+   },
+   {
+    "q": "Ders içeriklerini ve etkinlikleri öğrencilerin seviyesine uygun hazırladım.",
+    "a": "Evet."
+   },
+   {
+    "q": "Programda değerler eğitimi ile ilgili örnek ve etkinliklere yer verdim.",
+    "a": "Evet."
+   },
+   {
+    "q": "Ölçme ve değerlendirme yöntemlerini açık ve uygulanabilir şekilde belirledim.",
+    "a": "Evet."
+   },
+   {
+    "q": "Öz değerlendirme formunu nasıl doldurdunuz?",
+    "a": "Ölçütleri Evet/Kısmen/Hayır işaretleyerek doldurdum."
+   },
+   {
+    "q": "Performans görevi nasıl değerlendirilecek?",
+    "a": "Karekoddaki analitik dereceli puanlama anahtarıyla."
+   }
+  ],
+  "124": [
+   {
+    "q": "1. Geçmişten günümüze imam hatip okullarının birey ve toplumun gelişimine katkıları neler olmuştur?",
+    "a": "Bireye dinî ve ahlaki eğitim vererek manevi gelişimini destekler; topluma din hizmetleri, eğitim ve sosyal alanlarda nitelikli insan gücü kazandırır, millî-manevi değerleri yaşatan hoşgörülü ve dayanışmacı bireyler yetiştirir."
+   },
+   {
+    "q": "2. Diyanet İşleri Başkanlığının yürütmüş olduğu irşat faaliyetlerini günlük hayatınızda nasıl uygulayabilirsiniz? Örneklerle açıklayınız.",
+    "a": "Aileme ve arkadaşlarıma doğru dinî bilgiyi güzel bir dille aktarırım; cami sohbetlerine katılır, çevremdeki yanlış bilgileri kibarca düzeltirim; ihtiyaç sahiplerine yardım eder ve güzel ahlakla örnek olurum."
+   },
+   {
+    "q": "3. Ülkemizdeki din eğitimi programlarının tarihî seyrini incelediğinizde Türkiye Yüzyılı Maarif Modeli’nin hedeflerindeki farklılıklar nelerdir? Düşüncelerinizi yazınız.",
+    "a": "Önceki programlara göre ezber yerine anlama-yorumlama, bilgi yerine beceri ve değer, öğretmen merkezli yerine öğrenci merkezli, sınav odaklı yerine süreç odaklı bir yaklaşım benimsenir; millî-manevi değerler, disiplinler arası öğrenme ve dijital beceriler öne çıkar."
+   },
+   {
+    "q": "4. Diyanet İşleri Başkanlığının cami içerisinde gerçekleştirdiği din hizmetlerinin önemini bireysel ve toplumsal bağlamda değerlendiriniz.",
+    "a": "Bireysel olarak ibadet ihtiyacını karşılar, manevi huzur ve doğru dinî bilgi sağlar, ahlaki sorumluluk kazandırır; toplumsal olarak birlik, beraberlik, dayanışma ve sosyalleşmeyi güçlendirir, ortak değerleri yaşatır ve gençleri kötü alışkanlıklardan korur."
+   },
+   {
+    "q": "5. Örgün din eğitimini yaygın din eğitiminden ayıran özellikler nelerdir? Yazınız.",
+    "a": "Örgün din eğitimi okulda, belirli yaş ve sürede, resmî müfredat ve diploma ile planlı yürütülür; yaygın din eğitimi ise okul dışında, gönüllü, hayat boyu, esnek ve her yaşa yönelik olup cami, kurs, vaaz ve medya gibi ortamlarda sürer."
+   },
+   {
+    "q": "A) Aşağıdaki 1-5. soruların cevaplarını boş bırakılan alanlara yazınız.",
+    "a": "Sayfada bu soruların metni ve seçenekleri yer almadığı için cevaplanamaz."
+   }
+  ],
+  "125": [
+   {
+    "q": "6. İslam tebliğinin Medine Dönemi’nde din eğitimi Mescid-i Nebevi ile sınırlı kalmıştır.",
+    "a": "Y – Medine Dönemi’nde din eğitimi Mescid-i Nebevi ile sınırlı kalmamış; Suffe, Darülkurra ve küttâb gibi yerlerde de sürmüştür."
+   },
+   {
+    "q": "7. Ülkemizdeki din eğitiminin kökleri Asrısaadet’e kadar uzanmaktadır.",
+    "a": "D"
+   },
+   {
+    "q": "8. Diyanet İşleri Başkanlığının din hizmetleri faaliyetleri camilerle sınırlıdır.",
+    "a": "Y – Din hizmetleri camilerle sınırlı olmayıp cami dışında da yürütülmektedir."
+   },
+   {
+    "q": "9. Hz. Peygamber döneminde Kur’an öğretiminin gerçekleştiği yer Darülkurra olarak anılmıştır.",
+    "a": "D"
+   },
+   {
+    "q": "10. Tevhid-i Tedrisat Kanunu ile ülkedeki bütün eğitim kurumları Millî Eğitim Bakanlığının yönetimi altına alınmıştır.",
+    "a": "D"
+   },
+   {
+    "q": "11. Sıbyan mektepleri, Osmanlı Devleti’nin yetişkinler için eğitim veren kurumlarından biridir.",
+    "a": "Y – Sıbyan mektepleri, Osmanlı Devleti’nde çocuklara ilköğretim düzeyinde temel eğitim veren kurumlardır."
+   },
+   {
+    "q": "12. İslam eğitim ve öğretim tarihinde Nizamiye Medreseleri örneklik teşkil eden önemli kurumlardır.",
+    "a": "D"
+   },
+   {
+    "q": "13. Mekke Dönemi’nde ................, Hz. Peygamber’in sahabilere dinî bilgiler öğrettiği yerdir.",
+    "a": "Darülerkâm"
+   },
+   {
+    "q": "14. Camilerde artan ders halkalarının ibadeti engellemeye başlaması ile ................ kurulmaya başlanmıştır.",
+    "a": "medreseler"
+   },
+   {
+    "q": "15. Din hizmetlerinde etkili bir yol olan ................ dinî bilgi ve nasihatlerin geniş kitlelere ulaşmasını sağlar.",
+    "a": "hutbe"
+   },
+   {
+    "q": "16. Hz. Peygamber döneminde çocuklara okuma yazma öğretilen yer olan ................, daha sonra aynı zamanda dinî eğitim de verilen mekânlara dönüşmüştür.",
+    "a": "küttâb"
+   }
+  ],
+  "126": [
+   {
+    "q": "17. İslam dininin eğitim-öğretim faaliyetlerinin birkaç asır boyunca gerçekleştiği yerler neresi olmuştur?",
+    "a": "Mescit ve camiler."
+   },
+   {
+    "q": "18. Medrese tarzı yerine yeni bir eğitim sistemi kurulması hangi gelişmelerdendir?",
+    "a": "Tanzimat Dönemi."
+   },
+   {
+    "q": "19. Vaaz, konferans, seminer ve sempozyum gibi etkinlikler kim tarafından düzenlenir?",
+    "a": "İrşat ekipleri."
+   },
+   {
+    "q": "20. Ailenin kurulması ve güçlendirilmesi çalışmaları kim tarafından gerçekleşmektedir?",
+    "a": "Aile ve Dinî Rehberlik Büroları."
+   },
+   {
+    "q": "21. Doğru/yanlış akışını takip ederek hangi çıkışa ulaşılır?",
+    "a": "2. Çıkış."
+   }
+  ],
+  "127": [
+   {
+    "q": "22. Aşağıdakilerden hangisi Diyanet İşleri Başkanlığı tarafından yaygın din eğitimi verilen alanlardan biri değildir?",
+    "a": "E) İmam Hatip Okulları"
+   },
+   {
+    "q": "23. Yukarıdaki gelişmeler hangi dönemde gerçekleşmiştir?",
+    "a": "C) II. Meşrutiyet Dönemi"
+   },
+   {
+    "q": "24. Verilen eğitim türü özelliklerinden hangisi sınıflandırma dışında kalmaktadır?",
+    "a": "D) Bireyleri bilgi, beceri ve değerlerle donatarak yetiştirir."
+   },
+   {
+    "q": "25. Yukarıda verilen bilgiler hangi eğitim-öğretim kurumuna aittir?",
+    "a": "A) Sıbyan Mektepleri"
+   }
+  ],
+  "128": [
+   {
+    "q": "I. Kişilerin okul veya benzeri yerlerde belirli kurallara göre aldıkları planlı eğitim hangi kavramdır?",
+    "a": "Örgün eğitim"
+   },
+   {
+    "q": "II. Örgün eğitimden yararlanmamış olanlara veya meslek dallarında yeterli duruma gelmek isteyenlere uygulanan eğitim hangi kavramdır?",
+    "a": "Yaygın eğitim"
+   },
+   {
+    "q": "III. Bir okulu bitirmek veya bir alanda uzmanlaşmak için okunması gereken ders ve konuları kapsayan plan hangi kavramdır?",
+    "a": "Öğretim programı"
+   },
+   {
+    "q": "IV. Toplumların tarihsel süreçte oluşturduğu maddi ve manevi değerlerinin bütünü hangi kavramdır?",
+    "a": "Kültür"
+   },
+   {
+    "q": "V. Din konusunda ihtiyacı olan insanlara yararlı olacak bir iş yapmak hangi kavramdır?",
+    "a": "Din hizmetleri"
+   },
+   {
+    "q": "VI. Millî eğitim sistemi içerisinde eğitim veren, bireyi hem mesleğe hem de yükseköğretime hazırlayan eğitim kurumları hangi kavramdır?",
+    "a": "İmam hatip okulları"
+   }
+  ],
+  "130": [],
+  "133": [
+   {
+    "q": "Sayfadaki sorular ve etkinlikler neler?",
+    "a": "Bu sayfada soru veya etkinlik yok; yalnızca \"Sözlük\" başlığı altında kelime tanımları yer alıyor."
+   }
+  ],
+  "142": [
+   {
+    "q": "Bu sayfada yanıtlanacak soru veya etkinlik var mı?",
+    "a": "Yok; sayfa yalnızca kaynakça listesi ve karekod yönlendirmelerinden oluşuyor, soru/etkinlik içermiyor."
+   }
+  ]
  }
 }
